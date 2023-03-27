@@ -1,0 +1,1001 @@
+rank,item,repo_name,stars,forks,language,repo_url,username,issues,last_commit,description
+1,CSharp,AspNetCore.Docs,11480,25409,C#,https://github.com/dotnet/AspNetCore.Docs,dotnet,393,2023-03-27T06:00:17Z,Documentation for ASP.NET Core
+2,CSharp,shadowsocks-windows,56110,16424,C#,https://github.com/shadowsocks/shadowsocks-windows,shadowsocks,122,2023-02-27T03:52:35Z,A C# port of shadowsocks
+3,CSharp,eShopOnContainers,22802,9817,C#,https://github.com/dotnet-architecture/eShopOnContainers,dotnet-architecture,23,2023-03-24T09:53:36Z,"Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor."
+4,CSharp,v2rayN,39819,7620,C#,https://github.com/2dust/v2rayN,2dust,38,2023-03-26T12:05:54Z,"A V2Ray client for Windows, support Xray core and v2fly core"
+5,CSharp,xamarin-forms-samples,4277,7603,C#,https://github.com/xamarin/xamarin-forms-samples,xamarin,46,2023-03-03T00:28:09Z,Sample apps built using the Xamarin.Forms framework
+6,CSharp,example-voting-app,3461,7060,C#,https://github.com/dockersamples/example-voting-app,dockersamples,7,2023-03-11T14:43:42Z,"Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes"
+7,CSharp,PowerShell,37664,6411,C#,https://github.com/PowerShell/PowerShell,PowerShell,3323,2023-03-27T11:35:40Z,PowerShell for every system!
+8,CSharp,PowerToys,88577,5100,C#,https://github.com/microsoft/PowerToys,microsoft,4644,2023-03-26T14:29:59Z,Windows system utilities to maximize productivity
+9,CSharp,mslearn-tailspin-spacegame-web-models,20,4732,C#,https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web-models,MicrosoftDocs,1,2022-11-25T06:16:29Z,Code used in Microsoft Learn modules to support Azure DevOps
+10,CSharp,nopCommerce,7997,4540,C#,https://github.com/nopSolutions/nopCommerce,nopSolutions,71,2023-03-27T11:15:46Z,ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart.
+11,CSharp,dnSpy,22979,4506,C#,https://github.com/dnSpy/dnSpy,dnSpy,0,2020-12-20T23:55:15Z,.NET debugger and assembly editor
+12,CSharp,eShopOnWeb,8610,4422,C#,https://github.com/dotnet-architecture/eShopOnWeb,dotnet-architecture,1,2023-03-27T05:35:03Z,"Sample ASP.NET Core 6.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder."
+13,CSharp,WeiXinMPSDK,7756,4283,C#,https://github.com/JeffreySu/WeiXinMPSDK,JeffreySu,202,2023-03-21T15:35:49Z,微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0、.NET 7.0。已支持微信公众号、小程序、小游戏、微信支付、企业微信/企业号、开放平台、JSSDK、微信周边等全平台。 WeChat SDK for C#.
+14,CSharp,monodroid-samples,2190,4131,C#,https://github.com/xamarin/monodroid-samples,xamarin,82,2023-01-28T22:09:18Z,A collection of Xamarin.Android sample projects.
+15,CSharp,roslyn,17222,3836,C#,https://github.com/dotnet/roslyn,dotnet,7954,2023-03-27T09:26:58Z,The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
+16,CSharp,runtime,11579,3832,C#,https://github.com/dotnet/runtime,dotnet,8153,2023-03-27T11:44:54Z,".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps."
+17,CSharp,ml-agents,14350,3767,C#,https://github.com/Unity-Technologies/ml-agents,Unity-Technologies,118,2023-03-26T15:38:43Z,The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
+18,CSharp,aspnetboilerplate,10966,3691,C#,https://github.com/aspnetboilerplate/aspnetboilerplate,aspnetboilerplate,180,2023-03-23T07:18:17Z,ASP.NET Boilerplate - Web Application Framework
+19,CSharp,Dapper,15951,3606,C#,https://github.com/DapperLib/Dapper,DapperLib,359,2023-03-11T20:21:56Z,Dapper - a simple object mapper for .Net
+20,CSharp,azure-powershell,3510,3404,C#,https://github.com/Azure/azure-powershell,Azure,989,2023-03-27T10:52:44Z,Microsoft Azure PowerShell
+21,CSharp,PnP,1880,3359,C#,https://github.com/pnp/PnP,pnp,108,2021-08-24T11:00:27Z,SharePoint / Office 365 Developer Patterns and Practices - Archived older solutions. Please see https://aka.ms/m365pnp for updated guidance
+22,CSharp,TailwindTraders-Backend,173,3292,C#,https://github.com/microsoft/TailwindTraders-Backend,microsoft,3,2023-03-20T17:41:33Z,Tailwind Traders Backend Services
+23,CSharp,MaterialDesignInXamlToolkit,13336,3208,C#,https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit,MaterialDesignInXAML,170,2023-03-23T06:31:49Z,"Google's Material Design in XAML & WPF, for C# & VB.Net. "
+24,CSharp,ILSpy,17345,3078,C#,https://github.com/icsharpcode/ILSpy,icsharpcode,206,2023-03-27T11:32:37Z,".NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!"
+25,CSharp,mobile-samples,1454,3056,C#,https://github.com/xamarin/mobile-samples,xamarin,2,2020-12-16T15:45:37Z,
+26,CSharp,WPF-Samples,4174,3017,C#,https://github.com/microsoft/WPF-Samples,microsoft,65,2023-03-09T08:28:57Z,Repository for WPF related samples
+27,CSharp,abp,9647,2959,C#,https://github.com/abpframework/abp,abpframework,552,2023-03-27T11:54:22Z,Open Source Web Application Framework for ASP.NET Core
+28,CSharp,efcore,12334,2919,C#,https://github.com/dotnet/efcore,dotnet,1766,2023-03-27T12:04:08Z,"EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations."
+29,CSharp,CefSharp,9205,2852,C#,https://github.com/cefsharp/CefSharp,cefsharp,43,2023-03-16T03:17:33Z,.NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
+30,CSharp,ShareX,23713,2813,C#,https://github.com/ShareX/ShareX,ShareX,513,2023-03-27T06:20:16Z,"ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from."
+31,CSharp,Lean,7251,2783,C#,https://github.com/QuantConnect/Lean,QuantConnect,252,2023-03-27T08:43:24Z,"Lean Algorithmic Trading Engine by QuantConnect (Python, C#)"
+32,CSharp,spine-runtimes,3694,2762,C#,https://github.com/EsotericSoftware/spine-runtimes,EsotericSoftware,59,2023-03-24T14:10:06Z,2D skeletal animation runtimes for Spine.
+33,CSharp,awesome-dotnet-core,17707,2712,C#,https://github.com/thangchung/awesome-dotnet-core,thangchung,19,2023-02-13T22:57:06Z,":honeybee: A collection of awesome .NET core libraries, tools, frameworks and software"
+34,CSharp,MonoGame,9320,2681,C#,https://github.com/MonoGame/MonoGame,MonoGame,705,2023-03-13T21:29:55Z,One framework for creating powerful cross-platform games.
+35,CSharp,blockchain,7337,2642,C#,https://github.com/dvf/blockchain,dvf,68,2023-01-04T17:21:04Z,A simple Blockchain in Python
+36,CSharp,PEASS-ng,11773,2627,C#,https://github.com/carlospolop/PEASS-ng,carlospolop,16,2023-03-26T04:24:57Z,PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
+37,CSharp,RevokeMsgPatcher,19819,2602,C#,https://github.com/huiyadanli/RevokeMsgPatcher,huiyadanli,50,2023-01-15T06:18:35Z,:trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+38,CSharp,CleanArchitecture,11469,2583,C#,https://github.com/jasontaylordev/CleanArchitecture,jasontaylordev,17,2023-03-15T13:49:52Z,Clean Architecture Solution Template for .NET 7
+39,CSharp,de4dot,6253,2540,C#,https://github.com/de4dot/de4dot,de4dot,0,2020-08-29T08:14:56Z,.NET deobfuscator and unpacker.
+40,CSharp,ET,6844,2534,C#,https://github.com/egametang/ET,egametang,48,2023-03-26T14:27:55Z,Unity3D Client And C# Server Framework
+41,CSharp,OpenRA,12563,2492,C#,https://github.com/OpenRA/OpenRA,OpenRA,1454,2023-03-27T11:25:45Z,"Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X."
+42,CSharp,Umbraco-CMS,3819,2477,C#,https://github.com/umbraco/Umbraco-CMS,umbraco,185,2023-03-27T12:01:51Z,"The simple, flexible and friendly ASP.NET CMS used by more than 730.000 websites"
+43,CSharp,MahApps.Metro,8648,2419,C#,https://github.com/MahApps/MahApps.Metro,MahApps,66,2023-03-02T22:41:18Z,A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
+44,CSharp,Wox,22749,2374,C#,https://github.com/Wox-launcher/Wox,Wox-launcher,976,2022-12-27T10:47:18Z,"Launcher for Windows, an alternative to Alfred and Launchy."
+45,CSharp,project-examples,963,2303,C#,https://github.com/jfrog/project-examples,jfrog,60,2023-03-21T11:08:17Z,Small projects in universal build ecosystems to configure CI and Artifactory
+46,CSharp,netch,13904,2301,C#,https://github.com/netchx/netch,netchx,8,2023-03-23T17:03:50Z,A simple proxy client
+47,CSharp,SignalR,8855,2292,C#,https://github.com/SignalR/SignalR,SignalR,20,2023-03-15T16:47:40Z,Incredibly simple real-time web for .NET
+48,CSharp,RestSharp,8961,2283,C#,https://github.com/restsharp/RestSharp,restsharp,18,2023-03-26T14:04:56Z,Simple REST and HTTP API Client for .NET
+49,CSharp,CSharp-GradeBookApplication,44,2262,C#,https://github.com/pluralsight-projects/CSharp-GradeBookApplication,pluralsight-projects,2,2022-12-07T18:40:23Z,Project to add features to an existing C Sharp Grade Book Application.
+50,CSharp,CleanArchitecture,12337,2229,C#,https://github.com/ardalis/CleanArchitecture,ardalis,16,2023-03-23T18:31:02Z,Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
+51,CSharp,ServiceStack,5187,1631,C#,https://github.com/ServiceStack/ServiceStack,ServiceStack,0,2023-03-27T01:20:15Z,"Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all"
+52,CSharp,FastGithub,11922,1626,C#,https://github.com/dotnetcore/FastGithub,dotnetcore,111,2022-12-08T18:58:24Z,github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
+53,CSharp,quartznet,5573,1602,C#,https://github.com/quartznet/quartznet,quartznet,85,2023-03-27T11:26:32Z,Quartz Enterprise Scheduler .NET
+54,CSharp,Unity3DTraining,5285,1594,C#,https://github.com/XINCGer/Unity3DTraining,XINCGer,3,2023-03-27T05:52:31Z,【Unity杂货铺】unity大杂烩~
+55,CSharp,Hangfire,8139,1583,C#,https://github.com/HangfireIO/Hangfire,HangfireIO,720,2023-03-24T07:35:40Z,An easy way to perform background job processing in your .NET and .NET Core applications. No Windows Service or separate process required
+56,CSharp,Captura,8224,1578,C#,https://github.com/MathewSachin/Captura,MathewSachin,109,2020-08-16T15:25:25Z,"Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes"
+57,CSharp,StockSharp,5552,1539,C#,https://github.com/StockSharp/StockSharp,StockSharp,0,2023-03-24T13:43:34Z,"Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options)."
+58,CSharp,Prism,5560,1538,C#,https://github.com/PrismLibrary/Prism,PrismLibrary,12,2023-03-23T12:24:19Z,"Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Xamarin Forms, and Uno / Win UI Applications.."
+59,CSharp,akka-bootcamp,987,1522,C#,https://github.com/petabridge/akka-bootcamp,petabridge,29,2022-11-30T07:42:06Z,Self-paced training course to learn Akka.NET fundamentals from scratch
+60,CSharp,Remotely,3200,1521,C#,https://github.com/immense/Remotely,immense,110,2023-02-21T22:30:42Z,"A remote control and remote scripting solution, built with .NET 6, Blazor, and SignalR Core."
+61,CSharp,Avalonia,17361,1515,C#,https://github.com/AvaloniaUI/Avalonia,AvaloniaUI,1251,2023-03-27T11:57:25Z,A cross-platform UI framework for .NET
+62,CSharp,ProxySU,4891,1511,C#,https://github.com/proxysu/ProxySU,proxysu,73,2023-02-27T09:29:45Z,"Xray,V2ray，Trojan，NaiveProxy, Trojan-Go, ShadowsocksR(SSR),Shadowsocks-libev及相关插件,MTProto+TLS 一键安装工具，windows下用（一键科学上网）"
+63,CSharp,self-driving-car-sim,3758,1459,C#,https://github.com/udacity/self-driving-car-sim,udacity,53,2022-02-24T12:49:52Z,A self-driving car simulator built with Unity
+64,CSharp,StackExchange.Redis,5478,1455,C#,https://github.com/StackExchange/StackExchange.Redis,StackExchange,137,2023-03-27T05:18:40Z,General purpose redis client
+65,CSharp,SimplCommerce,3831,1431,C#,https://github.com/simplcommerce/SimplCommerce,simplcommerce,145,2022-10-18T14:04:29Z,"A simple, cross platform, modularized ecommerce system built on .NET Core"
+66,CSharp,PowerApps-Samples,1044,1421,C#,https://github.com/microsoft/PowerApps-Samples,microsoft,6,2023-03-25T09:52:33Z,"Sample code for Power Apps, including Dataverse, model-driven apps, canvas apps, Power Apps component framework, portals, and ai-builder."
+67,CSharp,dotnet-api-docs,526,1396,C#,https://github.com/dotnet/dotnet-api-docs,dotnet,1115,2023-03-25T12:40:25Z,".NET API reference documentation (.NET 5+, .NET Core, .NET Framework)"
+68,CSharp,DS4Windows,2972,1374,C#,https://github.com/Jays2Kings/DS4Windows,Jays2Kings,596,2023-03-07T16:54:46Z,"Like those other ds4tools, but sexier"
+69,CSharp,NLog,5819,1349,C#,https://github.com/NLog/NLog,NLog,65,2023-03-26T09:29:52Z,NLog - Advanced and Structured Logging for Various .NET Platforms
+70,CSharp,WinAppDriver,3116,1340,C#,https://github.com/microsoft/WinAppDriver,microsoft,959,2023-01-04T14:31:11Z,Windows Application Driver
+71,CSharp,youtube-tutorials,546,1339,C#,https://github.com/MoralisWeb3/youtube-tutorials,MoralisWeb3,17,2023-03-27T07:52:42Z,
+72,CSharp,npoi,4935,1337,C#,https://github.com/nissl-lab/npoi,nissl-lab,107,2023-03-20T00:08:54Z,"a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop."
+73,CSharp,mslearn-tailspin-spacegame-web-kubernetes,11,1337,C#,https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web-kubernetes,MicrosoftDocs,2,2022-12-06T08:49:55Z,Code used in Microsoft Learn modules to support Azure DevOps
+74,CSharp,mRemoteNG,7320,1326,C#,https://github.com/mRemoteNG/mRemoteNG,mRemoteNG,753,2023-03-25T22:30:02Z,"mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager."
+75,CSharp,msbuild,4917,1317,C#,https://github.com/dotnet/msbuild,dotnet,1233,2023-03-27T11:50:57Z,The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.
+76,CSharp,VisualStudio,2289,1315,C#,https://github.com/github/VisualStudio,github,429,2023-03-21T09:33:33Z,GitHub Extension for Visual Studio
+77,CSharp,MvvmCross,3747,1304,C#,https://github.com/MvvmCross/MvvmCross,MvvmCross,254,2023-03-24T12:50:12Z,"The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac."
+78,CSharp,Psychson,3988,1294,C#,https://github.com/brandonlw/Psychson,brandonlw,174,2021-07-19T01:02:37Z,Phison 2251-03 (2303) Custom Firmware & Existing Firmware Patches (BadUSB)
+79,CSharp,EntityComponentSystemSamples,5306,1261,C#,https://github.com/Unity-Technologies/EntityComponentSystemSamples,Unity-Technologies,35,2023-03-26T23:04:42Z,
+80,CSharp,maui,18675,1258,C#,https://github.com/dotnet/maui,dotnet,2172,2023-03-27T11:32:31Z,".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop."
+81,CSharp,Blog.Core,4265,1239,C#,https://github.com/anjoy8/Blog.Core,anjoy8,3,2023-03-23T08:39:57Z,💖 ASP.NET Core 6.0/7.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：
+82,CSharp,SharpSCADA,2312,1236,C#,https://github.com/GavinYellow/SharpSCADA,GavinYellow,13,2023-01-13T08:52:33Z,C# SCADA
+83,CSharp,modular-monolith-with-ddd,8214,1233,C#,https://github.com/kgrzybek/modular-monolith-with-ddd,kgrzybek,41,2023-01-23T06:54:13Z,Full Modular Monolith application with Domain-Driven Design approach.
+84,CSharp,basic-computer-games,9371,1214,C#,https://github.com/coding-horror/basic-computer-games,coding-horror,12,2023-03-23T17:16:08Z,"An updated version of the classic ""Basic Computer Games"" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic-computer-games/"
+85,CSharp,CAP,5953,1198,C#,https://github.com/dotnetcore/CAP,dotnetcore,5,2023-03-25T15:24:17Z,"Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern"
+86,CSharp,dotnet-docs-samples,676,1174,C#,https://github.com/GoogleCloudPlatform/dotnet-docs-samples,GoogleCloudPlatform,29,2023-03-25T00:00:23Z,.NET code samples used on https://cloud.google.com
+87,CSharp,openhardwaremonitor,5075,1154,C#,https://github.com/openhardwaremonitor/openhardwaremonitor,openhardwaremonitor,961,2023-02-08T14:11:52Z,Open Hardware Monitor
+88,CSharp,trilha-net-fundamentos-desafio,50,1145,C#,https://github.com/digitalinnovationone/trilha-net-fundamentos-desafio,digitalinnovationone,0,2023-01-11T22:11:30Z,Desafio de projeto .NET Fundamentos - DIO
+89,CSharp,FluentValidation,8000,1125,C#,https://github.com/FluentValidation/FluentValidation,FluentValidation,2,2023-03-25T11:04:58Z,A popular .NET validation library for building strongly-typed validation rules.
+90,CSharp,Hearthstone-Deck-Tracker,4619,1124,C#,https://github.com/HearthSim/Hearthstone-Deck-Tracker,HearthSim,633,2023-03-23T21:20:00Z,A deck tracker and deck manager for Hearthstone on Windows
+91,CSharp,gvr-unity-sdk,2709,1122,C#,https://github.com/googlevr/gvr-unity-sdk,googlevr,59,2019-11-08T00:39:34Z,Google VR SDK for Unity
+92,CSharp,WaveFunctionCollapse,20966,1121,C#,https://github.com/mxgmn/WaveFunctionCollapse,mxgmn,1,2023-03-10T02:57:18Z,Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
+93,CSharp,abp-samples,986,1121,C#,https://github.com/abpframework/abp-samples,abpframework,6,2023-03-27T08:14:22Z,Sample solutions built with the ABP Framework
+94,CSharp,ReactiveUI,7405,1118,C#,https://github.com/reactiveui/ReactiveUI,reactiveui,78,2023-03-25T15:41:26Z,"An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state away from your user interfaces, express the idea around a feature in one readable place and improve the testability of your application."
+95,CSharp,LiteDB,7343,1117,C#,https://github.com/mbdavid/LiteDB,mbdavid,554,2023-03-21T20:34:50Z,LiteDB - A .NET NoSQL Document Store in a single data file - https://www.litedb.org
+96,CSharp,windows-dev-docs,531,1106,C#,https://github.com/MicrosoftDocs/windows-dev-docs,MicrosoftDocs,442,2023-03-25T12:29:15Z,Conceptual and overview content for developing Windows apps
+97,CSharp,ShadowsocksR-Windows,6395,1099,C#,https://github.com/HMBSbige/ShadowsocksR-Windows,HMBSbige,0,2023-03-23T13:02:32Z,Ship of Theseus
+98,CSharp,AspNetCore-StarChartAPI,52,1103,C#,https://github.com/pluralsight-projects/AspNetCore-StarChartAPI,pluralsight-projects,1,2022-08-18T15:27:29Z,Project to create a Starchart Web API using ASP.NET Core.
+99,CSharp,NSwag,5765,1096,C#,https://github.com/RicoSuter/NSwag,RicoSuter,1535,2023-03-22T13:44:56Z,"The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript. "
+100,CSharp,btcpayserver,4520,1089,C#,https://github.com/btcpayserver/btcpayserver,btcpayserver,58,2023-03-27T11:05:48Z,"Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor. "
+101,CSharp,modular-monolith-with-ddd,8214,1233,C#,https://github.com/kgrzybek/modular-monolith-with-ddd,kgrzybek,41,2023-01-23T06:54:13Z,Full Modular Monolith application with Domain-Driven Design approach.
+102,CSharp,basic-computer-games,9371,1214,C#,https://github.com/coding-horror/basic-computer-games,coding-horror,12,2023-03-23T17:16:08Z,"An updated version of the classic ""Basic Computer Games"" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic-computer-games/"
+103,CSharp,AspNetDocs,274,1215,C#,https://github.com/dotnet/AspNetDocs,dotnet,4,2023-03-08T18:32:26Z,Documentation for ASP.NET 4.x
+104,CSharp,CAP,5953,1198,C#,https://github.com/dotnetcore/CAP,dotnetcore,5,2023-03-25T15:24:17Z,"Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern"
+105,CSharp,openhardwaremonitor,5075,1154,C#,https://github.com/openhardwaremonitor/openhardwaremonitor,openhardwaremonitor,961,2023-02-08T14:11:52Z,Open Hardware Monitor
+106,CSharp,C-Sharp,5198,1152,C#,https://github.com/TheAlgorithms/C-Sharp,TheAlgorithms,7,2023-03-18T08:08:24Z,All algorithms implemented in C#.
+107,CSharp,elasticsearch-net,3395,1144,C#,https://github.com/elastic/elasticsearch-net,elastic,41,2023-03-25T13:39:23Z,"This strongly-typed, client library enables working with Elasticsearch. It is the official client maintained and supported by Elastic."
+108,CSharp,FluentValidation,8000,1125,C#,https://github.com/FluentValidation/FluentValidation,FluentValidation,2,2023-03-25T11:04:58Z,A popular .NET validation library for building strongly-typed validation rules.
+109,CSharp,Hearthstone-Deck-Tracker,4619,1124,C#,https://github.com/HearthSim/Hearthstone-Deck-Tracker,HearthSim,633,2023-03-23T21:20:00Z,A deck tracker and deck manager for Hearthstone on Windows
+110,CSharp,gvr-unity-sdk,2709,1122,C#,https://github.com/googlevr/gvr-unity-sdk,googlevr,59,2019-11-08T00:39:34Z,Google VR SDK for Unity
+111,CSharp,WaveFunctionCollapse,20966,1121,C#,https://github.com/mxgmn/WaveFunctionCollapse,mxgmn,1,2023-03-10T02:57:18Z,Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
+112,CSharp,abp-samples,986,1121,C#,https://github.com/abpframework/abp-samples,abpframework,6,2023-03-27T08:14:22Z,Sample solutions built with the ABP Framework
+113,CSharp,ReactiveUI,7405,1118,C#,https://github.com/reactiveui/ReactiveUI,reactiveui,78,2023-03-25T15:41:26Z,"An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state away from your user interfaces, express the idea around a feature in one readable place and improve the testability of your application."
+114,CSharp,LiteDB,7343,1117,C#,https://github.com/mbdavid/LiteDB,mbdavid,554,2023-03-21T20:34:50Z,LiteDB - A .NET NoSQL Document Store in a single data file - https://www.litedb.org
+115,CSharp,octokit.net,2432,1111,C#,https://github.com/octokit/octokit.net,octokit,92,2023-03-24T20:39:17Z,A GitHub API client library for .NET 
+116,CSharp,Sonarr,8441,1107,C#,https://github.com/Sonarr/Sonarr,Sonarr,105,2023-03-27T06:40:11Z,Smart PVR for newsgroup and bittorrent users.
+117,CSharp,windows-dev-docs,531,1106,C#,https://github.com/MicrosoftDocs/windows-dev-docs,MicrosoftDocs,442,2023-03-25T12:29:15Z,Conceptual and overview content for developing Windows apps
+118,CSharp,PDFPatcher,6960,1099,C#,https://github.com/wmjordan/PDFPatcher,wmjordan,36,2023-03-20T07:07:57Z,PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等
+119,CSharp,AspNetCore-StarChartAPI,52,1103,C#,https://github.com/pluralsight-projects/AspNetCore-StarChartAPI,pluralsight-projects,1,2022-08-18T15:27:29Z,Project to create a Starchart Web API using ASP.NET Core.
+120,CSharp,NSwag,5765,1096,C#,https://github.com/RicoSuter/NSwag,RicoSuter,1535,2023-03-22T13:44:56Z,"The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript. "
+121,CSharp,IdentityServer4.Admin,3361,1092,C#,https://github.com/skoruba/IdentityServer4.Admin,skoruba,258,2023-03-06T01:10:25Z,The administration for the IdentityServer4 and Asp.Net Core Identity
+122,CSharp,btcpayserver,4520,1089,C#,https://github.com/btcpayserver/btcpayserver,btcpayserver,58,2023-03-27T11:05:48Z,"Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor. "
+123,CSharp,Entitas,6172,1067,C#,https://github.com/sschmid/Entitas,sschmid,127,2022-12-17T18:37:37Z,Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
+124,CSharp,Jackett,8835,1049,C#,https://github.com/Jackett/Jackett,Jackett,182,2023-03-27T06:02:14Z,API Support for your favorite torrent trackers
+125,CSharp,server,12194,1039,C#,https://github.com/bitwarden/server,bitwarden,42,2023-03-27T12:03:28Z,"The core infrastructure backend (API, database, Docker, etc)."
+126,CSharp,wpf,6257,1038,C#,https://github.com/dotnet/wpf,dotnet,926,2023-03-27T12:04:22Z,WPF is a .NET Core UI framework for building Windows desktop applications.
+127,CSharp,NAudio,4526,1036,C#,https://github.com/naudio/NAudio,naudio,366,2023-03-23T15:49:40Z,Audio and MIDI library for .NET
+128,CSharp,xaml-sdk,414,1025,C#,https://github.com/telerik/xaml-sdk,telerik,3,2023-01-18T18:26:14Z,The XAML SDK is an easy-to-use infrastructure with 1000+ developer focused examples for most of the Telerik WPF and Silverlight controls. 
+129,CSharp,run-aspnetcore-microservices,1819,1020,C#,https://github.com/aspnetrun/run-aspnetcore-microservices,aspnetrun,15,2023-03-09T10:08:56Z,"Microservices on .Net platforms which used Asp.Net Web API, Docker, RabbitMQ, MassTransit, Grpc, Ocelot API Gateway, MongoDB, Redis, PostgreSQL, SqlServer, Dapper, Entity Framework Core, CQRS and Clean Architecture implementation. Also includes Cross-Cutting concerns like Implementing Centralized Distributed Logging with Elasticsearch, Kibana and SeriLog, use the HealthChecks with Watchdog, Implement Retry and Circuit Breaker patterns with Polly and so on.. See Microservices Architecture and Step by Step Implementation on .NET Course w/ discount->"
+130,CSharp,NavMeshComponents,2766,1012,C#,https://github.com/Unity-Technologies/NavMeshComponents,Unity-Technologies,0,2022-12-15T01:09:45Z,High Level API Components for Runtime NavMesh Building
+131,CSharp,neo,3410,1012,C#,https://github.com/neo-project/neo,neo-project,127,2023-03-27T01:42:16Z,NEO Smart Economy
+132,CSharp,protobuf-net,4172,1011,C#,https://github.com/protobuf-net/protobuf-net,protobuf-net,415,2023-03-20T14:45:17Z,Protocol Buffers library for idiomatic .NET 
+133,CSharp,opencvsharp,4431,1009,C#,https://github.com/shimat/opencvsharp,shimat,64,2023-03-10T11:27:13Z,OpenCV wrapper for .NET
+134,CSharp,VRTK,3617,996,C#,https://github.com/ExtendRealityLtd/VRTK,ExtendRealityLtd,20,2022-05-07T14:33:49Z,*Beta* - An example of how to use the Tilia packages to create great content with VRTK v4.
+135,CSharp,ArchiSteamFarm,9212,993,C#,https://github.com/JustArchiNET/ArchiSteamFarm,JustArchiNET,1,2023-03-26T09:04:29Z,C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
+136,CSharp,XForms-Toolkit,0,991,C#,https://github.com/ThomasLebrun/XForms-Toolkit,ThomasLebrun,0,2014-06-06T06:16:11Z,Xamarin Forms Toolkit is a open source project that aims to provide a powerfull and cross platform set of controls taylored to work with Xamarin Forms.
+137,CSharp,DotnetSpider,3597,977,C#,https://github.com/dotnetcore/DotnetSpider,dotnetcore,8,2023-03-27T09:41:26Z,"DotnetSpider, a .NET standard web crawling library. It is lightweight, efficient and fast high-level web crawling & scraping framework"
+138,CSharp,xdm,5034,976,C#,https://github.com/subhra74/xdm,subhra74,627,2023-03-21T15:00:29Z,Powerfull download accelerator and video downloader
+139,CSharp,QuickLook,13855,962,C#,https://github.com/QL-Win/QuickLook,QL-Win,367,2023-03-25T21:56:15Z,Bring macOS “Quick Look” feature to Windows
+140,CSharp,PowerPlatformConnectors,654,961,C#,https://github.com/microsoft/PowerPlatformConnectors,microsoft,51,2023-03-27T10:32:30Z,"This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors"
+141,CSharp,play-games-plugin-for-unity,3212,950,C#,https://github.com/playgameservices/play-games-plugin-for-unity,playgameservices,687,2023-03-14T10:22:52Z,Google Play Games plugin for Unity
+142,CSharp,Nitrox,1459,942,C#,https://github.com/SubnauticaNitrox/Nitrox,SubnauticaNitrox,76,2023-03-24T12:42:30Z,"An open-source, multiplayer modification for the game Subnautica."
+143,CSharp,Il2CppDumper,5029,941,C#,https://github.com/Perfare/Il2CppDumper,Perfare,9,2023-03-04T17:49:19Z,Unity il2cpp reverse engineer
+144,CSharp,SharpZipLib,3308,935,C#,https://github.com/icsharpcode/SharpZipLib,icsharpcode,61,2023-03-12T13:45:57Z,"#ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform."
+145,CSharp,SteamBot,1240,933,C#,https://github.com/Jessecar96/SteamBot,Jessecar96,74,2019-02-24T00:37:05Z,Automated bot software for interacting with Steam Trade
+146,CSharp,surging,3185,930,C#,https://github.com/fanliang11/surging,fanliang11,231,2023-03-19T10:25:58Z,"Surging is a micro-service engine that provides a lightweight, high-performance, modular RPC request pipeline.  support Event-based Asynchronous Pattern and reactive programming ,The service engine supports http, TCP, WS,Grpc, Thrift,Mqtt, UDP, and DNS protocols. It uses ZooKeeper and Consul as a registry, and integrates it. Hash, random, polling, Fair Polling as a load balancing algorithm, built-in service governance to ensure reliable RPC communication, the engine contains Diagnostic, link tracking for protocol and middleware calls, and integration SkyWalking Distributed APM"
+147,CSharp,sdk,2192,927,C#,https://github.com/dotnet/sdk,dotnet,2295,2023-03-27T12:09:30Z,"Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI"
+148,CSharp,clean-code-dotnet,5924,924,C#,https://github.com/thangchung/clean-code-dotnet,thangchung,15,2023-02-12T17:34:56Z,:bathtub:  Clean Code concepts and tools adapted for .NET 
+149,CSharp,react-native-fs,4649,922,C#,https://github.com/itinance/react-native-fs,itinance,507,2023-02-07T11:44:02Z,Native filesystem access for react-native
+150,CSharp,Unity-Design-Pattern,3436,905,C#,https://github.com/QianMo/Unity-Design-Pattern,QianMo,1,2020-02-06T05:00:57Z,:tea:  All Gang of Four Design Patterns written in Unity C# with many examples. And some Game Programming Patterns  written in Unity C#. | 各种设计模式的Unity3D C#版本实现
+151,CSharp,protobuf-net,4172,1011,C#,https://github.com/protobuf-net/protobuf-net,protobuf-net,415,2023-03-20T14:45:17Z,Protocol Buffers library for idiomatic .NET 
+152,CSharp,practical-aspnetcore,7633,1009,C#,https://github.com/dodyg/practical-aspnetcore,dodyg,168,2023-03-13T07:26:51Z,"Practical samples of ASP.NET Core 2.1, 2.2, 3.1, 5.0, 6.0 and 7.0  projects you can use. Readme contains explanations on all projects."
+153,CSharp,opencvsharp,4431,1009,C#,https://github.com/shimat/opencvsharp,shimat,64,2023-03-10T11:27:13Z,OpenCV wrapper for .NET
+154,CSharp,monodevelop,2752,998,C#,https://github.com/mono/monodevelop,mono,572,2021-10-04T08:31:06Z,MonoDevelop is a cross platform .NET IDE
+155,CSharp,ArchiSteamFarm,9212,993,C#,https://github.com/JustArchiNET/ArchiSteamFarm,JustArchiNET,1,2023-03-26T09:04:29Z,C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
+156,CSharp,XForms-Toolkit,0,991,C#,https://github.com/ThomasLebrun/XForms-Toolkit,ThomasLebrun,0,2014-06-06T06:16:11Z,Xamarin Forms Toolkit is a open source project that aims to provide a powerfull and cross platform set of controls taylored to work with Xamarin Forms.
+157,CSharp,CsvHelper,4074,989,C#,https://github.com/JoshClose/CsvHelper,JoshClose,248,2023-03-23T17:22:04Z,Library to help reading and writing CSV files
+158,CSharp,DotnetSpider,3597,977,C#,https://github.com/dotnetcore/DotnetSpider,dotnetcore,8,2023-03-27T09:41:26Z,"DotnetSpider, a .NET standard web crawling library. It is lightweight, efficient and fast high-level web crawling & scraping framework"
+159,CSharp,xdm,5034,976,C#,https://github.com/subhra74/xdm,subhra74,627,2023-03-21T15:00:29Z,Powerfull download accelerator and video downloader
+160,CSharp,Hawk,3053,975,C#,https://github.com/ferventdesert/Hawk,ferventdesert,66,2019-12-21T10:26:40Z,visualized crawler & ETL IDE written with C#/WPF
+161,CSharp,csharplang,9769,974,C#,https://github.com/dotnet/csharplang,dotnet,423,2023-03-27T07:28:00Z,The official repo for the design of the C# programming language
+162,CSharp,QRCoder,3650,969,C#,https://github.com/codebude/QRCoder,codebude,50,2023-02-27T17:54:49Z,A pure C# Open Source QR Code implementation
+163,CSharp,React.NET,2235,969,C#,https://github.com/reactjs/React.NET,reactjs,46,2023-03-09T17:07:23Z,.NET library for JSX compilation and server-side rendering of React components
+164,CSharp,PowerPlatformConnectors,654,961,C#,https://github.com/microsoft/PowerPlatformConnectors,microsoft,51,2023-03-27T10:32:30Z,"This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors"
+165,CSharp,play-games-plugin-for-unity,3212,950,C#,https://github.com/playgameservices/play-games-plugin-for-unity,playgameservices,687,2023-03-14T10:22:52Z,Google Play Games plugin for Unity
+166,CSharp,DotNetty,3798,944,C#,https://github.com/Azure/DotNetty,Azure,149,2022-09-06T18:57:26Z,"DotNetty project – a port of netty, event-driven asynchronous network application framework"
+167,CSharp,Il2CppDumper,5029,941,C#,https://github.com/Perfare/Il2CppDumper,Perfare,9,2023-03-04T17:49:19Z,Unity il2cpp reverse engineer
+168,CSharp,SharpZipLib,3308,935,C#,https://github.com/icsharpcode/SharpZipLib,icsharpcode,61,2023-03-12T13:45:57Z,"#ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform."
+169,CSharp,SteamBot,1240,933,C#,https://github.com/Jessecar96/SteamBot,Jessecar96,74,2019-02-24T00:37:05Z,Automated bot software for interacting with Steam Trade
+170,CSharp,Programlamaya-Giris,505,932,C#,https://github.com/BilgisayarKavramlari/Programlamaya-Giris,BilgisayarKavramlari,8,2023-01-30T18:12:29Z,Her Dil için Programlamaya Giriş Antreman Soruları ve Çözümleri
+171,CSharp,surging,3185,930,C#,https://github.com/fanliang11/surging,fanliang11,231,2023-03-19T10:25:58Z,"Surging is a micro-service engine that provides a lightweight, high-performance, modular RPC request pipeline.  support Event-based Asynchronous Pattern and reactive programming ,The service engine supports http, TCP, WS,Grpc, Thrift,Mqtt, UDP, and DNS protocols. It uses ZooKeeper and Consul as a registry, and integrates it. Hash, random, polling, Fair Polling as a load balancing algorithm, built-in service governance to ensure reliable RPC communication, the engine contains Diagnostic, link tracking for protocol and middleware calls, and integration SkyWalking Distributed APM"
+172,CSharp,react-native-fs,4649,922,C#,https://github.com/itinance/react-native-fs,itinance,507,2023-02-07T11:44:02Z,Native filesystem access for react-native
+173,CSharp,arfoundation-samples,2463,921,C#,https://github.com/Unity-Technologies/arfoundation-samples,Unity-Technologies,44,2023-03-14T22:12:10Z,Example content for Unity projects based on AR Foundation
+174,CSharp,Masuit.Tools,3861,916,C#,https://github.com/ldqk/Masuit.Tools,ldqk,1,2023-03-27T07:32:28Z,新手友好的C#万能工具库，包含一些常用的操作类，大都是静态类，加密解密，反射操作，权重随机筛选算法，分布式短id，表达式树，linq扩展，文件压缩，多线程下载和FTP客户端，硬件信息，字符串扩展方法，日期时间扩展操作，中国农历，大文件拷贝，图像裁剪，验证码，断点续传，集合扩展、Excel导出等常用封装。诸多功能集一身，代码量不到2MB！
+175,CSharp,azure-stream-analytics,216,917,C#,https://github.com/Azure/azure-stream-analytics,Azure,7,2023-03-03T02:45:24Z,Azure Stream Analytics
+176,CSharp,nhibernate-core,2058,912,C#,https://github.com/nhibernate/nhibernate-core,nhibernate,578,2023-03-27T09:42:24Z,NHibernate Object Relational Mapper
+177,CSharp,oxyplot,2804,910,C#,https://github.com/oxyplot/oxyplot,oxyplot,566,2023-02-27T13:52:49Z,A cross-platform plotting library for .NET
+178,CSharp,Unity-Design-Pattern,3436,905,C#,https://github.com/QianMo/Unity-Design-Pattern,QianMo,1,2020-02-06T05:00:57Z,:tea:  All Gang of Four Design Patterns written in Unity C# with many examples. And some Game Programming Patterns  written in Unity C#. | 各种设计模式的Unity3D C#版本实现
+179,CSharp,Humanizer,7599,894,C#,https://github.com/Humanizr/Humanizer,Humanizr,203,2023-03-04T19:30:32Z,"Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities"
+180,CSharp,Identity,1964,891,C#,https://github.com/aspnet/Identity,aspnet,0,2018-12-05T07:14:17Z,"[Archived] ASP.NET Core Identity is the membership system for building ASP.NET Core web applications, including membership, login, and user data. Project moved to https://github.com/aspnet/AspNetCore"
+181,CSharp,ServiceStack.Redis,2286,895,C#,https://github.com/ServiceStack/ServiceStack.Redis,ServiceStack,0,2022-02-16T04:46:00Z,.NET's leading C# Redis Client
+182,CSharp,QuickSnap,5,887,C#,https://github.com/macite/QuickSnap,macite,0,2021-03-11T10:15:13Z,A two player version of the classic Snap card game... hit when the rank of the top cards match.
+183,CSharp,BenchmarkDotNet,8828,873,C#,https://github.com/dotnet/BenchmarkDotNet,dotnet,165,2023-03-13T14:59:19Z,Powerful .NET library for benchmarking
+184,CSharp,choco,8949,871,C#,https://github.com/chocolatey/choco,chocolatey,746,2023-03-21T20:56:44Z,Chocolatey - the package manager for Windows
+185,CSharp,tolua,2846,870,C#,https://github.com/topameng/tolua,topameng,31,2022-04-21T03:22:24Z,The fastest unity lua binding solution
+186,CSharp,HandyControl,4585,869,C#,https://github.com/HandyOrg/HandyControl,HandyOrg,176,2023-03-18T15:56:08Z,Contains some simple and commonly used WPF controls
+187,CSharp,SpaceEngineers,2882,863,C#,https://github.com/KeenSoftwareHouse/SpaceEngineers,KeenSoftwareHouse,152,2022-01-06T13:46:01Z,
+188,CSharp,dotnet-webapi-boilerplate,2689,862,C#,https://github.com/fullstackhero/dotnet-webapi-boilerplate,fullstackhero,49,2023-03-06T18:06:46Z,Clean Architecture Template for .NET 6.0 WebApi built with Multitenancy Support.
+189,CSharp,mathnet-numerics,3097,859,C#,https://github.com/mathnet/mathnet-numerics,mathnet,234,2023-03-24T14:56:33Z,Math.NET Numerics
+190,CSharp,winforms,3809,859,C#,https://github.com/dotnet/winforms,dotnet,516,2023-03-27T12:06:25Z,Windows Forms is a .NET UI framework for building Windows desktop applications.
+191,CSharp,MudBlazor,5008,857,C#,https://github.com/MudBlazor/MudBlazor,MudBlazor,1051,2023-03-27T12:08:30Z,Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.
+192,CSharp,NiceHashMinerLegacy,1,853,C#,https://github.com/drkskwlkr/NiceHashMinerLegacy,drkskwlkr,0,2021-06-04T18:21:58Z,NiceHash Miner Legacy
+193,CSharp,libgit2sharp,2772,853,C#,https://github.com/libgit2/libgit2sharp,libgit2,350,2023-03-07T18:38:08Z,Git + .NET/Mono = ❤
+194,CSharp,TechJobsConsole,0,851,C#,https://github.com/LaunchCodeEducation/TechJobsConsole,LaunchCodeEducation,1,2021-03-14T06:09:47Z,C# version of the TechJobs console app
+195,CSharp,BoatAttack,2158,842,C#,https://github.com/Unity-Technologies/BoatAttack,Unity-Technologies,60,2023-03-16T02:25:48Z,Demo Project using the Universal RP from Unity3D
+196,CSharp,peachpie-wordpress,290,841,C#,https://github.com/iolevel/peachpie-wordpress,iolevel,0,2022-10-13T20:40:53Z,WordPress running on .NET Core.
+197,CSharp,UniRx,6351,835,C#,https://github.com/neuecc/UniRx,neuecc,189,2023-03-25T02:05:13Z,Reactive Extensions for Unity
+198,CSharp,SSH.NET,3248,832,C#,https://github.com/sshnet/SSH.NET,sshnet,482,2023-03-24T20:57:49Z,"SSH.NET is a Secure Shell (SSH) library for .NET, optimized for parallelism."
+199,CSharp,lively,10334,829,C#,https://github.com/rocksdanister/lively,rocksdanister,223,2023-03-06T02:27:00Z,Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
+200,CSharp,elsa-core,4341,829,C#,https://github.com/elsa-workflows/elsa-core,elsa-workflows,318,2023-03-27T10:48:18Z,A .NET workflows library
+201,CSharp,Caliburn.Micro,2636,782,C#,https://github.com/Caliburn-Micro/Caliburn.Micro,Caliburn-Micro,64,2023-03-25T00:04:58Z,"A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability."
+202,CSharp,docfx,3393,778,C#,https://github.com/dotnet/docfx,dotnet,358,2023-03-27T11:51:34Z,Static site generator for .NET API documentation.
+203,CSharp,confluent-kafka-dotnet,2498,776,C#,https://github.com/confluentinc/confluent-kafka-dotnet,confluentinc,412,2023-03-27T09:51:11Z,Confluent's Apache Kafka .NET client
+204,CSharp,AngularJSAuthentication,1184,776,C#,https://github.com/tjoudeh/AngularJSAuthentication,tjoudeh,20,2017-05-17T20:42:39Z,Tutorial shows Authentication in AngularJS with ASP.NET Web API 2 and Owin Middle-ware using access tokens and refresh tokens approach
+205,CSharp,trilha-net-explorando-desafio,13,786,C#,https://github.com/digitalinnovationone/trilha-net-explorando-desafio,digitalinnovationone,0,2023-01-16T22:08:44Z,
+206,CSharp,ChristmasWithTypes,3,783,C#,https://github.com/mvdoyle/ChristmasWithTypes,mvdoyle,0,2022-10-03T19:03:20Z,
+207,CSharp,grandnode,1834,764,C#,https://github.com/grandnode/grandnode,grandnode,0,2021-08-25T14:50:10Z,"Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js. "
+208,CSharp,win-acme,4735,763,C#,https://github.com/win-acme/win-acme,win-acme,13,2023-03-24T05:57:10Z,A simple ACME client for Windows (for use with Let's Encrypt et al.)
+209,CSharp,MailKit,5282,761,C#,https://github.com/jstedfast/MailKit,jstedfast,6,2023-03-26T17:56:44Z,"A cross-platform .NET library for IMAP, POP3, and SMTP."
+210,CSharp,YiShaAdmin,2034,759,C#,https://github.com/liukuo362573/YiShaAdmin,liukuo362573,66,2023-03-03T16:58:54Z,基于 .NET Core MVC 的权限管理系统，代码易读易懂、界面简洁美观
+211,CSharp,NadekoBot,12,755,C#,https://github.com/bugladen/NadekoBot,bugladen,0,2022-08-17T02:06:15Z,"Nadeko Discord chatbot I made in c#, using Discord.net library."
+212,CSharp,SpecFlow,2071,751,C#,https://github.com/SpecFlowOSS/SpecFlow,SpecFlowOSS,232,2023-03-22T13:22:55Z,"#1 .NET BDD Framework. SpecFlow automates your testing & works with your existing code. Find Bugs before they happen. Behavior Driven Development helps developers, testers, and business representatives to get a better understanding of their collaboration"
+213,CSharp,Serenity,2307,750,C#,https://github.com/serenity-is/Serenity,serenity-is,2,2023-03-27T10:56:18Z,Business Apps Made Simple with Asp.Net Core MVC / TypeScript
+214,CSharp,SharpDevelop,1953,748,C#,https://github.com/icsharpcode/SharpDevelop,icsharpcode,296,2020-07-19T07:50:23Z,#develop (short for SharpDevelop) is a free IDE for .NET programming languages.
+215,CSharp,xunit,3644,749,C#,https://github.com/xunit/xunit,xunit,243,2023-03-27T11:52:52Z,"xUnit.net is a free, open source, community-focused unit testing tool for .NET."
+216,CSharp,DotNetOpenAuth,1717,745,C#,https://github.com/DotNetOpenAuth/DotNetOpenAuth,DotNetOpenAuth,81,2018-01-11T13:05:28Z,"A C# implementation of the OpenID, OAuth protocols"
+217,CSharp,serilog,6149,740,C#,https://github.com/serilog/serilog,serilog,45,2023-03-26T23:02:02Z,Simple .NET logging with fully-structured events
+218,CSharp,DevToys,13727,730,C#,https://github.com/veler/DevToys,veler,166,2023-03-27T05:45:00Z,A Swiss Army knife for developers.
+219,CSharp,ScriptableRenderLoop,16,729,C#,https://github.com/yaoya/ScriptableRenderLoop,yaoya,0,2020-04-24T11:29:29Z,Scriptable Render Loop
+220,CSharp,EasyNetQ,2686,729,C#,https://github.com/EasyNetQ/EasyNetQ,EasyNetQ,53,2023-03-27T08:43:45Z,An easy to use .NET API for RabbitMQ
+221,CSharp,Architecture,2812,728,C#,https://github.com/rafaelfgx/Architecture,rafaelfgx,0,2023-03-26T11:37:22Z,".NET 7, Angular 15, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Principle, Mediator Pattern, Result Pattern, Folder-By-Feature Structure, Separation of Concerns."
+222,CSharp,Locale-Emulator,8487,725,C#,https://github.com/xupefei/Locale-Emulator,xupefei,0,2022-04-15T09:55:46Z,Yet Another System Region and Language Simulator
+223,CSharp,osharp,2504,717,C#,https://github.com/dotnetcore/osharp,dotnetcore,22,2022-12-21T10:42:35Z,OSharp是一个基于.NetCore的快速开发框架，框架对 AspNetCore 的配置、依赖注入、日志、缓存、实体框架、Mvc(WebApi)、身份认证、功能权限、数据权限等模块进行更高一级的自动化封装，并规范了一套业务实现的代码结构与操作流程，使 .Net Core 框架更易于应用到实际项目开发中。
+224,CSharp,ClosedXML,3639,716,C#,https://github.com/ClosedXML/ClosedXML,ClosedXML,340,2023-03-25T21:01:36Z,"ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive and user-friendly interface to dealing with the underlying OpenXML API."
+225,CSharp,cake,3551,714,C#,https://github.com/cake-build/cake,cake-build,238,2023-02-23T23:00:09Z,:cake: Cake (C# Make) is a cross platform build automation system.
+226,CSharp,netmq,2693,712,C#,https://github.com/zeromq/netmq,zeromq,89,2023-03-16T02:56:51Z,A 100% native C# implementation of ZeroMQ for .NET
+227,CSharp,XamarinComponents,1991,709,C#,https://github.com/xamarin/XamarinComponents,xamarin,139,2023-03-10T14:41:09Z,Plugins for Xamarin
+228,CSharp,trilha-net-api-desafio,20,707,C#,https://github.com/digitalinnovationone/trilha-net-api-desafio,digitalinnovationone,0,2023-01-31T01:15:21Z,
+229,CSharp,LiveSplit,1257,707,C#,https://github.com/LiveSplit/LiveSplit,LiveSplit,380,2023-03-26T00:53:46Z,"A sleek, highly customizable timer for speedrunners."
+230,CSharp,Discord.Net,2922,704,C#,https://github.com/discord-net/Discord.Net,discord-net,66,2023-03-27T10:08:47Z,An unofficial .Net wrapper for the Discord API (https://discord.com/)
+231,CSharp,grpc-dotnet,3577,702,C#,https://github.com/grpc/grpc-dotnet,grpc,72,2023-03-22T07:34:37Z,gRPC for .NET
+232,CSharp,subtitleedit,5077,702,C#,https://github.com/SubtitleEdit/subtitleedit,SubtitleEdit,302,2023-03-26T15:07:33Z,the subtitle editor :)
+233,CSharp,nunit,2299,701,C#,https://github.com/nunit/nunit,nunit,358,2023-03-26T19:15:25Z,NUnit 3 Framework
+234,CSharp,-Obsolete-Lightweight-IoC-Container-for-Unity3D,93,701,C#,https://github.com/sebas77/-Obsolete-Lightweight-IoC-Container-for-Unity3D,sebas77,2,2017-02-02T15:57:35Z,New version is here  https://github.com/sebas77/Svelto-IoC
+235,CSharp,fluent-nhibernate,1641,698,C#,https://github.com/nhibernate/fluent-nhibernate,nhibernate,118,2023-03-17T01:59:09Z,Fluent NHibernate!
+236,CSharp,usql,233,695,C#,https://github.com/Azure/usql,Azure,57,2022-11-28T19:36:00Z,U-SQL Examples and Issue Tracking
+237,CSharp,simulator,2020,693,C#,https://github.com/lgsvl/simulator,lgsvl,608,2023-03-07T02:08:12Z,A ROS/ROS2 Multi-robot Simulator for Autonomous Vehicles
+238,CSharp,PokemonGo-Bot,1,690,C#,https://github.com/Wendelstein/PokemonGo-Bot,Wendelstein,0,2016-07-23T20:31:19Z,
+239,CSharp,git-tfs,1834,692,C#,https://github.com/git-tfs/git-tfs,git-tfs,71,2023-02-24T07:53:28Z,"A Git/TFS bridge, similar to git-svn"
+240,CSharp,ZXing.Net.Mobile,1055,691,C#,https://github.com/Redth/ZXing.Net.Mobile,Redth,179,2023-02-20T14:38:22Z,"Barcode Scanner for Xamarin.iOS, Xamarin.Android, UWP and Tizen"
+241,CSharp,reactive,5848,688,C#,https://github.com/dotnet/reactive,dotnet,109,2023-03-21T03:58:48Z,The Reactive Extensions for .NET
+242,CSharp,QFramework,3175,688,C#,https://github.com/liangxiegame/QFramework,liangxiegame,5,2023-03-21T09:45:35Z,Unity3D System Design Architecture
+243,CSharp,refit,6996,688,C#,https://github.com/reactiveui/refit,reactiveui,153,2023-03-22T13:38:44Z,"The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface."
+244,CSharp,Nethereum,1976,687,C#,https://github.com/Nethereum/Nethereum,Nethereum,80,2023-03-22T10:57:05Z,Ethereum .Net cross platform integration library 
+245,CSharp,CodeMazeGuides,371,688,C#,https://github.com/CodeMazeBlog/CodeMazeGuides,CodeMazeBlog,0,2023-03-27T11:40:48Z,The main repository for all the Code Maze guides
+246,CSharp,PnP-PowerShell,952,685,C#,https://github.com/pnp/PnP-PowerShell,pnp,778,2021-01-19T12:44:41Z,SharePoint PnP PowerShell CmdLets
+247,CSharp,Covenant,3506,685,C#,https://github.com/cobbr/Covenant,cobbr,63,2023-02-21T23:55:48Z,Covenant is a collaborative .NET C2 framework for red teamers.
+248,CSharp,Prism-Samples-Wpf,1319,684,C#,https://github.com/PrismLibrary/Prism-Samples-Wpf,PrismLibrary,2,2023-03-09T15:54:31Z,Samples that demonstrate how to use various Prism features with WPF
+249,CSharp,aspnet-api-versioning,2664,681,C#,https://github.com/dotnet/aspnet-api-versioning,dotnet,8,2023-03-16T15:11:42Z,"Provides a set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core."
+250,CSharp,Minecraft-Mod-Language-Package,709,680,C#,https://github.com/CFPAOrg/Minecraft-Mod-Language-Package,CFPAOrg,35,2023-03-27T11:11:51Z,A language package for Minecraft Mods.
+251,CSharp,stride,4462,739,C#,https://github.com/stride3d/stride,stride3d,395,2023-03-21T09:45:06Z,Stride Game Engine (formerly Xenko)
+252,CSharp,DevToys,13727,730,C#,https://github.com/veler/DevToys,veler,166,2023-03-27T05:45:00Z,A Swiss Army knife for developers.
+253,CSharp,ScriptableRenderLoop,16,729,C#,https://github.com/yaoya/ScriptableRenderLoop,yaoya,0,2020-04-24T11:29:29Z,Scriptable Render Loop
+254,CSharp,EasyNetQ,2686,729,C#,https://github.com/EasyNetQ/EasyNetQ,EasyNetQ,53,2023-03-27T08:43:45Z,An easy to use .NET API for RabbitMQ
+255,CSharp,Architecture,2812,728,C#,https://github.com/rafaelfgx/Architecture,rafaelfgx,0,2023-03-26T11:37:22Z,".NET 7, Angular 15, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Principle, Mediator Pattern, Result Pattern, Folder-By-Feature Structure, Separation of Concerns."
+256,CSharp,dockpanelsuite,1577,725,C#,https://github.com/dockpanelsuite/dockpanelsuite,dockpanelsuite,139,2022-11-28T06:25:21Z,DockPanel Suite - The Visual Studio inspired docking library for .NET WinForms
+257,CSharp,Dnn.Platform,934,723,C#,https://github.com/dnnsoftware/Dnn.Platform,dnnsoftware,146,2023-03-26T17:55:14Z,DNN (formerly DotNetNuke) is the leading open source web content management platform (CMS) in the Microsoft ecosystem.
+258,CSharp,tesseract,1970,722,C#,https://github.com/charlesw/tesseract,charlesw,195,2022-11-30T09:20:46Z,A .Net wrapper for tesseract-ocr
+259,CSharp,ClosedXML,3639,716,C#,https://github.com/ClosedXML/ClosedXML,ClosedXML,340,2023-03-25T21:01:36Z,"ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive and user-friendly interface to dealing with the underlying OpenXML API."
+260,CSharp,artifacts-credprovider,579,711,C#,https://github.com/microsoft/artifacts-credprovider,microsoft,1,2023-03-03T16:46:49Z,"The Azure Artifacts Credential Provider enables dotnet, NuGet.exe, and MSBuild to interactively acquire credentials for Azure Artifacts feeds."
+261,CSharp,LiveSplit,1257,707,C#,https://github.com/LiveSplit/LiveSplit,LiveSplit,380,2023-03-26T00:53:46Z,"A sleek, highly customizable timer for speedrunners."
+262,CSharp,stateless,4781,705,C#,https://github.com/dotnet-state-machine/stateless,dotnet-state-machine,55,2023-01-27T18:32:33Z,A simple library for creating state machines in C# code
+263,CSharp,Discord.Net,2922,704,C#,https://github.com/discord-net/Discord.Net,discord-net,66,2023-03-27T10:08:47Z,An unofficial .Net wrapper for the Discord API (https://discord.com/)
+264,CSharp,grpc-dotnet,3577,702,C#,https://github.com/grpc/grpc-dotnet,grpc,72,2023-03-22T07:34:37Z,gRPC for .NET
+265,CSharp,subtitleedit,5077,702,C#,https://github.com/SubtitleEdit/subtitleedit,SubtitleEdit,302,2023-03-26T15:07:33Z,the subtitle editor :)
+266,CSharp,-Obsolete-Lightweight-IoC-Container-for-Unity3D,93,701,C#,https://github.com/sebas77/-Obsolete-Lightweight-IoC-Container-for-Unity3D,sebas77,2,2017-02-02T15:57:35Z,New version is here  https://github.com/sebas77/Svelto-IoC
+267,CSharp,fluent-nhibernate,1641,698,C#,https://github.com/nhibernate/fluent-nhibernate,nhibernate,118,2023-03-17T01:59:09Z,Fluent NHibernate!
+268,CSharp,PTVS,2447,697,C#,https://github.com/microsoft/PTVS,microsoft,93,2023-03-24T20:40:09Z,Python Tools for Visual Studio
+269,CSharp,usql,233,695,C#,https://github.com/Azure/usql,Azure,57,2022-11-28T19:36:00Z,U-SQL Examples and Issue Tracking
+270,CSharp,simulator,2020,693,C#,https://github.com/lgsvl/simulator,lgsvl,608,2023-03-07T02:08:12Z,A ROS/ROS2 Multi-robot Simulator for Autonomous Vehicles
+271,CSharp,PokemonGo-Bot,1,690,C#,https://github.com/Wendelstein/PokemonGo-Bot,Wendelstein,0,2016-07-23T20:31:19Z,
+272,CSharp,git-tfs,1834,692,C#,https://github.com/git-tfs/git-tfs,git-tfs,71,2023-02-24T07:53:28Z,"A Git/TFS bridge, similar to git-svn"
+273,CSharp,Swashbuckle.WebApi,3050,690,C#,https://github.com/domaindrivendev/Swashbuckle.WebApi,domaindrivendev,335,2022-03-03T16:05:59Z,Seamlessly adds a swagger to WebApi projects!
+274,CSharp,ZXing.Net.Mobile,1055,691,C#,https://github.com/Redth/ZXing.Net.Mobile,Redth,179,2023-02-20T14:38:22Z,"Barcode Scanner for Xamarin.iOS, Xamarin.Android, UWP and Tizen"
+275,CSharp,QFramework,3175,688,C#,https://github.com/liangxiegame/QFramework,liangxiegame,5,2023-03-21T09:45:35Z,Unity3D System Design Architecture
+276,CSharp,refit,6996,688,C#,https://github.com/reactiveui/refit,reactiveui,153,2023-03-22T13:38:44Z,"The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface."
+277,CSharp,PnP-PowerShell,952,685,C#,https://github.com/pnp/PnP-PowerShell,pnp,778,2021-01-19T12:44:41Z,SharePoint PnP PowerShell CmdLets
+278,CSharp,Prism-Samples-Wpf,1319,684,C#,https://github.com/PrismLibrary/Prism-Samples-Wpf,PrismLibrary,2,2023-03-09T15:54:31Z,Samples that demonstrate how to use various Prism features with WPF
+279,CSharp,openbullet,1230,683,C#,https://github.com/openbullet/openbullet,openbullet,154,2023-02-24T16:29:01Z,The OpenBullet web testing application.
+280,CSharp,Graphics,2018,682,C#,https://github.com/Unity-Technologies/Graphics,Unity-Technologies,0,2023-03-26T21:35:47Z,Unity Graphics - Including Scriptable Render Pipeline
+281,CSharp,aspnet-api-versioning,2664,681,C#,https://github.com/dotnet/aspnet-api-versioning,dotnet,8,2023-03-16T15:11:42Z,"Provides a set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core."
+282,CSharp,Minecraft-Mod-Language-Package,709,680,C#,https://github.com/CFPAOrg/Minecraft-Mod-Language-Package,CFPAOrg,35,2023-03-27T11:11:51Z,A language package for Minecraft Mods.
+283,CSharp,Topshelf,3557,677,C#,https://github.com/Topshelf/Topshelf,Topshelf,0,2021-10-24T12:27:54Z,An easy service hosting framework for building Windows services using .NET
+284,CSharp,xamarin-forms-samples,471,672,C#,https://github.com/conceptdev/xamarin-forms-samples,conceptdev,12,2022-06-22T18:04:24Z,Samples that use Xamarin.Forms (http://xamarin.com/forms)
+285,CSharp,moq4,5097,670,C#,https://github.com/moq/moq4,moq,28,2023-03-22T00:08:32Z,Repo for managing Moq 4.x 
+286,CSharp,NuGet.Client,636,667,C#,https://github.com/NuGet/NuGet.Client,NuGet,0,2023-03-27T09:00:19Z,"Client Tools for NuGet - including Visual Studio extensions, command line tools, and msbuild support. (Open issues on https://github.com/nuget/home/issues)"
+287,CSharp,v2rayN,9,666,C#,https://github.com/kakuhan09/v2rayN,kakuhan09,0,2019-12-23T07:10:57Z,
+288,CSharp,Electron.NET,6621,667,C#,https://github.com/ElectronNET/Electron.NET,ElectronNET,169,2023-03-24T13:19:03Z,":electron: Build cross platform desktop apps with ASP.NET Core (Razor Pages, MVC, Blazor)."
+289,CSharp,IterationStatementsProject,0,687,C#,https://github.com/cdgraybill/IterationStatementsProject,cdgraybill,0,2020-01-21T18:28:39Z,
+290,CSharp,AspNetCore.Diagnostics.HealthChecks,3258,664,C#,https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks,Xabaril,238,2023-03-25T05:58:23Z,Enterprise HealthChecks for ASP.NET Core Diagnostics Package
+291,CSharp,ILRuntime,2795,660,C#,https://github.com/Ourpalm/ILRuntime,Ourpalm,63,2023-03-26T16:47:48Z,"Pure C# IL Intepreter Runtime, which is fast and reliable for scripting requirement on enviorments, where jitting isn't possible. "
+292,CSharp,AutoUpdater.NET,2411,661,C#,https://github.com/ravibpatel/AutoUpdater.NET,ravibpatel,64,2023-03-25T13:56:20Z,AutoUpdater.NET is a class library that allows .NET developers to easily add auto update functionality to their classic desktop application projects.
+293,CSharp,PnP-Sites-Core,414,655,C#,https://github.com/pnp/PnP-Sites-Core,pnp,592,2021-01-18T18:13:39Z,Microsoft 365 Dev PnP Core component (.NET) targeted for increasing developer productivity with CSOM based solutions.
+294,CSharp,FPS_Movement_Rigidbody,436,645,C#,https://github.com/DaniDevy/FPS_Movement_Rigidbody,DaniDevy,45,2022-10-17T17:02:14Z,A physics based movement system
+295,CSharp,AsyncRAT-C-Sharp,1635,644,C#,https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp,NYAN-x-CAT,0,2022-07-30T23:41:57Z,Open-Source Remote Administration Tool For Windows C# (RAT)
+296,CSharp,CleanArchitecture,3031,645,C#,https://github.com/blazorhero/CleanArchitecture,blazorhero,68,2022-12-08T15:36:02Z,Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
+297,CSharp,ServiceStack.Text,1222,643,C#,https://github.com/ServiceStack/ServiceStack.Text,ServiceStack,0,2022-02-16T04:39:17Z,".NET's fastest JSON, JSV and CSV Text Serializers "
+298,CSharp,Rubeus,3095,642,C#,https://github.com/GhostPack/Rubeus,GhostPack,11,2023-02-03T15:25:12Z,Trying to tame the three-headed dog.
+299,CSharp,dotnetcore-microservices-poc,1712,640,C#,https://github.com/asc-lab/dotnetcore-microservices-poc,asc-lab,12,2023-03-24T17:57:18Z,Very simplified insurance sales system made in a microservices architecture using .NET Core
+300,CSharp,NuGetGallery,1449,637,C#,https://github.com/NuGet/NuGetGallery,NuGet,677,2023-03-24T20:48:14Z,NuGet Gallery is a package repository that powers https://www.nuget.org. Use this repo for reporting NuGet.org issues.
+301,CSharp,CleanArchitecture,3031,645,C#,https://github.com/blazorhero/CleanArchitecture,blazorhero,68,2022-12-08T15:36:02Z,Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
+302,CSharp,Git-Credential-Manager-for-Windows,2813,643,C#,https://github.com/microsoft/Git-Credential-Manager-for-Windows,microsoft,76,2021-11-04T23:02:08Z,"Secure Git credential storage for Windows with support for Visual Studio Team Services, GitHub, and Bitbucket multi-factor authentication."
+303,CSharp,UIEffect,4430,644,C#,https://github.com/mob-sakai/UIEffect,mob-sakai,65,2023-02-06T03:19:39Z, UIEffect is an effect component for uGUI element in Unity. Let's decorate your UI with effects!
+304,CSharp,ServiceStack.Text,1222,643,C#,https://github.com/ServiceStack/ServiceStack.Text,ServiceStack,0,2022-02-16T04:39:17Z,".NET's fastest JSON, JSV and CSV Text Serializers "
+305,CSharp,Rubeus,3095,642,C#,https://github.com/GhostPack/Rubeus,GhostPack,11,2023-02-03T15:25:12Z,Trying to tame the three-headed dog.
+306,CSharp,NuGetGallery,1449,637,C#,https://github.com/NuGet/NuGetGallery,NuGet,677,2023-03-24T20:48:14Z,NuGet Gallery is a package repository that powers https://www.nuget.org. Use this repo for reporting NuGet.org issues.
+307,CSharp,Telegram.Bot,2615,637,C#,https://github.com/TelegramBots/Telegram.Bot,TelegramBots,35,2023-03-20T23:06:28Z,.NET Client for Telegram Bot API
+308,CSharp,NServiceBus,1950,636,C#,https://github.com/Particular/NServiceBus,Particular,217,2023-03-24T07:08:31Z,The most popular service bus for .NET
+309,CSharp,SharpDX,1585,633,C#,https://github.com/sharpdx/SharpDX,sharpdx,193,2020-12-24T21:17:27Z,SharpDX GitHub Repository
+310,CSharp,acat,3185,631,C#,https://github.com/intel/acat,intel,51,2023-01-25T23:55:23Z,Assistive Context-Aware Toolkit (ACAT)
+311,CSharp,pythonnet,3614,631,C#,https://github.com/pythonnet/pythonnet,pythonnet,101,2023-03-12T21:01:53Z,Python for .NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers.
+312,CSharp,fluentmigrator,2917,630,C#,https://github.com/fluentmigrator/fluentmigrator,fluentmigrator,201,2023-03-15T11:25:47Z,Fluent migrations framework for .NET
+313,CSharp,EventStore,4810,630,C#,https://github.com/EventStore/EventStore,EventStore,152,2023-03-27T11:53:28Z,The stream database optimised for event sourcing
+314,CSharp,aliyun-openapi-net-sdk,531,629,C#,https://github.com/aliyun/aliyun-openapi-net-sdk,aliyun,11,2023-03-23T06:53:34Z,Alibaba Cloud SDK for .NET
+315,CSharp,allReady,890,623,C#,https://github.com/HTBox/allReady,HTBox,235,2022-12-09T00:00:05Z,"This repo contains the code for allReady, an open-source solution focused on increasing awareness, efficiency and impact of preparedness campaigns as they are delivered by humanitarian and disaster response organizations in local communities."
+316,CSharp,lucenenet,1962,623,C#,https://github.com/apache/lucenenet,apache,63,2023-02-01T19:21:35Z,Apache Lucene.NET
+317,CSharp,reverse-proxy,6403,623,C#,https://github.com/microsoft/reverse-proxy,microsoft,129,2023-03-27T12:08:27Z,A toolkit for developing high-performance HTTP reverse proxy applications.
+318,CSharp,GitVersion,2478,622,C#,https://github.com/GitTools/GitVersion,GitTools,119,2023-03-26T17:37:07Z,From git log to SemVer in no time
+319,CSharp,uno,7532,622,C#,https://github.com/unoplatform/uno,unoplatform,1340,2023-03-27T11:53:42Z,"Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported."
+320,CSharp,opentk,2767,621,C#,https://github.com/opentk/opentk,opentk,43,2023-03-25T15:18:23Z,"The Open Toolkit library is a fast, low-level C# wrapper for OpenGL, OpenAL & OpenCL. It also includes windowing, mouse, keyboard and joystick input and a robust and fast math library, giving you everything you need to write your own renderer or game engine. OpenTK can be used standalone or inside a GUI on Windows, Linux, Mac."
+321,CSharp,clean-architecture-manga,3595,619,C#,https://github.com/ivanpaulovich/clean-architecture-manga,ivanpaulovich,17,2023-03-27T10:07:56Z," :cyclone: Clean Architecture with .NET6, C#10 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks"
+322,CSharp,Security,1250,620,C#,https://github.com/aspnet/Security,aspnet,0,2018-11-22T00:05:53Z,[Archived] Middleware for security and authorization of web apps. Project moved to https://github.com/aspnet/AspNetCore
+323,CSharp,MessagePack-CSharp,4567,618,C#,https://github.com/neuecc/MessagePack-CSharp,neuecc,14,2023-03-24T00:45:54Z,"Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]"
+324,CSharp,microsoft-ui-xaml,5384,615,C#,https://github.com/microsoft/microsoft-ui-xaml,microsoft,2890,2023-03-24T22:37:25Z,Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
+325,CSharp,AspNetCoreDiagnosticScenarios,6206,612,C#,https://github.com/davidfowl/AspNetCoreDiagnosticScenarios,davidfowl,23,2023-01-24T03:41:39Z,This repository has examples of broken patterns in ASP.NET Core applications
+326,CSharp,mobile,4500,612,C#,https://github.com/bitwarden/mobile,bitwarden,274,2023-03-27T10:22:37Z,The mobile app vault (iOS and Android).
+327,CSharp,SteamAchievementManager,3966,611,C#,https://github.com/gibbed/SteamAchievementManager,gibbed,130,2023-03-27T11:28:45Z,A manager for game achievements in Steam.
+328,CSharp,ZXing.Net,2213,610,C#,https://github.com/micjahn/ZXing.Net,micjahn,46,2023-03-08T20:48:11Z,.Net port of the original java-based barcode reader and generator library zxing
+329,CSharp,ArraysAndListsProject,0,632,C#,https://github.com/nrice41593/ArraysAndListsProject,nrice41593,0,2019-12-02T21:09:11Z,
+330,CSharp,helix-toolkit,1460,608,C#,https://github.com/helix-toolkit/helix-toolkit,helix-toolkit,239,2023-03-24T21:15:21Z,Helix Toolkit is a collection of 3D components for .NET.
+331,CSharp,Krypton,1549,607,C#,https://github.com/ComponentFactory/Krypton,ComponentFactory,161,2023-01-16T12:46:30Z,Krypton WinForms components for .NET
+332,CSharp,csharp-blazor-bug-tracking,5,607,C#,https://github.com/pluralsight-projects/csharp-blazor-bug-tracking,pluralsight-projects,0,2023-01-19T16:04:51Z,
+333,CSharp,SparkleShare,4804,605,C#,https://github.com/hbons/SparkleShare,hbons,130,2023-01-24T14:01:00Z,"Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows."
+334,CSharp,JabbR,1509,603,C#,https://github.com/JabbR/JabbR,JabbR,155,2018-09-21T16:18:00Z,Collaborative chat done right
+335,CSharp,WeeklyChallenges,3,626,C#,https://github.com/mvdoyle/WeeklyChallenges,mvdoyle,0,2022-10-03T18:55:29Z,
+336,CSharp,dotnet-podcasts,2189,598,C#,https://github.com/microsoft/dotnet-podcasts,microsoft,7,2023-03-24T06:02:10Z,".NET reference application shown at .NET Conf featuring ASP.NET Core, Blazor, .NET MAUI, Microservices, Orleans, Playwright, and more!"
+337,CSharp,Cognitive-Samples-IntelligentKiosk,1041,597,C#,https://github.com/microsoft/Cognitive-Samples-IntelligentKiosk,microsoft,0,2022-01-19T22:11:10Z,Welcome to the Intelligent Kiosk Sample! Here you will find several demos showcasing workflows and experiences built on top of the Microsoft Cognitive Services.
+338,CSharp,PetaPoco,1962,597,C#,https://github.com/CollaboratingPlatypus/PetaPoco,CollaboratingPlatypus,100,2023-01-18T23:15:38Z,"Official PetaPoco, A tiny ORM-ish thing for your POCO's"
+339,CSharp,Bonobo-Git-Server,1758,594,C#,https://github.com/jakubgarfield/Bonobo-Git-Server,jakubgarfield,162,2021-12-16T13:53:22Z,Bonobo Git Server for Windows is a web application you can install on your IIS and easily manage and connect to your git repositories. Go to homepage for release and more info.
+340,CSharp,CarLotSimulator,0,612,C#,https://github.com/CruzSanchez/CarLotSimulator,CruzSanchez,0,2020-04-10T02:02:59Z,Template for student working with classes
+341,CSharp,AbsoluteBeginnersWin10,537,591,C#,https://github.com/Windows-Readiness/AbsoluteBeginnersWin10,Windows-Readiness,4,2020-01-07T09:11:55Z,Video content can be found at https://channel9.msdn.com/Series/Windows-10-development-for-absolute-beginners
+342,CSharp,opentelemetry-dotnet,2323,591,C#,https://github.com/open-telemetry/opentelemetry-dotnet,open-telemetry,376,2023-03-27T05:28:41Z,The OpenTelemetry .NET Client
+343,CSharp,InheritanceExercise,0,613,C#,https://github.com/MijonUtomi/InheritanceExercise,MijonUtomi,0,2019-12-03T00:11:22Z,
+344,CSharp,VisualStudioUninstaller,3848,589,C#,https://github.com/microsoft/VisualStudioUninstaller,microsoft,42,2019-02-20T17:33:25Z,Visual Studio Uninstallation sometimes can be unreliable and often leave out a lot of unwanted artifacts. Visual Studio Uninstaller is designed to thoroughly and reliably remove these unwanted artifacts.
+345,CSharp,Fleck,2085,587,C#,https://github.com/statianzo/Fleck,statianzo,56,2022-10-24T07:09:42Z,C# Websocket Implementation
+346,CSharp,Scut,1313,587,C#,https://github.com/ScutGame/Scut,ScutGame,16,2016-07-02T11:23:41Z,"Scut is a free, open source, stable game server framework, which support C#/Python/Lua script, and support Unity3d, Cocos2dx, FlashAir client access."
+347,CSharp,sendgrid-csharp,993,587,C#,https://github.com/sendgrid/sendgrid-csharp,sendgrid,0,2023-01-03T15:10:20Z,"The Official Twilio SendGrid C#, .NetStandard, .NetCore API Library"
+348,CSharp,Saml2,861,584,C#,https://github.com/Sustainsys/Saml2,Sustainsys,90,2023-03-07T16:41:17Z,Saml2 Authentication services for ASP.NET
+349,CSharp,TacoParser,1,610,C#,https://github.com/mvdoyle/TacoParser,mvdoyle,0,2022-11-06T07:54:53Z,"An exercise in geolocation, csv parsing, and logging"
+350,CSharp,TensorFlowSharp,3093,582,C#,https://github.com/migueldeicaza/TensorFlowSharp,migueldeicaza,187,2022-05-06T08:55:40Z,TensorFlow API for .NET languages
+351,CSharp,DiscordChatExporter,5080,528,C#,https://github.com/Tyrrrz/DiscordChatExporter,Tyrrrz,11,2023-03-23T19:19:04Z,Exports Discord chat logs to a file
+352,CSharp,BlogEngine.NET,912,526,C#,https://github.com/BlogEngine/BlogEngine.NET,BlogEngine,12,2023-03-03T05:22:21Z,Multi-User ASP.NET Blogging Application
+353,CSharp,Open-XML-SDK,3452,525,C#,https://github.com/dotnet/Open-XML-SDK,dotnet,97,2023-03-23T16:47:40Z,Open XML SDK by Microsoft
+354,CSharp,emgucv,1658,525,C#,https://github.com/emgucv/emgucv,emgucv,203,2023-03-19T15:26:55Z,Emgu CV is a cross platform .Net wrapper to the OpenCV image processing library.
+355,CSharp,m-r,2011,524,C#,https://github.com/gregoryyoung/m-r,gregoryyoung,9,2022-12-31T02:30:09Z,Simple CQRS example
+356,CSharp,module-zero-core-template,821,525,C#,https://github.com/aspnetboilerplate/module-zero-core-template,aspnetboilerplate,0,2023-03-13T11:58:07Z,ASP.NET Core MVC / Angular Startup Project For ASP.NET Boilerplate
+357,CSharp,corert,2912,524,C#,https://github.com/dotnet/corert,dotnet,313,2020-11-01T06:38:13Z,"This repo contains CoreRT, an experimental .NET Core runtime optimized for AOT (ahead of time compilation) scenarios, with the accompanying compiler toolchain."
+358,CSharp,UnitTestingExercise,1,551,C#,https://github.com/nrice41593/UnitTestingExercise,nrice41593,0,2019-12-13T00:30:20Z,
+359,CSharp,titanium-web-proxy,1775,522,C#,https://github.com/justcoding121/titanium-web-proxy,justcoding121,125,2023-01-11T21:53:39Z,A cross-platform asynchronous HTTP(S) proxy server in C#.
+360,CSharp,Navicat_Keygen,52,521,C#,https://github.com/peyaa/Navicat_Keygen,peyaa,0,2020-04-22T02:08:28Z,A keygen for Navicat 
+361,CSharp,tye,5100,520,C#,https://github.com/dotnet/tye,dotnet,363,2023-03-25T12:32:11Z,"Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration."
+362,CSharp,MyUnityFrameWork,1595,518,C#,https://github.com/GaoKaiHaHa/MyUnityFrameWork,GaoKaiHaHa,7,2020-10-13T02:34:44Z,我的Unity框架，包含资源加载，配置加载，数据加载，UI管理，日志管理，动画系统，特效系统
+363,CSharp,FASTER,5483,517,C#,https://github.com/microsoft/FASTER,microsoft,0,2023-03-25T10:30:19Z,"Fast persistent recoverable log and key-value store + cache, in C# and C++."
+364,CSharp,HslCommunication,1133,516,C#,https://github.com/dathlin/HslCommunication,dathlin,32,2023-03-25T07:26:13Z,"A very popular industrial Internet of Things communication plug-in. Using this dll can be very convenient, stable, and fast to obtain data from PLC equipment of multiple brands, and also supports redis, mqtt, websocket, etc., which can let your data on the network Free transmission, reducing enterprise development costs."
+365,CSharp,LinqExercise,0,524,C#,https://github.com/CruzSanchez/LinqExercise,CruzSanchez,0,2022-10-06T16:32:05Z,
+366,CSharp,Exceptionless,2270,515,C#,https://github.com/exceptionless/Exceptionless,exceptionless,48,2023-03-07T02:18:57Z,Exceptionless server and jobs
+367,CSharp,DbUp,1876,515,C#,https://github.com/DbUp/DbUp,DbUp,149,2023-02-18T14:55:20Z,"DbUp is a .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date.  "
+368,CSharp,FastReport,2209,513,C#,https://github.com/FastReports/FastReport,FastReports,50,2023-03-22T08:41:15Z,Free Open Source Reporting tool for .NET6/.NET Core/.NET Framework that helps your application generate document-like reports
+369,CSharp,FrequencyWords,933,511,C#,https://github.com/hermitdave/FrequencyWords,hermitdave,7,2022-02-07T10:32:14Z,Repository for Frequency Word List Generator and processed files
+370,CSharp,CollectionsMasterApp,0,534,C#,https://github.com/CruzSanchez/CollectionsMasterApp,CruzSanchez,0,2022-05-10T23:08:00Z,
+371,CSharp,Emby.Plugins.JavScraper,2579,510,C#,https://github.com/JavScraper/Emby.Plugins.JavScraper,JavScraper,246,2023-02-24T16:34:43Z,Emby/Jellyfin 的一个日本电影刮削器插件，可以从某些网站抓取影片信息。
+372,CSharp,iSpy,1078,510,C#,https://github.com/ispysoftware/iSpy,ispysoftware,37,2023-01-24T01:04:13Z,Open source surveillance software
+373,CSharp,Pokemon-Go-Rocket-API,18,508,C#,https://github.com/snaverm/Pokemon-Go-Rocket-API,snaverm,0,2022-06-22T15:50:19Z,Client API library for Pokemon Go in C#
+374,CSharp,HTML-Renderer,1154,508,C#,https://github.com/ArthurHub/HTML-Renderer,ArthurHub,127,2022-11-20T12:28:14Z,"Cross framework (WinForms/WPF/PDF/Metro/Mono/etc.), Multipurpose (UI Controls / Image generation / PDF generation / etc.), 100% managed (C#), High performance HTML Rendering library."
+375,CSharp,Essentials,1516,510,C#,https://github.com/xamarin/Essentials,xamarin,289,2023-03-09T07:46:02Z,Essential cross platform APIs for your mobile apps.
+376,CSharp,NanoFabric,1456,508,C#,https://github.com/geffzhang/NanoFabric,geffzhang,7,2020-03-13T00:40:13Z,基于Consul + .NET Core + Polly + Ocelot + Exceptionless + IdentityServer等开源项目的微服务开发框架
+377,CSharp,Csharp-Data-Visualization,777,508,C#,https://github.com/swharden/Csharp-Data-Visualization,swharden,5,2023-03-15T19:26:55Z,Resources for visualizing data using C# and the .NET platform
+378,CSharp,LeagueSharp,146,508,C#,https://github.com/Esk0r/LeagueSharp,Esk0r,0,2017-01-15T12:04:24Z,
+379,CSharp,aspnetcore-realworld-example-app,1715,507,C#,https://github.com/gothinkster/aspnetcore-realworld-example-app,gothinkster,15,2022-12-19T14:14:07Z,ASP.NET Core backend implementation for RealWorld
+380,CSharp,jint,3238,507,C#,https://github.com/sebastienros/jint,sebastienros,10,2023-03-26T12:18:57Z,Javascript Interpreter for .NET
+381,CSharp,EFCore.BulkExtensions,3036,506,C#,https://github.com/borisdj/EFCore.BulkExtensions,borisdj,89,2023-03-20T10:27:36Z,"Entity Framework Core Bulk Batch Extensions in .Net for Insert Update Delete Read (CRUD), Truncate and SaveChanges operations on SQL Server, PostgreSQL, MySQL, SQLite"
+382,CSharp,urho-samples,389,506,C#,https://github.com/xamarin/urho-samples,xamarin,36,2020-04-13T21:08:07Z,Samples for the Urho bindings
+383,CSharp,scripthookvdotnet,991,506,C#,https://github.com/crosire/scripthookvdotnet,crosire,15,2023-03-27T12:08:33Z,"An ASI plugin for Grand Theft Auto V, which allows running scripts written in any .NET language in-game."
+384,CSharp,ImageProcessor,2492,506,C#,https://github.com/JimBobSquarePants/ImageProcessor,JimBobSquarePants,0,2021-08-24T22:25:18Z,:camera: A fluent wrapper around System.Drawing for the processing of image files.
+385,CSharp,ShaderForge,2317,504,C#,https://github.com/FreyaHolmer/ShaderForge,FreyaHolmer,4,2023-01-03T15:31:22Z,A Shader Editor for Unity
+386,CSharp,SteamDesktopAuthenticator,2329,504,C#,https://github.com/Jessecar96/SteamDesktopAuthenticator,Jessecar96,166,2022-12-08T08:58:49Z,Desktop implementation of Steam's mobile authenticator app
+387,CSharp,X,1607,503,C#,https://github.com/NewLifeX/X,NewLifeX,3,2023-03-25T02:45:48Z,"Core basic components: log (file / network), configuration (XML / JSON / HTTP), cache (memory / redis), network (TCP / UDP / HTTP), RPC framework, serialization (binary / XML / JSON), APM performance tracking. 核心基础组件，日志（文件/网络）、配置（XML/Json/Http）、缓存（内存/Redis）、网络（Tcp/Udp/Http）、RPC框架、序列化（Binary/XML/Json）、APM性能追踪。"
+388,CSharp,greenshot,3259,503,C#,https://github.com/greenshot/greenshot,greenshot,137,2023-03-26T19:21:28Z,Greenshot for Windows - Report bugs & features go here: https://greenshot.atlassian.net or look for information on:
+389,CSharp,OpenLiveWriter,2425,501,C#,https://github.com/OpenLiveWriter/OpenLiveWriter,OpenLiveWriter,484,2022-12-07T17:23:44Z,An open source fork of Windows Live Writer
+390,CSharp,containers_artifacts,40,500,C#,https://github.com/Microsoft-OpenHack/containers_artifacts,Microsoft-OpenHack,1,2023-03-14T21:24:05Z,
+391,CSharp,ExceptionHandlingExercise,0,513,C#,https://github.com/JuodyBun/ExceptionHandlingExercise,JuodyBun,0,2019-12-12T00:14:56Z,
+392,CSharp,AdaptiveCards,1481,501,C#,https://github.com/microsoft/AdaptiveCards,microsoft,849,2023-03-25T01:24:28Z,A new way for developers to exchange card content in a common and consistent way.
+393,CSharp,arcgis-maps-sdk-dotnet-samples,346,498,C#,https://github.com/Esri/arcgis-maps-sdk-dotnet-samples,Esri,6,2023-03-27T10:12:07Z,"Sample code for ArcGIS Runtime SDK for .NET – UWP, WPF, Xamarin.Android, Xamarin.iOS, and Xamarin.Forms"
+394,CSharp,Cosmos,2570,497,C#,https://github.com/CosmosOS/Cosmos,CosmosOS,89,2023-03-27T10:51:36Z,"Cosmos is an operating system ""construction kit"". Build your own OS using managed languages such as C#, VB.NET, and more!"
+395,CSharp,StyleCopAnalyzers,2360,496,C#,https://github.com/DotNetAnalyzers/StyleCopAnalyzers,DotNetAnalyzers,344,2023-03-26T09:35:18Z,An implementation of StyleCop rules using the .NET Compiler Platform
+396,CSharp,Fluent.Ribbon,2160,495,C#,https://github.com/fluentribbon/Fluent.Ribbon,fluentribbon,45,2023-03-21T20:46:52Z,WPF Ribbon control like in Office
+397,CSharp,fluentassertions,3179,493,C#,https://github.com/fluentassertions/fluentassertions,fluentassertions,84,2023-03-27T05:57:21Z,"A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3."
+398,CSharp,azure-batch-samples,251,494,C#,https://github.com/Azure-Samples/azure-batch-samples,Azure-Samples,20,2023-01-23T20:21:40Z,Azure Batch and HPC Code Samples
+399,CSharp,White,1020,491,C#,https://github.com/TestStack/White,TestStack,279,2019-12-21T01:09:04Z,DEPRECATED - no longer actively maintained
+400,CSharp,CoiniumServ,725,488,C#,https://github.com/bonesoul/CoiniumServ,bonesoul,314,2021-06-19T20:24:06Z,Next-gen crypto currency mining pool software
+401,CSharp,Templates,3162,481,C#,https://github.com/Dotnet-Boxed/Templates,Dotnet-Boxed,13,2023-03-24T06:16:17Z,".NET project templates with batteries included, providing the minimum amount of code required to get you going faster."
+402,CSharp,wavefunctioncollapse,4071,477,C#,https://github.com/marian42/wavefunctioncollapse,marian42,5,2021-03-28T01:04:35Z,"Walk through an infinite, procedurally generated city"
+403,CSharp,TechJobsMVC,0,475,C#,https://github.com/jayaarrgh/TechJobsMVC,jayaarrgh,0,2017-03-27T15:50:24Z,C# / .NET assignment
+404,CSharp,NJsonSchema,1163,475,C#,https://github.com/RicoSuter/NJsonSchema,RicoSuter,346,2023-03-20T19:31:03Z,"JSON Schema reader, generator and validator for .NET"
+405,CSharp,NETworkManager,3537,474,C#,https://github.com/BornToBeRoot/NETworkManager,BornToBeRoot,32,2023-03-27T08:05:46Z,A powerful tool for managing networks and troubleshoot network problems!
+406,CSharp,s7netplus,956,471,C#,https://github.com/S7NetPlus/s7netplus,S7NetPlus,67,2023-01-23T08:34:27Z,S7.NET+ -- A .NET library to connect to Siemens Step7 devices
+407,CSharp,dropbox-sdk-dotnet,316,471,C#,https://github.com/dropbox/dropbox-sdk-dotnet,dropbox,28,2023-03-03T01:28:04Z,The Official Dropbox API V2 SDK for .NET
+408,CSharp,EarTrumpet,7187,470,C#,https://github.com/File-New-Project/EarTrumpet,File-New-Project,42,2023-03-24T20:34:42Z,EarTrumpet - Volume Control for Windows
+409,CSharp,bc-csharp,1234,469,C#,https://github.com/bcgit/bc-csharp,bcgit,113,2023-03-17T11:16:43Z,BouncyCastle.NET Cryptography Library (Mirror)
+410,CSharp,AspNetCoreSpa,1384,467,C#,https://github.com/asadsahi/AspNetCoreSpa,asadsahi,3,2023-03-02T11:12:38Z,Asp.Net 7.0 & Angular 15 SPA Fullstack application with plenty of examples. Live demo: 
+411,CSharp,DownmarkerWPF,1369,467,C#,https://github.com/Code52/DownmarkerWPF,Code52,64,2022-06-22T15:45:48Z,MarkPad - a visual Markdown editor (inspired by the Downmarker project)
+412,CSharp,botbuilder-dotnet,794,464,C#,https://github.com/microsoft/botbuilder-dotnet,microsoft,40,2023-03-20T17:41:36Z,"Welcome to the Bot Framework SDK for .NET repository, which is the home for the libraries and packages that enable developers to build sophisticated bot applications using .NET. "
+413,CSharp,sharpcompress,1960,463,C#,https://github.com/adamhathcock/sharpcompress,adamhathcock,222,2023-03-24T18:31:43Z,SharpCompress is a fully managed C# library to deal with many compression types and formats.
+414,CSharp,carnac,3280,463,C#,https://github.com/Code52/carnac,Code52,141,2023-02-17T21:03:23Z,A utility to give some insight into how you use your keyboard
+415,CSharp,facebook-csharp-sdk,869,463,C#,https://github.com/facebook-csharp-sdk/facebook-csharp-sdk,facebook-csharp-sdk,70,2021-11-12T01:43:17Z,Facebook SDK for .NET
+416,CSharp,SkiaSharp,3313,464,C#,https://github.com/mono/SkiaSharp,mono,456,2023-03-24T01:26:25Z,"SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images."
+417,CSharp,Chloe,1418,460,C#,https://github.com/shuxinqin/Chloe,shuxinqin,35,2023-03-22T12:35:33Z,A lightweight and high-performance Object/Relational Mapping(ORM) library for .NET  --C#
+418,CSharp,SNETCracker,1943,460,C#,https://github.com/shack2/SNETCracker,shack2,24,2020-07-29T01:03:09Z,超级弱口令检查工具是一款Windows平台的弱口令审计工具，支持批量多线程检查，可快速发现弱密码、弱口令账号，密码支持和用户名结合进行检查，大大提高成功率，支持自定义服务端口和字典。
+419,CSharp,Catchem-PoGo,677,459,C#,https://github.com/Lunat1q/Catchem-PoGo,Lunat1q,0,2019-07-11T17:43:50Z,"Project is DEAD, Discord server: https://discord.me/Catchem"
+420,CSharp,DocX,1551,459,C#,https://github.com/xceedsoftware/DocX,xceedsoftware,281,2022-11-28T13:17:42Z,Fast and easy to use .NET library that creates or modifies Microsoft Word files without installing Word.
+421,CSharp,Windsor,1463,459,C#,https://github.com/castleproject/Windsor,castleproject,80,2023-01-22T12:41:07Z,"Castle Windsor is a best of breed, mature Inversion of Control container available for .NET"
+422,CSharp,cs-lab01-GradeBookApplication,0,597,C#,https://github.com/wsei-csharp201/cs-lab01-GradeBookApplication,wsei-csharp201,0,2023-03-25T15:26:23Z,Zadanie wprowadzające do laboratoriów (podsumowanie kursu podstawowego / powtórka materiału przed kursem zaawansowanym)
+423,CSharp,Open-Xml-PowerTools,444,458,C#,https://github.com/OpenXmlDev/Open-Xml-PowerTools,OpenXmlDev,0,2023-03-27T07:37:18Z,
+424,CSharp,ClearCanvas,411,456,C#,https://github.com/ClearCanvas/ClearCanvas,ClearCanvas,163,2022-08-25T12:15:45Z,Open source code base for enabling software innovation in medical imaging
+425,CSharp,KanColleViewer,913,456,C#,https://github.com/Grabacr07/KanColleViewer,Grabacr07,26,2022-06-22T18:06:52Z,艦これブラウザーのようなもの
+426,CSharp,nbfc,2446,457,C#,https://github.com/hirschmann/nbfc,hirschmann,39,2023-02-01T10:29:28Z,NoteBook FanControl
+427,CSharp,CppSharp,2580,456,C#,https://github.com/mono/CppSharp,mono,258,2023-03-20T14:47:16Z,Tools and libraries to glue C/C++ APIs to high-level languages
+428,CSharp,YMITSCompetition,0,455,C#,https://github.com/Mandur/YMITSCompetition,Mandur,0,2022-06-22T17:25:41Z,
+429,CSharp,WebGoat.NET,191,464,C#,https://github.com/jerryhoff/WebGoat.NET,jerryhoff,5,2022-12-06T19:26:10Z,OWASP WebGoat.NET
+430,CSharp,ParticleEffectForUGUI,2918,454,C#,https://github.com/mob-sakai/ParticleEffectForUGUI,mob-sakai,19,2023-03-24T01:13:49Z,"Render particle effect in UnityUI(uGUI). Maskable, sortable, and no extra Camera/RenderTexture/Canvas."
+431,CSharp,iotedge,1395,453,C#,https://github.com/Azure/iotedge,Azure,57,2023-03-25T01:35:26Z,The IoT Edge OSS project
+432,CSharp,cscore,1975,453,C#,https://github.com/filoe/cscore,filoe,78,2021-07-07T10:46:41Z,"An advanced audio library, written in C#. Provides tons of features. From playing/recording audio to decoding/encoding audio streams/files to processing audio data in realtime (e.g. applying custom effects during playback, create visualizations,...). The possibilities are nearly unlimited. "
+433,CSharp,chinook-database,1284,451,C#,https://github.com/lerocha/chinook-database,lerocha,10,2023-01-05T01:20:07Z,"Sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2"
+434,CSharp,SVG,946,451,C#,https://github.com/svg-net/SVG,svg-net,99,2023-03-13T09:27:45Z,Fork of the ms svg library
+435,CSharp,FastColoredTextBox,1126,450,C#,https://github.com/PavelTorgashov/FastColoredTextBox,PavelTorgashov,93,2022-06-01T07:47:57Z,Fast Colored TextBox for Syntax Highlighting. The text editor component for .NET.
+436,CSharp,CacheManager,2226,451,C#,https://github.com/MichaCo/CacheManager,MichaCo,55,2022-12-07T21:26:23Z,CacheManager is an open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features.
+437,CSharp,WebHooks,625,452,C#,https://github.com/aspnet/WebHooks,aspnet,0,2018-10-10T21:44:46Z,[Archived] Libraries to create and consume web hooks on ASP.NET Core. Project moved to https://github.com/aspnet/AspLabs
+438,CSharp,querybuilder,2653,449,C#,https://github.com/sqlkata/querybuilder,sqlkata,86,2023-03-24T14:25:28Z,"SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird"
+439,CSharp,ink,3455,449,C#,https://github.com/inkle/ink,inkle,293,2023-03-24T16:09:28Z,inkle's open source scripting language for writing interactive narrative.
+440,CSharp,excel2json,1523,448,C#,https://github.com/neil3d/excel2json,neil3d,14,2022-12-08T14:48:31Z,把Excel表转换成json对象，并保存到一个文本文件中。
+441,CSharp,commandline,3921,448,C#,https://github.com/commandlineparser/commandline,commandlineparser,232,2023-03-23T14:29:26Z,"The best C# command line parser that brings standardized *nix getopt style, for .NET.  Includes F# support"
+442,CSharp,clean-architecture-demo,936,447,C#,https://github.com/matthewrenze/clean-architecture-demo,matthewrenze,1,2022-08-29T00:05:47Z,"A sample app for my online course ""Clean Architecture: Patterns, Practices, and Principles"" in .NET Framework 4.8 "
+443,CSharp,docker-lambda,5853,448,C#,https://github.com/lambci/docker-lambda,lambci,58,2023-01-15T21:14:40Z,Docker images and test runners that replicate the live AWS Lambda environment
+444,CSharp,LiteNetLib,2571,447,C#,https://github.com/RevenantX/LiteNetLib,RevenantX,12,2023-03-05T18:05:44Z,Lite reliable UDP library for Mono and .NET
+445,CSharp,DFe.NET,657,448,C#,https://github.com/ZeusAutomacao/DFe.NET,ZeusAutomacao,10,2023-03-26T20:28:40Z,"Biblioteca para Geração de NFe(2.0, 3.10 e 4.0) e NFCe(3.10 e 4.0) e consumo dos serviços necessários à sua manutenção, conforme descritos em http://www.nfe.fazenda.gov.br/portal/principal.aspx"
+446,CSharp,NetCoreServer,1925,446,C#,https://github.com/chronoxor/NetCoreServer,chronoxor,122,2023-02-09T14:37:18Z,"Ultra fast and low latency asynchronous socket server & client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution"
+447,CSharp,itextsharp,1263,447,C#,https://github.com/itext/itextsharp,itext,0,2023-03-14T01:15:10Z,"[DEPRECATED] .NET port of the iText library, only security fixes will be added — please use iText 7 for .NET"
+448,CSharp,quickstart-unity,740,444,C#,https://github.com/firebase/quickstart-unity,firebase,82,2023-01-27T20:55:40Z,Firebase Quickstart Samples for Unity
+449,CSharp,aws-lambda-dotnet,1365,444,C#,https://github.com/aws/aws-lambda-dotnet,aws,85,2023-03-27T05:49:50Z,"Libraries, samples and tools to help .NET Core developers develop AWS Lambda functions."
+450,CSharp,Cognitive-Speech-TTS,575,444,C#,https://github.com/Azure-Samples/Cognitive-Speech-TTS,Azure-Samples,11,2023-03-23T06:44:36Z,"Microsoft Text-to-Speech API sample code in several languages, part of Cognitive Services."
+451,CSharp,azure-devops-dotnet-samples,475,488,C#,https://github.com/microsoft/azure-devops-dotnet-samples,microsoft,89,2021-04-21T19:24:14Z,.NET/C# samples for integrating with Azure DevOps Services and Azure DevOps Server
+452,CSharp,CarChecker,744,490,C#,https://github.com/SteveSandersonMS/CarChecker,SteveSandersonMS,10,2023-01-28T00:11:02Z,"A sample Blazor WebAssembly application that includes authentication, in-browser data storage, offline support, localization, responsive layouts, and more. For a video walkthrough, see this link:"
+453,CSharp,AssetBundles-Browser,1890,488,C#,https://github.com/Unity-Technologies/AssetBundles-Browser,Unity-Technologies,37,2023-01-11T17:40:25Z,Editor tool for viewing and debugging asset bundle contents before and after builds
+454,CSharp,btd6_mods,83,487,C#,https://github.com/Timotheeee/btd6_mods,Timotheeee,17,2023-03-16T07:52:41Z,
+455,CSharp,Bili.Uwp,7331,486,C#,https://github.com/Richasy/Bili.Uwp,Richasy,141,2023-03-18T13:08:50Z,适用于新系统UI的哔哩
+456,CSharp,FOCA,2267,485,C#,https://github.com/ElevenPaths/FOCA,ElevenPaths,9,2022-12-08T09:31:55Z,Tool to find metadata and hidden information in the documents.
+457,CSharp,PayPal-NET-SDK,520,485,C#,https://github.com/paypal/PayPal-NET-SDK,paypal,12,2020-05-11T17:23:11Z,.NET SDK for PayPal's RESTful APIs
+458,CSharp,Blazorise,2719,485,C#,https://github.com/Megabit/Blazorise,Megabit,287,2023-03-25T13:33:31Z,"Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Bulma, AntDesign, and Material."
+459,CSharp,Doccou,18,491,C#,https://github.com/aloisdg/Doccou,aloisdg,16,2015-09-15T08:12:56Z,A file pages counter
+460,CSharp,azure-api-management-devops-resource-kit,651,484,C#,https://github.com/Azure/azure-api-management-devops-resource-kit,Azure,0,2023-02-28T16:20:23Z,Azure API Management DevOps Resource Kit
+461,CSharp,ServUO,531,484,C#,https://github.com/ServUO/ServUO,ServUO,23,2023-03-23T04:32:39Z,An Ultima Online server emulator written in C# .NET
+462,CSharp,azure-iot-sdk-csharp,424,482,C#,https://github.com/Azure/azure-iot-sdk-csharp,Azure,13,2023-03-24T21:45:08Z,A C# SDK for connecting devices to Microsoft Azure IoT services
+463,CSharp,Templates,3162,481,C#,https://github.com/Dotnet-Boxed/Templates,Dotnet-Boxed,13,2023-03-24T06:16:17Z,".NET project templates with batteries included, providing the minimum amount of code required to get you going faster."
+464,CSharp,youtube,449,480,C#,https://github.com/angelsix/youtube,angelsix,2,2023-03-19T10:48:31Z,Any general files related to the AngelSix YouTube channel
+465,CSharp,wavefunctioncollapse,4071,477,C#,https://github.com/marian42/wavefunctioncollapse,marian42,5,2021-03-28T01:04:35Z,"Walk through an infinite, procedurally generated city"
+466,CSharp,XCharts,2444,476,C#,https://github.com/XCharts-Team/XCharts,XCharts-Team,3,2023-03-21T00:12:25Z,A charting and data visualization library for Unity.   Unity数据可视化图表插件。 
+467,CSharp,TechJobsMVC,0,475,C#,https://github.com/jayaarrgh/TechJobsMVC,jayaarrgh,0,2017-03-27T15:50:24Z,C# / .NET assignment
+468,CSharp,MonkeModManager,82,477,C#,https://github.com/DeadlyKitten/MonkeModManager,DeadlyKitten,13,2023-01-03T19:08:47Z,Mod Installer for the PC version of Gorilla Tag.
+469,CSharp,NJsonSchema,1163,475,C#,https://github.com/RicoSuter/NJsonSchema,RicoSuter,346,2023-03-20T19:31:03Z,"JSON Schema reader, generator and validator for .NET"
+470,CSharp,UniversalAdbDriver,1916,474,C#,https://github.com/koush/UniversalAdbDriver,koush,26,2021-07-20T03:23:12Z,One size fits all Windows Drivers for Android Debug Bridge.
+471,CSharp,x360ce,2337,475,C#,https://github.com/x360ce/x360ce,x360ce,716,2023-02-13T20:40:35Z,"Primary repository for the x360ce library, front-end and tools."
+472,CSharp,NETworkManager,3537,474,C#,https://github.com/BornToBeRoot/NETworkManager,BornToBeRoot,32,2023-03-27T08:05:46Z,A powerful tool for managing networks and troubleshoot network problems!
+473,CSharp,s7netplus,956,471,C#,https://github.com/S7NetPlus/s7netplus,S7NetPlus,67,2023-01-23T08:34:27Z,S7.NET+ -- A .NET library to connect to Siemens Step7 devices
+474,CSharp,EarTrumpet,7187,470,C#,https://github.com/File-New-Project/EarTrumpet,File-New-Project,42,2023-03-24T20:34:42Z,EarTrumpet - Volume Control for Windows
+475,CSharp,bc-csharp,1234,469,C#,https://github.com/bcgit/bc-csharp,bcgit,113,2023-03-17T11:16:43Z,BouncyCastle.NET Cryptography Library (Mirror)
+476,CSharp,AForge.NET,960,468,C#,https://github.com/andrewkirillov/AForge.NET,andrewkirillov,31,2022-01-22T14:21:50Z,"AForge.NET Framework is a C# framework designed for developers and researchers in the fields of Computer Vision and Artificial Intelligence - image processing, neural networks, genetic algorithms, machine learning, robotics, etc. "
+477,CSharp,AspNetCoreSpa,1384,467,C#,https://github.com/asadsahi/AspNetCoreSpa,asadsahi,3,2023-03-02T11:12:38Z,Asp.Net 7.0 & Angular 15 SPA Fullstack application with plenty of examples. Live demo: 
+478,CSharp,DownmarkerWPF,1369,467,C#,https://github.com/Code52/DownmarkerWPF,Code52,64,2022-06-22T15:45:48Z,MarkPad - a visual Markdown editor (inspired by the Downmarker project)
+479,CSharp,VSSDK-Extensibility-Samples,1149,465,C#,https://github.com/microsoft/VSSDK-Extensibility-Samples,microsoft,121,2022-12-08T08:35:11Z,Samples for building your own Visual Studio extensions
+480,CSharp,hakchi2,2919,465,C#,https://github.com/ClusterM/hakchi2,ClusterM,346,2023-02-28T15:32:02Z,Tool that allows you to add more games to your NES/SNES Classic Mini
+481,CSharp,carnac,3280,463,C#,https://github.com/Code52/carnac,Code52,141,2023-02-17T21:03:23Z,A utility to give some insight into how you use your keyboard
+482,CSharp,SkiaSharp,3313,464,C#,https://github.com/mono/SkiaSharp,mono,456,2023-03-24T01:26:25Z,"SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images."
+483,CSharp,facebook-csharp-sdk,869,463,C#,https://github.com/facebook-csharp-sdk/facebook-csharp-sdk,facebook-csharp-sdk,70,2021-11-12T01:43:17Z,Facebook SDK for .NET
+484,CSharp,Core,2010,462,C#,https://github.com/castleproject/Core,castleproject,19,2023-03-06T09:59:45Z,"Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter"
+485,CSharp,VFSForGit,5807,462,C#,https://github.com/microsoft/VFSForGit,microsoft,296,2023-02-13T14:16:15Z,Virtual File System for Git: Enable Git at Enterprise Scale
+486,CSharp,Chloe,1418,460,C#,https://github.com/shuxinqin/Chloe,shuxinqin,35,2023-03-22T12:35:33Z,A lightweight and high-performance Object/Relational Mapping(ORM) library for .NET  --C#
+487,CSharp,SNETCracker,1943,460,C#,https://github.com/shack2/SNETCracker,shack2,24,2020-07-29T01:03:09Z,超级弱口令检查工具是一款Windows平台的弱口令审计工具，支持批量多线程检查，可快速发现弱密码、弱口令账号，密码支持和用户名结合进行检查，大大提高成功率，支持自定义服务端口和字典。
+488,CSharp,Catchem-PoGo,677,459,C#,https://github.com/Lunat1q/Catchem-PoGo,Lunat1q,0,2019-07-11T17:43:50Z,"Project is DEAD, Discord server: https://discord.me/Catchem"
+489,CSharp,DocX,1551,459,C#,https://github.com/xceedsoftware/DocX,xceedsoftware,281,2022-11-28T13:17:42Z,Fast and easy to use .NET library that creates or modifies Microsoft Word files without installing Word.
+490,CSharp,Windsor,1463,459,C#,https://github.com/castleproject/Windsor,castleproject,80,2023-01-22T12:41:07Z,"Castle Windsor is a best of breed, mature Inversion of Control container available for .NET"
+491,CSharp,cs-lab01-GradeBookApplication,0,597,C#,https://github.com/wsei-csharp201/cs-lab01-GradeBookApplication,wsei-csharp201,0,2023-03-25T15:26:23Z,Zadanie wprowadzające do laboratoriów (podsumowanie kursu podstawowego / powtórka materiału przed kursem zaawansowanym)
+492,CSharp,Open-Xml-PowerTools,444,458,C#,https://github.com/OpenXmlDev/Open-Xml-PowerTools,OpenXmlDev,0,2023-03-27T07:37:18Z,
+493,CSharp,CDM,1425,458,C#,https://github.com/microsoft/CDM,microsoft,3,2023-03-17T22:05:42Z,"The Common Data Model (CDM) is a standard and extensible collection of schemas (entities, attributes, relationships) that represents business concepts and activities with well-defined semantics, to facilitate data interoperability. Examples of entities include: Account, Contact, Lead, Opportunity, Product, etc."
+494,CSharp,ClearCanvas,411,456,C#,https://github.com/ClearCanvas/ClearCanvas,ClearCanvas,163,2022-08-25T12:15:45Z,Open source code base for enabling software innovation in medical imaging
+495,CSharp,SignalR,2398,457,C#,https://github.com/aspnet/SignalR,aspnet,0,2018-12-01T07:02:42Z,[Archived] Incredibly simple real-time web for ASP.NET Core. Project moved to https://github.com/aspnet/AspNetCore
+496,CSharp,KanColleViewer,913,456,C#,https://github.com/Grabacr07/KanColleViewer,Grabacr07,26,2022-06-22T18:06:52Z,艦これブラウザーのようなもの
+497,CSharp,nbfc,2446,457,C#,https://github.com/hirschmann/nbfc,hirschmann,39,2023-02-01T10:29:28Z,NoteBook FanControl
+498,CSharp,CppSharp,2580,456,C#,https://github.com/mono/CppSharp,mono,258,2023-03-20T14:47:16Z,Tools and libraries to glue C/C++ APIs to high-level languages
+499,CSharp,cqrs-journey,1338,458,C#,https://github.com/microsoftarchive/cqrs-journey,microsoftarchive,3,2020-07-28T05:24:18Z,Microsoft patterns & pratices CQRS Journey sample application
+500,CSharp,YMITSCompetition,0,455,C#,https://github.com/Mandur/YMITSCompetition,Mandur,0,2022-06-22T17:25:41Z,
+501,CSharp,SteamKit,2207,451,C#,https://github.com/SteamRE/SteamKit,SteamRE,38,2023-03-23T11:20:52Z,"SteamKit2 is a .NET library designed to interoperate with Valve's Steam network. It aims to provide a simple, yet extensible, interface to perform various actions on the network."
+502,CSharp,SVG,946,451,C#,https://github.com/svg-net/SVG,svg-net,99,2023-03-13T09:27:45Z,Fork of the ms svg library
+503,CSharp,FastColoredTextBox,1126,450,C#,https://github.com/PavelTorgashov/FastColoredTextBox,PavelTorgashov,93,2022-06-01T07:47:57Z,Fast Colored TextBox for Syntax Highlighting. The text editor component for .NET.
+504,CSharp,CacheManager,2226,451,C#,https://github.com/MichaCo/CacheManager,MichaCo,55,2022-12-07T21:26:23Z,CacheManager is an open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features.
+505,CSharp,WebHooks,625,452,C#,https://github.com/aspnet/WebHooks,aspnet,0,2018-10-10T21:44:46Z,[Archived] Libraries to create and consume web hooks on ASP.NET Core. Project moved to https://github.com/aspnet/AspLabs
+506,CSharp,querybuilder,2653,449,C#,https://github.com/sqlkata/querybuilder,sqlkata,86,2023-03-24T14:25:28Z,"SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird"
+507,CSharp,excel2json,1523,448,C#,https://github.com/neil3d/excel2json,neil3d,14,2022-12-08T14:48:31Z,把Excel表转换成json对象，并保存到一个文本文件中。
+508,CSharp,commandline,3921,448,C#,https://github.com/commandlineparser/commandline,commandlineparser,232,2023-03-23T14:29:26Z,"The best C# command line parser that brings standardized *nix getopt style, for .NET.  Includes F# support"
+509,CSharp,clean-architecture-demo,936,447,C#,https://github.com/matthewrenze/clean-architecture-demo,matthewrenze,1,2022-08-29T00:05:47Z,"A sample app for my online course ""Clean Architecture: Patterns, Practices, and Principles"" in .NET Framework 4.8 "
+510,CSharp,Unity,2766,447,C#,https://github.com/github-for-unity/Unity,github-for-unity,3,2022-12-08T01:58:56Z,GitHub for Unity
+511,CSharp,docker-lambda,5853,448,C#,https://github.com/lambci/docker-lambda,lambci,58,2023-01-15T21:14:40Z,Docker images and test runners that replicate the live AWS Lambda environment
+512,CSharp,LiteNetLib,2571,447,C#,https://github.com/RevenantX/LiteNetLib,RevenantX,12,2023-03-05T18:05:44Z,Lite reliable UDP library for Mono and .NET
+513,CSharp,DFe.NET,657,448,C#,https://github.com/ZeusAutomacao/DFe.NET,ZeusAutomacao,10,2023-03-26T20:28:40Z,"Biblioteca para Geração de NFe(2.0, 3.10 e 4.0) e NFCe(3.10 e 4.0) e consumo dos serviços necessários à sua manutenção, conforme descritos em http://www.nfe.fazenda.gov.br/portal/principal.aspx"
+514,CSharp,NetCoreServer,1925,446,C#,https://github.com/chronoxor/NetCoreServer,chronoxor,122,2023-02-09T14:37:18Z,"Ultra fast and low latency asynchronous socket server & client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution"
+515,CSharp,itextsharp,1263,447,C#,https://github.com/itext/itextsharp,itext,0,2023-03-14T01:15:10Z,"[DEPRECATED] .NET port of the iText library, only security fixes will be added — please use iText 7 for .NET"
+516,CSharp,RunCat_for_windows,4628,446,C#,https://github.com/Kyome22/RunCat_for_windows,Kyome22,33,2023-01-29T11:44:40Z,A cute running cat animation on your windows taskbar.
+517,CSharp,aws-lambda-dotnet,1365,444,C#,https://github.com/aws/aws-lambda-dotnet,aws,85,2023-03-27T05:49:50Z,"Libraries, samples and tools to help .NET Core developers develop AWS Lambda functions."
+518,CSharp,Cognitive-Speech-TTS,575,444,C#,https://github.com/Azure-Samples/Cognitive-Speech-TTS,Azure-Samples,11,2023-03-23T06:44:36Z,"Microsoft Text-to-Speech API sample code in several languages, part of Cognitive Services."
+519,CSharp,SharpRDP,796,446,C#,https://github.com/0xthirteen/SharpRDP,0xthirteen,6,2022-11-13T05:29:33Z,Remote Desktop Protocol .NET Console Application for Authenticated Command Execution
+520,CSharp,PowerAppsTestAutomation,41,446,C#,https://github.com/microsoft/PowerAppsTestAutomation,microsoft,10,2023-01-23T02:26:00Z,
+521,CSharp,FluentTerminal,8764,442,C#,https://github.com/felixse/FluentTerminal,felixse,242,2023-03-22T20:02:30Z,A Terminal Emulator based on UWP and web technologies.
+522,CSharp,TechJobsOO,3,440,C#,https://github.com/LaunchCodeEducation/TechJobsOO,LaunchCodeEducation,1,2022-10-13T16:12:05Z,C# / .Net Assignment
+523,CSharp,Fody,3956,441,C#,https://github.com/Fody/Fody,Fody,1,2023-03-24T10:06:41Z,Extensible tool for weaving .net assemblies
+524,CSharp,eventcloud,395,441,C#,https://github.com/aspnetboilerplate/eventcloud,aspnetboilerplate,0,2019-10-30T06:57:08Z,Sample SaaS (Multi Tenant) Event Management Application
+525,CSharp,jwt,1961,440,C#,https://github.com/jwt-dotnet/jwt,jwt-dotnet,8,2023-03-02T02:10:54Z,"Jwt.Net, a JWT (JSON Web Token) implementation for .NET"
+526,CSharp,WalletWasabi,1786,440,C#,https://github.com/zkSNACKs/WalletWasabi,zkSNACKs,418,2023-03-27T11:06:55Z,"Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac."
+527,CSharp,EmotionPlayer,30,440,C#,https://github.com/EmotionEngineer/EmotionPlayer,EmotionEngineer,1,2023-03-09T14:31:03Z,Video player with content analysis function for age rating
+528,CSharp,wpfui,3872,436,C#,https://github.com/lepoco/wpfui,lepoco,146,2023-03-25T00:01:01Z,"WPF UI provides the Fluent experience in your known and loved WPF framework. Intuitive design, themes, navigation and new immersive controls. All natively and effortlessly."
+529,CSharp,USBCopyer,2218,435,C#,https://github.com/kenvix/USBCopyer,kenvix,21,2021-10-05T10:54:55Z,😉 用于在插上U盘后自动按需复制该U盘的文件。”备份&偷U盘文件的神器”（写作USBCopyer，读作USBCopier）
+530,CSharp,AvalonEdit,1568,436,C#,https://github.com/icsharpcode/AvalonEdit,icsharpcode,78,2023-03-19T09:07:00Z,The WPF-based text editor component used in SharpDevelop
+531,CSharp,EventSourcing.NetCore,2776,434,C#,https://github.com/oskardudycz/EventSourcing.NetCore,oskardudycz,16,2023-03-24T13:17:21Z,Examples and Tutorials of Event Sourcing in .NET
+532,CSharp,RulesEngine,2524,433,C#,https://github.com/microsoft/RulesEngine,microsoft,13,2023-03-20T21:57:16Z,A Json based Rules Engine with extensive Dynamic expression support
+533,CSharp,arcore-unity-sdk,1400,433,C#,https://github.com/google-ar/arcore-unity-sdk,google-ar,253,2021-07-13T22:49:44Z,ARCore SDK for Unity
+534,CSharp,quickstarts,890,437,C#,https://github.com/dapr/quickstarts,dapr,31,2023-03-23T11:54:38Z,Dapr quickstart code samples and tutorials showcasing core Dapr capabilities
+535,CSharp,TensorFlow.NET,2711,432,C#,https://github.com/SciSharp/TensorFlow.NET,SciSharp,141,2023-03-26T19:10:53Z,".NET Standard bindings for Google's TensorFlow for developing, training and deploying Machine Learning models in C# and F#."
+536,CSharp,Seal-Report,1215,431,C#,https://github.com/ariacom/Seal-Report,ariacom,12,2023-03-23T17:25:12Z,Open Database Reporting Tool (.Net)
+537,CSharp,Glimpse,2317,430,C#,https://github.com/Glimpse/Glimpse,Glimpse,47,2021-01-22T00:56:22Z,The open source diagnostics platform for the web
+538,CSharp,roslyn-analyzers,1362,430,C#,https://github.com/dotnet/roslyn-analyzers,dotnet,750,2023-03-27T12:06:01Z,
+539,CSharp,WebApiClient,1860,430,C#,https://github.com/dotnetcore/WebApiClient,dotnetcore,12,2023-01-10T01:51:36Z,An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
+540,CSharp,crest,2893,429,C#,https://github.com/wave-harmonic/crest,wave-harmonic,59,2023-03-26T10:01:41Z,An advanced ocean system implemented in Unity
+541,CSharp,installer,1125,429,C#,https://github.com/dotnet/installer,dotnet,164,2023-03-27T11:11:14Z,.NET SDK Installer
+542,CSharp,PokemonUnity,1446,428,C#,https://github.com/PokemonUnity/PokemonUnity,PokemonUnity,5,2023-02-01T20:30:01Z,A LEGACY Unity project to help build Pokémon-esque RPG games.
+543,CSharp,linq2db,2573,427,C#,https://github.com/linq2db/linq2db,linq2db,344,2023-03-26T04:39:23Z,Linq to database provider.
+544,CSharp,CheeseMVCPersistent,3,426,C#,https://github.com/LaunchCode-Education-Archived/CheeseMVCPersistent,LaunchCode-Education-Archived,0,2018-03-16T22:34:19Z,Studio for C# / .NET
+545,CSharp,PalindromeExercise,2,453,C#,https://github.com/mvdoyle/PalindromeExercise,mvdoyle,0,2022-10-03T18:59:39Z,Exercise utilizing xUnit with Test Driven Development
+546,CSharp,Domain-Driven-Design-Example,1549,425,C#,https://github.com/zkavtaskin/Domain-Driven-Design-Example,zkavtaskin,3,2022-06-22T17:02:24Z,Blog series supplementary domain-driven design C# repository that (hopefully) actually makes sense. 
+547,CSharp,Vlc.DotNet,916,424,C#,https://github.com/ZeBobo5/Vlc.DotNet,ZeBobo5,46,2020-06-27T17:07:49Z,.NET control that hosts the audio/video capabilities of the VLC libraries
+548,CSharp,BepInEx,2978,421,C#,https://github.com/BepInEx/BepInEx,BepInEx,102,2023-03-06T15:29:46Z,Unity / XNA game patcher and plugin framework
+549,CSharp,Magicodes.IE,1806,421,C#,https://github.com/dotnetcore/Magicodes.IE,dotnetcore,110,2023-03-26T12:31:22Z,"Import and export general library, support Dto import and export, template export, fancy export and dynamic export, support Excel, Csv, Word, Pdf and Html."
+550,CSharp,SocialGoal,840,420,C#,https://github.com/MarlabsInc/SocialGoal,MarlabsInc,13,2020-01-30T09:10:20Z,"Sample web app for ASP.NET MVC 5, EF 6 Code First, AutoMapper, Autofac and TDD"
+551,CSharp,Dynamics-AX-Integration,268,342,C#,https://github.com/microsoft/Dynamics-AX-Integration,microsoft,61,2022-12-07T19:44:38Z,Dynamics AX Integration samples and demos.
+552,CSharp,AsyncEx,3182,343,C#,https://github.com/StephenCleary/AsyncEx,StephenCleary,50,2023-01-14T03:07:11Z,A helper library for async/await.
+553,CSharp,ApplicationInspector,4047,343,C#,https://github.com/microsoft/ApplicationInspector,microsoft,18,2023-03-21T22:00:52Z,A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.
+554,CSharp,Furion,1889,342,C#,https://github.com/MonkSoul/Furion,MonkSoul,0,2023-03-27T11:20:04Z,"Make .NET development simpler, more general and more popular."
+555,CSharp,CKAN,1698,342,C#,https://github.com/KSP-CKAN/CKAN,KSP-CKAN,129,2023-03-26T18:58:51Z,The Comprehensive Kerbal Archive Network
+556,CSharp,codemaid,1765,341,C#,https://github.com/codecadwallader/codemaid,codecadwallader,424,2023-03-18T09:04:08Z,"CodeMaid is an open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding."
+557,CSharp,20486D-DevelopingASPNETMVCWebApplications,5,341,C#,https://github.com/MicrosoftLearning/20486D-DevelopingASPNETMVCWebApplications,MicrosoftLearning,5,2022-12-13T11:57:32Z,
+558,CSharp,Barotrauma,1244,339,C#,https://github.com/Regalis11/Barotrauma,Regalis11,541,2023-03-27T05:00:14Z,A 2D online multiplayer game taking place in a submarine travelling through the icy depths of Jupiter's moon Europa.
+559,CSharp,20483-Programming-in-C-Sharp,1,340,C#,https://github.com/MicrosoftLearning/20483-Programming-in-C-Sharp,MicrosoftLearning,9,2022-12-09T03:14:16Z,
+560,CSharp,cs10dotnet6,711,339,C#,https://github.com/markjprice/cs10dotnet6,markjprice,28,2023-03-17T18:55:38Z,"Repository for the Packt Publishing book titled ""C# 10 and .NET 6 - Modern Cross-Platform Development"" by Mark J. Price"
+561,CSharp,3DGameCoursera,13,339,C#,https://github.com/pfiguero/3DGameCoursera,pfiguero,0,2022-01-17T20:52:05Z,Demo para el curso de Desarrollo de Videojuegos 3D en Unity
+562,CSharp,odata.net,616,338,C#,https://github.com/OData/odata.net,OData,388,2023-03-24T12:19:47Z,ODataLib: Open Data Protocol - .NET Libraries and Frameworks
+563,CSharp,cyqdata,660,338,C#,https://github.com/cyq1162/cyqdata,cyq1162,28,2023-03-24T06:18:13Z,cyq.data is a  high-performance and the most powerful orm.（.NET 最好用的ORM数据层框架，木有之一！支持.NET Core）Support：Txt、Xml、Access、Sqlite、Mssql、Mysql、Oracle、Sybase、Postgres、DB2、Redis、MemCache。
+564,CSharp,SoapCore,863,338,C#,https://github.com/DigDes/SoapCore,DigDes,4,2023-03-14T08:42:53Z,SOAP extension for ASP.NET Core
+565,CSharp,Terraria-Map-Editor,1319,337,C#,https://github.com/TEdit/Terraria-Map-Editor,TEdit,46,2023-01-25T21:24:07Z,"TEdit - Terraria Map Editor - TEdit is a stand alone, open source map editor for Terraria. It lets you edit maps just like (almost) paint! It also lets you change world settings (time, bosses downed etc), edit chests and change sign, make epic dungeons, castles, cities, and add rewards for your adventurers!"
+566,CSharp,DriverStoreExplorer,4650,336,C#,https://github.com/lostindark/DriverStoreExplorer,lostindark,23,2023-03-25T13:45:33Z,Driver Store Explorer [RAPR]
+567,CSharp,obfuscar,1679,335,C#,https://github.com/obfuscar/obfuscar,obfuscar,43,2022-12-28T07:38:09Z,Open source obfuscation tool for .NET assemblies
+568,CSharp,winform.controls,600,336,C#,https://github.com/kwonganding/winform.controls,kwonganding,4,2019-05-26T02:53:03Z,分享几年前开发的一套winform控件库。当时主要为开发公司内部ERP系统，重新设计实现了所有用到的Winform组建，包括Form窗体组建6个（支持换肤），基础控件25个。其中有很多参考借鉴其他开源组件，也有几个是集成的别人的组件，然后做了些调整。  　　现在已经好几年不做Winform开发了，整理一下共享出来，希望能够给需要的朋友一些帮助。
+569,CSharp,netDxf,803,335,C#,https://github.com/haplokuon/netDxf,haplokuon,172,2023-03-05T16:50:48Z,.net dxf Reader-Writer
+570,CSharp,SunnyUI,1423,335,C#,https://github.com/yhuse/SunnyUI,yhuse,4,2023-03-27T01:08:25Z,"SunnyUI.Net, 基于.Net 4.0+、.Net 6 框架的 C# WinForm 开源控件库、工具类库、扩展类库、多页面开发框架。"
+571,CSharp,sipsorcery,1006,334,C#,https://github.com/sipsorcery-org/sipsorcery,sipsorcery-org,121,2023-03-26T20:12:01Z,"A WebRTC, SIP and VoIP library for C# and .NET. Designed for real-time communications apps."
+572,CSharp,DynamicExpresso,1571,333,C#,https://github.com/dynamicexpresso/DynamicExpresso,dynamicexpresso,21,2023-03-24T15:53:32Z,C# expressions interpreter
+573,CSharp,Impostor,2199,332,C#,https://github.com/Impostor/Impostor,Impostor,6,2023-03-08T19:46:42Z,Impostor - An open source reimplementation of the Among Us Server
+574,CSharp,AutoFixture,2951,332,C#,https://github.com/AutoFixture/AutoFixture,AutoFixture,40,2023-02-21T20:59:20Z,"AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on what is being tested rather than how to setup the test scenario, by making it easier to create object graphs containing test data."
+575,CSharp,lidgren-network-gen3,1120,331,C#,https://github.com/lidgren/lidgren-network-gen3,lidgren,59,2021-01-29T06:26:01Z,Lidgren Network Library
+576,CSharp,NEventStore,1555,330,C#,https://github.com/NEventStore/NEventStore,NEventStore,25,2021-12-28T11:20:53Z,A persistence agnostic Event Store for .NET
+577,CSharp,OpcUaHelper,628,329,C#,https://github.com/dathlin/OpcUaHelper,dathlin,32,2022-12-08T12:52:42Z,一个通用的opc ua客户端类库，基于.net 4.6.1创建，基于官方opc ua基金会跨平台库创建，封装了节点读写，批量节点读写，引用读取，特性读取，历史数据读取，方法调用，节点订阅，批量订阅等操作。还提供了一个节点浏览器工具。
+578,CSharp,Microcharts,1832,328,C#,https://github.com/microcharts-dotnet/Microcharts,microcharts-dotnet,76,2023-03-10T20:25:45Z,"Create cross-platform (Xamarin, Windows, ...) simple charts."
+579,CSharp,Demos,268,331,C#,https://github.com/catcherwong/Demos,catcherwong,0,2019-03-23T14:23:08Z,:100:Some demos for learning
+580,CSharp,osharp-v4,477,328,C#,https://github.com/gmf520/osharp-v4,gmf520,0,2021-01-29T20:21:27Z,osharp framework with .net framework version 4.x
+581,CSharp,DatingApp-v6,545,328,C#,https://github.com/TryCatchLearn/DatingApp-v6,TryCatchLearn,11,2021-11-06T03:12:25Z,
+582,CSharp,WowPacketParser,340,327,C#,https://github.com/TrinityCore/WowPacketParser,TrinityCore,34,2023-03-25T22:12:18Z,World of Warcraft Packet Parser
+583,CSharp,wojilu,233,327,C#,https://github.com/wojilu/wojilu,wojilu,3,2022-04-05T01:33:27Z,我记录框架 & 我记录网站综合系统
+584,CSharp,RocketBot,571,328,C#,https://github.com/brianzhouzc/RocketBot,brianzhouzc,311,2021-10-06T21:29:23Z,An automated Pokémon Go Bot
+585,CSharp,Massive,1789,327,C#,https://github.com/FransBouma/Massive,FransBouma,14,2017-08-15T15:57:23Z,"A small, happy, dynamic MicroORM for .NET that will love you forever."
+586,CSharp,DevOpsKoreaHOL,92,324,C#,https://github.com/ianychoi/DevOpsKoreaHOL,ianychoi,0,2022-12-07T22:39:41Z,A repository for an Azure DevOps Hands-on-Lab with https://dev.azure.com/kr-devops/devopskr
+587,CSharp,VisualEffectGraph-Samples,1463,326,C#,https://github.com/Unity-Technologies/VisualEffectGraph-Samples,Unity-Technologies,13,2022-02-04T16:45:01Z,Visual Effect Graph - Samples Project
+588,CSharp,firely-net-sdk,703,325,C#,https://github.com/FirelyTeam/firely-net-sdk,FirelyTeam,185,2023-03-24T16:06:10Z,The official Firely .NET SDK for HL7 FHIR
+589,CSharp,MimeKit,1554,325,C#,https://github.com/jstedfast/MimeKit,jstedfast,4,2023-03-26T17:05:23Z,"A .NET MIME creation and parser library with support for S/MIME, PGP, DKIM, TNEF and Unix mbox spools."
+590,CSharp,2d-extras,1355,324,C#,https://github.com/Unity-Technologies/2d-extras,Unity-Technologies,113,2023-03-17T02:17:47Z,Fun 2D Stuff that we'd like to share!
+591,CSharp,media-services-dotnet-functions-integration,1,322,C#,https://github.com/johndeu/media-services-dotnet-functions-integration,johndeu,0,2017-04-21T16:49:34Z,"Sample Azure Functions for use with Azure Media Services. Ingest from Azure Blobs, encode and output to Azure Blobs, monitor encoding progress, and use WebHooks or Queues to hook into the workflow. "
+592,CSharp,dotween,1963,322,C#,https://github.com/Demigiant/dotween,Demigiant,246,2023-02-19T20:19:58Z,A Unity C# animation engine. HOTween v2
+593,CSharp,EGamePlay,1072,322,C#,https://github.com/m969/EGamePlay,m969,0,2022-11-21T07:25:19Z,"一个基于Entity-Component模式的灵活、通用、可扩展的轻量战斗（技能）框架，配置可选使用ScriptableObject或是Excel表格. A flexible, generic, easy to extend, lightweight combat (skills) framework based on Entity-Component pattern. Configuration can choose to use ScriptableObject or Excel tables."
+594,CSharp,dev-days-labs,297,320,C#,https://github.com/xamarin/dev-days-labs,xamarin,0,2022-12-08T09:05:11Z,
+595,CSharp,aspnetwebstack,1,321,C#,https://github.com/haoduotnt/aspnetwebstack,haoduotnt,0,2012-03-29T01:08:42Z,ASP.NET MVC Webstack Mirror
+596,CSharp,StratisBitcoinFullNode,773,321,C#,https://github.com/stratisproject/StratisBitcoinFullNode,stratisproject,150,2021-08-16T11:06:15Z,Bitcoin full node in C#
+597,CSharp,AduSkin,1573,320,C#,https://github.com/aduskin/AduSkin,aduskin,14,2022-05-15T09:32:45Z,A Beautiful WPF Control UI
+598,CSharp,EasyModbusTCP.NET,663,320,C#,https://github.com/rossmann-engineering/EasyModbusTCP.NET,rossmann-engineering,41,2023-02-15T14:14:39Z,"Modbus TCP, Modbus UDP and Modbus RTU client/server library for .NET implementations"
+599,CSharp,Procedural-Planets,538,319,C#,https://github.com/SebLague/Procedural-Planets,SebLague,9,2019-09-22T03:57:11Z,
+600,CSharp,BotSharp,1389,318,C#,https://github.com/SciSharp/BotSharp,SciSharp,13,2022-12-08T08:56:42Z,The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm.
+601,CSharp,AduSkin,1573,320,C#,https://github.com/aduskin/AduSkin,aduskin,14,2022-05-15T09:32:45Z,A Beautiful WPF Control UI
+602,CSharp,EasyModbusTCP.NET,663,320,C#,https://github.com/rossmann-engineering/EasyModbusTCP.NET,rossmann-engineering,41,2023-02-15T14:14:39Z,"Modbus TCP, Modbus UDP and Modbus RTU client/server library for .NET implementations"
+603,CSharp,Procedural-Planets,538,319,C#,https://github.com/SebLague/Procedural-Planets,SebLague,9,2019-09-22T03:57:11Z,
+604,CSharp,BotSharp,1389,318,C#,https://github.com/SciSharp/BotSharp,SciSharp,13,2022-12-08T08:56:42Z,The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm.
+605,CSharp,Hosting,561,318,C#,https://github.com/aspnet/Hosting,aspnet,0,2018-11-20T18:39:13Z,[Archived] Code for hosting and starting up an ASP.NET Core application. Project moved to https://github.com/aspnet/Extensions and https://github.com/aspnet/AspNetCore
+606,CSharp,unity-jar-resolver,1003,317,C#,https://github.com/googlesamples/unity-jar-resolver,googlesamples,61,2023-03-23T18:05:35Z,Unity plugin which resolves Android & iOS dependencies and performs version management
+607,CSharp,smartCar,4,316,C#,https://github.com/smartCarLab/smartCar,smartCarLab,3,2022-09-27T15:20:08Z,smartCar
+608,CSharp,conversao-peso,19,319,C#,https://github.com/KubeDev/conversao-peso,KubeDev,0,2022-09-07T13:10:44Z,
+609,CSharp,mvvmlight,1146,317,C#,https://github.com/lbugnion/mvvmlight,lbugnion,57,2021-08-13T12:43:37Z,"The main purpose of the toolkit is to accelerate the creation and development of MVVM applications in Xamarin.Android, Xamarin.iOS, Xamarin.Forms, Windows 10 UWP, Windows Presentation Foundation (WPF), Silverlight, Windows Phone."
+610,CSharp,Thinktecture.IdentityModel.45,2,316,C#,https://github.com/w3bmcwill/Thinktecture.IdentityModel.45,w3bmcwill,0,2012-07-18T19:30:51Z,Helper library for identity & access control in .NET 4.5 and MVC4/Web API.
+611,CSharp,nodatime,2417,316,C#,https://github.com/nodatime/nodatime,nodatime,29,2023-03-24T06:56:47Z,A better date and time API for .NET
+612,CSharp,ThisIsWin11,4491,314,C#,https://github.com/builtbybel/ThisIsWin11,builtbybel,51,2023-02-23T10:22:08Z,The real PowerToys for Windows 11
+613,CSharp,developers,65,313,C#,https://github.com/MewsSystems/developers,MewsSystems,0,2023-03-02T16:48:06Z,"Information about development, engineering, work and life in Mews."
+614,CSharp,TrueCraft,2322,313,C#,https://github.com/ddevault/TrueCraft,ddevault,48,2019-02-13T14:38:38Z,Minecraft for hipsters
+615,CSharp,dotnet-core-api,94,313,C#,https://github.com/Azure-Samples/dotnet-core-api,Azure-Samples,4,2023-02-21T07:36:52Z,A simple ASP.NET Core API application that demonstrates how to run API apps in Azure App Service. 
+616,CSharp,ForgeNetworkingRemastered,1477,313,C#,https://github.com/BeardedManStudios/ForgeNetworkingRemastered,BeardedManStudios,40,2022-08-15T15:55:23Z,"See various forks, also please join the Forge Community fork of Forge Alloy! -> https://github.com/ForgeAlloyCommunity/ForgeAlloy"
+617,CSharp,SkyAPM-dotnet,1517,313,C#,https://github.com/SkyAPM/SkyAPM-dotnet,SkyAPM,15,2023-03-19T07:25:34Z,The .NET/.NET Core instrument agent for Apache SkyWalking
+618,CSharp,building_maintainable_software,85,312,C#,https://github.com/oreillymedia/building_maintainable_software,oreillymedia,0,2020-09-30T20:44:52Z,
+619,CSharp,ews-managed-api,559,313,C#,https://github.com/OfficeDev/ews-managed-api,OfficeDev,173,2023-03-09T14:47:18Z,
+620,CSharp,OSEP-Code-Snippets,745,313,C#,https://github.com/chvancooten/OSEP-Code-Snippets,chvancooten,1,2023-02-24T16:07:40Z,A repository with my notable code snippets for Offensive Security's PEN-300 (OSEP) course.
+621,CSharp,interactive,2303,312,C#,https://github.com/dotnet/interactive,dotnet,374,2023-03-24T21:07:54Z,".NET Interactive combines the power of .NET with many other languages to create notebooks, REPLs, and embedded coding experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before."
+622,CSharp,prebuilt-apps,216,311,C#,https://github.com/xamarin/prebuilt-apps,xamarin,15,2019-10-14T20:25:28Z,"Complete, prebuilt apps for you to customize and deploy."
+623,CSharp,semantic-kernel,3337,311,C#,https://github.com/microsoft/semantic-kernel,microsoft,16,2023-03-27T09:56:59Z,Integrate cutting-edge LLM technology quickly and easily into your apps
+624,CSharp,vMenu,289,310,C#,https://github.com/TomGrobbe/vMenu,TomGrobbe,3,2023-03-10T23:29:34Z,"vMenu is a custom server sided trainer/menu, built using a custom version of NativeUI. It has full permissions support, so the server owner can decide who's allowed to do what."
+625,CSharp,Bridge,1,309,C#,https://github.com/BenitoJedai/Bridge,BenitoJedai,0,2015-04-07T13:02:40Z,Write modern mobile and web apps in C#. Run them anywhere in JavaScript with Bridge.NET.
+626,CSharp,chummer5a,580,309,C#,https://github.com/chummer5a/chummer5a,chummer5a,69,2023-03-27T01:22:21Z,Character generator for Shadowrun 5th edition
+627,CSharp,UnitOfWork,1150,309,C#,https://github.com/Arch/UnitOfWork,Arch,30,2023-01-08T07:06:08Z,"A plugin for Microsoft.EntityFrameworkCore to support repository, unit of work patterns, multiple database with distributed transaction supported, and MySQL multiple databases/tables sharding supported."
+628,CSharp,logging-log4net,719,309,C#,https://github.com/apache/logging-log4net,apache,0,2023-01-27T03:40:44Z,Mirror of This is the Apache log4net logging project git repository.
+629,CSharp,Thinktecture.IdentityModel,1,308,C#,https://github.com/dmorosinotto/Thinktecture.IdentityModel,dmorosinotto,0,2013-10-30T06:17:49Z,Thinktecture.IdentityModel
+630,CSharp,saaskit,1048,307,C#,https://github.com/saaskit/saaskit,saaskit,28,2020-02-27T20:48:28Z,A developer toolkit for building SaaS applications
+631,CSharp,luban,1892,306,C#,https://github.com/focus-creative-games/luban,focus-creative-games,0,2023-03-07T08:06:49Z,"你的最佳游戏配置解决方案  {excel, csv, xls, xlsx, json, bson, xml, yaml, lua, unity scriptableobject} => {json, bson, xml, lua, yaml, protobuf(pb), msgpack, flatbuffers, erlang, custom template} data  +  {c++, java, c#, go(golang), lua, javascript(js), typescript(ts),  erlang, rust, gdscript, protobuf schema, flatbuffers schema, custom template} code。 "
+632,CSharp,Steamworks.NET,2232,307,C#,https://github.com/rlabrecque/Steamworks.NET,rlabrecque,67,2022-11-21T02:04:03Z,Steamworks wrapper for Unity / C#
+633,CSharp,app-acquaint,0,306,C#,https://github.com/rickyzicky/app-acquaint,rickyzicky,0,2016-03-31T00:06:34Z,
+634,CSharp,StardewMods,457,306,C#,https://github.com/Pathoschild/StardewMods,Pathoschild,44,2023-03-27T00:42:00Z,Mods for Stardew Valley using SMAPI.
+635,CSharp,MySqlConnector,1236,306,C#,https://github.com/mysql-net/MySqlConnector,mysql-net,69,2023-03-24T12:20:57Z,Async MySQL Connector for .NET
+636,CSharp,noPac,1195,306,C#,https://github.com/cube0x0/noPac,cube0x0,2,2021-12-16T09:50:15Z,CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter.
+637,CSharp,ajax-docs,20,305,C#,https://github.com/telerik/ajax-docs,telerik,0,2023-03-23T09:27:05Z,Public Documentation for Telerik UI for ASP.NET AJAX
+638,CSharp,Ultimate-2D-Controller,1258,304,C#,https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller,Matthew-J-Spencer,6,2023-02-02T02:53:37Z,"A great starting point for your 2D controller. Making use of all the hidden tricks like coyote, buffered actions, speedy apex, anti grav apex, etc"
+639,CSharp,ABP-ASP.NET-Boilerplate-Project-CMS,735,305,C#,https://github.com/Jimmey-Jiang/ABP-ASP.NET-Boilerplate-Project-CMS,Jimmey-Jiang,2,2023-03-03T05:42:12Z,ABP module-zero +AdminLTE+Bootstrap Table+jQuery+Redis + sql server+quartz+hangfire权限管理系统
+640,CSharp,EverythingToolbar,5831,304,C#,https://github.com/srwi/EverythingToolbar,srwi,24,2023-03-26T17:32:40Z,Everything integration for the Windows taskbar.
+641,CSharp,Akavache,2317,304,C#,https://github.com/reactiveui/Akavache,reactiveui,80,2023-03-02T17:28:19Z,"An asynchronous, persistent key-value store created for writing desktop and mobile applications, based on SQLite3. Akavache is great for both storing important data as well as cached local data that expires."
+642,CSharp,roslynpad,1886,303,C#,https://github.com/roslynpad/roslynpad,roslynpad,43,2023-01-12T09:23:28Z,A cross-platform C# editor based on Roslyn and AvalonEdit
+643,CSharp,SharpMap,777,303,C#,https://github.com/SharpMap/SharpMap,SharpMap,33,2022-12-08T02:41:40Z,An easy-to-use mapping library for use in web and desktop applications
+644,CSharp,NPoco,817,303,C#,https://github.com/schotime/NPoco,schotime,42,2023-03-23T22:15:55Z,Simple microORM that maps the results of a query onto a POCO object. Project based on Schotime's branch of PetaPoco
+645,CSharp,loxodon-framework,1440,302,C#,https://github.com/vovgou/loxodon-framework,vovgou,0,2023-02-09T05:22:10Z,An MVVM & Databinding framework that can use C# and Lua to develop games
+646,CSharp,aspnet-core-3-jwt-authentication-api,632,301,C#,https://github.com/cornflourblue/aspnet-core-3-jwt-authentication-api,cornflourblue,4,2021-08-25T14:51:58Z,ASP.NET Core 3.1 JWT Authentication API
+647,CSharp,DSharpPlus,1080,301,C#,https://github.com/DSharpPlus/DSharpPlus,DSharpPlus,32,2023-03-25T16:57:57Z,A .NET Standard library for making bots using the Discord API.
+648,CSharp,TechJobsMVC,0,298,C#,https://github.com/LaunchCodeEducation/TechJobsMVC,LaunchCodeEducation,0,2021-12-17T21:41:55Z,
+649,CSharp,FlaUI,1573,300,C#,https://github.com/FlaUI/FlaUI,FlaUI,167,2022-11-29T14:59:21Z,UI automation library for .Net
+650,CSharp,DcRat,751,299,C#,https://github.com/qwqdanchun/DcRat,qwqdanchun,31,2022-02-07T05:37:09Z,A simple remote tool in C#.
+651,CSharp,InjectFix,1772,388,C#,https://github.com/Tencent/InjectFix,Tencent,147,2023-03-16T02:27:44Z,InjectFix is a hot-fix solution library for Unity
+652,CSharp,YoutubeExtractor,812,388,C#,https://github.com/flagbug/YoutubeExtractor,flagbug,167,2021-11-07T02:03:36Z,"A .NET library, that allows to download videos from YouTube and/or extract their audio track (currently only for flash videos)."
+653,CSharp,ExchangeSharp,690,386,C#,https://github.com/DigitalRuby/ExchangeSharp,DigitalRuby,19,2023-03-26T17:08:40Z,"ExchangeSharp is a powerful, fast and easy to use .NET/C# API for interfacing with many crypto currency exchanges. REST and web sockets are supported."
+654,CSharp,NModbus4,764,386,C#,https://github.com/NModbus4/NModbus4,NModbus4,70,2021-08-03T09:39:54Z,NModbus4 is a C# implementation of the Modbus protocol. This project is archived in favor of https://github.com/NModbus/NModbus
+655,CSharp,boletonet,435,385,C#,https://github.com/BoletoNet/boletonet,BoletoNet,317,2023-03-03T10:01:06Z,"Boleto.Net is a library developed for use in Brazil, given it has been programmed with Brazilian retail legislation and business rules for bank registered billing integration."
+656,CSharp,Celeste,3105,385,C#,https://github.com/NoelFB/Celeste,NoelFB,19,2022-10-23T09:29:36Z,Celeste Bugs & Issue Tracker + some Source Code
+657,CSharp,TLSharp,996,383,C#,https://github.com/sochix/TLSharp,sochix,365,2021-12-05T15:14:06Z,Telegram client library implemented in C#
+658,CSharp,BotFramework-BlogSamples,375,383,C#,https://github.com/microsoft/BotFramework-BlogSamples,microsoft,0,2023-03-02T10:31:22Z,Welcome to the Bot Framework samples repository. Here you will find sample bots that take advantage of Bot Framework capabilities. 
+659,CSharp,azure-storage-net,445,383,C#,https://github.com/Azure/azure-storage-net,Azure,139,2023-01-24T17:29:00Z,Microsoft Azure Storage Libraries for .NET
+660,CSharp,PdfiumViewer,853,384,C#,https://github.com/pvginkel/PdfiumViewer,pvginkel,61,2021-07-28T13:58:51Z,PDF viewer based on Google's PDFium.
+661,CSharp,unitychan-crs,1199,383,C#,https://github.com/unity3d-jp/unitychan-crs,unity3d-jp,2,2021-11-30T12:12:04Z,"Unity-Chan ""Candy Rock Star"" Live Demo"
+662,CSharp,Binance.Net,878,383,C#,https://github.com/JKorf/Binance.Net,JKorf,35,2023-03-18T15:24:52Z,.Net API wrapper for the Binance web API
+663,CSharp,MisakaTranslator,3601,382,C#,https://github.com/hanmin0822/MisakaTranslator,hanmin0822,60,2023-03-22T15:14:06Z,御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
+664,CSharp,Wireboy.Socket.P2PSocket,1176,382,C#,https://github.com/hemaju/Wireboy.Socket.P2PSocket,hemaju,1,2022-08-10T14:05:40Z,P2P内网穿透，实现【公司】-【家】远程控制
+665,CSharp,MiniBlog,910,382,C#,https://github.com/madskristensen/MiniBlog,madskristensen,42,2022-03-31T16:26:42Z,A minimal blog engine using Razor Web Pages
+666,CSharp,SmartHotel360-Mobile,538,382,C#,https://github.com/microsoft/SmartHotel360-Mobile,microsoft,0,2020-02-04T23:23:59Z,SmartHotel360 Mobile
+667,CSharp,Colder.Admin.AntdVue,1189,381,C#,https://github.com/Coldairarrow/Colder.Admin.AntdVue,Coldairarrow,31,2022-12-11T13:46:04Z,Admin Fx Based On .NET 5 + Ant Design Vue
+668,CSharp,FluentEmail,2512,381,C#,https://github.com/lukencode/FluentEmail,lukencode,86,2023-01-30T01:21:57Z,"All in one email sender for .NET. Supports popular senders (SendGrid, MailGun, etc) and Razor templates."
+669,CSharp,litjson,1195,381,C#,https://github.com/LitJSON/litjson,LitJSON,57,2023-01-23T21:34:57Z,JSON library for the .Net framework
+670,CSharp,project-system,876,381,C#,https://github.com/dotnet/project-system,dotnet,583,2023-03-24T02:49:45Z,The .NET Project System for Visual Studio
+671,CSharp,awesome-dotnet-core,1673,380,C#,https://github.com/jasonhua95/awesome-dotnet-core,jasonhua95,0,2022-10-05T13:18:21Z,.NET Core库、工具、框架和软件的中文收录大全。 内容包括：库、工具、框架、模板引擎、身份认证、数据库、ORM框架、图片处理、文本处理、机器学习、日志、代码分析、教程等。
+672,CSharp,NoteHighlight2016,3478,380,C#,https://github.com/elvirbrk/NoteHighlight2016,elvirbrk,80,2023-02-21T08:55:13Z,Source code syntax highlighting for OneNote 2016 and OneNote for O365 . NoteHighlight 2013 port for OneNote 2016 (32-bit and 64-bit)
+673,CSharp,LiveCharts2,2710,379,C#,https://github.com/beto-rodriguez/LiveCharts2,beto-rodriguez,113,2023-03-22T17:18:24Z,"Simple, flexible, interactive & powerful charts, maps and gauges for .Net, LiveCharts2 can now practically run everywhere Maui, Uno Platform, Blazor-wasm, WPF, WinForms, Xamarin, Avalonia, WinUI, UWP."
+674,CSharp,com.unity.netcode.gameobjects,1827,381,C#,https://github.com/Unity-Technologies/com.unity.netcode.gameobjects,Unity-Technologies,126,2023-03-27T01:05:51Z,Netcode for GameObjects is a high-level netcode SDK that provides networking capabilities to GameObject/MonoBehaviour workflows within Unity and sits on top of underlying transport layer.
+675,CSharp,AspNetCoreAddingAuthentication,6,380,C#,https://github.com/pluralsight-projects/AspNetCoreAddingAuthentication,pluralsight-projects,0,2023-01-24T08:21:22Z,Add authentication to an existsing ASP.NET Core wishlist application
+676,CSharp,Playnite,5115,378,C#,https://github.com/JosefNemec/Playnite,JosefNemec,570,2023-03-24T17:49:38Z,"Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games."
+677,CSharp,puppeteer-sharp,2636,377,C#,https://github.com/hardkoded/puppeteer-sharp,hardkoded,49,2023-03-27T03:17:18Z,Headless Chrome .NET API
+678,CSharp,OpenBullet2,1076,377,C#,https://github.com/openbullet/OpenBullet2,openbullet,237,2023-03-05T09:00:01Z,OpenBullet reinvented
+679,CSharp,Sheng.WeixinConstruction,683,378,C#,https://github.com/iccb1013/Sheng.WeixinConstruction,iccb1013,1,2021-03-15T07:34:39Z,升讯威微信营销系统（第三方微信平台）完整源代码。包括了面向线下商家的诸多营销功能。【吸粉】 投票、定期抽奖、聚人气抽奖、摇一摇抽奖、粉丝海报、1元夺宝、发红包、在线捐款 等  【持续变现】 微官网、微会员、积分商城、卡券、微信支付、分类信息、电影排片 等  【管理考核】 电脑手机双后台、营销二维码、后台用户管理、操作日志 等。
+680,CSharp,Accelerider.Windows,1496,378,C#,https://github.com/Accelerider/Accelerider.Windows,Accelerider,31,2022-12-08T17:36:48Z,A shell that runs Accelerider applications on the Windows platform.
+681,CSharp,language-ext,5352,376,C#,https://github.com/louthy/language-ext,louthy,42,2023-03-21T09:52:09Z,C# functional language extensions - a base class library for functional programming
+682,CSharp,sharpkeys,5302,376,C#,https://github.com/randyrants/sharpkeys,randyrants,5,2023-03-17T21:37:10Z,SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
+683,CSharp,MoreLINQ,3193,375,C#,https://github.com/morelinq/MoreLINQ,morelinq,82,2023-03-26T16:49:33Z,Extensions to LINQ to Objects
+684,CSharp,Minecraft-Console-Client,1268,375,C#,https://github.com/MCCTeam/Minecraft-Console-Client,MCCTeam,54,2023-03-26T12:37:18Z,Lightweight console for Minecraft chat and automated scripts
+685,CSharp,DinkToPdf,944,375,C#,https://github.com/rdvojmoc/DinkToPdf,rdvojmoc,104,2020-04-18T23:43:04Z,C# .NET Core wrapper for wkhtmltopdf library that uses Webkit engine to convert HTML pages to PDF.
+686,CSharp,MagicOnion,3115,375,C#,https://github.com/Cysharp/MagicOnion,Cysharp,16,2023-03-10T05:53:42Z,Unified Realtime/API framework for .NET platform and Unity.
+687,CSharp,Geographical-Adventures,2777,374,C#,https://github.com/SebLague/Geographical-Adventures,SebLague,21,2023-02-21T14:05:21Z,
+688,CSharp,Magick.NET,2720,374,C#,https://github.com/dlemstra/Magick.NET,dlemstra,28,2023-03-27T07:02:57Z,The .NET library for ImageMagick
+689,CSharp,nodejstools,1785,374,C#,https://github.com/microsoft/nodejstools,microsoft,81,2023-03-23T18:13:32Z,Node.js Tools for Visual Studio
+690,CSharp,AV_Evasion_Tool,2106,373,C#,https://github.com/1y0n/AV_Evasion_Tool,1y0n,27,2023-03-12T00:48:03Z,掩日 - 免杀执行器生成工具
+691,CSharp,Practical.CleanArchitecture,1462,373,C#,https://github.com/phongnguyend/Practical.CleanArchitecture,phongnguyend,11,2023-03-19T01:00:24Z,"Full-stack .Net 7 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith), Blazor, Angular 15, React 18, Vue 3, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, Identity Server, Entity Framework Core, Selenium, SignalR, Hosted Services, Health Checks, Rate Limiting, Cloud (Azure, AWS) Services, ..."
+692,CSharp,winauth,1609,372,C#,https://github.com/winauth/winauth,winauth,172,2021-09-26T16:10:14Z,Authenticator on Windows for Battle.net / Steam / Guild Wars 2 / Glyph / Runescape / SWTOR / Bitcoin and digital currency exchanges
+693,CSharp,Pomelo.EntityFrameworkCore.MySql,2429,370,C#,https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql,PomeloFoundation,118,2023-02-25T11:06:58Z,Entity Framework Core provider for MySQL and MariaDB built on top of MySqlConnector
+694,CSharp,csharp-web-dev-datatypes,0,370,C#,https://github.com/LaunchCodeEducation/csharp-web-dev-datatypes,LaunchCodeEducation,0,2021-07-09T19:25:07Z,
+695,CSharp,google-cloud-dotnet,845,371,C#,https://github.com/googleapis/google-cloud-dotnet,googleapis,6,2023-03-27T12:03:48Z,Google Cloud Client Libraries for .NET
+696,CSharp,shouldly,1827,371,C#,https://github.com/shouldly/shouldly,shouldly,47,2023-03-20T22:22:48Z,Should testing for .NET—the way assertions should be!
+697,CSharp,scriptcs,2420,371,C#,https://github.com/scriptcs/scriptcs,scriptcs,168,2022-04-05T16:10:06Z,"Write C# apps with a text editor, nuget and the power of Roslyn!"
+698,CSharp,aspnetcore-generator-api,76,369,C#,https://github.com/g0t4/aspnetcore-generator-api,g0t4,4,2020-07-21T18:51:39Z,"Sample ASP.NET Core API that generates random data, has swagger UI too"
+699,CSharp,myrtille,1527,371,C#,https://github.com/cedrozor/myrtille,cedrozor,40,2022-03-21T10:12:55Z,A native HTML4 / HTML5 Remote Desktop Protocol and SSH client
+700,CSharp,Aurora,1784,370,C#,https://github.com/antonpup/Aurora,antonpup,629,2022-12-08T10:33:36Z,Unified lighting effects across multiple brands and various games.
+701,CSharp,nodejstools,1785,374,C#,https://github.com/microsoft/nodejstools,microsoft,81,2023-03-23T18:13:32Z,Node.js Tools for Visual Studio
+702,CSharp,Practical.CleanArchitecture,1462,373,C#,https://github.com/phongnguyend/Practical.CleanArchitecture,phongnguyend,11,2023-03-19T01:00:24Z,"Full-stack .Net 7 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith), Blazor, Angular 15, React 18, Vue 3, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, Identity Server, Entity Framework Core, Selenium, SignalR, Hosted Services, Health Checks, Rate Limiting, Cloud (Azure, AWS) Services, ..."
+703,CSharp,winauth,1609,372,C#,https://github.com/winauth/winauth,winauth,172,2021-09-26T16:10:14Z,Authenticator on Windows for Battle.net / Steam / Guild Wars 2 / Glyph / Runescape / SWTOR / Bitcoin and digital currency exchanges
+704,CSharp,Pomelo.EntityFrameworkCore.MySql,2429,370,C#,https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql,PomeloFoundation,118,2023-02-25T11:06:58Z,Entity Framework Core provider for MySQL and MariaDB built on top of MySqlConnector
+705,CSharp,csharp-web-dev-datatypes,0,370,C#,https://github.com/LaunchCodeEducation/csharp-web-dev-datatypes,LaunchCodeEducation,0,2021-07-09T19:25:07Z,
+706,CSharp,google-cloud-dotnet,845,371,C#,https://github.com/googleapis/google-cloud-dotnet,googleapis,6,2023-03-27T12:03:48Z,Google Cloud Client Libraries for .NET
+707,CSharp,shouldly,1827,371,C#,https://github.com/shouldly/shouldly,shouldly,47,2023-03-20T22:22:48Z,Should testing for .NET—the way assertions should be!
+708,CSharp,scriptcs,2420,371,C#,https://github.com/scriptcs/scriptcs,scriptcs,168,2022-04-05T16:10:06Z,"Write C# apps with a text editor, nuget and the power of Roslyn!"
+709,CSharp,aspnetcore-generator-api,76,369,C#,https://github.com/g0t4/aspnetcore-generator-api,g0t4,4,2020-07-21T18:51:39Z,"Sample ASP.NET Core API that generates random data, has swagger UI too"
+710,CSharp,myrtille,1527,371,C#,https://github.com/cedrozor/myrtille,cedrozor,40,2022-03-21T10:12:55Z,A native HTML4 / HTML5 Remote Desktop Protocol and SSH client
+711,CSharp,Aurora,1784,370,C#,https://github.com/antonpup/Aurora,antonpup,629,2022-12-08T10:33:36Z,Unified lighting effects across multiple brands and various games.
+712,CSharp,DMSkin,1415,369,C#,https://github.com/944095635/DMSkin,944095635,5,2021-08-15T02:28:37Z,DMSkin WPF 样式 UI 框架 | WPF Borderless Window | Custom Controls & Styles | MVVM Support
+713,CSharp,AZ-203-DevelopingSolutionsforMicrosoftAzure,396,369,C#,https://github.com/MicrosoftLearning/AZ-203-DevelopingSolutionsforMicrosoftAzure,MicrosoftLearning,0,2022-08-25T15:46:30Z,AZ-203: Developing Solutions for Microsoft Azure
+714,CSharp,Unigram,2702,368,C#,https://github.com/UnigramDev/Unigram,UnigramDev,326,2023-03-27T11:59:13Z,Telegram for Windows
+715,CSharp,aspnetcore-app-workshop,629,369,C#,https://github.com/dotnet-presentations/aspnetcore-app-workshop,dotnet-presentations,30,2022-06-07T16:50:57Z,This workshop will teach you ASP.NET Core by building a complete conference management website from scratch.
+716,CSharp,WebVella-ERP,918,368,C#,https://github.com/WebVella/WebVella-ERP,WebVella,0,2023-03-03T13:10:40Z,"Free and open-source pluggable ERP and CRM software based on ASP.NET Core 5, RazorPages and PostgreSQL 13. Targets Linux or Windows as host OS. "
+717,CSharp,TShock,2158,366,C#,https://github.com/Pryaxis/TShock,Pryaxis,109,2023-03-26T07:36:33Z,"☕️⚡️TShock provides Terraria servers with server-side characters, anti-cheat, and community management tools."
+718,CSharp,spring-net,799,366,C#,https://github.com/spring-projects/spring-net,spring-projects,6,2022-12-22T19:58:38Z,Spring Framework for .NET
+719,CSharp,UnityLibrary,2862,366,C#,https://github.com/UnityCommunity/UnityLibrary,UnityCommunity,11,2022-12-03T19:50:07Z,":books: Library of all kind of scripts, snippets & shaders for Unity"
+720,CSharp,EvilClippy,1862,366,C#,https://github.com/outflanknl/EvilClippy,outflanknl,16,2022-05-19T23:00:22Z,"A cross-platform assistant for creating malicious MS Office documents. Can hide VBA macros, stomp VBA code (via P-Code) and confuse macro analysis tools. Runs on Linux, OSX and Windows."
+721,CSharp,monotouch-bindings,448,365,C#,https://github.com/mono/monotouch-bindings,mono,59,2021-03-09T12:43:06Z,A collection of third party bindings for MonoTouch
+722,CSharp,corefxlab,1473,362,C#,https://github.com/dotnet/corefxlab,dotnet,1,2021-03-11T21:46:57Z,This repo is for experimentation and exploring new ideas that may or may not make it into the main corefx repo.
+723,CSharp,com.unity.multiplayer.samples.coop,1183,363,C#,https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop,Unity-Technologies,5,2023-03-26T16:42:21Z,"A small-scale cooperative game sample built on the new, Unity networking framework to teach developers about creating a similar multiplayer game."
+724,CSharp,csla,1098,363,C#,https://github.com/MarimerLLC/csla,MarimerLLC,80,2023-03-18T22:09:31Z,A home for your business logic in any .NET application.
+725,CSharp,aws-apigateway-lambda-authorizer-blueprints,643,363,C#,https://github.com/awslabs/aws-apigateway-lambda-authorizer-blueprints,awslabs,11,2022-04-03T22:01:10Z,Blueprints and examples for Lambda-based custom Authorizers for use in API Gateway.
+726,CSharp,Bulk-Crap-Uninstaller,5965,363,C#,https://github.com/Klocman/Bulk-Crap-Uninstaller,Klocman,45,2023-03-15T09:40:34Z,Remove large amounts of unwanted applications quickly.
+727,CSharp,p0wnedShell,1470,361,C#,https://github.com/Cn33liz/p0wnedShell,Cn33liz,6,2019-08-02T16:24:39Z,PowerShell Runspace Post Exploitation Toolkit
+728,CSharp,userdialogs,942,361,C#,https://github.com/aritchie/userdialogs,aritchie,0,2022-08-27T19:50:52Z,"A cross platform library that allows you to call for standard user dialogs from a core .net standard library,  Actionsheets, alerts, confirmations, loading, login, progress, prompt, toast... async just for fun"
+729,CSharp,osu-framework,1303,361,C#,https://github.com/ppy/osu-framework,ppy,304,2023-03-26T16:42:32Z,A game framework written with osu! in mind.
+730,CSharp,FFImageLoading,1397,361,C#,https://github.com/luberda-molinet/FFImageLoading,luberda-molinet,267,2023-03-16T16:01:13Z,"Image loading, caching & transforming library for Xamarin and Windows"
+731,CSharp,FreeIM,1170,363,C#,https://github.com/2881099/FreeIM,2881099,31,2023-02-01T04:49:43Z,.NETCore websocket 实现简易、高性能、集群即时通讯组件，支持点对点通讯、群聊通讯、上线下线事件消息等众多实用性功能.
+732,CSharp,UniHacker,1397,361,C#,https://github.com/tylearymf/UniHacker,tylearymf,8,2023-03-11T17:51:05Z,"Patch all versions of Unity3D and UnityHub for Windows, MacOS, Linux and Docker."
+733,CSharp,app-conference,733,359,C#,https://github.com/xamarinhq/app-conference,xamarinhq,6,2020-09-29T00:11:43Z,Pre-build conference application built with Xamarin
+734,CSharp,EnyimMemcached,577,360,C#,https://github.com/enyim/EnyimMemcached,enyim,0,2019-07-07T16:02:14Z,C# Memcached client
+735,CSharp,Examples,360,359,C#,https://github.com/autofac/Examples,autofac,1,2022-12-08T19:02:06Z,Example projects that consume and demonstrate Autofac IoC functionality and integration
+736,CSharp,QuestPatcher,108,359,C#,https://github.com/Lauriethefish/QuestPatcher,Lauriethefish,2,2023-03-04T06:46:06Z,Generic il2cpp modding tool for Oculus Quest (1/2) apps.
+737,CSharp,NiceHashMiner-Archived,840,358,C#,https://github.com/nicehash/NiceHashMiner-Archived,nicehash,507,2019-05-14T20:04:43Z,NiceHash easy to use CPU&GPU Miner
+738,CSharp,JTRP,1394,357,C#,https://github.com/JasonMa0012/JTRP,JasonMa0012,0,2022-08-23T07:13:41Z,JTRP : Unity HDRP ToonShading Render Pipeline (Preview)
+739,CSharp,MediaPlugin,695,357,C#,https://github.com/jamesmontemagno/MediaPlugin,jamesmontemagno,188,2022-10-12T20:12:23Z,Take  & Pick Photos and Video Plugin for Xamarin and Windows
+740,CSharp,TouchScript,1573,356,C#,https://github.com/TouchScript/TouchScript,TouchScript,73,2021-11-25T10:10:17Z,"Complete multi-touch solution for Unity: iOS, Android, Windows, TUIO."
+741,CSharp,WhatsAPINet,35,356,C#,https://github.com/rquiroz/WhatsAPINet,rquiroz,0,2016-05-19T09:54:48Z,A .NET WhatsApp API
+742,CSharp,MelonLoader,1453,355,C#,https://github.com/LavaGang/MelonLoader,LavaGang,36,2023-03-23T20:44:29Z,The World's First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono
+743,CSharp,MonoGame-Samples,610,355,C#,https://github.com/CartBlanche/MonoGame-Samples,CartBlanche,1,2022-05-23T10:13:09Z,All the Samples that work with MonoGame
+744,CSharp,DotSpatial,774,355,C#,https://github.com/DotSpatial/DotSpatial,DotSpatial,232,2023-03-21T10:47:46Z,Geographic information system library written for .NET
+745,CSharp,AspNetWebStack,792,355,C#,https://github.com/aspnet/AspNetWebStack,aspnet,5,2023-03-16T19:56:50Z,"ASP.NET MVC 5.x, Web API 2.x, and Web Pages 3.x (not ASP.NET Core)"
+746,CSharp,azure-webjobs-sdk,703,355,C#,https://github.com/Azure/azure-webjobs-sdk,Azure,603,2023-03-25T00:32:58Z,Azure WebJobs SDK
+747,CSharp,d3sharp,20,353,C#,https://github.com/gmy77/d3sharp,gmy77,0,2019-03-22T09:46:28Z,A game-server emulator being craft in c#
+748,CSharp,SyncTrayzor,4683,354,C#,https://github.com/canton7/SyncTrayzor,canton7,116,2022-05-13T12:55:42Z,Windows tray utility / filesystem watcher / launcher for Syncthing
+749,CSharp,Flurl,3522,353,C#,https://github.com/tmenier/Flurl,tmenier,53,2023-01-02T15:30:46Z,Fluent URL builder and testable HTTP client for .NET
+750,CSharp,blazorboilerplate,1720,353,C#,https://github.com/enkodellc/blazorboilerplate,enkodellc,11,2023-03-22T12:59:03Z,Blazor Boilerplate / Starter Template with MudBlazor 
+751,CSharp,app-acquaint,0,306,C#,https://github.com/rickyzicky/app-acquaint,rickyzicky,0,2016-03-31T00:06:34Z,
+752,CSharp,StardewMods,457,306,C#,https://github.com/Pathoschild/StardewMods,Pathoschild,44,2023-03-27T00:42:00Z,Mods for Stardew Valley using SMAPI.
+753,CSharp,UnityToolbag,9,306,C#,https://github.com/ChemiKhazi/UnityToolbag,ChemiKhazi,0,2017-03-04T06:27:23Z,Variety of Unity scripts and tools.
+754,CSharp,MySqlConnector,1236,306,C#,https://github.com/mysql-net/MySqlConnector,mysql-net,69,2023-03-24T12:20:57Z,Async MySQL Connector for .NET
+755,CSharp,noPac,1195,306,C#,https://github.com/cube0x0/noPac,cube0x0,2,2021-12-16T09:50:15Z,CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter.
+756,CSharp,BruteShark,2674,306,C#,https://github.com/odedshimon/BruteShark,odedshimon,23,2022-12-31T05:03:06Z,Network Analysis Tool
+757,CSharp,spark,1888,306,C#,https://github.com/dotnet/spark,dotnet,157,2023-03-02T03:11:48Z,.NET for Apache® Spark™ makes Apache Spark™ easily accessible to .NET developers.
+758,CSharp,ABP-ASP.NET-Boilerplate-Project-CMS,735,305,C#,https://github.com/Jimmey-Jiang/ABP-ASP.NET-Boilerplate-Project-CMS,Jimmey-Jiang,2,2023-03-03T05:42:12Z,ABP module-zero +AdminLTE+Bootstrap Table+jQuery+Redis + sql server+quartz+hangfire权限管理系统
+759,CSharp,EverythingToolbar,5831,304,C#,https://github.com/srwi/EverythingToolbar,srwi,24,2023-03-26T17:32:40Z,Everything integration for the Windows taskbar.
+760,CSharp,Akavache,2317,304,C#,https://github.com/reactiveui/Akavache,reactiveui,80,2023-03-02T17:28:19Z,"An asynchronous, persistent key-value store created for writing desktop and mobile applications, based on SQLite3. Akavache is great for both storing important data as well as cached local data that expires."
+761,CSharp,Audit.NET,1931,303,C#,https://github.com/thepirat000/Audit.NET,thepirat000,2,2023-03-27T05:49:11Z,An extensible framework to audit executing operations in .NET and .NET Core.
+762,CSharp,GeneticSharp,1081,303,C#,https://github.com/giacomelli/GeneticSharp,giacomelli,2,2023-01-29T12:44:51Z,"GeneticSharp is a fast, extensible, multi-platform and multithreading C# Genetic Algorithm library that simplifies the development of applications using Genetic Algorithms (GAs)."
+763,CSharp,NPoco,817,303,C#,https://github.com/schotime/NPoco,schotime,42,2023-03-23T22:15:55Z,Simple microORM that maps the results of a query onto a POCO object. Project based on Schotime's branch of PetaPoco
+764,CSharp,UniLua,1078,303,C#,https://github.com/xebecnan/UniLua,xebecnan,18,2022-06-27T15:01:21Z,A pure c# implementation of Lua 5.2 focus on compatibility with Unity
+765,CSharp,loxodon-framework,1440,302,C#,https://github.com/vovgou/loxodon-framework,vovgou,0,2023-02-09T05:22:10Z,An MVVM & Databinding framework that can use C# and Lua to develop games
+766,CSharp,portaldocs,310,302,C#,https://github.com/Azure/portaldocs,Azure,0,2023-03-27T03:20:59Z,This repository contains documents for creating extension in Azure Portal. The SDK and documentation are not supported for teams outside Microsoft.
+767,CSharp,XamarinMediaManager,746,301,C#,https://github.com/Baseflow/XamarinMediaManager,Baseflow,126,2023-03-16T16:13:43Z,Cross platform Xamarin plugin to play and control Audio and Video
+768,CSharp,DSharpPlus,1080,301,C#,https://github.com/DSharpPlus/DSharpPlus,DSharpPlus,32,2023-03-25T16:57:57Z,A .NET Standard library for making bots using the Discord API.
+769,CSharp,EntityFramework-Plus,2039,302,C#,https://github.com/zzzprojects/EntityFramework-Plus,zzzprojects,144,2023-03-20T22:40:13Z,"Entity Framework Plus extends your DbContext with must-haves features: Include Filter, Auditing, Caching, Query Future, Batch Delete, Batch Update, and more"
+770,CSharp,TechJobsMVC,0,298,C#,https://github.com/LaunchCodeEducation/TechJobsMVC,LaunchCodeEducation,0,2021-12-17T21:41:55Z,
+771,CSharp,AspectCore-Framework,1554,301,C#,https://github.com/dotnetcore/AspectCore-Framework,dotnetcore,22,2023-02-23T14:42:11Z,AspectCore is an AOP-based cross platform framework for .NET Standard.
+772,CSharp,DcRat,751,299,C#,https://github.com/qwqdanchun/DcRat,qwqdanchun,31,2022-02-07T05:37:09Z,A simple remote tool in C#.
+773,CSharp,paho.mqtt.m2mqtt,475,301,C#,https://github.com/eclipse/paho.mqtt.m2mqtt,eclipse,82,2022-07-12T06:11:45Z,
+774,CSharp,modul-318-student,1,297,C#,https://github.com/IctBerufsbildungZentralschweiz/modul-318-student,IctBerufsbildungZentralschweiz,0,2022-04-28T12:02:22Z,
+775,CSharp,MixedRealityCompanionKit,568,298,C#,https://github.com/microsoft/MixedRealityCompanionKit,microsoft,111,2019-08-05T19:36:58Z,This is a MixedRealityToolkit style repository for code bits and components that may not run directly on Microsoft HoloLens or immersive headsets but instead pair with them to build experiences.
+776,CSharp,PanuonUI.Silver,1620,297,C#,https://github.com/Mochengvia/PanuonUI.Silver,Mochengvia,15,2022-08-15T11:39:27Z,Panuon.UI optimized version. A beautiful wpf ui library using templates & attached properties.
+777,CSharp,HelloCode,0,294,C#,https://github.com/NataSola/HelloCode,NataSola,0,2022-01-21T18:34:24Z,
+778,CSharp,AI-100-Design-Implement-Azure-AISol,0,296,C#,https://github.com/cheahengsoon/AI-100-Design-Implement-Azure-AISol,cheahengsoon,0,2022-12-08T02:31:45Z,Lab files for AI100T01A ILT Course
+779,CSharp,code-cracker,1106,296,C#,https://github.com/code-cracker/code-cracker,code-cracker,136,2022-12-08T10:55:07Z,"An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties."
+780,CSharp,CleanArchitecture.WebApi,1181,295,C#,https://github.com/iammukeshm/CleanArchitecture.WebApi,iammukeshm,21,2022-12-08T10:53:11Z,An implementation of Clean Architecture for ASP.NET Core 3.1 WebAPI. Built with loosely coupled architecture and clean-code practices in mind.
+781,CSharp,scada,606,296,C#,https://github.com/RapidScada/scada,RapidScada,2,2022-10-21T16:57:48Z,Contains Rapid SCADA sources
+782,CSharp,blazor-ui,261,297,C#,https://github.com/telerik/blazor-ui,telerik,2,2023-03-17T13:02:31Z,A collection of examples related to Telerik UI for Blazor Components: https://www.telerik.com/blazor-ui
+783,CSharp,ASPNETCore-WebAPI-Sample,437,295,C#,https://github.com/FabianGosebrink/ASPNETCore-WebAPI-Sample,FabianGosebrink,1,2023-03-07T17:26:07Z,This is a sample ASP.NET Core WebAPI
+784,CSharp,IdentityServer2,410,295,C#,https://github.com/IdentityServer/IdentityServer2,IdentityServer,46,2016-09-22T12:06:43Z,"[deprecated] Thinktecture IdentityServer is a light-weight security token service built with .NET 4.5, MVC 4, Web API and WCF."
+785,CSharp,BetterJoy,2880,294,C#,https://github.com/Davidobot/BetterJoy,Davidobot,446,2023-03-03T22:40:36Z,"Allows the Nintendo Switch Pro Controller, Joycons and SNES controller to be used with CEMU, Citra, Dolphin, Yuzu and as generic XInput"
+786,CSharp,csharp,256,295,C#,https://github.com/exercism/csharp,exercism,52,2023-03-26T21:14:24Z,Exercism exercises in C#.
+787,CSharp,twilio-csharp,614,293,C#,https://github.com/twilio/twilio-csharp,twilio,18,2023-03-24T04:48:38Z,Twilio C#/.NET Helper Library for .NET Framework 3.5+ and supported .NET Core versions
+788,CSharp,taglib-sharp,1100,293,C#,https://github.com/mono/taglib-sharp,mono,117,2022-08-04T17:25:45Z,Library for reading and writing metadata in media files
+789,CSharp,MCW-Serverless-architecture,208,293,C#,https://github.com/microsoft/MCW-Serverless-architecture,microsoft,0,2022-07-01T17:39:53Z,MCW Serverless architecture
+790,CSharp,WindowsCompositionSamples,1044,291,C#,https://github.com/microsoft/WindowsCompositionSamples,microsoft,25,2023-02-06T16:07:17Z,Windows Composition Samples the place for getting the latest code samples and demos using Windows.UI.Xaml and Windows.UI.Composition to make beautiful Universal Windows Platform applications.
+791,CSharp,ProjectPorcupine,476,291,C#,https://github.com/TeamPorcupine/ProjectPorcupine,TeamPorcupine,88,2017-11-19T10:34:10Z,Project Porcupine: A Base-Building Game...in Space!
+792,CSharp,ReClass.NET,1366,292,C#,https://github.com/ReClassNET/ReClass.NET,ReClassNET,62,2022-12-21T11:57:25Z,More than a ReClass port to the .NET platform.
+793,CSharp,alicloud-ams-demo,117,290,C#,https://github.com/aliyun/alicloud-ams-demo,aliyun,8,2020-10-13T08:48:02Z,
+794,CSharp,WART,7,292,C#,https://github.com/r0otsharp/WART,r0otsharp,0,2015-03-23T10:54:09Z, WhatsApp Registration Tool
+795,CSharp,SpotifyAPI-NET,1277,290,C#,https://github.com/JohnnyCrazy/SpotifyAPI-NET,JohnnyCrazy,7,2023-03-20T09:56:52Z,":sound: A Client for the Spotify Web API, written in C#/.NET"
+796,CSharp,kbengine_unity3d_demo,274,291,C#,https://github.com/kbengine/kbengine_unity3d_demo,kbengine,2,2020-07-25T04:02:20Z,This client-project is written for kbengine(a MMOG engine of server)
+797,CSharp,RobustToolbox,390,290,C#,https://github.com/space-wizards/RobustToolbox,space-wizards,371,2023-03-27T11:40:56Z,"Robust multiplayer game engine, used by Space Station 14"
+798,CSharp,NodeGraphProcessor,1720,290,C#,https://github.com/alelievr/NodeGraphProcessor,alelievr,49,2023-02-26T10:13:56Z,Node graph editor framework focused on data processing using Unity UIElements and C# 4.6
+799,CSharp,Town-Of-Us,777,290,C#,https://github.com/slushiegoose/Town-Of-Us,slushiegoose,17,2021-10-02T06:53:21Z,An Among Us mod containing a bunch of roles
+800,CSharp,VolumetricLights,1785,289,C#,https://github.com/SlightlyMad/VolumetricLights,SlightlyMad,25,2018-08-25T10:16:45Z,Volumetric Lights for Unity
+801,CSharp,Covid19Radar-1,4,286,C#,https://github.com/yoichinak/Covid19Radar-1,yoichinak,0,2020-08-07T10:23:24Z,We welcome contributions and pull requests.  could you read HOW_TO_CONTRIBUTE.md
+802,CSharp,FFXIVQuickLauncher,2207,286,C#,https://github.com/goatcorp/FFXIVQuickLauncher,goatcorp,261,2023-03-11T22:46:15Z,Custom launcher for FFXIV
+803,CSharp,Unity-Resource-Checker,939,286,C#,https://github.com/handcircus/Unity-Resource-Checker,handcircus,9,2022-02-20T23:43:29Z,"Editor utility for unity to help check resources in the current scene (including active textures, their sizes, materials, meshes and which objects are using them)"
+804,CSharp,ASP.NETPractice,0,308,C#,https://github.com/devBustamento/ASP.NETPractice,devBustamento,0,2019-10-22T00:16:48Z,
+805,CSharp,MyDriving,382,285,C#,https://github.com/Azure-Samples/MyDriving,Azure-Samples,37,2019-10-07T18:55:54Z,"Building IoT or Mobile solutions are fun and exciting. This year for Build, we wanted to show the amazing scenarios that can come together when these two are combined. So, we went and developed a sample application. MyDriving uses a wide range of Azure services to process and analyze car telemetry data for both real-time insights and long-term patterns and trends. The following features are supported in the current version of the mobile app."
+806,CSharp,Rubberduck,1739,285,C#,https://github.com/rubberduck-vba/Rubberduck,rubberduck-vba,961,2023-03-26T17:48:46Z,Every programmer needs a rubberduck. COM add-in for the VBA & VB6 IDE (VBE).
+807,CSharp,AspNetIdentity.WebApi,448,284,C#,https://github.com/tjoudeh/AspNetIdentity.WebApi,tjoudeh,4,2015-11-12T22:50:33Z,"Tutorial for Building Simple Membership System using ASP.NET Identity 2.1, ASP.NET Web API, and AngularJS"
+808,CSharp,dotnet-sdk,973,284,C#,https://github.com/dapr/dotnet-sdk,dapr,135,2023-03-23T16:35:25Z,Dapr SDK for .NET
+809,CSharp,CodeXGLUE,972,285,C#,https://github.com/microsoft/CodeXGLUE,microsoft,16,2023-03-26T08:24:46Z,CodeXGLUE 
+810,CSharp,NLua,1738,283,C#,https://github.com/NLua/NLua,NLua,62,2023-03-15T05:33:19Z,Bridge between Lua and the .NET.
+811,CSharp,FancyScrollView,2109,283,C#,https://github.com/setchi/FancyScrollView,setchi,9,2022-07-08T01:35:12Z,[Unity] Scroll view component that can implement highly flexible animations.
+812,CSharp,FFmpeg.AutoGen,1016,283,C#,https://github.com/Ruslan-B/FFmpeg.AutoGen,Ruslan-B,3,2023-03-21T06:22:12Z,"FFmpeg auto generated unsafe bindings for C#/.NET and Core (Linux, MacOS and Mono)."
+813,CSharp,sixthsense,595,283,C#,https://github.com/sixthsense/sixthsense,sixthsense,10,2016-06-13T17:09:10Z,Open Source Codebase for project SixthSense 
+814,CSharp,FastNoiseLite,2071,282,C#,https://github.com/Auburn/FastNoiseLite,Auburn,12,2022-11-10T23:23:32Z,Fast Portable Noise Library - C# C++ C Java(Script) HLSL GLSL
+815,CSharp,AppMetrics,2146,282,C#,https://github.com/AppMetrics/AppMetrics,AppMetrics,83,2023-03-14T04:35:58Z,App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application.
+816,CSharp,EasyRepro,471,282,C#,https://github.com/microsoft/EasyRepro,microsoft,455,2023-03-09T15:07:32Z,Automated UI testing API for Dynamics 365
+817,CSharp,SanAndreasUnity,1587,282,C#,https://github.com/GTA-ASM/SanAndreasUnity,GTA-ASM,33,2023-02-19T14:08:14Z,Open source reimplementation of GTA San Andreas game engine in Unity
+818,CSharp,DotNetToJScript,1053,282,C#,https://github.com/tyranid/DotNetToJScript,tyranid,3,2021-01-18T22:52:10Z,A tool to create a JScript file which loads a .NET v2 assembly from memory.
+819,CSharp,csharp-web-dev-controlflowandcollections,0,282,C#,https://github.com/LaunchCodeEducation/csharp-web-dev-controlflowandcollections,LaunchCodeEducation,1,2021-07-09T19:52:37Z,
+820,CSharp,csharp-web-dev-classespart1and2,0,283,C#,https://github.com/LaunchCodeEducation/csharp-web-dev-classespart1and2,LaunchCodeEducation,0,2022-08-24T22:49:30Z,
+821,CSharp,MVC_EF_Start,0,281,C#,https://github.com/cpjohnso/MVC_EF_Start,cpjohnso,0,2018-10-22T21:17:13Z,Created starting point for an MVC Core project with Entity Framework
+822,CSharp,InputSystem,1302,281,C#,https://github.com/Unity-Technologies/InputSystem,Unity-Technologies,5,2023-03-26T02:51:28Z,An efficient and versatile input system for Unity.
+823,CSharp,sharpgl,677,280,C#,https://github.com/dwmkerr/sharpgl,dwmkerr,104,2022-07-12T06:35:50Z,Use OpenGL in .NET applications. SharpGL wraps all modern OpenGL features and offers a powerful scene graph to aid development.
+824,CSharp,msbuildtasks,932,279,C#,https://github.com/loresoft/msbuildtasks,loresoft,119,2021-03-08T09:04:44Z,The MSBuild Community Tasks Project is an open source project for MSBuild tasks.
+825,CSharp,cs8dotnetcore3,229,280,C#,https://github.com/markjprice/cs8dotnetcore3,markjprice,4,2022-12-08T05:25:54Z,"Repository for the Packt Publishing book titled ""C# 8.0 and .NET Core 3.0"" by Mark J. Price"
+826,CSharp,connectthedots,401,278,C#,https://github.com/Azure/connectthedots,Azure,9,2020-12-07T18:18:24Z,Connect tiny devices to Microsoft Azure services to build IoT solutions
+827,CSharp,EasyCaching,1576,279,C#,https://github.com/dotnetcore/EasyCaching,dotnetcore,17,2023-03-24T00:50:43Z,:boom: EasyCaching is an open source caching library that contains basic usages and some advanced usages of caching which can help us to handle caching more easier!
+828,CSharp,Hanselman.Forms,672,279,C#,https://github.com/jamesmontemagno/Hanselman.Forms,jamesmontemagno,23,2022-12-08T09:20:15Z,The most awesome Hanselman app
+829,CSharp,CrystalQuartz,897,279,C#,https://github.com/guryanovev/CrystalQuartz,guryanovev,27,2022-04-13T03:00:13Z,pluggable UI for Quartz.NET
+830,CSharp,PSReadLine,3062,277,C#,https://github.com/PowerShell/PSReadLine,PowerShell,182,2023-03-22T22:47:14Z,A bash inspired readline implementation for PowerShell
+831,CSharp,gemini,992,277,C#,https://github.com/tgjones/gemini,tgjones,51,2023-03-21T21:52:27Z,Gemini is an IDE framework similar in concept to the Visual Studio Shell. It uses AvalonDock and has an MVVM architecture based on Caliburn Micro.
+832,CSharp,JustDecompileEngine,1296,277,C#,https://github.com/telerik/JustDecompileEngine,telerik,19,2020-03-09T02:47:04Z,The decompilation engine of JustDecompile
+833,CSharp,di,12,274,C#,https://github.com/kontur-courses/di,kontur-courses,0,2022-12-27T17:47:24Z,
+834,CSharp,AICommand,2725,276,C#,https://github.com/keijiro/AICommand,keijiro,3,2023-03-24T00:42:51Z,ChatGPT integration with Unity Editor
+835,CSharp,SimpleJSON,607,276,C#,https://github.com/Bunny83/SimpleJSON,Bunny83,15,2023-03-09T03:29:34Z,A simple JSON parser in C#
+836,CSharp,YaVipCore,1191,276,C#,https://github.com/AnyListen/YaVipCore,AnyListen,16,2023-02-24T16:28:20Z,Net Core Music Interface
+837,CSharp,csharp-web-dev-techjobs-oo,0,275,C#,https://github.com/LaunchCodeEducation/csharp-web-dev-techjobs-oo,LaunchCodeEducation,0,2021-12-10T21:29:45Z,
+838,CSharp,TravisCI,2,276,C#,https://github.com/dteske25/TravisCI,dteske25,1,2022-03-25T20:19:35Z,
+839,CSharp,MVA-Introduction-to-ASPNET-MVC,229,275,C#,https://github.com/jongalloway/MVA-Introduction-to-ASPNET-MVC,jongalloway,2,2015-09-04T14:01:57Z,"Source code for the Introduction to ASP.NET MVC free training course on June 23, 2014 (http://www.microsoftvirtualacademy.com/liveevents/introduction-to-asp-net-mvc)"
+840,CSharp,equeue,580,275,C#,https://github.com/tangxuehua/equeue,tangxuehua,9,2022-10-28T07:06:18Z,a distributed mq written by c#.
+841,CSharp,PowerForensics,1282,276,C#,https://github.com/Invoke-IR/PowerForensics,Invoke-IR,59,2022-05-20T14:43:10Z,PowerForensics provides an all in one platform for live disk forensic analysis
+842,CSharp,dotnet-bluetooth-le,625,275,C#,https://github.com/dotnet-bluetooth-le/dotnet-bluetooth-le,dotnet-bluetooth-le,222,2023-03-20T09:47:32Z,"Bluetooth LE plugin for Xamarin/MAUI, supporting Android, iOS, Mac, Windows"
+843,CSharp,Telegram.Bot.Examples,514,275,C#,https://github.com/TelegramBots/Telegram.Bot.Examples,TelegramBots,0,2023-03-26T18:46:57Z,Examples for the Telegram.Bot C# Library
+844,CSharp,VAGEDCSuite,99,275,C#,https://github.com/Blackfrosch/VAGEDCSuite,Blackfrosch,1,2020-04-23T20:13:29Z,
+845,CSharp,Facepunch.Steamworks,2360,275,C#,https://github.com/Facepunch/Facepunch.Steamworks,Facepunch,133,2023-03-17T15:37:17Z,Another fucking c# Steamworks implementation
+846,CSharp,WebApiThrottle,1264,275,C#,https://github.com/stefanprodan/WebApiThrottle,stefanprodan,45,2021-10-01T14:15:29Z,ASP.NET Web API rate limiter for IIS and Owin hosting
+847,CSharp,xamarin-store-app,16,274,C#,https://github.com/garuma/xamarin-store-app,garuma,0,2014-08-20T15:50:05Z,See wear-support branch for added Android Wear app
+848,CSharp,NRules,1302,276,C#,https://github.com/NRules/NRules,NRules,19,2023-03-27T02:41:13Z,"Rules engine for .NET, based on the Rete matching algorithm, with internal DSL in C#. "
+849,CSharp,Mercurial-Grabber,338,274,C#,https://github.com/NightfallGT/Mercurial-Grabber,NightfallGT,96,2022-02-12T16:05:38Z,"Grab Discord tokens, Chrome passwords and cookies, and more"
+850,CSharp,vstest,766,274,C#,https://github.com/microsoft/vstest,microsoft,227,2023-03-25T12:37:33Z,Visual Studio Test Platform is the runner and engine that powers test explorer and vstest.console.
+851,CSharp,Entropy,553,287,C#,https://github.com/aspnet/Entropy,aspnet,3,2021-01-07T22:24:33Z,A chaotic experimental playground for new features and ideas - check here for small and simple samples for individual features.
+852,CSharp,voat,1203,287,C#,https://github.com/voat/voat,voat,67,2018-07-08T01:12:04Z,The code that powers Voat
+853,CSharp,RockPaperScissorsLizardSpock,575,285,C#,https://github.com/microsoft/RockPaperScissorsLizardSpock,microsoft,6,2023-03-04T09:38:28Z,"Rock, Paper, Scissors, Lizard, Spock - Sample Application"
+854,CSharp,dotliquid,966,286,C#,https://github.com/dotliquid/dotliquid,dotliquid,30,2023-03-24T02:43:46Z,.NET Port of Tobias Lütke's Liquid template language.
+855,CSharp,Covid19Radar-1,4,286,C#,https://github.com/yoichinak/Covid19Radar-1,yoichinak,0,2020-08-07T10:23:24Z,We welcome contributions and pull requests.  could you read HOW_TO_CONTRIBUTE.md
+856,CSharp,Unity-Resource-Checker,939,286,C#,https://github.com/handcircus/Unity-Resource-Checker,handcircus,9,2022-02-20T23:43:29Z,"Editor utility for unity to help check resources in the current scene (including active textures, their sizes, materials, meshes and which objects are using them)"
+857,CSharp,ASP.NETPractice,0,308,C#,https://github.com/devBustamento/ASP.NETPractice,devBustamento,0,2019-10-22T00:16:48Z,
+858,CSharp,MyDriving,382,285,C#,https://github.com/Azure-Samples/MyDriving,Azure-Samples,37,2019-10-07T18:55:54Z,"Building IoT or Mobile solutions are fun and exciting. This year for Build, we wanted to show the amazing scenarios that can come together when these two are combined. So, we went and developed a sample application. MyDriving uses a wide range of Azure services to process and analyze car telemetry data for both real-time insights and long-term patterns and trends. The following features are supported in the current version of the mobile app."
+859,CSharp,MvvmCross-Samples,329,285,C#,https://github.com/MvvmCross/MvvmCross-Samples,MvvmCross,0,2023-02-12T10:11:49Z,Tutorials and samples for MvvmCross: The .NET MVVM framework for cross-platform solutions.
+860,CSharp,AspNetIdentity.WebApi,448,284,C#,https://github.com/tjoudeh/AspNetIdentity.WebApi,tjoudeh,4,2015-11-12T22:50:33Z,"Tutorial for Building Simple Membership System using ASP.NET Identity 2.1, ASP.NET Web API, and AngularJS"
+861,CSharp,dotnet-sdk,973,284,C#,https://github.com/dapr/dotnet-sdk,dapr,135,2023-03-23T16:35:25Z,Dapr SDK for .NET
+862,CSharp,CodeXGLUE,972,285,C#,https://github.com/microsoft/CodeXGLUE,microsoft,16,2023-03-26T08:24:46Z,CodeXGLUE 
+863,CSharp,MultiplayerFPS-Tutorial,598,284,C#,https://github.com/Brackeys/MultiplayerFPS-Tutorial,Brackeys,30,2022-07-06T13:09:10Z,A video series on making a multiplayer first-person shooter in Unity.
+864,CSharp,NLua,1738,283,C#,https://github.com/NLua/NLua,NLua,62,2023-03-15T05:33:19Z,Bridge between Lua and the .NET.
+865,CSharp,FancyScrollView,2109,283,C#,https://github.com/setchi/FancyScrollView,setchi,9,2022-07-08T01:35:12Z,[Unity] Scroll view component that can implement highly flexible animations.
+866,CSharp,sixthsense,595,283,C#,https://github.com/sixthsense/sixthsense,sixthsense,10,2016-06-13T17:09:10Z,Open Source Codebase for project SixthSense 
+867,CSharp,FastNoiseLite,2071,282,C#,https://github.com/Auburn/FastNoiseLite,Auburn,12,2022-11-10T23:23:32Z,Fast Portable Noise Library - C# C++ C Java(Script) HLSL GLSL
+868,CSharp,AppMetrics,2146,282,C#,https://github.com/AppMetrics/AppMetrics,AppMetrics,83,2023-03-14T04:35:58Z,App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application.
+869,CSharp,DotNetToJScript,1053,282,C#,https://github.com/tyranid/DotNetToJScript,tyranid,3,2021-01-18T22:52:10Z,A tool to create a JScript file which loads a .NET v2 assembly from memory.
+870,CSharp,ToastFish,2942,282,C#,https://github.com/Uahh/ToastFish,Uahh,31,2023-03-01T01:50:26Z,一个利用摸鱼时间背单词的软件。
+871,CSharp,NetTopologySuite,1163,282,C#,https://github.com/NetTopologySuite/NetTopologySuite,NetTopologySuite,43,2023-03-16T13:38:59Z,A .NET GIS solution that is fast and reliable for the .NET platform.
+872,CSharp,csharp-web-dev-controlflowandcollections,0,282,C#,https://github.com/LaunchCodeEducation/csharp-web-dev-controlflowandcollections,LaunchCodeEducation,1,2021-07-09T19:52:37Z,
+873,CSharp,csharp-web-dev-classespart1and2,0,283,C#,https://github.com/LaunchCodeEducation/csharp-web-dev-classespart1and2,LaunchCodeEducation,0,2022-08-24T22:49:30Z,
+874,CSharp,MVC_EF_Start,0,281,C#,https://github.com/cpjohnso/MVC_EF_Start,cpjohnso,0,2018-10-22T21:17:13Z,Created starting point for an MVC Core project with Entity Framework
+875,CSharp,InputSystem,1302,281,C#,https://github.com/Unity-Technologies/InputSystem,Unity-Technologies,5,2023-03-26T02:51:28Z,An efficient and versatile input system for Unity.
+876,CSharp,msbuildtasks,932,279,C#,https://github.com/loresoft/msbuildtasks,loresoft,119,2021-03-08T09:04:44Z,The MSBuild Community Tasks Project is an open source project for MSBuild tasks.
+877,CSharp,connectthedots,401,278,C#,https://github.com/Azure/connectthedots,Azure,9,2020-12-07T18:18:24Z,Connect tiny devices to Microsoft Azure services to build IoT solutions
+878,CSharp,EasyCaching,1576,279,C#,https://github.com/dotnetcore/EasyCaching,dotnetcore,17,2023-03-24T00:50:43Z,:boom: EasyCaching is an open source caching library that contains basic usages and some advanced usages of caching which can help us to handle caching more easier!
+879,CSharp,Hanselman.Forms,672,279,C#,https://github.com/jamesmontemagno/Hanselman.Forms,jamesmontemagno,23,2022-12-08T09:20:15Z,The most awesome Hanselman app
+880,CSharp,CrystalQuartz,897,279,C#,https://github.com/guryanovev/CrystalQuartz,guryanovev,27,2022-04-13T03:00:13Z,pluggable UI for Quartz.NET
+881,CSharp,PSReadLine,3062,277,C#,https://github.com/PowerShell/PSReadLine,PowerShell,182,2023-03-22T22:47:14Z,A bash inspired readline implementation for PowerShell
+882,CSharp,TodoApi,1751,276,C#,https://github.com/davidfowl/TodoApi,davidfowl,3,2023-03-12T18:18:57Z,"Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication "
+883,CSharp,gemini,992,277,C#,https://github.com/tgjones/gemini,tgjones,51,2023-03-21T21:52:27Z,Gemini is an IDE framework similar in concept to the Visual Studio Shell. It uses AvalonDock and has an MVVM architecture based on Caliburn Micro.
+884,CSharp,di,12,274,C#,https://github.com/kontur-courses/di,kontur-courses,0,2022-12-27T17:47:24Z,
+885,CSharp,Chromely,2959,276,C#,https://github.com/chromelyapps/Chromely,chromelyapps,6,2023-01-15T23:12:16Z,"Build Cross Platform HTML Desktop Apps on .NET using native GUI, HTML5, JavaScript, CSS, Owin, AspNetCore (MVC, RazorPages, Blazor)"
+886,CSharp,SimpleJSON,607,276,C#,https://github.com/Bunny83/SimpleJSON,Bunny83,15,2023-03-09T03:29:34Z,A simple JSON parser in C#
+887,CSharp,YaVipCore,1191,276,C#,https://github.com/AnyListen/YaVipCore,AnyListen,16,2023-02-24T16:28:20Z,Net Core Music Interface
+888,CSharp,csharp-web-dev-techjobs-oo,0,275,C#,https://github.com/LaunchCodeEducation/csharp-web-dev-techjobs-oo,LaunchCodeEducation,0,2021-12-10T21:29:45Z,
+889,CSharp,TravisCI,2,276,C#,https://github.com/dteske25/TravisCI,dteske25,1,2022-03-25T20:19:35Z,
+890,CSharp,MVA-Introduction-to-ASPNET-MVC,229,275,C#,https://github.com/jongalloway/MVA-Introduction-to-ASPNET-MVC,jongalloway,2,2015-09-04T14:01:57Z,"Source code for the Introduction to ASP.NET MVC free training course on June 23, 2014 (http://www.microsoftvirtualacademy.com/liveevents/introduction-to-asp-net-mvc)"
+891,CSharp,equeue,580,275,C#,https://github.com/tangxuehua/equeue,tangxuehua,9,2022-10-28T07:06:18Z,a distributed mq written by c#.
+892,CSharp,PowerForensics,1282,276,C#,https://github.com/Invoke-IR/PowerForensics,Invoke-IR,59,2022-05-20T14:43:10Z,PowerForensics provides an all in one platform for live disk forensic analysis
+893,CSharp,azure-devops-migration-tools,391,276,C#,https://github.com/nkdAgility/azure-devops-migration-tools,nkdAgility,12,2023-03-27T10:53:46Z,"Azure DevOps Migration Tools allow you to migrate Teams, Backlogs, Tasks, Test Cases, and Plans & Suits from one Project to another in Azure DevOps / TFS both within the same Organisation, and between Organisations."
+894,CSharp,Telegram.Bot.Examples,514,275,C#,https://github.com/TelegramBots/Telegram.Bot.Examples,TelegramBots,0,2023-03-26T18:46:57Z,Examples for the Telegram.Bot C# Library
+895,CSharp,VAGEDCSuite,99,275,C#,https://github.com/Blackfrosch/VAGEDCSuite,Blackfrosch,1,2020-04-23T20:13:29Z,
+896,CSharp,Facepunch.Steamworks,2360,275,C#,https://github.com/Facepunch/Facepunch.Steamworks,Facepunch,133,2023-03-17T15:37:17Z,Another fucking c# Steamworks implementation
+897,CSharp,xamarin-store-app,16,274,C#,https://github.com/garuma/xamarin-store-app,garuma,0,2014-08-20T15:50:05Z,See wear-support branch for added Android Wear app
+898,CSharp,NRules,1302,276,C#,https://github.com/NRules/NRules,NRules,19,2023-03-27T02:41:13Z,"Rules engine for .NET, based on the Rete matching algorithm, with internal DSL in C#. "
+899,CSharp,Mercurial-Grabber,338,274,C#,https://github.com/NightfallGT/Mercurial-Grabber,NightfallGT,96,2022-02-12T16:05:38Z,"Grab Discord tokens, Chrome passwords and cookies, and more"
+900,CSharp,TheOtherRoles,642,274,C#,https://github.com/TheOtherRolesAU/TheOtherRoles,TheOtherRolesAU,0,2023-03-22T17:25:18Z,"The Other Roles, is a mod for Among Us which adds many new roles, new Settings and new Custom Hats to the game. "
+901,CSharp,Sport,357,231,C#,https://github.com/xamarin/Sport,xamarin,7,2018-02-15T22:50:29Z,
+902,CSharp,ScintillaNET,912,231,C#,https://github.com/jacobslusser/ScintillaNET,jacobslusser,86,2023-01-14T13:10:29Z,"A Windows Forms control, wrapper, and bindings for the Scintilla text editor."
+903,CSharp,csharp-driver,576,229,C#,https://github.com/datastax/csharp-driver,datastax,0,2023-03-20T17:18:54Z,DataStax C# Driver for Apache Cassandra
+904,CSharp,SysBot.NET,393,228,C#,https://github.com/kwsch/SysBot.NET,kwsch,0,2023-03-17T21:43:27Z,sys-botbase client for remote control automation of Nintendo Switch consoles.
+905,CSharp,ProjectTinySamples,800,229,C#,https://github.com/Unity-Technologies/ProjectTinySamples,Unity-Technologies,7,2021-05-30T14:45:48Z,Samples for Project Tiny
+906,CSharp,log4net,18,229,C#,https://github.com/sidecut/log4net,sidecut,0,2017-11-09T14:32:15Z,Mirror of Apache log4net
+907,CSharp,mechahamster,461,229,C#,https://github.com/google/mechahamster,google,19,2021-11-30T22:48:54Z,Mecha Hamster is a game where you roll through customizable environments that you can share with your friends.
+908,CSharp,Prism-Samples-Forms,367,230,C#,https://github.com/PrismLibrary/Prism-Samples-Forms,PrismLibrary,9,2021-06-25T18:47:13Z,Samples that demonstrate how to use various Prism features with Xamarin.Forms
+909,CSharp,libvlcsharp,1173,228,C#,https://github.com/videolan/libvlcsharp,videolan,0,2023-03-27T08:31:29Z,Cross-platform .NET/Mono bindings for LibVLC
+910,CSharp,BililiveRecorder,2462,228,C#,https://github.com/BililiveRecorder/BililiveRecorder,BililiveRecorder,62,2023-02-13T12:01:39Z,B站录播姬 | BiliBili Stream Recorder | 哔哩哔哩直播录制
+911,CSharp,InstagramApiSharp,689,228,C#,https://github.com/ramtinak/InstagramApiSharp,ramtinak,124,2022-11-05T15:14:54Z,"A complete Private Instagram API for .NET (C#, VB.NET)."
+912,CSharp,AngularASPNETCoreOAuth,341,228,C#,https://github.com/mmacneil/AngularASPNETCoreOAuth,mmacneil,10,2023-01-07T03:47:21Z,"Sample project demonstrating user authentication and identity with Angular, Asp.Net Core and IdentityServer4"
+913,CSharp,azure-activedirectory-library-for-dotnet,359,227,C#,https://github.com/AzureAD/azure-activedirectory-library-for-dotnet,AzureAD,0,2022-12-31T05:47:02Z,ADAL authentication libraries for .net
+914,CSharp,SafetyKatz,1029,227,C#,https://github.com/GhostPack/SafetyKatz,GhostPack,4,2019-10-01T16:47:21Z,SafetyKatz is a combination of slightly modified version of @gentilkiwi's Mimikatz project and @subtee's .NET PE Loader
+915,CSharp,NETBookMaterials,436,227,C#,https://github.com/yangzhongke/NETBookMaterials,yangzhongke,0,2023-01-12T01:51:54Z,
+916,CSharp,CMS,338,227,C#,https://github.com/Kooboo/CMS,Kooboo,102,2023-03-03T01:50:01Z,The OLD Kooboo CMS source code
+917,CSharp,Serverless-microservices-reference-architecture,436,230,C#,https://github.com/Azure-Samples/Serverless-microservices-reference-architecture,Azure-Samples,7,2023-03-24T11:07:07Z,"This reference architecture walks you through the decision-making process involved in designing, developing, and delivering a serverless application using a microservices architecture through hands-on instructions for configuring and deploying all of the architecture's components along the way. The goal is to provide practical hands-on experience in working with several Azure services and the technologies that effectively use them in a cohesive and unified way to build a serverless-based microservices architecture."
+918,CSharp,dopamine-windows,1447,227,C#,https://github.com/digimezzo/dopamine-windows,digimezzo,537,2023-01-14T15:41:32Z,Audio player which tries to make organizing and listening to music as simple and pretty as possible.
+919,CSharp,NtMiner,831,227,C#,https://github.com/ntminer/NtMiner,ntminer,79,2023-02-24T16:32:27Z,GPU miner. github不太慢，https://ntminer.coding.net/public/NtMiner/NtMiner/git/files
+920,CSharp,infer,1484,227,C#,https://github.com/dotnet/infer,dotnet,19,2023-03-25T18:07:58Z,Infer.NET is a framework for running Bayesian inference in graphical models
+921,CSharp,RedRunner,582,226,C#,https://github.com/BayatGames/RedRunner,BayatGames,6,2021-03-19T22:35:51Z,"Red Runner, Awesome Platformer Game."
+922,CSharp,qttabbar,2814,226,C#,https://github.com/indiff/qttabbar,indiff,54,2023-02-14T14:55:15Z,Qttabbar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/indiff/qttabbar
+923,CSharp,Posh-SSH,872,226,C#,https://github.com/darkoperator/Posh-SSH,darkoperator,149,2023-02-04T13:08:01Z,PowerShell Module for automating tasks on remote systems using SSH
+924,CSharp,MonoTouch.Dialog,434,227,C#,https://github.com/migueldeicaza/MonoTouch.Dialog,migueldeicaza,43,2023-03-21T17:08:46Z,Tools to simplify creating dialogs with the user using MonoTouch
+925,CSharp,WechatVideoCourse,213,227,C#,https://github.com/JeffreySu/WechatVideoCourse,JeffreySu,0,2019-01-28T12:10:12Z,《微信公众号+小程序快速开发》视频教程课件及代码
+926,CSharp,netmf-interpreter,477,226,C#,https://github.com/NETMF/netmf-interpreter,NETMF,162,2018-09-20T22:25:53Z,.NET Micro Framework Interpreter
+927,CSharp,Code-A-Game-Like-Minecraft-In-Unity,249,225,C#,https://github.com/b3agz/Code-A-Game-Like-Minecraft-In-Unity,b3agz,17,2021-08-09T08:21:11Z,Project files for a Youtube tutorial series on coding a game like Minecraft in Unity.
+928,CSharp,TizenFX,155,225,C#,https://github.com/Samsung/TizenFX,Samsung,0,2023-03-27T10:54:27Z,C# Device APIs for Tizen
+929,CSharp,mslearn-deploy-run-container-app-service,28,228,C#,https://github.com/MicrosoftDocs/mslearn-deploy-run-container-app-service,MicrosoftDocs,1,2023-01-13T03:23:14Z,"Sample code for MS Learn module ""Deploy and run a containerized web application with App Service"""
+930,CSharp,Chess-AI,1069,225,C#,https://github.com/SebLague/Chess-AI,SebLague,9,2023-02-16T13:14:07Z,
+931,CSharp,CruiseControl.NET,402,226,C#,https://github.com/ccnet/CruiseControl.NET,ccnet,22,2021-02-19T22:37:18Z,"CruiseControl.NET is an Automated Continuous Integration server, implemented using the .NET Framework. Downloads at sourceforge. The documentation can be found at: "
+932,CSharp,DSInternals,1293,225,C#,https://github.com/MichaelGrafnetter/DSInternals,MichaelGrafnetter,28,2023-02-25T08:53:31Z, Directory Services Internals (DSInternals) PowerShell Module and Framework
+933,CSharp,AZ-220-Microsoft-Azure-IoT-Developer,213,225,C#,https://github.com/MicrosoftLearning/AZ-220-Microsoft-Azure-IoT-Developer,MicrosoftLearning,2,2022-11-28T21:36:24Z,AZ-220: Microsoft Azure IoT Developer
+934,CSharp,Bing.NetCore,916,224,C#,https://github.com/bing-framework/Bing.NetCore,bing-framework,3,2023-03-27T06:58:21Z,Bing是基于 .net core 3.1 的框架，旨在提升团队的开发输出能力，由常用公共操作类（工具类、帮助类）、分层架构基类，第三方组件封装，第三方业务接口封装等组成。
+935,CSharp,xenadmin,229,224,C#,https://github.com/xenserver/xenadmin,xenserver,8,2023-03-27T08:29:23Z,"XenCenter, the Windows management console for XenServer"
+936,CSharp,awesome-xamarin-forms,1229,224,C#,https://github.com/jsuarezruiz/awesome-xamarin-forms,jsuarezruiz,2,2022-04-30T09:20:59Z,A curated list of awesome Xamarin.Forms libraries and resources
+937,CSharp,CasinosClient,323,224,C#,https://github.com/CragonGame/CasinosClient,CragonGame,7,2022-01-24T14:08:51Z,果派德州客户端源代码，使用Unity3D引擎。
+938,CSharp,Slickflow,713,223,C#,https://github.com/besley/Slickflow,besley,0,2022-12-08T13:51:56Z,".NET Open Source Workflow Engine,  .NET 开源工作流"
+939,CSharp,xNet,268,223,C#,https://github.com/X-rus/xNet,X-rus,28,2021-11-20T18:59:33Z,xNet - class library for .NET Framework
+940,CSharp,MvvmCross-Tutorials,2,223,C#,https://github.com/Cheesebaron/MvvmCross-Tutorials,Cheesebaron,0,2013-01-28T14:33:57Z,
+941,CSharp,TailwindTraders-Mobile,328,222,C#,https://github.com/microsoft/TailwindTraders-Mobile,microsoft,2,2021-05-20T17:43:56Z,Tailwind Traders Mobile
+942,CSharp,Asp.NetCoreExperiment,344,224,C#,https://github.com/axzxs2001/Asp.NetCoreExperiment,axzxs2001,3,2023-03-21T11:38:54Z,原来所有项目都移动到**OleVersion**目录下进行保留。新的案例装以.net 5.0为主，一部分对以前案例进行升级，一部分将以前的工作经验总结出来，以供大家参考！
+943,CSharp,WpfDesigner,783,223,C#,https://github.com/icsharpcode/WpfDesigner,icsharpcode,18,2023-03-02T07:17:21Z,The WPF Designer from SharpDevelop
+944,CSharp,Tizen-CSharp-Samples,221,224,C#,https://github.com/Samsung/Tizen-CSharp-Samples,Samsung,11,2023-02-22T06:22:46Z,"Tizen C# Samples for Mobile, Wearable, and TV profiles."
+945,CSharp,ScreenTask,658,222,C#,https://github.com/EslaMx7/ScreenTask,EslaMx7,25,2023-02-25T14:03:49Z,(📢 New Version Released) Screen sharing made easy! Share your screen across local devices without internet.
+946,CSharp,MvcSiteMapProvider,539,221,C#,https://github.com/maartenba/MvcSiteMapProvider,maartenba,75,2022-08-31T18:54:07Z,An ASP.NET MVC SiteMapProvider implementation for the ASP.NET MVC framework.
+947,CSharp,FFMpegCore,1073,222,C#,https://github.com/rosenbjerg/FFMpegCore,rosenbjerg,24,2023-03-15T12:51:18Z,A .NET FFMpeg/FFProbe wrapper for easily integrating media analysis and conversion into your C# applications
+948,CSharp,ShortcutExporter,481,222,C#,https://github.com/madskristensen/ShortcutExporter,madskristensen,14,2022-08-10T20:40:26Z,Visual Studio extension
+949,CSharp,Celeste-Movement,575,222,C#,https://github.com/mixandjam/Celeste-Movement,mixandjam,2,2022-08-08T20:27:52Z,Recreating the movement and feel from Celeste
+950,CSharp,Repetier-Host,8,222,C#,https://github.com/InlineTwin/Repetier-Host,InlineTwin,0,2011-10-02T14:09:59Z,"Host controller for RepRap style 3D printer like mendel, prusa and huxley."
+951,CSharp,FaceRecognitionDotNet,942,235,C#,https://github.com/takuya-takeuchi/FaceRecognitionDotNet,takuya-takeuchi,28,2022-11-13T07:35:39Z,"The world's simplest facial recognition api for .NET on Windows, MacOS and Linux"
+952,CSharp,IdentityManager,662,236,C#,https://github.com/IdentityManager/IdentityManager,IdentityManager,57,2017-08-01T12:27:30Z,User & Identity Management
+953,CSharp,Pokemon-Go-Rocket-API,0,236,C#,https://github.com/siddmon/Pokemon-Go-Rocket-API,siddmon,0,2016-07-25T02:02:31Z,Client API library for Pokemon Go in C#
+954,CSharp,kafka-net,481,236,C#,https://github.com/Jroland/kafka-net,Jroland,61,2017-11-08T23:34:09Z,Native C# client for Kafka queue servers.
+955,CSharp,BeetleX,1073,236,C#,https://github.com/beetlex-io/BeetleX,beetlex-io,1,2022-11-14T12:36:55Z,"high performance dotnet core socket tcp communication components,  support TLS, HTTP, HTTPS, WebSocket, RPC, Redis protocols, custom protocols  and 1M connections problem solution"
+956,CSharp,DOTSSample,914,235,C#,https://github.com/Unity-Technologies/DOTSSample,Unity-Technologies,0,2020-11-23T18:07:08Z,"A third person, multiplayer sample project. Built with Unity and using the new Data Oriented Tech Stack (DOTS)."
+957,CSharp,ThreeDPoseUnityBarracuda,1260,235,C#,https://github.com/digital-standard/ThreeDPoseUnityBarracuda,digital-standard,32,2022-01-18T06:15:32Z,Unity sample of 3D pose estimation using Barracuda
+958,CSharp,AspNetAuthorizationWorkshop,1129,235,C#,https://github.com/blowdart/AspNetAuthorizationWorkshop,blowdart,3,2018-10-24T21:43:55Z,A workshop for moving through the various new pieces in ASP.NET Core Authorization
+959,CSharp,DnsServer,1617,236,C#,https://github.com/TechnitiumSoftware/DnsServer,TechnitiumSoftware,37,2023-03-18T11:55:26Z,Technitium DNS Server
+960,CSharp,unity-movement-ai,1642,235,C#,https://github.com/sturdyspoon/unity-movement-ai,sturdyspoon,12,2021-03-01T07:36:04Z,A Unity library for common movement AI
+961,CSharp,AssetRipper,1467,235,C#,https://github.com/AssetRipper/AssetRipper,AssetRipper,58,2023-03-26T01:06:39Z,"GUI Application to work with engine assets, asset bundles, and serialized files"
+962,CSharp,FastSocket.Net,423,235,C#,https://github.com/ihaoqihao/FastSocket.Net,ihaoqihao,5,2016-01-31T08:46:23Z,c#异步通信库
+963,CSharp,Terminals,1133,234,C#,https://github.com/Terminals-Origin/Terminals,Terminals-Origin,169,2023-02-26T08:29:32Z,"Terminals is a secure, multi tab terminal services/remote desktop client. It uses Terminal Services ActiveX Client (mstscax.dll).  The project started from the need of controlling multiple connections simultaneously. It is a complete replacement for the mstsc.exe (Terminal Services) client. This is official source moved from Codeplex."
+964,CSharp,certify,1342,234,C#,https://github.com/webprofusion/certify,webprofusion,19,2023-03-27T08:13:22Z,"Professional TLS/SSL Certificate Manager UI for Windows, powered by Let's Encrypt and compatible with all ACME v2 CAs. Download from certifytheweb.com"
+965,CSharp,Monkey.BluetoothLE,350,234,C#,https://github.com/xamarin/Monkey.BluetoothLE,xamarin,32,2018-01-24T18:58:24Z,"BluetoothLE abstraction for use with Xamarin projects, including Xamarin.Forms."
+966,CSharp,GuardClauses,2471,234,C#,https://github.com/ardalis/GuardClauses,ardalis,10,2023-03-22T12:57:38Z,A simple package with guard clause extensions.
+967,CSharp,azure-iot-samples-csharp,197,233,C#,https://github.com/Azure-Samples/azure-iot-samples-csharp,Azure-Samples,0,2022-10-03T17:39:02Z,Provides a set of easy-to-understand samples for using Azure IoT Hub and Azure IoT Hub Device Provisioning Service and Azure IoT Plug and Play using C# SDK.
+968,CSharp,Alipay.AopSdk.Core,781,233,C#,https://github.com/dotnetcore/Alipay.AopSdk.Core,dotnetcore,0,2020-09-16T01:01:09Z,支付宝（Alipay）服务端SDK，采用.NET Standard 2.0，支持.NET Core >=2.0，与官方SDK接口完全相同。完全可以按照官方文档进行开发。除了支持支付以外，官方SDK支持的功能本SDK全部支持，比如生活号、服务窗、行业合作等，且用法几乎一样，代码都可参考官方文档代码。
+969,CSharp,ARKStatsExtractor,407,233,C#,https://github.com/cadon/ARKStatsExtractor,cadon,134,2023-03-26T14:16:56Z,A tool for the game ARK: Survival Evolved. Extracts possible levelups of creatures to get the values for breeding. With library and pedigree-view.
+970,CSharp,NetworkSocket,456,233,C#,https://github.com/xljiulang/NetworkSocket,xljiulang,4,2018-02-03T16:02:28Z,NetworkSocket是一个以中间件(middleware)扩展通讯协议，以插件(plug)扩展服务器功能的支持SSL安全传输的通讯框架；目前支持http、websocket、fast、flex策略与silverlight策略协议。
+971,CSharp,Smartstore,577,232,C#,https://github.com/smartstore/Smartstore,smartstore,445,2023-03-27T10:10:41Z,"A modular, scalable and ultra-fast open-source all-in-one eCommerce platform built on ASP.NET Core 7"
+972,CSharp,AgileConfig,1134,232,C#,https://github.com/dotnetcore/AgileConfig,dotnetcore,24,2023-03-01T09:46:37Z,基于.NET Core开发的轻量级分布式配置中心 / .NET  Core lightweight configuration server
+973,CSharp,SDL2-CS,892,234,C#,https://github.com/flibitijibibo/SDL2-CS,flibitijibibo,0,2023-02-20T23:32:00Z,SDL2# - C# Wrapper for SDL2
+974,CSharp,HttpReports,1234,232,C#,https://github.com/dotnetcore/HttpReports,dotnetcore,6,2022-03-15T05:47:27Z,HttpReports is an APM (application performance monitor) system for .Net Core. 
+975,CSharp,neo-node,224,232,C#,https://github.com/neo-project/neo-node,neo-project,78,2023-03-13T13:51:03Z,
+976,CSharp,pingcastle,1638,232,C#,https://github.com/vletoux/pingcastle,vletoux,7,2023-03-10T17:32:59Z,PingCastle - Get Active Directory Security at 80% in 20% of the time
+977,CSharp,NuGetForUnity,1958,231,C#,https://github.com/GlitchEnzo/NuGetForUnity,GlitchEnzo,105,2023-03-05T21:28:56Z,A NuGet Package Manager for Unity
+978,CSharp,mongodb-csharp,574,231,C#,https://github.com/samus/mongodb-csharp,samus,0,2010-09-21T03:00:13Z,A driver written in c# to connect to the MongoDB document oriented database.
+979,CSharp,EFCorePowerTools,1500,231,C#,https://github.com/ErikEJ/EFCorePowerTools,ErikEJ,4,2023-03-27T08:24:46Z,"Entity Framework Core Power Tools - reverse engineering, migrations and model visualization for EF Core"
+980,CSharp,SMAPI,1199,231,C#,https://github.com/Pathoschild/SMAPI,Pathoschild,9,2023-03-26T22:15:08Z,The modding API for Stardew Valley.
+981,CSharp,Chat-API-NET,3,231,C#,https://github.com/alijundi/Chat-API-NET,alijundi,0,2015-12-04T12:45:10Z,The .NET WhatsApp library (NEW FORK)
+982,CSharp,Sport,357,231,C#,https://github.com/xamarin/Sport,xamarin,7,2018-02-15T22:50:29Z,
+983,CSharp,ScintillaNET,912,231,C#,https://github.com/jacobslusser/ScintillaNET,jacobslusser,86,2023-01-14T13:10:29Z,"A Windows Forms control, wrapper, and bindings for the Scintilla text editor."
+984,CSharp,AElf,789,230,C#,https://github.com/AElfProject/AElf,AElfProject,33,2023-03-27T12:08:25Z,A scalable cloud computing blockchain platform
+985,CSharp,LevelEditor,1260,230,C#,https://github.com/SonyWWS/LevelEditor,SonyWWS,14,2017-01-10T00:59:20Z,"The ATF LevelEditor is a powerful tool for constructing and assembling game levels. It provides a WYSIWYG interface and allows you to place objects, edit properties, edit terrain, and build game levels."
+986,CSharp,SimpleDnsCrypt,2122,230,C#,https://github.com/bitbeans/SimpleDnsCrypt,bitbeans,139,2022-12-08T09:54:10Z,A simple management tool for dnscrypt-proxy
+987,CSharp,csharp-driver,576,229,C#,https://github.com/datastax/csharp-driver,datastax,0,2023-03-20T17:18:54Z,DataStax C# Driver for Apache Cassandra
+988,CSharp,SysBot.NET,393,228,C#,https://github.com/kwsch/SysBot.NET,kwsch,0,2023-03-17T21:43:27Z,sys-botbase client for remote control automation of Nintendo Switch consoles.
+989,CSharp,defcon27_csharp_workshop,816,230,C#,https://github.com/mvelazc0/defcon27_csharp_workshop,mvelazc0,0,2022-03-18T02:59:51Z,Writing custom backdoor payloads with C# - Defcon 27 Workshop
+990,CSharp,log4net,18,229,C#,https://github.com/sidecut/log4net,sidecut,0,2017-11-09T14:32:15Z,Mirror of Apache log4net
+991,CSharp,mechahamster,461,229,C#,https://github.com/google/mechahamster,google,19,2021-11-30T22:48:54Z,Mecha Hamster is a game where you roll through customizable environments that you can share with your friends.
+992,CSharp,UnitySocketIO,864,229,C#,https://github.com/NetEase/UnitySocketIO,NetEase,19,2014-05-04T02:22:18Z,socket.io client for unity3d.
+993,CSharp,NuGet.Server,497,229,C#,https://github.com/NuGet/NuGet.Server,NuGet,0,2023-02-28T20:29:56Z,NuGet Server is a lightweight standalone NuGet server
+994,CSharp,Prism-Samples-Forms,367,230,C#,https://github.com/PrismLibrary/Prism-Samples-Forms,PrismLibrary,9,2021-06-25T18:47:13Z,Samples that demonstrate how to use various Prism features with Xamarin.Forms
+995,CSharp,libvlcsharp,1173,228,C#,https://github.com/videolan/libvlcsharp,videolan,0,2023-03-27T08:31:29Z,Cross-platform .NET/Mono bindings for LibVLC
+996,CSharp,MarkdownMonster,1447,228,C#,https://github.com/RickStrahl/MarkdownMonster,RickStrahl,10,2023-03-16T00:37:42Z,"An extensible Markdown Editor, Viewer and Weblog Publisher for Windows"
+997,CSharp,AngularASPNETCoreOAuth,341,228,C#,https://github.com/mmacneil/AngularASPNETCoreOAuth,mmacneil,10,2023-01-07T03:47:21Z,"Sample project demonstrating user authentication and identity with Angular, Asp.Net Core and IdentityServer4"
+998,CSharp,Roslynator,2624,228,C#,https://github.com/JosefPihrt/Roslynator,JosefPihrt,142,2023-03-26T12:14:23Z,"A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn. "
+999,CSharp,azure-activedirectory-library-for-dotnet,359,227,C#,https://github.com/AzureAD/azure-activedirectory-library-for-dotnet,AzureAD,0,2022-12-31T05:47:02Z,ADAL authentication libraries for .net
+1000,CSharp,SafetyKatz,1029,227,C#,https://github.com/GhostPack/SafetyKatz,GhostPack,4,2019-10-01T16:47:21Z,SafetyKatz is a combination of slightly modified version of @gentilkiwi's Mimikatz project and @subtee's .NET PE Loader
