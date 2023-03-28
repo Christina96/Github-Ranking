@@ -49,6 +49,7 @@ class ProcessorGQL(object):
                       primaryLanguage {
                         name
                       }
+                      pushedAt
                     }
                   }
                 }
@@ -61,7 +62,7 @@ class ProcessorGQL(object):
         # get forks per language
         self.gql_forks_lang = self.gql_format % ("language:%s forks:>300 sort:forks", self.bulk_size, "%s")
 
-        self.col = ['rank', 'repo_name', 'forks', 'stars', 'language', 'repo_url', 'description', 'id']
+        self.col = ['rank', 'repo_name', 'forks', 'stars', 'language', 'repo_url', 'description', 'id', 'last_commit']
 
     @staticmethod
     def parse_gql_result(result):
@@ -75,7 +76,8 @@ class ProcessorGQL(object):
                 'forks_count': int(repo_data['forkCount']),
                 'language': repo_data['primaryLanguage']['name'] if repo_data['primaryLanguage'] is not None else None,
                 'html_url': repo_data['url'],
-                'description': repo_data['description']
+                'description': repo_data['description'],
+                'last_commit': repo_data['pushedAt']
             })
         return res
 
@@ -108,7 +110,7 @@ class WriteFile(object):
     def __init__(self, repos_languages, forks_languages):
         self.repos_languages = repos_languages
         self.forks_languages = forks_languages
-        self.col = ['rank', 'repo_name', 'forks', 'stars', 'language', 'repo_url', 'description', 'id']
+        self.col = ['rank', 'repo_name', 'forks', 'stars', 'language', 'repo_url', 'description', 'id', 'last_commit']
         self.star_languages = []
         self.fork_languages = []
         if len(repos_languages) > 0:
@@ -182,7 +184,7 @@ class WriteFile(object):
         repos_list = []
         for idx, repo in enumerate(repos):
             repo_info = [idx + 1, repo['name'], repo['forks_count'], repo['stargazers_count'], repo['language'],
-                         repo['html_url'], repo['description'], repo['id']]
+                         repo['html_url'], repo['description'], repo['id'], repo['last_commit']]
             repos_list.append(repo_info)
         return pd.DataFrame(repos_list, columns=self.col)
 
