@@ -6,10 +6,10 @@ from common import get_graphql_data, write_text, write_ranking_repo
 import inspect
 
 languages = ["Java", "Python", "C", "CPP", "CSharp"]
-# languages = ["Java", "Python"]
+# languages = ["java"]
 # Escape characters in markdown like # + - etc
 languages_md = ["Java", "Python", "C", "C\+\+", "C\#", ]
-# languages_md = ["Java", "Python"]
+# languages_md = ["Java"]
 table_of_contents = """
 * [Java](#java)
 * [Python](#python)
@@ -21,7 +21,6 @@ table_of_contents = """
 
 # table_of_contents = """
 # * [Java](#java)
-# * [Python](#python)
 # """
 
 
@@ -38,41 +37,31 @@ class ProcessorGQL(object):
         self.gql_format = """query{
     search(query: "%s", type: REPOSITORY, first:%d %s) {
       pageInfo { endCursor }
-                edges {
-                    node {
-                        ...on Repository {
-                            id
-                            name
-                            url
-                            forkCount
-                            stargazers {
-                                totalCount
-                            }
-                            owner {
-                                login
-                            }
-                            description
-                            pushedAt
-                            primaryLanguage {
-                                name
-                            }
-                            openIssues: issues(states: OPEN) {
-                                totalCount
-                            }
-                        }
+              edges {
+                  node {
+                    ... on Repository {
+                      id,
+                      name,
+                      url,
+                      forkCount,
+                      stargazerCount,
+                      description,
+                      primaryLanguage {
+                        name
+                      }
                     }
+                  }
                 }
             }
         }
         """
-        self.bulk_size = 50
-        self.bulk_count = 20  # we want 1000. lets start with 500
-        self.gql_stars_lang = self.gql_format % ("language:%s stars:>0 sort:stars", self.bulk_size, "%s")
+        self.bulk_size = 100
+        self.bulk_count = 10
+        self.gql_stars_lang = self.gql_format % ("language:%s stars:>300 sort:stars", self.bulk_size, "%s")
         # get forks per language
-        self.gql_forks_lang = self.gql_format % ("language:%s forks:>0 sort:forks", self.bulk_size, "%s")
+        self.gql_forks_lang = self.gql_format % ("language:%s forks:>300 sort:forks", self.bulk_size, "%s")
 
-        self.col = ['rank', 'item', 'repo_name', 'stars', 'forks', 'language', 'repo_url', 'username', 'issues',
-                    'last_commit', 'description']
+        self.col = ['rank', 'repo_name', 'forks', 'stars', 'language', 'repo_url', 'description', 'id']
 
     @staticmethod
     def parse_gql_result(result):
@@ -80,16 +69,12 @@ class ProcessorGQL(object):
         for repo in result["data"]["search"]["edges"]:
             repo_data = repo['node']
             res.append({
+                'id': repo_data["id"],
                 'name': repo_data['name'],
-                'stargazers_count': repo_data['stargazers']['totalCount'],
-                'forks_count': repo_data['forkCount'],
+                'stargazers_count': repo_data['stargazerCount'],
+                'forks_count': int(repo_data['forkCount']),
                 'language': repo_data['primaryLanguage']['name'] if repo_data['primaryLanguage'] is not None else None,
                 'html_url': repo_data['url'],
-                'owner': {
-                    'login': repo_data['owner']['login'],
-                },
-                'open_issues_count': repo_data['openIssues']['totalCount'],
-                'pushed_at': repo_data['pushedAt'],
                 'description': repo_data['description']
             })
         return res
@@ -104,7 +89,6 @@ class ProcessorGQL(object):
         return repos
 
     def get_all_repos(self):
-
         repos_languages = {}
         for lang in languages:
             print("Get most stars repos of {}...".format(lang))
@@ -115,7 +99,6 @@ class ProcessorGQL(object):
         for lang in languages:
             print("Get most forks repos of {}...".format(lang))
             repos_forks_languages[lang] = self.get_repos(self.gql_forks_lang % (lang, '%s'))
-            print(repos_forks_languages[lang][0])
             print("Get most forks repos of {} success!".format(lang))
 
         return repos_languages, repos_forks_languages
@@ -125,8 +108,7 @@ class WriteFile(object):
     def __init__(self, repos_languages, forks_languages):
         self.repos_languages = repos_languages
         self.forks_languages = forks_languages
-        self.col = ['rank', 'item', 'repo_name', 'stars', 'forks', 'language', 'repo_url', 'username', 'issues',
-                    'last_commit', 'description']
+        self.col = ['rank', 'repo_name', 'forks', 'stars', 'language', 'repo_url', 'description', 'id']
         self.star_languages = []
         self.fork_languages = []
         if len(repos_languages) > 0:
@@ -195,13 +177,12 @@ class WriteFile(object):
         write_ranking_repo(f"../Top1000/{file_1000}", 'a', data)
         print(f"Save {title_1000} in Top1000/{file_1000}!\n")
 
-    def repo_to_df(self, repos, item):
+    def repo_to_df(self, repos):
         # prepare for saving data to csv file
         repos_list = []
         for idx, repo in enumerate(repos):
-            repo_info = [idx + 1, item, repo['name'], repo['stargazers_count'], repo['forks_count'], repo['language'],
-                         repo['html_url'], repo['owner']['login'], repo['open_issues_count'], repo['pushed_at'],
-                         repo['description']]
+            repo_info = [idx + 1, repo['name'], repo['forks_count'], repo['stargazers_count'], repo['language'],
+                         repo['html_url'], repo['description'], repo['id']]
             repos_list.append(repo_info)
         return pd.DataFrame(repos_list, columns=self.col)
 
@@ -211,8 +192,10 @@ class WriteFile(object):
         for repo in self.star_languages:
             print(f"Star Languages CSV {repo['item']}")
             df_all = pd.DataFrame(columns=self.col)
-            df_repos = self.repo_to_df(repos=repo["data"], item=repo["item"])
+            print(repo)
+            df_repos = self.repo_to_df(repos=repo["data"])
             df_all = df_all.append(df_repos, ignore_index=True)
+            df_all = df_all.sort_values(by=['stars'], ascending=False)
             save_date = datetime.utcnow().strftime("%Y-%m-%d")
             os.makedirs('../Data', exist_ok=True)
             df_all.to_csv('../Data/github-star-ranking-' + save_date + '-' + repo["item"] + '.csv', index=False,
@@ -222,8 +205,9 @@ class WriteFile(object):
         for repo in self.fork_languages:
             print(f"Fork Languages CSV {repo['item']}")
             df_all = pd.DataFrame(columns=self.col)
-            df_repos = self.repo_to_df(repos=repo["data"], item=repo["item"])
+            df_repos = self.repo_to_df(repos=repo["data"])
             df_all = df_all.append(df_repos, ignore_index=True)
+            df_all = df_all.sort_values(by=['forks'], ascending=False)
             save_date = datetime.utcnow().strftime("%Y-%m-%d")
             os.makedirs('../Data', exist_ok=True)
             df_all.to_csv('../Data/github-fork-ranking-' + save_date + '-' + repo["item"] + '.csv', index=False,

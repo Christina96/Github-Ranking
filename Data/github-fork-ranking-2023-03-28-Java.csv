@@ -1,0 +1,1001 @@
+rank,repo_name,forks,stars,language,repo_url,description,id
+1,tutorials,53004,33719,Java,https://github.com/eugenp/tutorials,"Just Announced - ""Learn Spring Security OAuth"": ",MDEwOlJlcG9zaXRvcnk5NzU0OTgz
+2,JavaGuide,43694,132307,Java,https://github.com/Snailclimb/JavaGuide,「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！,MDEwOlJlcG9zaXRvcnkxMzI0NjQzOTU=
+3,spring-boot,38276,66321,Java,https://github.com/spring-projects/spring-boot,Spring Boot,MDEwOlJlcG9zaXRvcnk2Mjk2Nzkw
+4,spring-framework,35816,51231,Java,https://github.com/spring-projects/spring-framework,Spring Framework,MDEwOlJlcG9zaXRvcnkxMTQ4NzUz
+5,mall,26476,64419,Java,https://github.com/macrozheng/mall,mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。,MDEwOlJlcG9zaXRvcnkxMjc5ODgwMTE=
+6,dubbo,25748,38630,Java,https://github.com/apache/dubbo,"Apache Dubbo is a high-performance, java based, open source RPC framework.",MDEwOlJlcG9zaXRvcnk0NzEwOTIw
+7,java-design-patterns,24766,80466,Java,https://github.com/iluwatar/java-design-patterns,Design patterns implemented in Java,MDEwOlJlcG9zaXRvcnkyMjc5MDQ4OA==
+8,react-native,23093,108576,Java,https://github.com/facebook/react-native,A framework for building native applications using React,MDEwOlJlcG9zaXRvcnkyOTAyODc3NQ==
+9,elasticsearch,22895,63165,Java,https://github.com/elastic/elasticsearch,"Free and Open, Distributed, RESTful Search Engine",MDEwOlJlcG9zaXRvcnk1MDc3NzU=
+10,advanced-java,18165,69307,Java,https://github.com/doocs/advanced-java,😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识,MDEwOlJlcG9zaXRvcnkxNTE4MzQwNjI=
+11,hello-world,17059,176,Java,https://github.com/yankils/hello-world,,MDEwOlJlcG9zaXRvcnkxNjI4NjU2NDc=
+12,Java,16741,50867,Java,https://github.com/TheAlgorithms/Java,All Algorithms implemented in Java,MDEwOlJlcG9zaXRvcnk2MzQ3NzY2MA==
+13,spring5webapp,16315,631,Java,https://github.com/springframeworkguru/spring5webapp,Example Spring 5 Web Application,MDEwOlJlcG9zaXRvcnk5MTM5NTExNw==
+14,netty,15194,30923,Java,https://github.com/netty/netty,Netty project - an event-driven asynchronous network application framework,MDEwOlJlcG9zaXRvcnkxMDY0NTYz
+15,LeetCodeAnimation,13855,72664,Java,https://github.com/MisterBooo/LeetCodeAnimation,Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）,MDEwOlJlcG9zaXRvcnkxNjA2NDAwOTQ=
+16,jeecg-boot,13306,34023,Java,https://github.com/jeecgboot/jeecg-boot,⭐️「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。,MDEwOlJlcG9zaXRvcnkxNTkxNTI5MDQ=
+17,interviews,12525,59429,Java,https://github.com/kdn251/interviews,Everything you need to know to get the job.,MDEwOlJlcG9zaXRvcnk4MTk3NTM3Mg==
+18,kafka,12443,24482,Java,https://github.com/apache/kafka,Mirror of Apache Kafka,MDEwOlJlcG9zaXRvcnkyMjExMjQz
+19,spring-boot-examples,12225,28709,Java,https://github.com/ityouknow/spring-boot-examples,about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 ,MDEwOlJlcG9zaXRvcnk3MjkwNzI1Mw==
+20,mybatis-3,12183,18322,Java,https://github.com/mybatis/mybatis-3,MyBatis SQL mapper framework for Java,MDEwOlJlcG9zaXRvcnk4MjA1NjAy
+21,flink,11818,20952,Java,https://github.com/apache/flink,Apache Flink,MDEwOlJlcG9zaXRvcnkyMDU4NzU5OQ==
+22,nacos,11493,25867,Java,https://github.com/alibaba/nacos,"an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.",MDEwOlJlcG9zaXRvcnkxMzc0NTE0MDM=
+23,rocketmq,10692,18980,Java,https://github.com/apache/rocketmq,"Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.",MDEwOlJlcG9zaXRvcnk3NTE2NDgyMw==
+24,AndroidUtilCode,10565,31973,Java,https://github.com/Blankj/AndroidUtilCode,:fire: Android developers should collect the following utils(updating).,MDEwOlJlcG9zaXRvcnk2NDU1ODE0Mw==
+25,guava,10451,47058,Java,https://github.com/google/guava,Google core libraries for Java,MDEwOlJlcG9zaXRvcnkyMDMwMDE3Nw==
+26,vhr,10213,25734,Java,https://github.com/lenve/vhr,微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。,MDEwOlJlcG9zaXRvcnkxMTYyMzc4MjM=
+27,apollo,10096,27894,Java,https://github.com/apolloconfig/apollo,Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.,MDEwOlJlcG9zaXRvcnk1MzEyNzQwMw==
+28,spring-boot-demo,10038,29065,Java,https://github.com/xkcoding/spring-boot-demo,🚀一个用来深入学习并实战 Spring Boot 的项目。,MDEwOlJlcG9zaXRvcnkxMTAyMTExNDc=
+29,xxl-job,9942,23907,Java,https://github.com/xuxueli/xxl-job,A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）,MDEwOlJlcG9zaXRvcnk0NzAyMzYwMw==
+30,maven-project,9576,178,Java,https://github.com/jleetutorial/maven-project,Source code for James Lee's Jenkins course,MDEwOlJlcG9zaXRvcnk2OTA5MDgyOA==
+31,weixin-java-tools,9454,2709,Java,https://github.com/chanjarster/weixin-java-tools,微信公众号、企业号Java SDK,MDEwOlJlcG9zaXRvcnkyMzA2MzUzMQ==
+32,zxing,9279,30829,Java,https://github.com/zxing/zxing,"ZXing (""Zebra Crossing"") barcode scanning library for Java, Android",MDEwOlJlcG9zaXRvcnkyNTYyNzUx
+34,time-tracker,9201,4,Java,https://github.com/taylor-training/time-tracker,Maven training - time tracker project,MDEwOlJlcG9zaXRvcnk4OTg3MTY4OA==
+33,MPAndroidChart,8913,36276,Java,https://github.com/PhilJay/MPAndroidChart,"A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.",MDEwOlJlcG9zaXRvcnkxOTE0ODk0OQ==
+35,GitHub-Chinese-Top-Charts,8812,60793,Java,https://github.com/GrowingGit/GitHub-Chinese-Top-Charts,:cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。,MDEwOlJlcG9zaXRvcnkyMDY0NjI3NzY=
+37,maven-web-application,8640,60,Java,https://github.com/MithunTechnologiesDevOps/maven-web-application,,MDEwOlJlcG9zaXRvcnkyMDc1ODc0MTM=
+36,checkstyle,8557,7625,Java,https://github.com/checkstyle/checkstyle,"Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",MDEwOlJlcG9zaXRvcnkxMjQ5OTI1MQ==
+38,halo,8420,26490,Java,https://github.com/halo-dev/halo,强大易用的开源建站工具。,MDEwOlJlcG9zaXRvcnkxMjYxNzg2ODM=
+39,seata,8399,23550,Java,https://github.com/seata/seata,":fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.",MDEwOlJlcG9zaXRvcnkxNjMzODczMzc=
+40,druid,8355,26701,Java,https://github.com/alibaba/druid,阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池,MDEwOlJlcG9zaXRvcnkyNzAwMTU5
+41,hadoop,8297,13360,Java,https://github.com/apache/hadoop,Apache Hadoop,MDEwOlJlcG9zaXRvcnkyMzQxODUxNw==
+42,mall-learning,8176,11863,Java,https://github.com/macrozheng/mall-learning,mall学习教程，架构、业务、技术要点全方位解析。mall项目（50k+star）是一套电商系统，使用现阶段主流技术实现。涵盖了SpringBoot 2.3.0、MyBatis 3.4.6、Elasticsearch 7.6.2、RabbitMQ 3.7.15、Redis 5.0、MongoDB 4.2.5、Mysql5.7等技术，采用Docker容器化部署。,MDEwOlJlcG9zaXRvcnkxODEwMTI0MDY=
+43,SpringCloudLearning,8082,17210,Java,https://github.com/forezp/SpringCloudLearning,《史上最简单的Spring Cloud教程源码》,MDEwOlJlcG9zaXRvcnk4NzYyNDg3MA==
+44,jenkins,7976,20502,Java,https://github.com/jenkinsci/jenkins,Jenkins automation server,MDEwOlJlcG9zaXRvcnkxMTAzNjA3
+45,pipelines-java,7935,94,Java,https://github.com/MicrosoftDocs/pipelines-java,Sample Java application referred to by Azure Pipelines documentation,MDEwOlJlcG9zaXRvcnkxNDYxOTA3Mzk=
+46,ud839_Miwok,7767,698,Java,https://github.com/udacity/ud839_Miwok,,MDEwOlJlcG9zaXRvcnk1MDM5MDE1Mw==
+47,spring-cloud-alibaba,7694,25159,Java,https://github.com/alibaba/spring-cloud-alibaba,Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.,MDEwOlJlcG9zaXRvcnkxMTI3ODU0MTQ=
+48,RxJava,7670,46879,Java,https://github.com/ReactiveX/RxJava,RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.,MDEwOlJlcG9zaXRvcnk3NTA4NDEx
+49,SpringAll,7564,25254,Java,https://github.com/wuyouzhuguli/SpringAll,循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc,MDEwOlJlcG9zaXRvcnkxMzE3ODk0OTQ=
+50,DSA-Bootcamp-Java,7549,11180,Java,https://github.com/kunal-kushwaha/DSA-Bootcamp-Java,"This repository consists of the code samples, assignments, and notes for the Java Data Structures & Algorithms bootcamp of Community Classroom.",MDEwOlJlcG9zaXRvcnkzOTEwNTU1OTc=
+51,Sentinel,7524,20737,Java,https://github.com/alibaba/Sentinel,"A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)",MDEwOlJlcG9zaXRvcnkxMjgwMTg0Mjg=
+52,zheng,7460,16465,Java,https://github.com/shuzheng/zheng,基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。,MDEwOlJlcG9zaXRvcnk2OTk1MzQ0NQ==
+53,selenium,7455,26144,Java,https://github.com/SeleniumHQ/selenium,A browser automation framework and ecosystem.,MDEwOlJlcG9zaXRvcnk3NjEzMjU3
+54,quickstart-android,7438,8402,Java,https://github.com/firebase/quickstart-android,Firebase Quickstart Samples for Android,MDEwOlJlcG9zaXRvcnk1NzE0NzM0OQ==
+55,Telegram,7340,21799,Java,https://github.com/DrKLO/Telegram,Telegram for Android source,MDEwOlJlcG9zaXRvcnkxMzg2MjM4MQ==
+56,retrofit,7253,41323,Java,https://github.com/square/retrofit,A type-safe HTTP client for Android and the JVM,MDEwOlJlcG9zaXRvcnk4OTIyNzU=
+57,canal,7175,25350,Java,https://github.com/alibaba/canal,阿里巴巴 MySQL binlog 增量订阅&消费组件 ,MDEwOlJlcG9zaXRvcnk3NTg3MDM4
+58,JCSprout,7153,26958,Java,https://github.com/crossoverJie/JCSprout,"👨‍🎓 Java Core Sprout : basic, concurrent, algorithm ",MDEwOlJlcG9zaXRvcnkxMTQ1MjMxODQ=
+59,Arduino,7080,13473,Java,https://github.com/arduino/Arduino,Arduino IDE 1.x,MDEwOlJlcG9zaXRvcnk5MTkxNjE=
+60,springboot-learning-example,7061,15344,Java,https://github.com/JeffLi1993/springboot-learning-example,spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。,MDEwOlJlcG9zaXRvcnk4MTA1Nzg0Mg==
+61,hutool,7025,25784,Java,https://github.com/dromara/hutool,🍬A set of tools that keep Java sweet.,MDEwOlJlcG9zaXRvcnkxODcyMzgzNg==
+62,eladmin,7021,19500,Java,https://github.com/elunez/eladmin,项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由,MDEwOlJlcG9zaXRvcnkxNjE3NTc4Mzc=
+63,ud851-Exercises,6997,2051,Java,https://github.com/udacity/ud851-Exercises,,MDEwOlJlcG9zaXRvcnk3MjYwNDczNg==
+64,easyexcel,6986,27251,Java,https://github.com/alibaba/easyexcel,快速、简洁、解决大文件内存溢出的java处理Excel工具,MDEwOlJlcG9zaXRvcnkxMjAzOTUxNzY=
+65,litemall,6947,17847,Java,https://github.com/linlinjava/litemall,又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端,MDEwOlJlcG9zaXRvcnkxMjYzNjU5NjU=
+66,zookeeper,6946,11169,Java,https://github.com/apache/zookeeper,Apache ZooKeeper,MDEwOlJlcG9zaXRvcnkxNjA5OTk=
+67,arthas,6915,32033,Java,https://github.com/alibaba/arthas,Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas,MDEwOlJlcG9zaXRvcnkxNDY2MzM1ODk=
+68,Activiti,6877,9305,Java,https://github.com/Activiti/Activiti,"Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the cloud. It integrates perfectly with Spring, it is extremely lightweight and based on simple concepts. ",MDEwOlJlcG9zaXRvcnk1NzkzNzM4
+69,miaosha,6658,25789,Java,https://github.com/qiurunze123/miaosha,⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓,MDEwOlJlcG9zaXRvcnkxNDg3MzYyNDM=
+71,my-app,6603,80,Java,https://github.com/javahometech/my-app,,MDEwOlJlcG9zaXRvcnkxMjgwMTMwODc=
+70,fastjson,6516,25223,Java,https://github.com/alibaba/fastjson,"FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.",MDEwOlJlcG9zaXRvcnkyNzAwNDc0
+72,libgdx,6395,21272,Java,https://github.com/libgdx/libgdx,Desktop/Android/HTML5/iOS Java game development framework,MDEwOlJlcG9zaXRvcnk1MzczNTUx
+73,shardingsphere,6253,18161,Java,https://github.com/apache/shardingsphere,"Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features & more",MDEwOlJlcG9zaXRvcnk0OTg3NjQ3Ng==
+74,platform_frameworks_base,6226,10356,Java,https://github.com/aosp-mirror/platform_frameworks_base,,MDEwOlJlcG9zaXRvcnk2NTg4NQ==
+75,Android-Universal-Image-Loader,6214,16814,Java,https://github.com/nostra13/Android-Universal-Image-Loader,"Powerful and flexible library for loading, caching and displaying images on Android.",MDEwOlJlcG9zaXRvcnkyODYyMjkw
+76,hello-algorithm,6196,32165,Java,https://github.com/geekxh/hello-algorithm,🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）点击下方网站，马上开始刷题！,MDEwOlJlcG9zaXRvcnkyNjc3NzU2Mjk=
+77,skywalking,6149,21525,Java,https://github.com/apache/skywalking,"APM, Application Performance Monitoring System",MDEwOlJlcG9zaXRvcnk0NTcyMTAxMQ==
+78,AndroidTutorialForBeginners,6082,4045,Java,https://github.com/hussien89aa/AndroidTutorialForBeginners,Step by step to build Android apps using Android Studio,MDEwOlJlcG9zaXRvcnk2OTI3MDQwNw==
+79,glide,6046,33477,Java,https://github.com/bumptech/glide,An image loading and caching library for Android focused on smooth scrolling,MDEwOlJlcG9zaXRvcnkxMTI2NzUwOQ==
+80,ExoPlayer,5921,20539,Java,https://github.com/google/ExoPlayer,An extensible media player for Android,MDEwOlJlcG9zaXRvcnkyMDgxODEyNg==
+81,piggymetrics,5839,12240,Java,https://github.com/sqshq/piggymetrics,"Microservice Architecture with Spring Boot, Spring Cloud and Docker",MDEwOlJlcG9zaXRvcnkzMzA4Mjg2OA==
+82,Signal-Android,5727,23447,Java,https://github.com/signalapp/Signal-Android,A private messenger for Android.,MDEwOlJlcG9zaXRvcnkyOTkwMTky
+83,toBeTopJavaer,5407,24500,Java,https://github.com/hollischuang/toBeTopJavaer,To Be Top Javaer - Java工程师成神之路,MDEwOlJlcG9zaXRvcnkxNTQ2NDgxMTI=
+84,coursera-android,5397,4280,Java,https://github.com/aporter/coursera-android,Source Code for Android Course Example Applications,MDEwOlJlcG9zaXRvcnkxNTY0ODg5OQ==
+85,spring-security,5394,7557,Java,https://github.com/spring-projects/spring-security,Spring Security,MDEwOlJlcG9zaXRvcnkzMTQ4OTc5
+86,SpringBoot-Labs,5358,16393,Java,https://github.com/yudaocode/SpringBoot-Labs,一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024,MDEwOlJlcG9zaXRvcnkxNDg0OTY2ODc=
+87,lottie-android,5345,33727,Java,https://github.com/airbnb/lottie-android,"Render After Effects animations natively on Android and iOS, Web, and React Native",MDEwOlJlcG9zaXRvcnk3MDE5ODg3NQ==
+88,cat,5316,17630,Java,https://github.com/dianping/cat,"CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。",MDEwOlJlcG9zaXRvcnk3MDEwNzI0
+89,keycloak,5252,15406,Java,https://github.com/keycloak/keycloak,Open Source Identity and Access Management For Modern Applications and Services,MDEwOlJlcG9zaXRvcnkxMTEyNTU4OQ==
+90,interview,5156,10717,Java,https://github.com/mission-peace/interview,Interview questions,MDEwOlJlcG9zaXRvcnkyMjA0Mzg0Nw==
+91,openapi-generator,5129,15733,Java,https://github.com/OpenAPITools/openapi-generator,"OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",MDEwOlJlcG9zaXRvcnkxMzMxMzQwMDc=
+92,SlidingMenu,5123,11130,Java,https://github.com/jfeinstein10/SlidingMenu,An Android library that allows you to easily create applications with slide-in menus. You may use it in your Android apps provided that you cite this project and include the license in your app. Thanks!,MDEwOlJlcG9zaXRvcnk0ODM5OTU3
+93,BaseRecyclerViewAdapterHelper,5022,23469,Java,https://github.com/CymChad/BaseRecyclerViewAdapterHelper,BRVAH:Powerful and flexible RecyclerAdapter,MDEwOlJlcG9zaXRvcnk1NTg4Njc5OA==
+94,redisson,5005,20845,Java,https://github.com/redisson/redisson,"Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ...",MDEwOlJlcG9zaXRvcnkxNTgyMzQ2MA==
+95,presto,4972,14576,Java,https://github.com/prestodb/presto,The official home of the Presto distributed SQL query engine for big data,MDEwOlJlcG9zaXRvcnk1MzQ5NTY1
+96,deeplearning4j,4937,12844,Java,https://github.com/deeplearning4j/deeplearning4j,"Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learning using automatic differentiation.",MDEwOlJlcG9zaXRvcnkxNDczNDg3Ng==
+97,aws-doc-sdk-examples,4932,7313,Java,https://github.com/awsdocs/aws-doc-sdk-examples,"Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.",MDEwOlJlcG9zaXRvcnk2NjAyMzYwNQ==
+98,SmartRefreshLayout,4912,24112,Java,https://github.com/scwang90/SmartRefreshLayout,🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。,MDEwOlJlcG9zaXRvcnk5MzE1MjIyMw==
+99,SpringBoot-Learning,4831,15055,Java,https://github.com/dyc87112/SpringBoot-Learning,《Spring Boot基础教程》，2.x版本持续连载中！点击下方链接直达教程目录！,MDEwOlJlcG9zaXRvcnk2NjE3OTc2NQ==
+105,hello-world,4792,39,Java,https://github.com/ValaxyTech/hello-world,,MDEwOlJlcG9zaXRvcnkxMzc5Mjg5NjU=
+100,runelite,4783,4083,Java,https://github.com/runelite/runelite,Open source Old School RuneScape client,MDEwOlJlcG9zaXRvcnk1NzQ2MTIxMw==
+101,Android-PullToRefresh,4772,8750,Java,https://github.com/chrisbanes/Android-PullToRefresh,DEPRECATED,MDEwOlJlcG9zaXRvcnkyODc0MDAx
+102,ghidra,4755,38114,Java,https://github.com/NationalSecurityAgency/ghidra,Ghidra is a software reverse engineering (SRE) framework,MDEwOlJlcG9zaXRvcnkxNzMyMjg0MzY=
+103,DataX,4715,13159,Java,https://github.com/alibaba/DataX,DataX是阿里云DataWorks数据集成的开源版本。,MDEwOlJlcG9zaXRvcnkxMTc5NjU5NzI=
+104,camel,4705,4783,Java,https://github.com/apache/camel,Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.,MDEwOlJlcG9zaXRvcnkyMDYzMTc=
+106,Hystrix,4687,23279,Java,https://github.com/Netflix/Hystrix,"Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.",MDEwOlJlcG9zaXRvcnk2NzY2NTU4
+107,butterknife,4685,25647,Java,https://github.com/JakeWharton/butterknife,Bind Android views and callbacks to fields and methods.,MDEwOlJlcG9zaXRvcnk4NTc1MTM3
+108,EventBus,4681,24304,Java,https://github.com/greenrobot/EventBus,"Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.",MDEwOlJlcG9zaXRvcnk1MDcwMzg5
+109,Java,4664,10894,Java,https://github.com/DuGuQiuBai/Java,27天成为Java大神,MDEwOlJlcG9zaXRvcnk0Njg0NDk1OA==
+110,mall-swarm,4660,9993,Java,https://github.com/macrozheng/mall-swarm,mall-swarm是一套微服务商城系统，采用了 Spring Cloud 2021 & Alibaba、Spring Boot 2.7、Oauth2、MyBatis、Docker、Elasticsearch、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。,MDEwOlJlcG9zaXRvcnkyMjM4ODE1NzY=
+111,ud851-Sunshine,4632,2013,Java,https://github.com/udacity/ud851-Sunshine,,MDEwOlJlcG9zaXRvcnk3MjYwNDc5NQ==
+112,proxyee-down,4543,25084,Java,https://github.com/proxyee-down-org/proxyee-down,http下载工具，基于http代理，支持多连接分块下载,MDEwOlJlcG9zaXRvcnkxMDgyNTI4OTI=
+113,Sunshine-Version-2,4503,2887,Java,https://github.com/udacity/Sunshine-Version-2,The official repository for Developing Android Apps,MDEwOlJlcG9zaXRvcnkzMTY5MDEwOA==
+114,tomcat,4486,6569,Java,https://github.com/apache/tomcat,Apache Tomcat,MDEwOlJlcG9zaXRvcnkyNDkzOTA0
+115,DevOpsClassCodes,4422,36,Java,https://github.com/edureka-git/DevOpsClassCodes,,MDEwOlJlcG9zaXRvcnk3ODUzNDE2MA==
+116,jdk,4385,15500,Java,https://github.com/openjdk/jdk,JDK main-line development https://openjdk.org/projects/jdk,MDEwOlJlcG9zaXRvcnkxNDkxMjE5NTQ=
+117,hive,4360,4724,Java,https://github.com/apache/hive,Apache Hive,MDEwOlJlcG9zaXRvcnkyMDY0NDQ=
+118,paascloud-master,4345,9552,Java,https://github.com/paascloud/paascloud-master,spring cloud + vue + oAuth2.0全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录。,MDEwOlJlcG9zaXRvcnkxMjU2MDAzOTU=
+135,maven-web-application,4341,3,Java,https://github.com/LandmarkTechnology/maven-web-application,,MDEwOlJlcG9zaXRvcnkyODY4NDM5NDk=
+119,CtCI-6th-Edition,4257,10583,Java,https://github.com/careercup/CtCI-6th-Edition,Cracking the Coding Interview 6th Ed. Solutions,MDEwOlJlcG9zaXRvcnkzODQxNTQ5OA==
+120,devops-master-class,4248,1346,Java,https://github.com/in28minutes/devops-master-class,"Devops Tutorial for Beginners - Learn Docker, Kubernetes, Terraform, Ansible, Jenkins and Azure Devops",MDEwOlJlcG9zaXRvcnkyMzUwMTM1ODg=
+121,thingsboard,4238,13372,Java,https://github.com/thingsboard/thingsboard,"Open-source IoT Platform - Device management, data collection, processing and visualization.",MDEwOlJlcG9zaXRvcnk3NTI3NzAwMw==
+122,jadx,4231,33888,Java,https://github.com/skylot/jadx,Dex to Java decompiler,MDEwOlJlcG9zaXRvcnk4ODU5NDc0
+123,gson,4220,21969,Java,https://github.com/google/gson,A Java serialization/deserialization library to convert Java Objects into JSON and back,MDEwOlJlcG9zaXRvcnkzMjUzODg3MQ==
+124,android-async-http,4196,10647,Java,https://github.com/android-async-http/android-async-http,This project under develop,MDEwOlJlcG9zaXRvcnkxMzg4MjQ1
+125,vprofile-project,4167,885,Java,https://github.com/devopshydclub/vprofile-project,,MDEwOlJlcG9zaXRvcnkyOTgzMjM2OTk=
+126,aws-eks-kubernetes-masterclass,4125,758,Java,https://github.com/stacksimplify/aws-eks-kubernetes-masterclass,"AWS EKS Kubernetes - Masterclass | DevOps, Microservices",MDEwOlJlcG9zaXRvcnkyNTcyNjI2MjI=
+127,webmagic,4121,10770,Java,https://github.com/code4craft/webmagic,A scalable web crawler framework for Java.,MDEwOlJlcG9zaXRvcnk5NjIzMDY0
+133,spring-boot-mongo-docker,4109,28,Java,https://github.com/MithunTechnologiesDevOps/spring-boot-mongo-docker,,MDEwOlJlcG9zaXRvcnkxOTUwODcwMTE=
+128,spring5-recipe-app,4105,150,Java,https://github.com/springframeworkguru/spring5-recipe-app,spring5-recipe-app,MDEwOlJlcG9zaXRvcnk5MjYxNjI5Ng==
+130,Grasscutter,4102,12820,Java,https://github.com/Grasscutters/Grasscutter,A server software reimplementation for a certain anime game.,R_kgDOHMKsgg
+129,ViewPagerIndicator,4099,10185,Java,https://github.com/JakeWharton/ViewPagerIndicator,Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock.,MDEwOlJlcG9zaXRvcnkyMTU1Nzkz
+131,storm,4097,6432,Java,https://github.com/apache/storm,Mirror of Apache Storm,MDEwOlJlcG9zaXRvcnkxNDEzNTQ3MA==
+132,spring-security-oauth,4092,4631,Java,https://github.com/spring-attic/spring-security-oauth,Support for adding OAuth1(a) and OAuth2 features (consumer and provider) for Spring web applications.,MDEwOlJlcG9zaXRvcnkyMTA4NDgx
+134,spring-analysis,4066,12624,Java,https://github.com/seaswalker/spring-analysis,Spring源码阅读,MDEwOlJlcG9zaXRvcnk2Nzc3ODAzMQ==
+136,GSYVideoPlayer,4006,18393,Java,https://github.com/CarGuo/GSYVideoPlayer,"视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。 ",MDEwOlJlcG9zaXRvcnk3MzYxNDcyMg==
+137,java8-tutorial,3970,16231,Java,https://github.com/winterbe/java8-tutorial,Modern Java - A Guide to Java 8,MDEwOlJlcG9zaXRvcnkxNzgwNDU4NA==
+138,PhotoView,3920,18474,Java,https://github.com/Baseflow/PhotoView,"Implementation of ImageView for Android that supports zooming, by various touch gestures.",MDEwOlJlcG9zaXRvcnk1MDg0NzUw
+139,Algorithms,3917,14525,Java,https://github.com/williamfiset/Algorithms,A collection of algorithms and data structures,MDEwOlJlcG9zaXRvcnk4NTM3MTI2Mg==
+140,phonegap-plugins,3907,981,Java,https://github.com/purplecabbage/phonegap-plugins,Plugins for use with PhoneGap. ,MDEwOlJlcG9zaXRvcnk1MDA0Mzc=
+141,Mycat-Server,3890,9378,Java,https://github.com/MyCATApache/Mycat-Server,,MDEwOlJlcG9zaXRvcnkyNzUxOTgwMA==
+142,BigData-Notes,3878,13605,Java,https://github.com/heibaiying/BigData-Notes,大数据入门指南  :star:,MDEwOlJlcG9zaXRvcnkxNzQ3NjU2NDc=
+143,beam,3873,6658,Java,https://github.com/apache/beam,Apache Beam is a unified programming model for Batch and Streaming data processing.,MDEwOlJlcG9zaXRvcnk1MDkwNDI0NQ==
+144,leetcode,3871,21601,Java,https://github.com/doocs/leetcode,😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解,MDEwOlJlcG9zaXRvcnkxNDkwMDEzNjU=
+145,mybatis-plus,3871,14249,Java,https://github.com/baomidou/mybatis-plus,An powerful enhanced toolkit of MyBatis for simplify development,MDEwOlJlcG9zaXRvcnk2NTk4NzA0Mw==
+146,cw-omnibus,3855,5311,Java,https://github.com/commonsguy/cw-omnibus,Source code to omnibus edition of _The Busy Coder's Guide to Android Development_,MDEwOlJlcG9zaXRvcnkzNjk1NzQ0
+147,gs-spring-boot,3845,771,Java,https://github.com/spring-guides/gs-spring-boot,Building an Application with Spring Boot :: Learn how to build an application with minimal configuration.,MDEwOlJlcG9zaXRvcnkxMTc3MjE1OQ==
+148,cas,3831,10045,Java,https://github.com/apereo/cas,Apereo CAS - Identity & Single Sign On for all earthlings and beyond.,MDEwOlJlcG9zaXRvcnkyMzUyNzQ0
+149,spring-boot-api-project-seed,3788,9274,Java,https://github.com/lihengming/spring-boot-api-project-seed,:seedling::rocket:一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~,MDEwOlJlcG9zaXRvcnk5NTIwODYyMw==
+150,fresco,3786,16925,Java,https://github.com/facebook/fresco,An Android library for managing images and the memory they use.,MDEwOlJlcG9zaXRvcnkzMTUzMzk5Nw==
+151,spring-mvc-showcase,3772,4986,Java,https://github.com/spring-attic/spring-mvc-showcase,Demonstrates the features of the Spring MVC web framework,MDEwOlJlcG9zaXRvcnkxODQzMDQ3
+152,SpringCloud,3758,8020,Java,https://github.com/zhoutaoo/SpringCloud,基于SpringCloud2.1的微服务开发脚手架，整合了spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway等。服务治理方面引入elasticsearch、skywalking、springboot-admin、zipkin等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。持续更新中,MDEwOlJlcG9zaXRvcnk5ODEwMzMyMg==
+153,disruptor,3758,15866,Java,https://github.com/LMAX-Exchange/disruptor,High Performance Inter-Thread Messaging Library,MDEwOlJlcG9zaXRvcnk1OTAxOTAw
+158,java-web-app-docker,3750,16,Java,https://github.com/MithunTechnologiesDevOps/java-web-app-docker,,MDEwOlJlcG9zaXRvcnkxOTUwOTg2MDA=
+154,dolphinscheduler,3743,10173,Java,https://github.com/apache/dolphinscheduler,"Apache DolphinScheduler is the modern data workflow orchestration platform with powerful user interface, dedicated to solving complex task dependencies in the data pipeline and providing various types of jobs available `out of the box`",MDEwOlJlcG9zaXRvcnkxNzMzMzU3MDY=
+155,jedis,3737,10987,Java,https://github.com/redis/jedis,Redis Java client designed for performance and ease of use.,MDEwOlJlcG9zaXRvcnk3MTU2MDU=
+156,bazel,3707,20518,Java,https://github.com/bazelbuild/bazel,"a fast, scalable, multi-language and extensible build system",MDEwOlJlcG9zaXRvcnkyMDc3Mzc3Mw==
+157,pinpoint,3707,12667,Java,https://github.com/pinpoint-apm/pinpoint,"APM, (Application Performance Management) tool for large-scale distributed systems. ",MDEwOlJlcG9zaXRvcnkyNTQ1OTQwMA==
+159,flink-learning,3684,13299,Java,https://github.com/zhisheng17/flink-learning,flink learning blog. http://www.54tianzhisheng.cn/  含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》,MDEwOlJlcG9zaXRvcnkxNjM3MjExOTI=
+160,eureka,3676,11747,Java,https://github.com/Netflix/eureka,AWS Service registry for resilient mid-tier load balancing and failover.,MDEwOlJlcG9zaXRvcnk1MTk4MDQx
+161,ActionBarSherlock,3622,7136,Java,https://github.com/JakeWharton/ActionBarSherlock,[DEPRECATED] Action bar implementation which uses the native action bar on Android 4.0+ and a custom implementation on pre-4.0 through a single API and theme.,MDEwOlJlcG9zaXRvcnkxNDUxMDYw
+162,grpc-java,3617,10440,Java,https://github.com/grpc/grpc-java,The Java gRPC implementation. HTTP/2 based RPC,MDEwOlJlcG9zaXRvcnkyNzcyOTkyNg==
+163,testing-samples,3593,8784,Java,https://github.com/android/testing-samples,A collection of samples demonstrating different frameworks and techniques for automated testing,MDEwOlJlcG9zaXRvcnkyNTA2MjMwMw==
+164,rabbitmq-tutorials,3566,6248,Java,https://github.com/rabbitmq/rabbitmq-tutorials,Tutorials for using RabbitMQ in various ways,MDEwOlJlcG9zaXRvcnk5Mjc0NTQ=
+165,PocketHub,3536,9416,Java,https://github.com/pockethub/PocketHub,PocketHub Android App,MDEwOlJlcG9zaXRvcnkyMzQ5NzI4
+166,druid,3482,12502,Java,https://github.com/apache/druid,Apache Druid: a high performance real-time analytics database.,MDEwOlJlcG9zaXRvcnk2MzU4MTg4
+167,dropwizard,3463,8371,Java,https://github.com/dropwizard/dropwizard,A damn simple library for building production-ready RESTful web services.,MDEwOlJlcG9zaXRvcnkxMjcyMTI5
+168,liferay-portal,3443,1953,Java,https://github.com/liferay/liferay-portal,,MDEwOlJlcG9zaXRvcnkzMTc4ODc=
+169,react-native-camera,3440,9618,Java,https://github.com/react-native-camera/react-native-camera,A Camera component for React Native. Also supports barcode scanning!,MDEwOlJlcG9zaXRvcnkzMzIxODQxNA==
+170,Android,3429,3360,Java,https://github.com/hmkcode/Android,Android related examples,MDEwOlJlcG9zaXRvcnkxMjU0NDA5Mw==
+171,Android-PickerView,3427,13270,Java,https://github.com/Bigkoo/Android-PickerView,"This is a picker view for android , support linkage effect, timepicker and optionspicker.（时间选择器、省市区三级联动）",MDEwOlJlcG9zaXRvcnkyODU1MDg3Mg==
+172,apache-shiro-tutorial-webapp,3407,254,Java,https://github.com/lhazlewood/apache-shiro-tutorial-webapp,A step-by-step tutorial showing how to secure a web app with Apache Shiro,MDEwOlJlcG9zaXRvcnkxNDU0MDAzMg==
+173,logstash,3404,13348,Java,https://github.com/elastic/logstash,"Logstash - transport and process your logs, events, or other data",MDEwOlJlcG9zaXRvcnkxMDkwMzEx
+174,openhab-addons,3376,1748,Java,https://github.com/openhab/openhab-addons,Add-ons for openHAB,MDEwOlJlcG9zaXRvcnkxOTc1MzE5NQ==
+175,openmrs-core,3371,1185,Java,https://github.com/openmrs/openmrs-core,OpenMRS API and web application code,MDEwOlJlcG9zaXRvcnk1MTg3OTc2
+176,Android-CleanArchitecture,3365,15309,Java,https://github.com/android10/Android-CleanArchitecture,This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.,MDEwOlJlcG9zaXRvcnkyMzExMjUyNg==
+178,mooc-software-testing,3353,43,Java,https://github.com/SERG-Delft/mooc-software-testing,,MDEwOlJlcG9zaXRvcnkxNDczMTc4MTQ=
+177,cassandra,3350,7885,Java,https://github.com/apache/cassandra,Mirror of Apache Cassandra,MDEwOlJlcG9zaXRvcnkyMDY0MjQ=
+179,tinker,3337,16716,Java,https://github.com/Tencent/tinker,"Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.",MDEwOlJlcG9zaXRvcnk2NzQ4MTk4Ng==
+180,Apktool,3302,15970,Java,https://github.com/iBotPeaches/Apktool,A tool for reverse engineering Android apk files,MDEwOlJlcG9zaXRvcnkzNzY2NzA2
+181,TVBoxOSC,3286,3806,Java,https://github.com/CatVodTVOfficial/TVBoxOSC,真的没有QQ群、QQ频道、论坛。打包分发注意开源协议，保留出处，不守规矩就不要搞。,R_kgDOHi_M8g
+182,spring-data-examples,3257,4746,Java,https://github.com/spring-projects/spring-data-examples,Spring Data Example Projects,MDEwOlJlcG9zaXRvcnkxNjM4MTU3MQ==
+183,shardingsphere-elasticjob,3255,7850,Java,https://github.com/apache/shardingsphere-elasticjob,Distributed scheduled job framework,MDEwOlJlcG9zaXRvcnk0MjMwNDc0OQ==
+184,pulsar,3252,12471,Java,https://github.com/apache/pulsar,Apache Pulsar - distributed pub-sub messaging system,MDEwOlJlcG9zaXRvcnk2MjExNzgxMg==
+185,hibernate-orm,3228,5332,Java,https://github.com/hibernate/hibernate-orm,Hibernate's core Object/Relational Mapping functionality,MDEwOlJlcG9zaXRvcnk5NjEwMzY=
+186,ftc_app,3205,738,Java,https://github.com/ftctechnh/ftc_app,FTC Android Studio project to create FTC Robot Controller app.,MDEwOlJlcG9zaXRvcnkzNjMwMTg4MQ==
+187,junit4,3200,8421,Java,https://github.com/junit-team/junit4,A programmer-oriented testing framework for Java.,MDEwOlJlcG9zaXRvcnkxMDYzMTA=
+188,pentaho-kettle,3173,6466,Java,https://github.com/pentaho/pentaho-kettle,Pentaho Data Integration ( ETL ) a.k.a Kettle,MDEwOlJlcG9zaXRvcnkxMzQyMTg3OA==
+189,spring-boot-examples,3165,1025,Java,https://github.com/in28minutes/spring-boot-examples,Code Examples for everything thats written on www.springboottutorial.com,MDEwOlJlcG9zaXRvcnkxMTIxNDczMDY=
+190,hbase,3154,4815,Java,https://github.com/apache/hbase,Apache HBase,MDEwOlJlcG9zaXRvcnkyMDA4OTg1Nw==
+191,CircleImageView,3140,14400,Java,https://github.com/hdodenhof/CircleImageView,A circular ImageView for Android,MDEwOlJlcG9zaXRvcnkxNjAwNTQxMA==
+192,elasticsearch-analysis-ik,3127,14918,Java,https://github.com/medcl/elasticsearch-analysis-ik,"The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.",MDEwOlJlcG9zaXRvcnkyOTkzNTk1
+193,ruoyi-vue-pro,3125,11334,Java,https://github.com/YunaiV/ruoyi-vue-pro,🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！,MDEwOlJlcG9zaXRvcnkzMzIzNTc2OTg=
+194,Mybatis-PageHelper,3110,11616,Java,https://github.com/pagehelper/Mybatis-PageHelper,Mybatis通用分页插件,MDEwOlJlcG9zaXRvcnkyMDY1MTY3Mg==
+195,spring-cloud-examples,3090,6019,Java,https://github.com/ityouknow/spring-cloud-examples,Spring Cloud 学习案例，服务发现、服务治理、链路追踪、服务监控等,MDEwOlJlcG9zaXRvcnk4OTY4NzI3MQ==
+196,dagger,3084,7292,Java,https://github.com/square/dagger,A fast dependency injector for Android and Java.,MDEwOlJlcG9zaXRvcnk1Mjc5MDkx
+197,zipkin,3054,16071,Java,https://github.com/openzipkin/zipkin,Zipkin is a distributed tracing system,MDEwOlJlcG9zaXRvcnk0NTc2MzA1
+198,rocketmq-externals,3052,4383,Java,https://github.com/apache/rocketmq-externals,Mirror of Apache RocketMQ (Incubating),MDEwOlJlcG9zaXRvcnk4NDkxNjM3NA==
+199,hsweb-framework,3027,8013,Java,https://github.com/hs-web/hsweb-framework,"hsweb (haʊs wɛb) 是一个基于spring-boot 2.x开发 ,首个使用全响应式编程的企业级后台管理系统基础项目。",MDEwOlJlcG9zaXRvcnk0OTg1MDcwNA==
+200,android-samples,3011,2322,Java,https://github.com/googlemaps/android-samples,Samples demonstrating how to use Maps SDK for Android,MDEwOlJlcG9zaXRvcnkzNDM2NDI3OQ==
+201,antlr4,3008,14113,Java,https://github.com/antlr/antlr4,"ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.",MDEwOlJlcG9zaXRvcnk1MDE2ODc=
+202,RxAndroid,3008,19778,Java,https://github.com/ReactiveX/RxAndroid,RxJava bindings for Android,MDEwOlJlcG9zaXRvcnkyMzA5NTk1NA==
+203,DoKit,3006,19371,Java,https://github.com/didi/DoKit,一款面向泛前端产品研发全生命周期的效率平台。,MDEwOlJlcG9zaXRvcnkxNDQ3MDU2MDI=
+215,myweb,3004,15,Java,https://github.com/javahometech/myweb,,MDEwOlJlcG9zaXRvcnk3NzkxMTA3NA==
+204,spring-boot-admin,2999,11593,Java,https://github.com/codecentric/spring-boot-admin,Admin UI for administration of spring boot applications,MDEwOlJlcG9zaXRvcnkyMjI1NDg1Ng==
+205,material-components-android,2969,14742,Java,https://github.com/material-components/material-components-android,Modular and customizable Material Design UI components for Android,MDEwOlJlcG9zaXRvcnk3NTY0MzA5Ng==
+206,views-widgets-samples,2960,4662,Java,https://github.com/android/views-widgets-samples,Multiple samples showing the best practices in views-widgets on Android.,MDEwOlJlcG9zaXRvcnkyMDY4Nzc4NDU=
+207,springside4,2960,5759,Java,https://github.com/springside/springside4,"A Spring Framework based, pragmatic style JavaEE application reference architecture.",MDEwOlJlcG9zaXRvcnkzNTIzNjMy
+208,spring-cloud-gateway,2957,3942,Java,https://github.com/spring-cloud/spring-cloud-gateway,A Gateway built on Spring Framework and Spring Boot providing routing and more.,MDEwOlJlcG9zaXRvcnk3Mzk2MzgzNQ==
+209,springBoot,2953,5970,Java,https://github.com/527515025/springBoot,springboot 框架与其它组件结合如 jpa、mybatis、websocket、security、shiro、cache等,MDEwOlJlcG9zaXRvcnk3MzAzNDEyMg==
+210,api-samples,2932,4803,Java,https://github.com/youtube/api-samples,"Code samples for YouTube APIs, including the YouTube Data API, YouTube Analytics API, and YouTube Live Streaming API. The repo contains language-specific directories that contain the samples.",MDEwOlJlcG9zaXRvcnkxNTA1NTcxNw==
+211,topjava,2930,286,Java,https://github.com/JavaOPs/topjava,Java Enterprise: Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery,MDEwOlJlcG9zaXRvcnk0MTM5MjQ4Mg==
+212,SpringCloud-Learning,2904,7133,Java,https://github.com/dyc87112/SpringCloud-Learning,Spring Cloud基础教程，持续连载更新中,MDEwOlJlcG9zaXRvcnk2NjE3OTc4Nw==
+213,greenDAO,2896,12571,Java,https://github.com/greenrobot/greenDAO,greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.,MDEwOlJlcG9zaXRvcnkyNjI2NzUx
+214,VBlog,2893,6861,Java,https://github.com/lenve/VBlog,V部落，Vue+SpringBoot实现的多用户博客管理平台!,MDEwOlJlcG9zaXRvcnkxMTU0MTQ1MTk=
+218,maven-standalone-application,2881,10,Java,https://github.com/MithunTechnologiesDevOps/maven-standalone-application,,MDEwOlJlcG9zaXRvcnkxNTkxNDI1MTI=
+216,PictureSelector,2856,12308,Java,https://github.com/LuckSiege/PictureSelector,Picture Selector Library for Android or 图片选择器,MDEwOlJlcG9zaXRvcnk3Nzk5MzU3OA==
+217,JavaEETest,2847,3263,Java,https://github.com/lenve/JavaEETest,Spring、SpringMVC、MyBatis、Spring Boot案例,MDEwOlJlcG9zaXRvcnk3NjMxMzg3NA==
+229,group_903,2845,20,Java,https://github.com/ShafigullinIK/group_903,,R_kgDOGGLIxA
+219,InternetArchitect,2827,4146,Java,https://github.com/bjmashibing/InternetArchitect,年薪百万互联网架构师课程文档及源码(公开部分),MDEwOlJlcG9zaXRvcnkyMTYyMzY5MTc=
+221,sample-java-project,2825,69,Java,https://github.com/skeeto/sample-java-project,Example Ant-based Java project,MDEwOlJlcG9zaXRvcnkyMDY4MjUw
+220,dbeaver,2811,31265,Java,https://github.com/dbeaver/dbeaver,Free universal database tool and SQL client,MDEwOlJlcG9zaXRvcnk0NDY2MjY2OQ==
+222,alluxio,2809,6148,Java,https://github.com/Alluxio/alluxio,"Alluxio, data orchestration for analytics and machine learning in the cloud",MDEwOlJlcG9zaXRvcnk3Mjc2OTU0
+223,xUtils,2803,11,Java,https://github.com/sl531632/xUtils,android orm ioc bitmap http utils,MDEwOlJlcG9zaXRvcnkxMTcwNTg4NA==
+224,Surviving-with-android,2793,1271,Java,https://github.com/survivingwithandroid/Surviving-with-android,Source code related to the posts in the blog,MDEwOlJlcG9zaXRvcnk2MTA2NDcy
+225,VirtualApp,2787,9214,Java,https://github.com/asLody/VirtualApp,Virtual Engine for Android(Support 12.0 in business version),MDEwOlJlcG9zaXRvcnk2MjcyMjgxNA==
+226,ssm,2784,5744,Java,https://github.com/liyifeng1994/ssm,手把手教你整合最优雅SSM框架：SpringMVC + Spring + MyBatis,MDEwOlJlcG9zaXRvcnk2MTQ0NjA4MA==
+227,tcc-transaction,2774,5594,Java,https://github.com/changmingxie/tcc-transaction,tcc-transaction是TCC型事务java实现,MDEwOlJlcG9zaXRvcnk0NzQ0MjIyOA==
+228,cim,2764,8786,Java,https://github.com/crossoverJie/cim,📲cim(cross IM) 适用于开发者的分布式即时通讯系统,MDEwOlJlcG9zaXRvcnkxMzQxNjQ3Nzc=
+230,TIMSDK,2748,2368,Java,https://github.com/TencentCloud/TIMSDK,Instant Message Service of Tencent Cloud. Download Image for Chinese Mainland：,MDEwOlJlcG9zaXRvcnkxNjYxODE3OTc=
+243,SpringPetClinic,2738,4,Java,https://github.com/AnjuMeleth/SpringPetClinic,,MDEwOlJlcG9zaXRvcnkzMDkzNDMzNTE=
+231,teammates,2731,1370,Java,https://github.com/TEAMMATES/teammates,This is the project website for the TEAMMATES feedback management tool for education,MDEwOlJlcG9zaXRvcnkxOTM2OTAzNQ==
+232,SmarterStreaming,2730,10422,Java,https://github.com/daniulive/SmarterStreaming,业内为数不多致力于极致体验的超强全自研跨平台(windows/linux/android/iOS)流媒体内核，通过模块化自由组合，支持实时RTMP推流、RTSP推流、RTMP播放器、RTSP播放器、录像、多路流媒体转发、音视频导播、动态视频合成、音频混音、直播互动、内置轻量级RTSP服务等，比快更快，业界真正靠谱的超低延迟直播SDK(1秒内，低延迟模式下200~400ms)。,MDEwOlJlcG9zaXRvcnk1NDc4MzQ2Mg==
+233,zeppelin,2729,5985,Java,https://github.com/apache/zeppelin,"Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.",MDEwOlJlcG9zaXRvcnkzMjg0ODE0MA==
+234,java-docs-samples,2729,1540,Java,https://github.com/GoogleCloudPlatform/java-docs-samples,Java and Kotlin Code samples used on cloud.google.com,MDEwOlJlcG9zaXRvcnkzMjg5NTQyNA==
+235,HikariCP,2709,18014,Java,https://github.com/brettwooldridge/HikariCP,"光 HikariCP・A solid, high-performance, JDBC connection pool at last.",MDEwOlJlcG9zaXRvcnkxMzQwNDUxNQ==
+236,android-Ultra-Pull-To-Refresh,2708,9620,Java,https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh,Ultra Pull to Refresh for Android. Support all the views.,MDEwOlJlcG9zaXRvcnkyNjU2ODIzNA==
+237,PagerSlidingTabStrip,2705,18,Java,https://github.com/mozuck/PagerSlidingTabStrip,An interactive indicator to navigate between the different pages of a ViewPager,MDEwOlJlcG9zaXRvcnk5NzI4MjY3
+238,react-native-video,2705,6506,Java,https://github.com/react-native-video/react-native-video,A <Video /> component for react-native,MDEwOlJlcG9zaXRvcnkzMzE2NjA0MQ==
+239,android-common,2699,5012,Java,https://github.com/Trinea/android-common,"Android common lib, include ImageCache, HttpCache, DropDownListView, DownloadManager, Utils and so on",MDEwOlJlcG9zaXRvcnk0NzEwODc2
+240,AndroidSwipeLayout,2698,12284,Java,https://github.com/daimajia/AndroidSwipeLayout,The Most Powerful Swipe Layout!,MDEwOlJlcG9zaXRvcnkyMzMwMTQ2OA==
+241,CoreNLP,2684,8909,Java,https://github.com/stanfordnlp/CoreNLP,Stanford CoreNLP: A Java suite of core NLP tools.,MDEwOlJlcG9zaXRvcnkxMTAwODA3Ng==
+244,android-fundamentals-apps-v2,2680,629,Java,https://github.com/google-developer-training/android-fundamentals-apps-v2,,MDEwOlJlcG9zaXRvcnkxNDc3NDgyMzA=
+242,yudao-cloud,2679,8681,Java,https://github.com/YunaiV/yudao-cloud,ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！,MDEwOlJlcG9zaXRvcnkxODQ2MTE2Nzc=
+245,shenyu,2658,7707,Java,https://github.com/apache/shenyu,"Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.",MDEwOlJlcG9zaXRvcnkxNDA1NDM4ODY=
+246,algs4,2653,7201,Java,https://github.com/kevin-wayne/algs4,"Algorithms, 4th edition textbook code and libraries",MDEwOlJlcG9zaXRvcnk0MTY2NzM5NA==
+251,kubernetes-fundamentals,2633,268,Java,https://github.com/stacksimplify/kubernetes-fundamentals,Kubernetes Fundamentals,MDEwOlJlcG9zaXRvcnkyNjMyNjQzMzQ=
+247,QMUI_Android,2631,14002,Java,https://github.com/Tencent/QMUI_Android,提高 Android UI 开发效率的 UI 库,MDEwOlJlcG9zaXRvcnk4ODk3MDU2NA==
+248,springcloud-learning,2631,5716,Java,https://github.com/macrozheng/springcloud-learning,一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring Cloud Greenwich及SpringBoot 2.1.7。篇篇精华，涵盖大部分应用场景。,MDEwOlJlcG9zaXRvcnkyMDY5MDUwNjU=
+249,shopizer,2631,3019,Java,https://github.com/shopizer-ecommerce/shopizer,Shopizer java e-commerce software,MDEwOlJlcG9zaXRvcnk2Nzg5NTA5
+250,mlkit,2622,2654,Java,https://github.com/googlesamples/mlkit,A collection of sample apps to demonstrate how to use Google's ML Kit APIs on Android and iOS,MDEwOlJlcG9zaXRvcnkyNjc3MDI1MzE=
+252,NewPipe,2616,23134,Java,https://github.com/TeamNewPipe/NewPipe,A libre lightweight streaming front-end for Android.,MDEwOlJlcG9zaXRvcnk0MTg4OTAzMQ==
+253,spring-microservices,2606,1581,Java,https://github.com/in28minutes/spring-microservices,"Microservices using Spring Boot, Spring Cloud, Docker and Kubernetes",MDEwOlJlcG9zaXRvcnkxMDI3Mzk4NTU=
+254,google-services,2600,2911,Java,https://github.com/googlesamples/google-services,A collection of quickstart samples demonstrating the Google APIs for Android and iOS,MDEwOlJlcG9zaXRvcnkzNTk3ODE1Ng==
+255,tech-interview-for-developer,2559,10092,Java,https://github.com/gyoogle/tech-interview-for-developer,👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖,MDEwOlJlcG9zaXRvcnkxOTA5NjQ4NjE=
+257,xmall,2553,6871,Java,https://github.com/Exrick/xmall,基于SOA架构的分布式电商购物商城 前后端分离 前台商城:Vue全家桶 后台管理系统:Dubbo/SSM/Elasticsearch/Redis/MySQL/ActiveMQ/Shiro/Zookeeper等,MDEwOlJlcG9zaXRvcnk5ODU5NjAwMQ==
+256,DroidPlugin,2552,6795,Java,https://github.com/DroidPluginTeam/DroidPlugin,"A plugin framework on android,Run any third-party apk without installation, modification or repackage",MDEwOlJlcG9zaXRvcnk0MTQ4MjI5Ng==
+258,roncoo-pay,2551,4501,Java,https://github.com/roncoo/roncoo-pay,龙果支付系统（roncoo-pay）是国内首款开源的互联网支付系统，拥有独立的账户体系、用户体系、支付接入体系、支付交易体系、对账清结算体系。目标是打造一款集成主流支付方式且轻量易用的支付收款系统，满足互联网业务系统打通支付通道实现支付收款和业务资金管理等功能。,MDEwOlJlcG9zaXRvcnk2MzgzMTI3MQ==
+259,DataStructureAndAlgorithms,2548,799,Java,https://github.com/hussien89aa/DataStructureAndAlgorithms,"Write code that run faster, use less memory and prepare for your Job Interview",MDEwOlJlcG9zaXRvcnk3ODMwMjIyNg==
+260,ARouter,2544,14140,Java,https://github.com/alibaba/ARouter,💪 A framework for assisting in the renovation of Android componentization (帮助 Android App 进行组件化改造的路由框架),MDEwOlJlcG9zaXRvcnk3NjQxMzE4Ng==
+261,JustAuth,2540,14567,Java,https://github.com/justauth/JustAuth,"🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、推特、飞书、京东、阿里云、喜马拉雅、Amazon、Slack和 Line 等第三方平台的授权登录。 Login, so easy!",MDEwOlJlcG9zaXRvcnkxNjg1MDAzOTc=
+263,newbee-mall,2538,9853,Java,https://github.com/newbee-ltd/newbee-mall,🔥 🎉newbee-mall是一套电商系统，包括基础版本(Spring Boot+Thymeleaf)、前后端分离版本(Spring Boot+Vue 3+Element-Plus+Vue-Router 4+Pinia+Vant 4) 、秒杀版本、Go语言版本、微服务版本(Spring Cloud Alibaba+Nacos+Sentinel+Seata+Spring Cloud Gateway+OpenFeign+ELK)。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。,MDEwOlJlcG9zaXRvcnkyMDk5MjE0MDI=
+262,spring-integration-samples,2536,2175,Java,https://github.com/spring-projects/spring-integration-samples,"You are looking for examples, code snippets, sample applications for Spring Integration? This is the place.",MDEwOlJlcG9zaXRvcnkyMTgzMzM4
+264,okhttp-OkGo,2532,10511,Java,https://github.com/jeasonlzy/okhttp-OkGo,OkGo - 3.0 震撼来袭，该库是基于 Http 协议，封装了 OkHttp 的网络请求框架，比 Retrofit 更简单易用，支持 RxJava，RxJava2，支持自定义缓存，支持批量断点下载管理和批量上传管理功能,MDEwOlJlcG9zaXRvcnk0OTcxMjg0Mw==
+265,Material-Animations,2528,13559,Java,https://github.com/lgvalle/Material-Animations,Android Transition animations explanation with examples.,MDEwOlJlcG9zaXRvcnkzMTg2NTE3Ng==
+266,Java-WebSocket,2518,9654,Java,https://github.com/TooTallNate/Java-WebSocket,A barebones WebSocket client and server implementation written in 100% Java.,MDEwOlJlcG9zaXRvcnk0ODE0MTI=
+267,generator,2515,5052,Java,https://github.com/mybatis/generator,A code generator for MyBatis.,MDEwOlJlcG9zaXRvcnk4MTIxNzA3
+268,otter,2514,7609,Java,https://github.com/alibaba/otter,阿里巴巴分布式数据库同步系统(解决中美异地机房),MDEwOlJlcG9zaXRvcnkxMTk5NzY0MA==
+269,MinecraftForge,2507,6057,Java,https://github.com/MinecraftForge/MinecraftForge,Modifications to the Minecraft base files to assist in compatibility between mods.,MDEwOlJlcG9zaXRvcnkzMzAxNDAw
+270,COLA,2487,9313,Java,https://github.com/alibaba/COLA,🥤 COLA: Clean Object-oriented & Layered Architecture,MDEwOlJlcG9zaXRvcnkxMjA0NjM1MzI=
+271,spring,2485,2596,Java,https://github.com/mybatis/spring,Spring integration for MyBatis 3,MDEwOlJlcG9zaXRvcnk4MjQ3MzY4
+272,JSON-java,2483,4233,Java,https://github.com/stleary/JSON-java,A reference implementation of a JSON package in Java.,MDEwOlJlcG9zaXRvcnkxMTg3ODUz
+273,mybatis-generator-gui,2478,6431,Java,https://github.com/zouzg/mybatis-generator-gui,mybatis-generator界面工具，让你生成代码更简单更快捷,MDEwOlJlcG9zaXRvcnk1ODMzNDY4NA==
+274,geektime-spring-family,2451,1052,Java,https://github.com/digitalsonic/geektime-spring-family,极客时间视频课程《玩转Spring全家桶》,MDEwOlJlcG9zaXRvcnkxNzAwODM1NTU=
+275,termux-app,2449,20370,Java,https://github.com/termux/termux-app,Termux - a terminal emulator application for Android OS extendible by variety of packages.,MDEwOlJlcG9zaXRvcnk0NDgwNDIxNg==
+276,learning-spark,2443,3837,Java,https://github.com/databricks/learning-spark,Example code from Learning Spark book,MDEwOlJlcG9zaXRvcnkyMDg3MzA0NA==
+277,nifi,2443,3693,Java,https://github.com/apache/nifi,Apache NiFi,MDEwOlJlcG9zaXRvcnkyNzkxMTA4OA==
+278,AndroidViewAnimations,2439,12251,Java,https://github.com/daimajia/AndroidViewAnimations,Cute view animation collection.,MDEwOlJlcG9zaXRvcnkyMTExMzM0OQ==
+279,maven,2436,3538,Java,https://github.com/apache/maven,Apache Maven core,MDEwOlJlcG9zaXRvcnkyMDY0ODM=
+280,mit-deep-learning-book-pdf,2434,11039,Java,https://github.com/janishar/mit-deep-learning-book-pdf,"MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville",MDEwOlJlcG9zaXRvcnk4NzUzNjA0Ng==
+281,fullstack-tutorial,2433,11046,Java,https://github.com/frank-lam/fullstack-tutorial,🚀 fullstack tutorial 2022，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试,MDEwOlJlcG9zaXRvcnkxMjkzMzI4MjY=
+282,Mindustry,2432,17424,Java,https://github.com/Anuken/Mindustry,The automation tower defense RTS,MDEwOlJlcG9zaXRvcnk4OTgyMjUzMQ==
+283,MVPArms,2426,10204,Java,https://github.com/JessYanCoding/MVPArms,"⚔️ A common architecture for Android applications developing based on MVP, integrates many open source projects, to make your developing quicker and easier (一个整合了大量主流开源项目高度可配置化的 Android MVP 快速集成框架). ",MDEwOlJlcG9zaXRvcnk2NTA3MzY0OA==
+284,okhttputils,2419,6873,Java,https://github.com/hongyangAndroid/okhttputils,[停止维护]okhttp的辅助类,MDEwOlJlcG9zaXRvcnk0MDkwMzI3Ng==
+285,FlycoTabLayout,2417,10820,Java,https://github.com/H07000223/FlycoTabLayout,An Android TabLayout Lib,MDEwOlJlcG9zaXRvcnk0NTgwODc1Ng==
+286,VirtualXposed,2415,14237,Java,https://github.com/android-hacker/VirtualXposed,"A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.",MDEwOlJlcG9zaXRvcnkxMTI3MTc5NjM=
+287,JiaoZiVideoPlayer,2414,10444,Java,https://github.com/lipangit/JiaoZiVideoPlayer,MediaPlayer exoplayer ijkplayer ffmpeg,MDEwOlJlcG9zaXRvcnk1MTE5OTMyMg==
+288,jersey,2412,2897,Java,https://github.com/javaee/jersey,This is no longer the active Jersey repository. Please see the README.md,MDEwOlJlcG9zaXRvcnk0MzY4NzEy
+289,androidannotations,2408,11133,Java,https://github.com/androidannotations/androidannotations,Fast Android Development. Easy maintainance.,MDEwOlJlcG9zaXRvcnkzMTE2NzUx
+290,spring-cloud-netflix,2403,4708,Java,https://github.com/spring-cloud/spring-cloud-netflix,Integration with Netflix OSS components,MDEwOlJlcG9zaXRvcnkyMTc0MTg5MQ==
+291,banner,2402,12326,Java,https://github.com/youth5201314/banner,🔥🔥🔥Banner 2.0 来了！Android广告图片轮播控件，内部基于ViewPager2实现，Indicator和UI都可以自定义。,MDEwOlJlcG9zaXRvcnk1NjgyOTU4Mg==
+292,bitcoinj,2392,4545,Java,https://github.com/bitcoinj/bitcoinj,A library for working with Bitcoin,MDEwOlJlcG9zaXRvcnkxNDUxNDI1MQ==
+293,Spring-Cloud-Platform,2389,6027,Java,https://github.com/wxiaoqi/Spring-Cloud-Platform,🔥🔥🔥国内首个Spring Cloud微服务化RBAC的管理平台，核心采用Spring Boot 2.4、Spring Cloud 2020.0.0 & Alibaba，前端采用d2-admin中台框架。 🔝 🔝 记得上边点个star 关注更新,MDEwOlJlcG9zaXRvcnk5MjM5Mjk3OA==
+294,mockito,2389,13813,Java,https://github.com/mockito/mockito,Most popular Mocking framework for unit tests written in Java,MDEwOlJlcG9zaXRvcnk2MjA3MTY3
+295,drools,2362,5045,Java,https://github.com/kiegroup/drools,"Drools is a rule engine, DMN engine and complex event processing (CEP) engine for Java.",MDEwOlJlcG9zaXRvcnkxMzgxNjcz
+296,code-examples,2358,2185,Java,https://github.com/thombergs/code-examples,A collection of code examples from blog posts etc.,MDEwOlJlcG9zaXRvcnk5ODgwMTkyNg==
+297,ip2region,2353,13056,Java,https://github.com/lionsoul2014/ip2region,"Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages",MDEwOlJlcG9zaXRvcnk0NTM2Mzk1NQ==
+298,ctci,2342,5080,Java,https://github.com/careercup/ctci,"Cracking the Coding Interview, 5th Edition",MDEwOlJlcG9zaXRvcnk4OTQwNTM0
+299,disconf,2333,5551,Java,https://github.com/knightliao/disconf,Distributed Configuration Management Platform(分布式配置管理平台),MDEwOlJlcG9zaXRvcnkyMDMyNDczOQ==
+300,ansj_seg,2333,6269,Java,https://github.com/NLPchina/ansj_seg,"ansj分词.ict的真正java实现.分词效果速度都超过开源版的ict. 中文分词,人名识别,词性标注,用户自定义词典",MDEwOlJlcG9zaXRvcnk1NjgzMTQw
+302,Potato,2312,585,Java,https://github.com/drtshock/Potato,If you fork this then you can say you forked a potato.,MDEwOlJlcG9zaXRvcnkxNDI1MzgzMA==
+301,Android-CandyCodedApplication,2310,52,Java,https://github.com/pluralsight-projects/Android-CandyCodedApplication,,MDEwOlJlcG9zaXRvcnkxMDAzOTY4NzQ=
+303,AndroidSlidingUpPanel,2309,9455,Java,https://github.com/umano/AndroidSlidingUpPanel,This library provides a simple way to add a draggable sliding up panel (popularized by Google Music and Google Maps) to your Android application. Brought to you by Umano.,MDEwOlJlcG9zaXRvcnkxMDQxMDc2NA==
+304,flowable-engine,2301,6236,Java,https://github.com/flowable/flowable-engine,"A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.",MDEwOlJlcG9zaXRvcnk3MDc4MDAwMg==
+305,zuul,2282,12515,Java,https://github.com/Netflix/zuul,"Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.",MDEwOlJlcG9zaXRvcnk4NzU5MTMz
+306,shiro,2282,4070,Java,https://github.com/apache/shiro,Apache Shiro,MDEwOlJlcG9zaXRvcnkyOTE1NzA=
+307,MaterialDesignLibrary,2282,9050,Java,https://github.com/navasmdc/MaterialDesignLibrary,This is a library with components of Android L to you use in android 2.2,MDEwOlJlcG9zaXRvcnkyNDYyODkyMw==
+308,WeChatLuckyMoney,2275,7165,Java,https://github.com/geeeeeeeeek/WeChatLuckyMoney,:money_with_wings: WeChat's lucky money helper (微信抢红包插件) by Zhongyi Tong. An Android app that helps you snatch red packets in WeChat groups. ,MDEwOlJlcG9zaXRvcnk0MzQ0MzQ5OQ==
+309,booksource,2274,3008,Java,https://github.com/guolindev/booksource,《第一行代码 第2版》全书源代码,MDEwOlJlcG9zaXRvcnk2OTkyOTgzOQ==
+310,wechat,2269,5251,Java,https://github.com/motianhuo/wechat,"A High Copy WeChat ,SNS APP (高仿微信)",MDEwOlJlcG9zaXRvcnkzNjIwNTQ4OA==
+311,mybatis,2260,4288,Java,https://github.com/tuguangquan/mybatis,mybatis源码中文注释,MDEwOlJlcG9zaXRvcnkyNjEwNDI4Ng==
+312,shopping-management-system,2251,4501,Java,https://github.com/zhanglei-workspace/shopping-management-system,该项目为多个小项目的集合（持续更新中...）。内容类似淘宝、京东等网购管理系统以及图书管理、超市管理等系统。目的在于便于Java初级爱好者在学习完某一部分Java知识后有一个合适的项目锻炼、运用所学知识，完善知识体系。适用人群：Java基础到入门的爱好者。,MDEwOlJlcG9zaXRvcnk0NjI3NDQ0OA==
+314,devops-java-sample,2251,115,Java,https://github.com/kubesphere/devops-java-sample,SpringBoot demo for DevOps on KubeSphere,MDEwOlJlcG9zaXRvcnkxNzg3OTUxODI=
+313,android-gpuimage,2247,8638,Java,https://github.com/cats-oss/android-gpuimage,Android filters based on OpenGL (idea from GPUImage for iOS),MDEwOlJlcG9zaXRvcnk2MDcyNDQz
+315,source-code-hunter,2247,11553,Java,https://github.com/doocs/source-code-hunter,😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等,MDEwOlJlcG9zaXRvcnkyMTc5NDMzNjE=
+317,traccar,2246,3998,Java,https://github.com/traccar/traccar,Traccar GPS Tracking System,MDEwOlJlcG9zaXRvcnk0MDM4OTQ5
+316,neo4j,2246,11213,Java,https://github.com/neo4j/neo4j,Graphs for Everyone,MDEwOlJlcG9zaXRvcnk2NjUwNTM5
+318,trino,2242,7512,Java,https://github.com/trinodb/trino,"Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)",MDEwOlJlcG9zaXRvcnkxNjY1MTUwMjI=
+319,Java8InAction,2225,3129,Java,https://github.com/java8/Java8InAction,,MDEwOlJlcG9zaXRvcnkxMzk0MjAyNA==
+321,gs-rest-service,2222,1255,Java,https://github.com/spring-guides/gs-rest-service,Building a RESTful Web Service :: Learn how to create a RESTful web service with Spring.,MDEwOlJlcG9zaXRvcnk5Mzk2Njgy
+320,jd-gui,2221,12323,Java,https://github.com/java-decompiler/jd-gui,A standalone Java Decompiler GUI,MDEwOlJlcG9zaXRvcnkzMjg0NDQ1Ng==
+322,--,2218,3820,Java,https://github.com/981011512/--,停车场系统源码，新能源充电桩系统，停车场小程序，智能停车，Parking system，【功能介绍】：①兼容市面上主流的多家相机，理论上兼容所有硬件，可灵活扩展，②相机识别后数据自动上传到云端并记录，校验相机唯一id和硬件序列号，防止非法数据录入，③用户手机查询停车记录详情可自主缴费(支持微信，支付宝，银行接口支付，支持每个停车场指定不同的商户进行收款)，支付后出场在免费时间内会自动抬杆。④支持app上查询附近停车场(导航，可用车位数，停车场费用，优惠券，评分，评论等)，可预约车位。⑤断电断网支持岗亭人员使用app可接管硬件进行停车记录的录入。 【技术架构】：后端开发语言java，框架oauth2+springboot2+dubble，数据库mysql/mongodb/redis，即时通讯底层框架netty4，安卓和ios均为原生开发，后台管理模板vue专业定制,MDEwOlJlcG9zaXRvcnkyNzMzNTQ1Mjk=
+327,jenkins-example,2218,70,Java,https://github.com/TechPrimers/jenkins-example,Example project with Groovy based Jenkins Pipeline (Jenkinsfile),MDEwOlJlcG9zaXRvcnk5NDYzNjM2OQ==
+323,Luban,2217,13216,Java,https://github.com/Curzibn/Luban,Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法,MDEwOlJlcG9zaXRvcnk2NDA1NDQ3OA==
+324,kkFileView,2214,8076,Java,https://github.com/kekingcn/kkFileView,Universal File Online Preview Project based on Spring-Boot,MDEwOlJlcG9zaXRvcnkxMTM5ODMyODk=
+325,lombok,2213,11854,Java,https://github.com/projectlombok/lombok,Very spicy additions to the Java programming language.,MDEwOlJlcG9zaXRvcnkyMjE4NjI=
+326,doris,2210,7627,Java,https://github.com/apache/doris,"Apache Doris is an easy-to-use, high performance and unified analytics database.",MDEwOlJlcG9zaXRvcnk5OTkxOTMwMg==
+328,hellokoding-courses,2189,656,Java,https://github.com/hellokoding/hellokoding-courses,"HelloKoding provides practical coding guides series of Spring Boot, Java, Algorithms, and other topics on software engineering",MDEwOlJlcG9zaXRvcnkxNzE0MDkzODU=
+329,wildfly,2178,2846,Java,https://github.com/wildfly/wildfly,WildFly Application Server,MDEwOlJlcG9zaXRvcnk3NjQ3MDg=
+330,FileDownloader,2171,10755,Java,https://github.com/lingochamp/FileDownloader,Multitask、MultiThread(MultiConnection)、Breakpoint-resume、High-concurrency、Simple to use、Single/NotSingle-process,MDEwOlJlcG9zaXRvcnk0ODQyNzkxNA==
+331,FtcRobotController,2163,394,Java,https://github.com/FIRST-Tech-Challenge/FtcRobotController,,MDEwOlJlcG9zaXRvcnkyOTY0NzE5NzE=
+332,quarkus,2160,11550,Java,https://github.com/quarkusio/quarkus,Quarkus: Supersonic Subatomic Java. ,MDEwOlJlcG9zaXRvcnkxMzk5MTQ5MzI=
+334,spring-batch,2158,2325,Java,https://github.com/spring-projects/spring-batch,Spring Batch is a framework for writing offline and batch applications using Spring and Java,MDEwOlJlcG9zaXRvcnkxMDg5MTQ5
+333,Timber,2157,6828,Java,https://github.com/naman14/Timber,Material Design Music Player,MDEwOlJlcG9zaXRvcnkzNzMzMzIxNA==
+336,jgsu-spring-petclinic,2149,24,Java,https://github.com/g0t4/jgsu-spring-petclinic,WIP update of spring-petclinic example used in my Jenkins Getting Started course on Pluralsight,MDEwOlJlcG9zaXRvcnkyODYzNDg5MDg=
+335,metersphere,2146,9027,Java,https://github.com/metersphere/metersphere,MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、UI 测试和性能测试等。搞测试，就选 MeterSphere！,MDEwOlJlcG9zaXRvcnkyMzc4Njc4ODM=
+337,jvm,2146,9381,Java,https://github.com/doocs/jvm,🤗 JVM 底层原理最全知识总结,MDEwOlJlcG9zaXRvcnkxMzgzNjExNTA=
+338,Fragmentation,2142,9731,Java,https://github.com/YoKeyword/Fragmentation,[DEPRECATED] A powerful library that manage Fragment for Android,MDEwOlJlcG9zaXRvcnk1MjM0NDk1Mg==
+340,YCSB,2142,4450,Java,https://github.com/brianfrankcooper/YCSB,Yahoo! Cloud Serving Benchmark,MDEwOlJlcG9zaXRvcnk2MTg0OTI=
+339,logger,2141,13550,Java,https://github.com/orhanobut/logger,"✔️ Simple, pretty and powerful logger for android",MDEwOlJlcG9zaXRvcnkzMjYxMDMzNg==
+341,swagger-core,2136,7155,Java,https://github.com/swagger-api/swagger-core,"Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API",MDEwOlJlcG9zaXRvcnkyMDAzNjQx
+342,datahub,2134,7467,Java,https://github.com/datahub-project/datahub,The Metadata Platform for the Modern Data Stack,MDEwOlJlcG9zaXRvcnk0NjM5ODA5MA==
+343,techjobs-console-java,2127,5,Java,https://github.com/LaunchCodeEducation/techjobs-console-java,Assignment for the Java skill track and Java Web Development,MDEwOlJlcG9zaXRvcnk4MTM3NDk0OA==
+344,DanmakuFlameMaster,2122,9407,Java,https://github.com/bilibili/DanmakuFlameMaster,Android开源弹幕引擎·烈焰弹幕使 ～,MDEwOlJlcG9zaXRvcnkxMjAzNTQ4Nw==
+345,Sa-Token,2120,11914,Java,https://github.com/dromara/Sa-Token,这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...,MDEwOlJlcG9zaXRvcnkyMzc5NDA1OTI=
+346,conductor,2109,8429,Java,https://github.com/Netflix/conductor,Conductor is a microservices orchestration engine.,MDEwOlJlcG9zaXRvcnk3NTg4MjE3Mg==
+347,debezium,2107,8282,Java,https://github.com/debezium/debezium,Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.,MDEwOlJlcG9zaXRvcnk1MDIwNTIzMw==
+349,AndroidNote,2106,8866,Java,https://github.com/GcsSloop/AndroidNote,安卓学习笔记,MDEwOlJlcG9zaXRvcnk0OTAzMDQ1MQ==
+348,uCrop,2106,11465,Java,https://github.com/Yalantis/uCrop,Image Cropping Library for Android,MDEwOlJlcG9zaXRvcnk0OTA2ODI0Mw==
+350,VitamioBundle,2102,5276,Java,https://github.com/yixia/VitamioBundle,Vitamio for Android,MDEwOlJlcG9zaXRvcnk2MjkyMDI5
+352,liferay-plugins,2097,511,Java,https://github.com/liferay/liferay-plugins,,MDEwOlJlcG9zaXRvcnkzMTc4ODg=
+353,jsoup,2096,10046,Java,https://github.com/jhy/jsoup,"jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.",MDEwOlJlcG9zaXRvcnk0NDI0MzA=
+351,HacktoberFest,2094,345,Java,https://github.com/tarunsinghofficial/HacktoberFest,:octocat: Add your Programs or tech content to help other contributors ✅,MDEwOlJlcG9zaXRvcnkzMDA1MDY5NjI=
+354,Android-ObservableScrollView,2089,9612,Java,https://github.com/ksoichiro/Android-ObservableScrollView,Android library to observe scroll events on scrollable views.,MDEwOlJlcG9zaXRvcnkyNjM2MzQyMQ==
+355,vertx-examples,2084,3393,Java,https://github.com/vert-x3/vertx-examples,Vert.x examples,MDEwOlJlcG9zaXRvcnkzMTI3Mjg2MA==
+361,maven-enterprise-application,2081,2,Java,https://github.com/MithunTechnologiesDevOps/maven-enterprise-application,,MDEwOlJlcG9zaXRvcnkxNTkxNDI2Mzk=
+356,Matisse,2070,12381,Java,https://github.com/zhihu/Matisse,:fireworks: A well-designed local image and video selector for Android,MDEwOlJlcG9zaXRvcnk4ODExMTk5MA==
+357,android-interview-questions,2055,9857,Java,https://github.com/amitshekhariitbhu/android-interview-questions,Your Cheat Sheet For Android Interview - Android Interview Questions,MDEwOlJlcG9zaXRvcnk5NjcwNDI2NQ==
+358,jabref,2055,2946,Java,https://github.com/JabRef/jabref,Graphical Java application for managing BibTeX and biblatex (.bib) databases,MDEwOlJlcG9zaXRvcnkxNzYzNDA3MQ==
+359,cachecloud,2048,7485,Java,https://github.com/sohutv/cachecloud,"搜狐视频(sohu tv)Redis私有云平台 ：支持Redis多种架构(Standalone、Sentinel、Cluster)高效管理、有效降低大规模redis运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。(CacheCloud is a Redis cloud management platform. It supports Standalone, Sentinel, and Cluster architectures for Redis, effectively reducing large-scale Redis operation and maintenance costs, and improving resource management and utilization. The platform provides rapid construction/migration, operation and maintenance management, elastic scaling, statistical monitoring, client integration and access and other functions)",MDEwOlJlcG9zaXRvcnk1MDQwNjU0NA==
+360,zaproxy,2046,10653,Java,https://github.com/zaproxy/zaproxy,The OWASP ZAP core project,MDEwOlJlcG9zaXRvcnkzNjgxNzU2NQ==
+362,Android_Data,2044,8596,Java,https://github.com/Freelander/Android_Data,"Some Android learning materials, hoping to help you learn Android development.",MDEwOlJlcG9zaXRvcnkzMzM5MDUyMw==
+363,phonegap-facebook-plugin,2041,1899,Java,https://github.com/Wizcorp/phonegap-facebook-plugin,The official plugin for Facebook in Apache Cordova/PhoneGap,MDEwOlJlcG9zaXRvcnkxODI0MDUw
+392,maven-standalone-application,2037,0,Java,https://github.com/LandmarkTechnology/maven-standalone-application,,MDEwOlJlcG9zaXRvcnkyODY3NDI2MDA=
+364,dynamic-load-apk,2018,5990,Java,https://github.com/singwhatiwanna/dynamic-load-apk,DL : dynamic load framework in android,MDEwOlJlcG9zaXRvcnkxODI2MzAyNg==
+365,react-native-image-picker,2012,7956,Java,https://github.com/react-native-image-picker/react-native-image-picker,:sunrise_over_mountains: A React Native module that allows you to use native UI to select media from the device library or directly from the camera.,MDEwOlJlcG9zaXRvcnkzNzA5MDg3NQ==
+366,geoserver,2008,3093,Java,https://github.com/geoserver/geoserver,Official GeoServer repository,MDEwOlJlcG9zaXRvcnkyNzUxMTk5
+367,react-native-push-notification,2005,6578,Java,https://github.com/zo0r/react-native-push-notification,React Native Local and Remote Notifications,MDEwOlJlcG9zaXRvcnk0Nzk5Nzc1Mw==
+368,MusicBot,2002,3871,Java,https://github.com/jagrosh/MusicBot,🎶 A Discord music bot that's easy to set up and run yourself!,MDEwOlJlcG9zaXRvcnk2NTY4MTMxOQ==
+369,xUtils3,2002,5959,Java,https://github.com/wyouflf/xUtils3,"Android orm, bitmap, http, view inject... ",MDEwOlJlcG9zaXRvcnk0NTEwNjM4Mg==
+370,mybatis-plus-samples,1989,1976,Java,https://github.com/baomidou/mybatis-plus-samples,MyBatis-Plus Samples,MDEwOlJlcG9zaXRvcnkxNDE5NTEzNjE=
+371,cucumber-jvm,1988,2555,Java,https://github.com/cucumber/cucumber-jvm,Cucumber for the JVM,MDEwOlJlcG9zaXRvcnkxOTYyMjE5
+372,vert.x,1986,13463,Java,https://github.com/eclipse-vertx/vert.x,Vert.x is a tool-kit for building reactive applications on the JVM,MDEwOlJlcG9zaXRvcnkxOTExNTIz
+375,sfg-pet-clinic,1984,211,Java,https://github.com/springframeworkguru/sfg-pet-clinic,SFT Pet Clinic,MDEwOlJlcG9zaXRvcnkxNDA2MzI4ODU=
+373,journaldev,1974,1222,Java,https://github.com/WebJournal/journaldev,JournalDev Projects,MDEwOlJlcG9zaXRvcnk1Nzg2ODQyNg==
+374,SDE-Interview-Questions,1971,6536,Java,https://github.com/twowaits/SDE-Interview-Questions,"Most comprehensive list :clipboard: of tech interview questions :blue_book: of companies scraped from Geeksforgeeks, CareerCup and Glassdoor. ",MDEwOlJlcG9zaXRvcnkxMDgyNTg5NTA=
+376,Signal-Server,1964,8145,Java,https://github.com/signalapp/Signal-Server,"Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS",MDEwOlJlcG9zaXRvcnkxNTA0MDU5Ng==
+377,sweet-alert-dialog,1962,7262,Java,https://github.com/pedant/sweet-alert-dialog,"SweetAlert for Android, a beautiful and clever alert dialog",MDEwOlJlcG9zaXRvcnkyNTQyMjYzMw==
+378,dex2jar,1955,10730,Java,https://github.com/pxb1988/dex2jar,Tools to work with android .dex and java .class files,MDEwOlJlcG9zaXRvcnkzMjMxMzM4Mw==
+379,spring-boot-samples,1950,1466,Java,https://github.com/netgloo/spring-boot-samples,Spring Boot samples by Netgloo,MDEwOlJlcG9zaXRvcnkyMDA3MzQ0Nw==
+380,APIJSON,1942,14988,Java,https://github.com/Tencent/APIJSON,🏆 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🏆 A JSON Transmission Protocol and an ORM Library 🚀  provides APIs and Docs without writing any code.,MDEwOlJlcG9zaXRvcnk3NDM1OTQ0Mg==
+388,oc-install-ide-cours,1942,26,Java,https://github.com/geoffreyarthaud/oc-install-ide-cours,"Activité du cours Openclassrooms ""Installez votre environnement de développement Java avec Eclipse"".",MDEwOlJlcG9zaXRvcnkxOTU3NDg2ODc=
+381,appinventor-sources,1941,1287,Java,https://github.com/mit-cml/appinventor-sources,MIT App Inventor Public Open Source,MDEwOlJlcG9zaXRvcnk0Nzg3MTM2
+382,calcite,1930,3754,Java,https://github.com/apache/calcite,Apache Calcite,MDEwOlJlcG9zaXRvcnkyMTE5MzUyNA==
+383,remusic,1925,6079,Java,https://github.com/aa112901/remusic,仿网易云音乐 安卓版，netease  android，音乐播放器 在线 下载,MDEwOlJlcG9zaXRvcnk1NDYxOTQ1MA==
+384,AndroidAutoLayout,1924,6689,Java,https://github.com/hongyangAndroid/AndroidAutoLayout,[停止维护]Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。,MDEwOlJlcG9zaXRvcnk0NjQ2MTA3MA==
+385,JsBridge,1922,9286,Java,https://github.com/lzyzsd/JsBridge,"android java and javascript bridge, inspired by wechat webview jsbridge",MDEwOlJlcG9zaXRvcnkzMTM2NTMyNQ==
+386,crawler4j,1922,4373,Java,https://github.com/yasserg/crawler4j,Open Source Web Crawler for Java,MDEwOlJlcG9zaXRvcnkzMDgxMDcx
+387,bitcoin-wallet,1914,3166,Java,https://github.com/bitcoin-wallet/bitcoin-wallet,"Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required.",MDEwOlJlcG9zaXRvcnkzODg2OTY1
+390,FirebaseUI-Android,1901,4489,Java,https://github.com/firebase/FirebaseUI-Android,Optimized UI components for Firebase,MDEwOlJlcG9zaXRvcnkzODgzNTIxMw==
+389,AndroidAutoSize,1900,12912,Java,https://github.com/JessYanCoding/AndroidAutoSize,🔥 A low-cost Android screen adaptation solution (今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案).,MDEwOlJlcG9zaXRvcnkxNDUwOTgxNDY=
+391,spring-security-oauth,1899,1876,Java,https://github.com/Baeldung/spring-security-oauth,"Just Announced - ""Learn Spring Security OAuth"": ",MDEwOlJlcG9zaXRvcnk1Mjk0ODk2NQ==
+393,AVLoadingIndicatorView,1891,9696,Java,https://github.com/HarlonWang/AVLoadingIndicatorView,DEPRECATED,MDEwOlJlcG9zaXRvcnk0NDg4MzA1Mw==
+394,LeetCode,1890,7062,Java,https://github.com/yuanguangxin/LeetCode,LeetCode刷题记录与面试整理,MDEwOlJlcG9zaXRvcnkyMzMxNTYyMTA=
+422,java-web-dev-exercises,1885,5,Java,https://github.com/LaunchCodeEducation/java-web-dev-exercises,"demos, exercise sets, and studios for java-web-development",MDEwOlJlcG9zaXRvcnkyMTAzNzEwOTM=
+395,XChange,1884,3640,Java,https://github.com/knowm/XChange,XChange is a Java library providing a streamlined API for interacting with 60+ Bitcoin and Altcoin exchanges providing a consistent interface for trading and accessing market data.,MDEwOlJlcG9zaXRvcnkzMzMzOTk4
+396,dubbo-spring-boot-project,1872,5364,Java,https://github.com/apache/dubbo-spring-boot-project,Spring Boot Project for Apache Dubbo,MDEwOlJlcG9zaXRvcnkxMTc5NzgyNjU=
+397,dataease,1866,9330,Java,https://github.com/dataease/dataease,人人可用的开源数据可视化分析工具。,MDEwOlJlcG9zaXRvcnkzMzUxNjQ5NjQ=
+402,phonegap-plugin-push,1864,1955,Java,https://github.com/phonegap/phonegap-plugin-push,Register and receive push notifications,MDEwOlJlcG9zaXRvcnkzMzQ5NDI4Nw==
+399,hudi,1860,4062,Java,https://github.com/apache/hudi,"Upserts, Deletes And Incremental Processing on Big Data.",MDEwOlJlcG9zaXRvcnk3NjQ3NDIwMA==
+398,googleads-mobile-android-examples,1860,1462,Java,https://github.com/googleads/googleads-mobile-android-examples,googleads-mobile-android,MDEwOlJlcG9zaXRvcnkxNDkzMzcyNg==
+400,datax-web,1859,4585,Java,https://github.com/WeiYe-Jing/datax-web,DataX集成可视化页面，选择数据源即可一键生成数据同步任务，支持RDBMS、Hive、HBase、ClickHouse、MongoDB等数据源，批量创建RDBMS数据同步任务，集成开源调度系统，支持分布式、增量同步数据、实时查看运行日志、监控执行器资源、KILL运行进程、数据源信息加密等。,MDEwOlJlcG9zaXRvcnkyMjI1NzgwMzY=
+401,BookReader,1859,6279,Java,https://github.com/smuyyh/BookReader,":closed_book:  ""任阅"" 网络小说阅读器，3D翻页效果、txt/pdf/epub书籍阅读、Wifi传书~",MDEwOlJlcG9zaXRvcnk2NDgxNzEwMg==
+403,jetty.project,1853,3527,Java,https://github.com/eclipse/jetty.project,"Eclipse Jetty® - Web Container & Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more",MDEwOlJlcG9zaXRvcnkyMDQ1MjA3
+404,FrameworkBenchmarks,1846,6881,Java,https://github.com/TechEmpower/FrameworkBenchmarks,Source for the TechEmpower Framework Benchmarks project,MDEwOlJlcG9zaXRvcnk4OTU3MjY0
+405,jmeter,1844,6865,Java,https://github.com/apache/jmeter,Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services,MDEwOlJlcG9zaXRvcnk2ODgzNTI=
+406,MyBookshelf,1844,7379,Java,https://github.com/gedoor/MyBookshelf,阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。,MDEwOlJlcG9zaXRvcnkxMzcwMTM5NTI=
+407,ignite,1837,4408,Java,https://github.com/apache/ignite,Apache Ignite,MDEwOlJlcG9zaXRvcnkzMTAwNjE1OA==
+408,Paper,1831,7267,Java,https://github.com/PaperMC/Paper,High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies,MDEwOlJlcG9zaXRvcnk1MDE2MDI2MQ==
+409,gpmall,1831,4582,Java,https://github.com/2227324689/gpmall,【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch,MDEwOlJlcG9zaXRvcnkxOTc1OTkzMzM=
+410,ImmersionBar,1831,10724,Java,https://github.com/gyf-dev/ImmersionBar,android 4.4以上沉浸式状态栏和沉浸式导航栏管理，适配横竖屏切换、刘海屏、软键盘弹出等问题，可以修改状态栏字体颜色和导航栏图标颜色，以及不可修改字体颜色手机的适配，适用于Activity、Fragment、DialogFragment、Dialog，PopupWindow，一句代码轻松实现，以及对bar的其他设置，详见README。简书请参考：http://www.jianshu.com/p/2a884e211a62,MDEwOlJlcG9zaXRvcnk4ODcwMzMxNQ==
+411,jstorm,1830,3939,Java,https://github.com/alibaba/jstorm,Enterprise Stream Process Engine,MDEwOlJlcG9zaXRvcnkxMjU1NDUzMA==
+412,deeplearning4j-examples,1827,2320,Java,https://github.com/deeplearning4j/deeplearning4j-examples,"Deeplearning4j Examples (DL4J, DL4J Spark, DataVec)",MDEwOlJlcG9zaXRvcnk0MTMxMDUyMw==
+413,vlayout,1824,10835,Java,https://github.com/alibaba/vlayout,"Project vlayout is a powerfull LayoutManager extension for RecyclerView, it provides a group of layouts for RecyclerView. Make it able to handle a complicate situation when grid, list and other layouts in the same recyclerview. ",MDEwOlJlcG9zaXRvcnk4MzI4NTEzOA==
+414,seata-samples,1820,2095,Java,https://github.com/seata/seata-samples,seata-samples,MDEwOlJlcG9zaXRvcnkxNjgxODMzOTI=
+415,metrics,1818,7705,Java,https://github.com/dropwizard/metrics,:chart_with_upwards_trend: Capturing JVM- and application-level metrics. So you know what's going on.,MDEwOlJlcG9zaXRvcnk1Mzc4MDA=
+416,Head-First-Design-Patterns,1813,2862,Java,https://github.com/bethrobson/Head-First-Design-Patterns,Code for Head First Design Patterns book (2020),MDEwOlJlcG9zaXRvcnkxOTI1Mzg3Nw==
+418,groovy,1806,4807,Java,https://github.com/apache/groovy,Apache Groovy: A powerful multi-faceted programming language for the JVM platform,MDEwOlJlcG9zaXRvcnkzNDAzOTY5MA==
+417,OpenRefine,1805,9392,Java,https://github.com/OpenRefine/OpenRefine,"OpenRefine is a free, open source power tool for working with messy data and improving it",MDEwOlJlcG9zaXRvcnk2MjIwNjQ0
+419,sonarqube,1802,7620,Java,https://github.com/SonarSource/sonarqube,Continuous Inspection,MDEwOlJlcG9zaXRvcnkxMjIyNTA0
+420,android-gif-drawable,1801,9325,Java,https://github.com/koral--/android-gif-drawable,Views and Drawable for displaying animated GIFs on Android,MDEwOlJlcG9zaXRvcnk3OTA1NTM5
+421,feign,1799,8698,Java,https://github.com/OpenFeign/feign,Feign makes writing java http clients easier,MDEwOlJlcG9zaXRvcnkxMDk4MTk5NA==
+423,motan,1797,5841,Java,https://github.com/weibocom/motan,A cross-language remote procedure call(RPC) framework for rapid development of high performance distributed services.,MDEwOlJlcG9zaXRvcnk1NjY3OTUyMQ==
+424,tiny-spring,1791,3845,Java,https://github.com/code4craft/tiny-spring,A tiny IoC container refer to Spring.,MDEwOlJlcG9zaXRvcnkxNTgwMzQyMQ==
+425,spring-petclinic-microservices,1790,1329,Java,https://github.com/spring-petclinic/spring-petclinic-microservices,Distributed version of Spring Petclinic built with Spring Cloud,MDEwOlJlcG9zaXRvcnk3MzU1OTAwOA==
+426,quartz,1786,5497,Java,https://github.com/quartz-scheduler/quartz,Code for Quartz Scheduler,MDEwOlJlcG9zaXRvcnk1MzMzMDAzMA==
+427,realm-java,1783,11369,Java,https://github.com/realm/realm-java,Realm is a mobile database: a replacement for SQLite & ORMs,MDEwOlJlcG9zaXRvcnk0MDg0OTA4
+428,android-vision,1775,2918,Java,https://github.com/googlesamples/android-vision,Deprecated: The Mobile Vision API is now a part of ML Kit: Check out this repo:,MDEwOlJlcG9zaXRvcnkzODM5NjUwMw==
+429,rest-assured,1774,6307,Java,https://github.com/rest-assured/rest-assured,Java DSL for easy testing of REST services,MDEwOlJlcG9zaXRvcnkxMDExNTM5
+430,effective-java-3e-source-code,1772,3556,Java,https://github.com/jbloch/effective-java-3e-source-code,"The source code from the third edition of Effective Java, with minor additions as necessary to make it runnable.",MDEwOlJlcG9zaXRvcnkxNDM0NzIxMjQ=
+431,SpringBoot-Shiro-Vue,1762,4272,Java,https://github.com/Heeexy/SpringBoot-Shiro-Vue,"提供一套基于Spring Boot-Shiro-Vue的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限。（当前新版本已移除shiro依赖，简化了配置）",MDEwOlJlcG9zaXRvcnkxMTExMzkyNDY=
+432,awesome-java-leetcode,1755,8519,Java,https://github.com/Blankj/awesome-java-leetcode,:crown: LeetCode of algorithms with java solution(updating).,MDEwOlJlcG9zaXRvcnk4ODUyNDE0OQ==
+433,karate,1752,6911,Java,https://github.com/karatelabs/karate,Test Automation Made Simple,MDEwOlJlcG9zaXRvcnk4MTIyNjIwNg==
+434,openhab1-addons,1750,3449,Java,https://github.com/openhab/openhab1-addons,Add-ons for openHAB 1.x,MDEwOlJlcG9zaXRvcnkxMjk4MzE1MQ==
+444,maven-hello-world,1744,18,Java,https://github.com/pdurbin/maven-hello-world,"simple, minimal Maven example: hello world",MDEwOlJlcG9zaXRvcnk3ODkzNDM1
+435,StatusBarUtil,1742,8803,Java,https://github.com/laobie/StatusBarUtil,A util for setting status bar style on Android App.,MDEwOlJlcG9zaXRvcnk1MTcyNzMyNQ==
+436,java-algorithms-implementation,1738,4206,Java,https://github.com/phishman3579/java-algorithms-implementation,Algorithms and Data Structures implemented in Java,MDEwOlJlcG9zaXRvcnkxNDU0NTcxNw==
+437,matrix,1736,10686,Java,https://github.com/Tencent/matrix,"Matrix is a plugin style, non-invasive APM system developed by WeChat.",MDEwOlJlcG9zaXRvcnkxNjEyOTIwOTE=
+438,hazelcast,1735,5289,Java,https://github.com/hazelcast/hazelcast,Open-source distributed computation and storage platform. Real-time Stream Processing Unconference. Save Your Spot https://hazelcast.com/lp/unconference/,MDEwOlJlcG9zaXRvcnkzNzg2MjM3
+439,docs,1732,714,Java,https://github.com/mongodb/docs,The MongoDB Documentation Project Source.,MDEwOlJlcG9zaXRvcnkyNDQ2NzE4
+441,AndroidPdfViewer,1727,7542,Java,https://github.com/barteksc/AndroidPdfViewer,Android view for displaying PDFs rendered with PdfiumAndroid,MDEwOlJlcG9zaXRvcnk2MDI5NDY4Mg==
+440,addressbook-level4,1726,39,Java,https://github.com/se-edu/addressbook-level4,:ab::four: Address Book sample application (Level 4),MDEwOlJlcG9zaXRvcnk2NTEyMDk0MQ==
+442,netty-in-action,1724,1986,Java,https://github.com/normanmaurer/netty-in-action,,MDEwOlJlcG9zaXRvcnk2MzQ3NTQy
+443,spring-boot-starter,1723,3833,Java,https://github.com/mybatis/spring-boot-starter,MyBatis integration with Spring Boot,MDEwOlJlcG9zaXRvcnk0MzE0MjA3Nw==
+445,Leaf,1716,5840,Java,https://github.com/Meituan-Dianping/Leaf,Distributed ID Generate Service,MDEwOlJlcG9zaXRvcnkxNjEyOTYwMzc=
+487,maven-enterprise-application,1709,0,Java,https://github.com/LandmarkTechnology/maven-enterprise-application,,MDEwOlJlcG9zaXRvcnkyODY4MTE2MzA=
+460,carts,1708,39,Java,https://github.com/microservices-demo/carts,Carts service for microservices-demo application,MDEwOlJlcG9zaXRvcnk2NTM2ODIyNA==
+447,cordova-plugin-local-notifications,1707,2547,Java,https://github.com/katzer/cordova-plugin-local-notifications,Cordova Local-Notification Plugin,MDEwOlJlcG9zaXRvcnkxMjAxOTc0Mg==
+446,DataMiningAlgorithm,1707,3669,Java,https://github.com/linyiqun/DataMiningAlgorithm,数据挖掘18大算法实现以及其他相关经典DM算法,MDEwOlJlcG9zaXRvcnkyOTA3OTIzMw==
+448,POSA-14,1695,580,Java,https://github.com/douglascraigschmidt/POSA-14,This repository contains assignments and examples for the 2014 offering of the POSA MOOC (see www.coursera.org/course/posa for more information),MDEwOlJlcG9zaXRvcnkxODcxMjUzOA==
+449,storm,1694,8881,Java,https://github.com/nathanmarz/storm,"Distributed and fault-tolerant realtime computation: stream processing, continuous computation, distributed RPC, and more",MDEwOlJlcG9zaXRvcnkyNDA0MDI3
+450,community,1693,1806,Java,https://github.com/GoogleCloudPlatform/community,This repository holds the content submitted to https://cloud.google.com/community. Files added to the tutorials/ directory will appear at https://cloud.google.com/community/tutorials.,MDEwOlJlcG9zaXRvcnk1MDM3MjUzOA==
+451,scribejava,1688,5341,Java,https://github.com/scribejava/scribejava,Simple OAuth library for Java,MDEwOlJlcG9zaXRvcnk4ODk5MzI=
+452,AndroidImageSlider,1687,5643,Java,https://github.com/daimajia/AndroidImageSlider,An amazing and convenient Android image slider.,MDEwOlJlcG9zaXRvcnkyMDM5NDU4MQ==
+453,ListViewAnimations,1685,5602,Java,https://github.com/nhaarman/ListViewAnimations,[DEPRECATED] An Android library which allows developers to easily add animations to ListView items,MDEwOlJlcG9zaXRvcnk4ODc3NTEy
+454,azure-sdk-for-java,1685,1815,Java,https://github.com/Azure/azure-sdk-for-java,This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java. ,MDEwOlJlcG9zaXRvcnkyOTI4OTQ4
+455,api-gateway-demo-sign-java,1684,367,Java,https://github.com/aliyun/api-gateway-demo-sign-java,aliyun api gateway request signature demo by java,MDEwOlJlcG9zaXRvcnk1NDg2MTA1Nw==
+456,nanohttpd,1684,6566,Java,https://github.com/NanoHttpd/nanohttpd,"Tiny, easily embeddable HTTP server in Java.",MDEwOlJlcG9zaXRvcnk1Mzc0OTE0
+457,stickers,1682,2505,Java,https://github.com/WhatsApp/stickers,This repository contains the iOS and Android sample apps and API for creating third party sticker packs for WhatsApp.,MDEwOlJlcG9zaXRvcnkxMzA4OTcwMDU=
+458,itstack-demo-design,1679,5491,Java,https://github.com/fuzhengwei/itstack-demo-design,:art: 《重学Java设计模式》是一本互联网真实案例实践书籍。以落地解决方案为核心，从实际业务中抽离出，交易、营销、秒杀、中间件、源码等22个真实场景，来学习设计模式的运用。欢迎关注小傅哥，微信(fustack)，公众号：bugstack虫洞栈，博客：https://bugstack.cn,MDEwOlJlcG9zaXRvcnkyNjU1NzkwNTM=
+459,CalendarView,1676,8600,Java,https://github.com/huanghaibin-dev/CalendarView,"Android上一个优雅、万能自定义UI、仿iOS、支持垂直、水平方向切换、支持周视图、自定义周起始、性能高效的日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低，你真的想不到日历居然还可以如此优雅！An elegant, highly customized and high-performance Calendar Widget on Android.",MDEwOlJlcG9zaXRvcnk4NDYzMTY3OQ==
+464,PreCourse-1,1670,15,Java,https://github.com/super30admin/PreCourse-1,,MDEwOlJlcG9zaXRvcnkxOTM2NTIwMTU=
+463,MVVMHabit,1666,7263,Java,https://github.com/goldze/MVVMHabit,👕基于谷歌最新AAC架构，MVVM设计模式的一套快速开发库，整合Okhttp+RxJava+Retrofit+Glide等主流模块，满足日常开发需求。使用该框架可以快速开发一个高质量、易维护的Android应用。,MDEwOlJlcG9zaXRvcnk5NzkzNjkzOA==
+462,javaee7-samples,1666,2510,Java,https://github.com/javaee-samples/javaee7-samples,Java EE 7 Samples,MDEwOlJlcG9zaXRvcnkxMjQxNDU5Mg==
+465,liquibase,1663,3772,Java,https://github.com/liquibase/liquibase,Main Liquibase Source,MDEwOlJlcG9zaXRvcnkyMDE5Nzkx
+461,java-onboarding,1662,112,Java,https://github.com/woowacourse-precourse/java-onboarding,온보딩 미션을 진행하는 저장소,R_kgDOIPvrOw
+466,curso-android-src,1658,451,Java,https://github.com/sgolivernet/curso-android-src,Código fuente del Curso de Programación Android de sgoliver.net,MDEwOlJlcG9zaXRvcnk2NDQ1ODEx
+467,libsvm,1651,4286,Java,https://github.com/cjlin1/libsvm,LIBSVM -- A Library for Support Vector Machines,MDEwOlJlcG9zaXRvcnkxMjczMTkwNA==
+468,im-server,1649,7059,Java,https://github.com/wildfirechat/im-server,即时通讯(IM)系统,MDEwOlJlcG9zaXRvcnkxNjcyMDQ2MTM=
+469,SimplifyReader,1644,4575,Java,https://github.com/chentao0707/SimplifyReader,一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。项目采取的是MVP架构开发，由于还是摸索阶段，可能不是很规范。但基本上应该是这么个套路，至少我个人认为是这样的~恩，就是这样的！,MDEwOlJlcG9zaXRvcnk0MDg3NzE3NQ==
+470,guide-rpc-framework,1643,2999,Java,https://github.com/Snailclimb/guide-rpc-framework,A custom RPC framework implemented by Netty+Kyro+Zookeeper.（一款基于 Netty+Kyro+Zookeeper 实现的自定义 RPC 框架-附详细实现过程和相关教程。）,MDEwOlJlcG9zaXRvcnkyNjI3OTI0MTk=
+471,hellocharts-android,1636,7370,Java,https://github.com/lecho/hellocharts-android,"Charts library for Android compatible with API 8+, several chart types with scaling, scrolling and animations 📊",MDEwOlJlcG9zaXRvcnkyNTExNDc1MQ==
+472,guice,1634,11848,Java,https://github.com/google/guice,"Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 8 and above, brought to you by Google.",MDEwOlJlcG9zaXRvcnkyMDI3NTU0NQ==
+473,angel,1631,6651,Java,https://github.com/Angel-ML/angel,A Flexible and Powerful Parameter Server for large-scale machine learning,MDEwOlJlcG9zaXRvcnk4OTMyMjg0OA==
+474,es,1626,2160,Java,https://github.com/zhangkaitao/es,JavaEE项目开发脚手架（我的公众号：kaitao-1234567，我的新书：《亿级流量网站架构核心技术》） ,MDEwOlJlcG9zaXRvcnk3NTc1Mjk3
+475,jna,1623,7737,Java,https://github.com/java-native-access/jna,Java Native Access,MDEwOlJlcG9zaXRvcnkxNjgwNzMz
+476,ysoserial,1620,6209,Java,https://github.com/frohoff/ysoserial,A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.,MDEwOlJlcG9zaXRvcnkyOTk1NTQ1OA==
+477,MyBatis-Spring-Boot,1617,3356,Java,https://github.com/abel533/MyBatis-Spring-Boot,Spring Boot集成MyBatis的基础项目,MDEwOlJlcG9zaXRvcnk0ODI3Njk0OQ==
+478,VasSonic,1616,11640,Java,https://github.com/Tencent/VasSonic,"VasSonic is a lightweight and high-performance Hybrid framework developed by tencent VAS team, which is intended to speed up the first screen of websites working on Android and iOS platform. ",MDEwOlJlcG9zaXRvcnk5ODk3ODg3OQ==
+479,dubbo-samples,1614,1911,Java,https://github.com/apache/dubbo-samples,samples for Apache Dubbo,MDEwOlJlcG9zaXRvcnkxMzEzOTQ4MjM=
+480,initializr,1613,3086,Java,https://github.com/spring-io/initializr,A quickstart generator for Spring projects,MDEwOlJlcG9zaXRvcnkxMDU1MzU4Ng==
+481,MagicCamera,1612,5300,Java,https://github.com/wuhaoyu1990/MagicCamera,Real-time Filter Camera&VideoRecorder And ImageEditor With Face Beauty For Android---包含美颜等40余种实时滤镜相机，可拍照、录像、图片修改,MDEwOlJlcG9zaXRvcnk0OTI2ODgwMg==
+482,Mapper,1609,7063,Java,https://github.com/abel533/Mapper,Mybatis Common Mapper - Easy to use,MDEwOlJlcG9zaXRvcnkyNjk1Njc2Nw==
+483,AgentWeb,1609,8818,Java,https://github.com/Justson/AgentWeb, AgentWeb is a powerful library based on Android WebView.,MDEwOlJlcG9zaXRvcnk5MTA2NTQwMg==
+484,androidmvp,1608,5955,Java,https://github.com/antoniolg/androidmvp,MVP Android Example,MDEwOlJlcG9zaXRvcnkxODM1NTg5Mg==
+485,aws-lambda-developer-guide,1607,2125,Java,https://github.com/awsdocs/aws-lambda-developer-guide,The AWS Lambda Developer Guide,MDEwOlJlcG9zaXRvcnkxMTM5MjI2NzU=
+506,Design-1,1604,5,Java,https://github.com/super30admin/Design-1,,MDEwOlJlcG9zaXRvcnkxOTQ1NDEwNzk=
+486,jsonschema2pojo,1604,5949,Java,https://github.com/joelittlejohn/jsonschema2pojo,"Generate Java types from JSON or JSON Schema and annotate those types for data-binding with Jackson, Gson, etc",MDEwOlJlcG9zaXRvcnkxMDg3MzcyNA==
+488,lemon,1596,1601,Java,https://github.com/xuhuisheng/lemon,开源OA,MDEwOlJlcG9zaXRvcnkxNDM3MDYyMA==
+489,LitePal,1595,7947,Java,https://github.com/guolindev/LitePal,An Android library that makes developers use SQLite database extremely easy.,MDEwOlJlcG9zaXRvcnk4MzA1MTMy
+490,spring-boot-tutorial,1594,1252,Java,https://github.com/RameshMF/spring-boot-tutorial,"100+ Spring Boot Articles, Tutorials, Video tutorials,  Projects, Guides, Source code examples etc",MDEwOlJlcG9zaXRvcnkxNDkwODU2MTI=
+494,chunjun,1589,3528,Java,https://github.com/DTStack/chunjun,A data integration framework,MDEwOlJlcG9zaXRvcnkxMjc5MDY4ODM=
+492,android-volley,1588,4312,Java,https://github.com/mcxiaoke/android-volley,DEPRECATED,MDEwOlJlcG9zaXRvcnkxMDE4ODY3Mw==
+493,ForestBlog,1588,3974,Java,https://github.com/saysky/ForestBlog,一个简单漂亮的SSM(Spring+SpringMVC+Mybatis)博客系统,MDEwOlJlcG9zaXRvcnkxMDYxODcwOTM=
+495,async-http-client,1585,6082,Java,https://github.com/AsyncHttpClient/async-http-client,Asynchronous Http and WebSocket Client library for Java ,MDEwOlJlcG9zaXRvcnkxNDUwMTE1
+491,hacktoberfest2021,1585,519,Java,https://github.com/abhpd/hacktoberfest2021,"🌱 Contribute your favorite 📚 Data Structure implementation, 🕸 Algorithms, and 🎲 Projects. 😊 | Very Active Repository, Star and Share with your friends | ",MDEwOlJlcG9zaXRvcnkzMDI1NzUwMDU=
+496,docs-archive,1583,568,Java,https://github.com/xamarin/docs-archive,Xamarin docs archive,MDEwOlJlcG9zaXRvcnkzNzQ5NjczOA==
+497,Guns,1579,3595,Java,https://github.com/stylefeng/Guns,Guns基于SpringBoot 2，致力于做更简洁的后台管理系统，完美整合springmvc + shiro + mybatis-plus + beetl!Guns项目代码简洁，注释丰富，上手容易，同时Guns包含许多基础模块(用户管理，角色管理，部门管理，字典管理等10个模块)，可以直接作为一个后台管理系统的脚手架!,MDEwOlJlcG9zaXRvcnk5NjM5MTExMg==
+498,blog_demos,1577,3508,Java,https://github.com/zq2599/blog_demos,CSDN博客专家程序员欣宸的github，这里有六百多篇原创文章的详细分类和汇总，以及对应的源码，内容涉及Java、Docker、Kubernetes、DevOPS等方面,MDEwOlJlcG9zaXRvcnk4NzY4MzcxMg==
+499,coursera-android-labs,1575,351,Java,https://github.com/aporter/coursera-android-labs,Skeletons and Tests - Programming Mobile Applications for Android Handheld Systems,MDEwOlJlcG9zaXRvcnkzMjU4Mzk0Nw==
+500,microservices-platform,1572,4002,Java,https://github.com/zlt2000/microservices-platform,基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务多租户系统架构。并引入组件化的思想实现高内聚低耦合，项目代码简洁注释丰富上手容易，适合学习和企业中使用。真正实现了基于RBAC、jwt和oauth2的无状态统一权限认证的解决方案，面向互联网设计同时适合B端和C端用户，支持CI/CD多环境部署，并提供应用管理方便第三方系统接入；同时还集合各种微服务治理功能和监控功能。模块包括:企业级的认证系统、开发平台、应用监控、慢sql监控、统一日志、单点登录、Redis分布式高速缓存、配置中心、分布式任务调度、接口文档、代码生成等等。,MDEwOlJlcG9zaXRvcnkxNzQyOTE2MDY=
+502,NineOldAndroids,1570,4511,Java,https://github.com/JakeWharton/NineOldAndroids,[DEPRECATED] Android library for using the Honeycomb animation API on all versions of the platform back to 1.0!,MDEwOlJlcG9zaXRvcnkyOTQyNjE1
+503,spark,1570,9465,Java,https://github.com/perwendel/spark,A simple expressive web framework for java. Spark has a kotlin DSL https://github.com/perwendel/spark-kotlin,MDEwOlJlcG9zaXRvcnkxNzA1OTYw
+501,spring-cloud-microservice-example,1569,19,Java,https://github.com/geoand/spring-cloud-microservice-example,An example project that demonstrates an end-to-end cloud-native platform using Spring Cloud for building a practical microservices architecture.,MDEwOlJlcG9zaXRvcnkzOTA3NTQ0Nw==
+504,ambari,1569,1869,Java,https://github.com/apache/ambari,"Apache Ambari simplifies provisioning, managing, and monitoring of Apache Hadoop clusters.",MDEwOlJlcG9zaXRvcnkyNDQyNDU3
+505,AndroidAsync,1566,7357,Java,https://github.com/koush/AndroidAsync,"Asynchronous socket, http(s) (client+server) and websocket library for android. Based on nio, not threads.",MDEwOlJlcG9zaXRvcnk1NTM3MTIx
+507,lamp-cloud,1562,4827,Java,https://github.com/dromara/lamp-cloud,lamp-cloud 基于Jdk11 + SpringCloud + SpringBoot 开发的微服务中后台快速开发平台，专注于多租户(SaaS架构)解决方案，亦可作为普通项目（非SaaS架构）的基础开发框架使用，目前已实现插拔式数据库隔离、SCHEMA隔离、字段隔离 等租户隔离方案。,MDEwOlJlcG9zaXRvcnkxMTc3NzQyOTA=
+509,azkaban,1561,4231,Java,https://github.com/azkaban/azkaban,Azkaban workflow manager.,MDEwOlJlcG9zaXRvcnk2MjcxNDIx
+508,BottomBar,1561,8435,Java,https://github.com/roughike/BottomBar,(Deprecated) A custom view component that mimics the new Material Design Bottom Navigation pattern.,MDEwOlJlcG9zaXRvcnk1Mzk5MTE3MQ==
+510,flume,1559,2400,Java,https://github.com/apache/flume,Mirror of Apache Flume,MDEwOlJlcG9zaXRvcnkyMTk4NTEw
+511,algorithm-base,1556,10359,Java,https://github.com/chefyuan/algorithm-base,一位酷爱做饭的程序员，立志用动画将算法说的通俗易懂。我的面试网站 www.chengxuchu.com,MDEwOlJlcG9zaXRvcnkzNDg2NTE3NDY=
+512,netty-socketio,1556,6154,Java,https://github.com/mrniko/netty-socketio,Socket.IO server implemented on Java. Realtime java framework,MDEwOlJlcG9zaXRvcnkzMTYxNzQ4
+513,android-Camera2Basic,1554,2840,Java,https://github.com/googlearchive/android-Camera2Basic,Migrated:,MDEwOlJlcG9zaXRvcnkyMTI0NjI3OQ==
+514,android-maps-utils,1549,3436,Java,https://github.com/googlemaps/android-maps-utils,Maps SDK for Android Utility Library,MDEwOlJlcG9zaXRvcnkxMDExMzAzMA==
+515,transmittable-thread-local,1549,6229,Java,https://github.com/alibaba/transmittable-thread-local,"📌 TransmittableThreadLocal (TTL), the missing Java™ std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even using thread pooling components.",MDEwOlJlcG9zaXRvcnkxMzUzNjM5Mw==
+516,StickyListHeaders,1545,5527,Java,https://github.com/emilsjolander/StickyListHeaders,An android library for section headers that stick to the top,MDEwOlJlcG9zaXRvcnkzNjg4Njc4
+517,gephi,1543,5247,Java,https://github.com/gephi/gephi,Gephi - The Open Graph Viz Platform,MDEwOlJlcG9zaXRvcnkyNjI0NTIx
+542,Design-2,1540,1,Java,https://github.com/super30admin/Design-2,,MDEwOlJlcG9zaXRvcnkxOTQ1NDE3MDM=
+518,springfox,1539,5789,Java,https://github.com/springfox/springfox,Automated JSON API documentation for API's built with Spring,MDEwOlJlcG9zaXRvcnk0MjM4OTc3
+519,processing,1538,6331,Java,https://github.com/processing/processing,Source code for the Processing Core and Development Environment (PDE),MDEwOlJlcG9zaXRvcnk3ODA3Mzk5
+523,Jenkins_Upgradev3,1536,41,Java,https://github.com/anshulc55/Jenkins_Upgradev3,,MDEwOlJlcG9zaXRvcnkyMTM1NDI4ODc=
+520,QtScrcpy,1531,9093,Java,https://github.com/barry-ran/QtScrcpy,Android real-time display control software,MDEwOlJlcG9zaXRvcnkxOTMzMDUxMDQ=
+521,kylin,1527,3458,Java,https://github.com/apache/kylin,Apache Kylin,MDEwOlJlcG9zaXRvcnkyODczODQ0Nw==
+522,Side-Menu.Android,1526,5212,Java,https://github.com/Yalantis/Side-Menu.Android,Side menu with some categories to choose.,MDEwOlJlcG9zaXRvcnkyOTE4NjMyNw==
+524,spring-boot-projects,1525,4603,Java,https://github.com/ZHENFENG13/spring-boot-projects,:fire: 该仓库中主要是 Spring Boot 的入门学习教程以及一些常用的 Spring Boot 实战项目教程，包括 Spring Boot 使用的各种示例代码，同时也包括一些实战项目的项目源码和效果展示，实战项目包括基本的 web 开发以及目前大家普遍使用的线上博客项目/企业大型商城系统/前后端分离实践项目等，摆脱各种 hello world 入门案例的束缚，真正的掌握 Spring Boot 开发。,MDEwOlJlcG9zaXRvcnk4Njg3NDI3NA==
+526,android,1523,3331,Java,https://github.com/nextcloud/android,📱 Nextcloud Android app,MDEwOlJlcG9zaXRvcnk2MDU2MTgzNA==
+525,MagicIndicator,1523,9394,Java,https://github.com/hackware1993/MagicIndicator,"A powerful, customizable and extensible ViewPager indicator framework. As the best alternative of ViewPagerIndicator, TabLayout and PagerSlidingTabStrip   ——   强大、可定制、易扩展的 ViewPager 指示器框架。是ViewPagerIndicator、TabLayout、PagerSlidingTabStrip的最佳替代品。支持角标，更支持在非ViewPager场景下使用（使用hide()、show()切换Fragment或使用setVisibility切换FrameLayout里的View等），http://www.jianshu.com/p/f3022211821c",MDEwOlJlcG9zaXRvcnk2MTk4MDA3Mw==
+527,Jetpack-MVVM-Best-Practice,1522,8231,Java,https://github.com/KunMinX/Jetpack-MVVM-Best-Practice,"难得一见 Jetpack MVVM 最佳实践！在 ""以简驭繁"" 代码中，对 ""视图控制器"" 乃至 ""标准化开发模式"" 形成正确、深入理解！",MDEwOlJlcG9zaXRvcnkyMTg2ODk5ODI=
+528,iceberg,1520,4061,Java,https://github.com/apache/iceberg,Apache Iceberg,MDEwOlJlcG9zaXRvcnkxNTgyNTY0Nzk=
+530,TakePhoto,1520,7220,Java,https://github.com/crazycodeboy/TakePhoto,一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库,MDEwOlJlcG9zaXRvcnk0MDE1Nzk5NQ==
+529,afinal,1519,3169,Java,https://github.com/yangfuhai/afinal,"Afinal是一个android的ioc，orm框架，内置了四大模块功能：FinalAcitivity,FinalBitmap,FinalDb,FinalHttp。通过finalActivity，我们可以通过注解的方式进行绑定ui和事件。通过finalBitmap，我们可以方便的加载bitmap图片，而无需考虑oom等问题。通过finalDB模块，我们一行代码就可以对android的sqlite数据库进行增删改查。通过FinalHttp模块，我们可以以ajax形式请求http数据。详情请通过以下网址查看。",MDEwOlJlcG9zaXRvcnk2MjU3OTg0
+531,web3j,1518,4565,Java,https://github.com/web3j/web3j,Lightweight Java and Android library for integration with Ethereum clients,MDEwOlJlcG9zaXRvcnk2NzMyODA1Mg==
+532,atlas,1518,8097,Java,https://github.com/alibaba/atlas,A powerful Android Dynamic Component Framework.,MDEwOlJlcG9zaXRvcnk4MzM5ODEwMA==
+533,elasticsearch-sql,1516,6834,Java,https://github.com/NLPchina/elasticsearch-sql,Use SQL to query Elasticsearch,MDEwOlJlcG9zaXRvcnkyMzI4Mjk5MQ==
+534,XposedInstaller,1516,3692,Java,https://github.com/rovo89/XposedInstaller,,MDEwOlJlcG9zaXRvcnkzOTExMzE3
+535,VirtualAPK,1516,8824,Java,https://github.com/didi/VirtualAPK,A powerful and lightweight plugin framework for Android,MDEwOlJlcG9zaXRvcnk5NTc1MDM5MQ==
+536,android-fundamentals-starter-apps-v2,1512,263,Java,https://github.com/google-developer-training/android-fundamentals-starter-apps-v2,,MDEwOlJlcG9zaXRvcnkxNDc3NDgzMTY=
+537,JsonPath,1510,7773,Java,https://github.com/json-path/JsonPath,Java JsonPath implementation,MDEwOlJlcG9zaXRvcnkxMjg3NjY5
+538,android_design_patterns_analysis,1507,2651,Java,https://github.com/simple-android-framework/android_design_patterns_analysis,Android源码设计模式分析项目,MDEwOlJlcG9zaXRvcnkzMTQ1MzMxOQ==
+540,javacv,1506,6511,Java,https://github.com/bytedeco/javacv,"Java interface to OpenCV, FFmpeg, and more",MDEwOlJlcG9zaXRvcnkxODk5MzgxNA==
+539,vjtools,1506,7439,Java,https://github.com/vipshop/vjtools,"The vip.com's java coding standard, libraries and tools",MDEwOlJlcG9zaXRvcnkxMzUyNzAyODU=
+541,RePlugin,1505,7117,Java,https://github.com/Qihoo360/RePlugin,"RePlugin - A flexible, stable, easy-to-use Android Plug-in Framework",MDEwOlJlcG9zaXRvcnk5MzczMjcwMg==
+544,logging-log4j2,1502,3040,Java,https://github.com/apache/logging-log4j2,"Apache Log4j 2 is a versatile, feature-rich, efficient logging API and backend for Java.",MDEwOlJlcG9zaXRvcnkxMDYzNzg5Ng==
+543,MaterialViewPager,1502,8188,Java,https://github.com/florent37/MaterialViewPager,A Material Design ViewPager easy to use library,MDEwOlJlcG9zaXRvcnkzNDUzMzI4Ng==
+545,spider-flow,1500,7799,Java,https://github.com/ssssssss-team/spider-flow,新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。,MDEwOlJlcG9zaXRvcnkyNTA1MTI2MTI=
+546,Spring-Boot-In-Action,1498,4531,Java,https://github.com/hansonwang99/Spring-Boot-In-Action,Spring Boot 系列实战合集,MDEwOlJlcG9zaXRvcnkxNjc5NjIzNjI=
+547,bilibili-android-client,1498,4467,Java,https://github.com/HotBitmapGG/bilibili-android-client,An unofficial bilibili client for android  http://www.jianshu.com/p/f69a55b94c05   -- 该项目已停止维护！,MDEwOlJlcG9zaXRvcnk2MDE0NTY2Nw==
+548,zfile,1494,7130,Java,https://github.com/zfile-dev/zfile,在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载,MDEwOlJlcG9zaXRvcnkyMDMxODM2NzM=
+549,91porn,1489,961,Java,https://github.com/zhaoxianjin/91porn,91Porn Android 客户端，突破游客每天观看10次视频的限制，还可以下载视频,MDEwOlJlcG9zaXRvcnkxMTQwOTEwODY=
+550,android-floating-action-button,1489,6376,Java,https://github.com/zendesk/android-floating-action-button,Floating Action Button for Android based on Material Design specification,MDEwOlJlcG9zaXRvcnkyNDIxOTQwOQ==
+551,uid-generator,1487,5003,Java,https://github.com/baidu/uid-generator,UniqueID generator,MDEwOlJlcG9zaXRvcnk4NjI4OTkwMQ==
+553,m1-t6-jdk,1487,3,Java,https://github.com/PraktikumJava/m1-t6-jdk,,R_kgDOGGg7CQ
+552,InstaMaterial,1484,5008,Java,https://github.com/frogermcs/InstaMaterial,Implementation of Instagram with Material Design (originally based on Emmanuel Pacamalan's concept),MDEwOlJlcG9zaXRvcnkyNjQ1MDU1Mw==
+554,AarogyaSetu_Android,1481,2837,Java,https://github.com/nic-delhi/AarogyaSetu_Android,Aarogya Setu Android app native code,MDEwOlJlcG9zaXRvcnkyNjcxMDk4MzU=
+556,Play-with-Algorithms,1480,3529,Java,https://github.com/liuyubobobo/Play-with-Algorithms,"Codes of my MOOC Course <Play with Algorithms>, Both in C++ and Java language. Updated contents and practices are also included. 我在慕课网上的课程《算法与数据结构》示例代码，包括C++和Java版本。课程的更多更新内容及辅助练习也将逐步添加进这个代码仓。",MDEwOlJlcG9zaXRvcnk2MjY1OTIxMA==
+557,graal,1479,18366,Java,https://github.com/oracle/graal,GraalVM: Run Programs Faster Anywhere :rocket:,MDEwOlJlcG9zaXRvcnk0OTY2MjIyMg==
+555,AndResGuard,1479,8222,Java,https://github.com/shwenzhang/AndResGuard,proguard resource for Android  by wechat team,MDEwOlJlcG9zaXRvcnk0NDA1MDA2Ng==
+560,drag-sort-listview,1476,3204,Java,https://github.com/bauerca/drag-sort-listview,Android ListView with drag and drop reordering.,MDEwOlJlcG9zaXRvcnk0NTE2NzMz
+561,commons-lang,1475,2436,Java,https://github.com/apache/commons-lang,Apache Commons Lang,MDEwOlJlcG9zaXRvcnkyMDYzNzg=
+559,LintCode-1,1474,1,Java,https://github.com/terrytong0876/LintCode-1,Java Solutions to problems on LintCode,MDEwOlJlcG9zaXRvcnk0ODczMDQxMA==
+558,java-baseball,1473,21,Java,https://github.com/woowacourse-precourse/java-baseball,숫자 야구 게임 미션을 진행하는 저장소,R_kgDOIV5iYw
+562,easypermissions,1473,9648,Java,https://github.com/googlesamples/easypermissions,Simplify Android M system permissions,MDEwOlJlcG9zaXRvcnk0ODQ0NjY4MA==
+572,java-hello-world-with-maven,1472,19,Java,https://github.com/jabedhasan21/java-hello-world-with-maven,,MDEwOlJlcG9zaXRvcnk0NzAxMzkxMQ==
+563,tx-lcn,1470,4189,Java,https://github.com/codingapi/tx-lcn,"LCN distributed transaction framework, compatible with dubbo, spring cloud and Motan framework, supports various relational databases",MDEwOlJlcG9zaXRvcnkxMTAzMTUxNzQ=
+564,jboss-eap-quickstarts,1467,796,Java,https://github.com/jboss-developer/jboss-eap-quickstarts,"The quickstarts demonstrate JBoss EAP, Jakarta EE 8 and a few additional technologies. They provide small, specific, working examples that can be used as a reference for your own project.",MDEwOlJlcG9zaXRvcnkxODcyMTA2
+565,SystemBarTint,1465,5382,Java,https://github.com/jgilfelt/SystemBarTint,[DEPRECATED] Apply background tinting to the Android system UI when using KitKat translucent modes,MDEwOlJlcG9zaXRvcnkxNDQ2NjQzMg==
+567,jeepay,1464,3537,Java,https://github.com/jeequan/jeepay,Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。,MDEwOlJlcG9zaXRvcnkxMDAwODQzMzA=
+566,mongo-java-driver,1463,2534,Java,https://github.com/mongodb/mongo-java-driver,The official Java driver for MongoDB ,MDEwOlJlcG9zaXRvcnkxMDgwNTA=
+568,Android-Bootstrap,1461,7271,Java,https://github.com/Bearded-Hen/Android-Bootstrap,"Bootstrap style widgets for Android, with Glyph Icons",MDEwOlJlcG9zaXRvcnkxNDA0NjU2Mw==
+569,WebCollector,1460,2961,Java,https://github.com/CrawlScript/WebCollector,"WebCollector is an open source web crawler framework based on Java.It provides some simple interfaces for crawling the Web,you can setup a multi-threaded web crawler in less than 5 minutes.",MDEwOlJlcG9zaXRvcnkyMTc1ODQzNg==
+570,avro,1458,2448,Java,https://github.com/apache/avro,Apache Avro is a data serialization system.,MDEwOlJlcG9zaXRvcnkyMDY0NTk=
+571,clojure,1457,9919,Java,https://github.com/clojure/clojure,The Clojure programming language,MDEwOlJlcG9zaXRvcnk3NDc1MTI=
+573,JavaTutorial,1453,5826,Java,https://github.com/h2pl/JavaTutorial,【Java工程师面试复习指南】本仓库涵盖大部分Java程序员所需要掌握的核心知识，整合了互联网上的很多优质Java技术文章，力求打造为最完整最实用的Java开发者学习指南，如果对你有帮助，给个star告诉我吧，谢谢！,MDEwOlJlcG9zaXRvcnkxMzE3MzI3ODI=
+574,jvm-sandbox,1452,5894,Java,https://github.com/alibaba/jvm-sandbox,Real - time non-invasive AOP framework container based on JVM,MDEwOlJlcG9zaXRvcnk5OTE4MzkwMg==
+575,UltimateRecyclerView,1452,7231,Java,https://github.com/cymcsg/UltimateRecyclerView,"A RecyclerView(advanced and flexible version of ListView in Android) with refreshing,loading more,animation and many other features.",MDEwOlJlcG9zaXRvcnkyOTk0NjQ2NA==
+576,mpush,1446,3625,Java,https://github.com/mpusher/mpush,MPush开源实时消息推送系统,MDEwOlJlcG9zaXRvcnk1NzI2MTM2Mg==
+577,lanproxy,1441,5235,Java,https://github.com/ffay/lanproxy,lanproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具，支持tcp流量转发，可支持任何tcp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面、http代理、https代理、socks5代理...）。技术交流QQ群 736294209,MDEwOlJlcG9zaXRvcnk3NDI2MTE2OA==
+579,usb-serial-for-android,1441,3972,Java,https://github.com/mik3y/usb-serial-for-android,"Android USB host serial driver library for CDC, FTDI, Arduino and other devices.",MDEwOlJlcG9zaXRvcnkxMTA3OTY3OQ==
+578,barcodescanner,1440,5452,Java,https://github.com/dm77/barcodescanner,Barcode Scanner Libraries for Android,MDEwOlJlcG9zaXRvcnkxNzE1MDk5Mw==
+580,PermissionsDispatcher,1438,11100,Java,https://github.com/permissions-dispatcher/PermissionsDispatcher,A declarative API to handle Android runtime permissions.,MDEwOlJlcG9zaXRvcnk0MDc4Njc1MQ==
+581,SwipeBackLayout,1433,6131,Java,https://github.com/ikew0ng/SwipeBackLayout,An Android library that help you to build app with swipe back gesture.,MDEwOlJlcG9zaXRvcnkxMjM1MzY3OA==
+582,HackerRank_solutions,1429,2584,Java,https://github.com/RodneyShag/HackerRank_solutions,317 efficient solutions to HackerRank problems,MDEwOlJlcG9zaXRvcnk4MDg5OTgyMA==
+583,grafika,1428,5784,Java,https://github.com/google/grafika,Grafika test app,MDEwOlJlcG9zaXRvcnkxNTMxOTUwNw==
+584,Calculator,1426,310,Java,https://github.com/HouariZegai/Calculator,"Calculator app created with Java Swing, It is simple with an easy code to help novices learn how to operate a calculator.",MDEwOlJlcG9zaXRvcnkxMTk5MDI3MDQ=
+586,caffeine,1424,13348,Java,https://github.com/ben-manes/caffeine,A high performance caching library for Java,MDEwOlJlcG9zaXRvcnkyNzk1NDkyNw==
+585,glide-transformations,1424,9753,Java,https://github.com/wasabeef/glide-transformations,An Android transformation library providing a variety of image transformations for Glide.,MDEwOlJlcG9zaXRvcnkyOTAxMjA1OA==
+587,AndroidPicker,1423,5892,Java,https://github.com/gzu-liyujiang/AndroidPicker,安卓选择器类库，包括日期及时间选择器（可用于出生日期、营业时间等）、单项选择器（可用于性别、民族、职业、学历、星座等）、二三级联动选择器（可用于车牌号、基金定投日期等）、城市地址选择器（分省级、地市级及区县级）、数字选择器（可用于年龄、身高、体重、温度等）、日历选日期择器（可用于酒店及机票预定日期）、颜色选择器、文件及目录选择器、图片选择器等……WheelPicker/DatePicker/TimePicker/OptionPicker/NumberPicker/LinkagePicker/AddressPicker/CarPlatePicker/CalendarPicker/ColorPicker/FilePicker/ImagePicker etc. ,MDEwOlJlcG9zaXRvcnk0NDY4MTQwMA==
+588,AmazeFileManager,1422,4411,Java,https://github.com/TeamAmaze/AmazeFileManager,Material design file manager for Android,MDEwOlJlcG9zaXRvcnkyMTgzMzE4Mw==
+590,samples,1416,506,Java,https://github.com/openjfx/samples,JavaFX samples to run with different options and build tools,MDEwOlJlcG9zaXRvcnkxNTU4NTI0NjE=
+589,NumberProgressBar,1414,6038,Java,https://github.com/daimajia/NumberProgressBar,"A beautiful, slim Android ProgressBar.",MDEwOlJlcG9zaXRvcnkxOTM0MDAwOQ==
+591,testcontainers-java,1409,6938,Java,https://github.com/testcontainers/testcontainers-java,"Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.",MDEwOlJlcG9zaXRvcnkzMzgxNjQ3Mw==
+592,hmily,1408,3971,Java,https://github.com/dromara/hmily,Distributed transaction solutions,MDEwOlJlcG9zaXRvcnkxMDUxMTA0Nzk=
+593,spring-master-class,1408,1035,Java,https://github.com/in28minutes/spring-master-class,"An updated introduction to the Spring Framework 5. Become an Expert understanding the core features of Spring In Depth. You would write Unit Tests, AOP, JDBC and JPA code during the course.  Includes introductions to Spring Boot, JPA, Eclipse, Maven, JUnit and Mockito.",MDEwOlJlcG9zaXRvcnk5OTU0Njc0MQ==
+594,RxJava-Android-Samples,1406,7547,Java,https://github.com/kaushikgopal/RxJava-Android-Samples,Learning RxJava for Android by example,MDEwOlJlcG9zaXRvcnkyMjEzMjUxMg==
+598,hellogitworld,1401,35,Java,https://github.com/githubtraining/hellogitworld,Hello Git World sample training repository,MDEwOlJlcG9zaXRvcnk5MTA0MzM0
+595,springboot-socks,1399,2480,Java,https://github.com/yizhiwazi/springboot-socks,SpringBoot 基础教程 | 从入门到上瘾 |  基于2.0.0.M5制作  ,MDEwOlJlcG9zaXRvcnkxMDQ2NTcyODQ=
+596,pmd,1394,4209,Java,https://github.com/pmd/pmd,An extensible multilanguage static code analyzer.,MDEwOlJlcG9zaXRvcnk0OTkyOTA2
+597,graphhopper,1391,4086,Java,https://github.com/graphhopper/graphhopper,Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.,MDEwOlJlcG9zaXRvcnkzNDgwNjY2
+601,PreCourse-2,1389,10,Java,https://github.com/super30admin/PreCourse-2,,MDEwOlJlcG9zaXRvcnkxOTQwMjI5Mzc=
+613,m1-t12-code-style,1389,2,Java,https://github.com/PraktikumJava/m1-t12-code-style,,MDEwOlJlcG9zaXRvcnkzOTQzNjM0Njk=
+599,nacos-examples,1388,846,Java,https://github.com/nacos-group/nacos-examples,Nacos Examples,MDEwOlJlcG9zaXRvcnkxNDk3ODU0NTc=
+600,DeepLearning,1385,2985,Java,https://github.com/yusugomori/DeepLearning,"Deep Learning (Python, C, C++, Java, Scala, Go)",MDEwOlJlcG9zaXRvcnk3Mzk2Nzky
+602,Java,1383,707,Java,https://github.com/hmkcode/Java,Java related code,MDEwOlJlcG9zaXRvcnk5NTQ2OTY1
+606,Hashing-2,1383,3,Java,https://github.com/super30admin/Hashing-2,,MDEwOlJlcG9zaXRvcnkxOTU5ODIzNDI=
+607,java,1380,2812,Java,https://github.com/kubernetes-client/java,Official Java client library for kubernetes,MDEwOlJlcG9zaXRvcnk5MDY3NTczMA==
+604,LSPosed,1379,9216,Java,https://github.com/LSPosed/LSPosed,LSPosed Framework,MDEwOlJlcG9zaXRvcnkzMjA3ODU0MzU=
+605,Essentials,1378,823,Java,https://github.com/essentials/Essentials,Essentials - Minecraft server command mod - Adds over 100 commands for use in-game to help manage a server,MDEwOlJlcG9zaXRvcnkxNzczNzU0
+603,quickstart,1378,881,Java,https://github.com/wildfly/quickstart,Holds all versioned WildFly quickstarts,MDEwOlJlcG9zaXRvcnkxMDEzNTE1OA==
+608,cxf,1372,809,Java,https://github.com/apache/cxf,Apache CXF,MDEwOlJlcG9zaXRvcnkxNjk3NzQ3OQ==
+609,flyway,1371,7089,Java,https://github.com/flyway/flyway,Flyway by Redgate • Database Migrations Made Easy.,MDEwOlJlcG9zaXRvcnk3MTcwMDU4
+610,LeafPic,1370,3243,Java,https://github.com/UnevenSoftware/LeafPic,"LeafPic is a fluid, material-designed alternative gallery, it also is ad-free and open source under GPLv3 license. It doesn't miss any of the main features of a stock gallery, and we also have plans to add more useful features.",MDEwOlJlcG9zaXRvcnk0OTIxOTIzMg==
+611,activemq,1370,2136,Java,https://github.com/apache/activemq,Mirror of Apache ActiveMQ,MDEwOlJlcG9zaXRvcnkyMDYzODc=
+623,spring-boot-docker,1370,8,Java,https://github.com/LandmakTechnology/spring-boot-docker,,MDEwOlJlcG9zaXRvcnkyOTE2NDAyMDc=
+612,jib,1368,12636,Java,https://github.com/GoogleContainerTools/jib,🏗 Build container images for your Java applications.,MDEwOlJlcG9zaXRvcnkxMTg0OTc4NDE=
+614,Discovery,1367,5186,Java,https://github.com/Nepxion/Discovery,"☀️ Nepxion Discovery is a solution for Spring Cloud with blue green, gray, route, limitation, circuit breaker, degrade, isolation, tracing, dye, failover, active 蓝绿灰度发布、路由、限流、熔断、降级、隔离、追踪、流量染色、故障转移、多活",MDEwOlJlcG9zaXRvcnkxMzgxOTQ0MzM=
+617,Android-ZBLibrary,1366,5221,Java,https://github.com/TommyLemon/Android-ZBLibrary,"🔥 Android MVP 快速开发框架，做国内 「示例最全面」「注释最详细」「使用最简单」「代码最严谨」的 Android 开源 UI 框架。                🔥 An Android MVP Framework with many demos, detailed documents, simple usages and strict codes.",MDEwOlJlcG9zaXRvcnk0MTEwNTQ1MA==
+615,AndEngine,1366,3155,Java,https://github.com/nicolasgramlich/AndEngine,Free Android 2D OpenGL Game Engine,MDEwOlJlcG9zaXRvcnkyODI4MTk0
+616,SSM,1366,3420,Java,https://github.com/crossoverJie/SSM,:two_hearts: build SSM from 0 👉🏽👉🏽  distributed micro service.,MDEwOlJlcG9zaXRvcnk2MTYyMzcwMA==
+618,springboot-guide,1363,4735,Java,https://github.com/CodingDocs/springboot-guide,SpringBoot2.0+从入门到实战！,MDEwOlJlcG9zaXRvcnkxNTk0MjI0MDk=
+619,aws-cf-templates,1363,2626,Java,https://github.com/widdix/aws-cf-templates,Free Templates for AWS CloudFormation,MDEwOlJlcG9zaXRvcnk0NTA5Njc2MA==
+620,SmartTabLayout,1360,6997,Java,https://github.com/ogaclejapan/SmartTabLayout,A custom ViewPager title strip which gives continuous feedback to the user when scrolling,MDEwOlJlcG9zaXRvcnkzMDc5NDcyMg==
+621,flink-recommandSystem-demo,1360,3754,Java,https://github.com/will-che/flink-recommandSystem-demo,:helicopter::rocket:基于Flink实现的商品实时推荐系统。flink统计商品热度，放入redis缓存，分析日志信息，将画像标签和实时记录放入Hbase。在用户发起推荐请求后，根据用户画像重排序热度榜，并结合协同过滤和标签两个推荐模块为新生成的榜单的每一个产品添加关联产品，最后返回新的用户列表。,MDEwOlJlcG9zaXRvcnkxODY3Nzc1ODE=
+622,spring-kafka,1360,1858,Java,https://github.com/spring-projects/spring-kafka,Provides Familiar Spring Abstractions for Apache Kafka,MDEwOlJlcG9zaXRvcnk1Mjk4MDQ5Mw==
+624,material,1352,6027,Java,https://github.com/rey5137/material,A library to bring fully animated Material Design components to pre-Lolipop Android. ,MDEwOlJlcG9zaXRvcnkyNzc2NDgxMQ==
+625,jfinal,1350,3188,Java,https://github.com/jfinal/jfinal,JAVA WEB + ORM Framework,MDEwOlJlcG9zaXRvcnk0MTM0NTYw
+626,robolectric,1348,5620,Java,https://github.com/robolectric/robolectric,Android Unit Testing Framework,MDEwOlJlcG9zaXRvcnk4Njc1NjQ=
+627,dddsample-core,1348,4384,Java,https://github.com/citerus/dddsample-core,This is the new home of the original DDD Sample app (previously hosted at sf.net).. ,MDEwOlJlcG9zaXRvcnkzMDEyOTkzOQ==
+628,baritone,1346,5510,Java,https://github.com/cabaletta/baritone,google maps for block game,MDEwOlJlcG9zaXRvcnkxNDMxNzU0OTY=
+629,kubernetes-client,1344,2912,Java,https://github.com/fabric8io/kubernetes-client,Java client for Kubernetes & OpenShift ,MDEwOlJlcG9zaXRvcnkzODgyOTYzOQ==
+630,java-lotto,1343,13,Java,https://github.com/woowacourse-precourse/java-lotto,로또 미션을 진행하는 저장소,R_kgDOIXnbwQ
+631,junit5-samples,1340,1415,Java,https://github.com/junit-team/junit5-samples,Collection of sample applications using JUnit 5.,MDEwOlJlcG9zaXRvcnk0NjE0ODE2OQ==
+632,geekbang-lessons,1336,840,Java,https://github.com/mercyblitz/geekbang-lessons,极客时间课程工程,MDEwOlJlcG9zaXRvcnkyMjYzMTUwMjI=
+636,tasks-backend,1334,17,Java,https://github.com/wcaquinocursos/tasks-backend,Aplicação em SpringBoot para backend do projeto Tasks,MDEwOlJlcG9zaXRvcnkyNDc0NTI2MDg=
+634,Android-Image-Cropper,1332,6241,Java,https://github.com/ArthurHub/Android-Image-Cropper,"Image Cropping Library for Android, optimized for Camera / Gallery.",MDEwOlJlcG9zaXRvcnkyOTI5MzAwMg==
+635,CloudReader,1332,4763,Java,https://github.com/youlookwhat/CloudReader,🗡️  云阅：一款基于网易云音乐UI，使用玩Android Api，Retrofit2 + RxJava2 + Room + MVVM-databinding架构开发的Android客户端,MDEwOlJlcG9zaXRvcnk3NDI3MTA1NA==
+633,jwt-spring-security-demo,1332,2981,Java,https://github.com/szerhusenBC/jwt-spring-security-demo,A demo for using JWT (Json Web Token) with Spring Security and Spring Boot 2,MDEwOlJlcG9zaXRvcnk1NDMzNTU4NQ==
+647,DP-1,1331,1,Java,https://github.com/super30admin/DP-1,,MDEwOlJlcG9zaXRvcnkxOTYxMjkxOTU=
+654,m1-t6-jar,1327,2,Java,https://github.com/PraktikumJava/m1-t6-jar,,R_kgDOGGg7lA
+637,ShortcutBadger,1325,7260,Java,https://github.com/leolin310148/ShortcutBadger,"An Android library supports badge notification like iOS in Samsung, LG, Sony and HTC launchers.",MDEwOlJlcG9zaXRvcnkxNDQyNDI4NA==
+638,Openfire,1324,2611,Java,https://github.com/igniterealtime/Openfire,An XMPP server licensed under the Open Source Apache License.,MDEwOlJlcG9zaXRvcnkxODUxMTY4Nw==
+639,material-calendarview,1320,5851,Java,https://github.com/prolificinteractive/material-calendarview,A Material design back port of Android's CalendarView,MDEwOlJlcG9zaXRvcnkzMDU2MjI4Nw==
+640,RxPermissions,1319,10432,Java,https://github.com/tbruyelle/RxPermissions,Android runtime permissions powered by RxJava2,MDEwOlJlcG9zaXRvcnk0MzM3MDYxMA==
+641,javapoet,1318,10135,Java,https://github.com/square/javapoet,A Java API for generating .java source files.,MDEwOlJlcG9zaXRvcnk3OTYxOTkx
+642,wiremock,1318,5441,Java,https://github.com/wiremock/wiremock,A tool for mocking HTTP services,MDEwOlJlcG9zaXRvcnkyNTQ0MzA1
+643,Terasology,1315,3481,Java,https://github.com/MovingBlocks/Terasology,Terasology - open source voxel world,MDEwOlJlcG9zaXRvcnkxNDM4MDA3
+645,camunda-bpm-platform,1313,3209,Java,https://github.com/camunda/camunda-bpm-platform,"Flexible framework for workflow and decision automation with BPMN and DMN. Integration with Spring, Spring Boot, CDI.",MDEwOlJlcG9zaXRvcnk3NDIwOTM3
+646,QuestionAnsweringSystem,1310,1907,Java,https://github.com/ysc/QuestionAnsweringSystem,QuestionAnsweringSystem是一个Java实现的人机问答系统，能够自动分析问题并给出候选答案。,MDEwOlJlcG9zaXRvcnkyMjM1Njc5MQ==
+644,java-exercises,1310,4,Java,https://github.com/LaunchCodeEducation/java-exercises,Demos and exercises for skills-back-end-java,MDEwOlJlcG9zaXRvcnk4MDM1NTc2MQ==
+648,flink-cdc-connectors,1309,3750,Java,https://github.com/ververica/flink-cdc-connectors,CDC Connectors for Apache Flink®,MDEwOlJlcG9zaXRvcnkyODI5OTQ2ODY=
+649,ShowcaseView,1307,5609,Java,https://github.com/amlcurran/ShowcaseView,"[Archived] Highlight the best bits of your app to users quickly, simply, and cool...ly",MDEwOlJlcG9zaXRvcnk1NDE3MjY2
+650,jetlinks-community,1306,3690,Java,https://github.com/jetlinks/jetlinks-community,"JetLinks  基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据可视化等。能帮助你快速建立物联网相关业务系统。",MDEwOlJlcG9zaXRvcnkyMzEzMjk5OTA=
+651,Array-1,1306,3,Java,https://github.com/super30admin/Array-1,,MDEwOlJlcG9zaXRvcnkxOTY5MzIzNTY=
+656,gs-spring-boot-docker,1302,582,Java,https://github.com/spring-guides/gs-spring-boot-docker,Spring Boot with Docker :: Learn how to create a Docker container from a Spring Boot application with Maven or Gradle,MDEwOlJlcG9zaXRvcnkzMzIzNzAzOQ==
+652,JimuReport,1301,4231,Java,https://github.com/jeecgboot/JimuReport,⭐️「低代码可视化报表」类似excel操作风格，在线拖拽完成设计！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。,MDEwOlJlcG9zaXRvcnkyMjYwOTY5MzQ=
+653,Android-SpinKit,1301,8389,Java,https://github.com/ybq/Android-SpinKit,Android  loading animations,MDEwOlJlcG9zaXRvcnk1NDMwODExMw==
+655,ud867,1297,669,Java,https://github.com/udacity/ud867,Course code repository for Gradle for Android and Java,MDEwOlJlcG9zaXRvcnkzMjM1ODQ0Ng==
+657,collect,1295,662,Java,https://github.com/getodk/collect,ODK Collect is an Android app for filling out forms. It's been used to collect billions of data points in challenging environments around the world. Contribute and make the world a better place! ✨📋✨,MDEwOlJlcG9zaXRvcnk0MDIxMzgwOQ==
+665,java-tomcat-maven-example,1295,11,Java,https://github.com/daticahealth/java-tomcat-maven-example,Example Java + Maven Tomcat application,MDEwOlJlcG9zaXRvcnkxMDIxMzQyNzA=
+658,xboot,1294,3637,Java,https://github.com/Exrick/xboot,基于Spring Boot 2.x的一站式前后端分离快速开发平台XBoot 微信小程序+Uniapp 前端：Vue+iView Admin 后端：Spring Boot 2.x/Spring Security/JWT/JPA+Mybatis-Plus/Redis/Elasticsearch/Activiti 分布式限流/同步锁/验证码/SnowFlake雪花算法ID 动态权限 数据权限 工作流 代码生成 定时任务 社交账号 短信登录 单点登录 OAuth2开放平台 客服机器人 数据大屏 暗黑模式,MDEwOlJlcG9zaXRvcnkxMzA3MTE5Njg=
+659,parquet-mr,1293,1945,Java,https://github.com/apache/parquet-mr,Apache Parquet,MDEwOlJlcG9zaXRvcnkyMDY3NTYzNg==
+661,quarkus-quickstarts,1292,1677,Java,https://github.com/quarkusio/quarkus-quickstarts,Quarkus quickstart code,MDEwOlJlcG9zaXRvcnkxNjAxNTY5OTk=
+660,junit5,1292,5678,Java,https://github.com/junit-team/junit5,✅ The 5th major version of the programmer-friendly testing framework for Java and the JVM,MDEwOlJlcG9zaXRvcnkyOTEwMjM2Nw==
+662,android_frameworks_base,1291,622,Java,https://github.com/CyanogenMod/android_frameworks_base,,MDEwOlJlcG9zaXRvcnkxMDAzODQ2Nw==
+663,UltimateAndroidReference,1288,7661,Java,https://github.com/aritraroy/UltimateAndroidReference,:rocket: Ultimate Android Reference - Your Road to Become a Better Android Developer,MDEwOlJlcG9zaXRvcnk4Nzc4MDA5OA==
+664,XRecyclerView,1278,5322,Java,https://github.com/XRecyclerView/XRecyclerView,A RecyclerView that implements pullrefresh and loadingmore featrues.you can use it like a standard RecyclerView,MDEwOlJlcG9zaXRvcnk0NjQwNDcyOQ==
+668,android-fundamentals,1278,637,Java,https://github.com/google-developer-training/android-fundamentals,,MDEwOlJlcG9zaXRvcnk3NTI2OTY2NQ==
+666,SwipeMenuListView,1277,3514,Java,https://github.com/baoyongzhang/SwipeMenuListView,[DEPRECATED] A swipe menu for ListView.,MDEwOlJlcG9zaXRvcnkyMzI4NDgyMA==
+667,jackson-databind,1277,3244,Java,https://github.com/FasterXML/jackson-databind,General data-binding package for Jackson (2.x): works on streaming API (core) implementation(s),MDEwOlJlcG9zaXRvcnkzMDM4OTM3
+669,spring-data-elasticsearch,1274,2755,Java,https://github.com/spring-projects/spring-data-elasticsearch,Provide support to increase developer productivity in Java when using Elasticsearch. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.,MDEwOlJlcG9zaXRvcnk5NzQ5OTA1
+670,android-flip,1273,2846,Java,https://github.com/openaphid/android-flip,"A component for flip animation on Android, which is similar to the effect in Flipboard iPhone/Android",MDEwOlJlcG9zaXRvcnk0NDAzNzM4
+671,addressbook-level2,1269,19,Java,https://github.com/se-edu/addressbook-level2,:ab::two:  A Java sample application for students. An AddressBook application that uses OOP basics.,MDEwOlJlcG9zaXRvcnk2Mzk0NzU0MQ==
+672,opentsdb,1265,4804,Java,https://github.com/OpenTSDB/opentsdb,"A scalable, distributed Time Series Database.",MDEwOlJlcG9zaXRvcnk4NjU0MTI=
+673,android_build,1265,29,Java,https://github.com/abstrakraft/android_build,Android Build System (cyanogenmod),MDEwOlJlcG9zaXRvcnkzMDExMzQ=
+674,RoundedImageView,1263,6384,Java,https://github.com/vinc3m1/RoundedImageView,"A fast ImageView that supports rounded corners, ovals, and circles.",MDEwOlJlcG9zaXRvcnk4MzQ3ODY0
+675,java-8-lambdas-exercises,1261,1774,Java,https://github.com/RichardWarburton/java-8-lambdas-exercises,Exercises and Answers for Java 8 Lambdas book,MDEwOlJlcG9zaXRvcnkxNjY3ODk2MA==
+694,Array-2,1252,2,Java,https://github.com/super30admin/Array-2,,MDEwOlJlcG9zaXRvcnkxOTY5NjU0MTc=
+678,spring-data-jpa,1250,2608,Java,https://github.com/spring-projects/spring-data-jpa,Simplifies the development of creating a JPA-based data access layer. ,MDEwOlJlcG9zaXRvcnkxMDcyODQ1
+677,Java,1250,2456,Java,https://github.com/HelloWorld521/Java,java项目实战练习,MDEwOlJlcG9zaXRvcnk3NTk0Mjc1OA==
+680,ASimpleCache,1247,3665,Java,https://github.com/yangfuhai/ASimpleCache,a simple cache for android and java,MDEwOlJlcG9zaXRvcnkxMTcyMDI5Nw==
+676,PushPlugin-deprecated,1246,16,Java,https://github.com/bobeast/PushPlugin-deprecated,Push Notification Plugin for iOS and Android,MDEwOlJlcG9zaXRvcnk2ODkxNTIz
+681,android-mvp-architecture,1245,4423,Java,https://github.com/janishar/android-mvp-architecture,"This repository contains a detailed sample app that implements MVP architecture using Dagger2,  GreenDao, RxJava2, FastAndroidNetworking and PlaceholderView",MDEwOlJlcG9zaXRvcnk4MDE5MjM3NA==
+684,DEPRECATED-data-structures,1244,2744,Java,https://github.com/williamfiset/DEPRECATED-data-structures,A collection of powerful data structures,MDEwOlJlcG9zaXRvcnk2MTQ4MDk4Mw==
+683,spring-cloud-config,1243,1860,Java,https://github.com/spring-cloud/spring-cloud-config,External configuration (server and client) for Spring Cloud,MDEwOlJlcG9zaXRvcnkyMDgxMTM0OA==
+685,jeecg,1243,2092,Java,https://github.com/jeecgboot/jeecg,JEECG是一款基于代码生成器的J2EE快速开发平台，开源界“小普元”超越传统商业企业级开发平台。引领新的开发模式(Online Coding模式(自定义表单) - > 代码生成器模式 - > 手工MERGE智能开发)， 可以帮助解决Java项目90%的重复工作，让开发更多关注业务逻辑。既能快速提高开发效率，帮助公司节省人力成本，同时又不失灵活性。具备：表单配置能力（无需编码）、移动配置能力、工作流配置能力、报表配置能力（支持移动端）、插件开发能力（可插拔）,MDEwOlJlcG9zaXRvcnk3MzkzNDI3
+679,spring5-di-demo,1242,36,Java,https://github.com/springframeworkguru/spring5-di-demo,Spring 5 Dependency Injection Demo,MDEwOlJlcG9zaXRvcnk5MjIxNzk2NQ==
+682,ThinkJavaCode,1242,349,Java,https://github.com/AllenDowney/ThinkJavaCode,Supporting code for Think Java by Allen Downey and Chris Mayfield.,MDEwOlJlcG9zaXRvcnk0OTUwOTIzMA==
+686,zxing-android-embedded,1241,5379,Java,https://github.com/journeyapps/zxing-android-embedded,"Barcode scanner library for Android, based on the ZXing decoder",MDEwOlJlcG9zaXRvcnk2OTA1NDkz
+687,cobar,1240,3185,Java,https://github.com/alibaba/cobar,a proxy for sharding databases and tables,MDEwOlJlcG9zaXRvcnkxNTkzMzA5MQ==
+688,springbootwebapp,1239,483,Java,https://github.com/springframeworkguru/springbootwebapp,Spring Boot Web Application ,MDEwOlJlcG9zaXRvcnkzNzI2NTk4MQ==
+690,Two-Pointers-1,1239,3,Java,https://github.com/super30admin/Two-Pointers-1,,MDEwOlJlcG9zaXRvcnkxOTY5NjY0MzU=
+711,m1-t6-decoder,1237,1,Java,https://github.com/PraktikumJava/m1-t6-decoder,,R_kgDOGGg4bQ
+695,TVBox,1237,47,Java,https://github.com/llazyl/TVBox,,R_kgDOHtC4Yg
+692,SpringBootLearning,1237,2221,Java,https://github.com/forezp/SpringBootLearning,《Spring Boot教程》源码,MDEwOlJlcG9zaXRvcnk4OTAwMDgwOA==
+689,jjwt,1237,8951,Java,https://github.com/jwtk/jjwt,Java JWT: JSON Web Token for Java and Android,MDEwOlJlcG9zaXRvcnkyMzk4MjE4MA==
+691,bisq,1236,4269,Java,https://github.com/bisq-network/bisq,A decentralized bitcoin exchange network,MDEwOlJlcG9zaXRvcnkxNzY2MjAyMg==
+693,Leetcode,1235,3547,Java,https://github.com/fishercoder1534/Leetcode,Solutions to LeetCode problems; updated daily. Subscribe to my YouTube channel for more.,MDEwOlJlcG9zaXRvcnk2NDU3ODQ1OQ==
+696,spring-cloud-repo,1230,1586,Java,https://github.com/benwang6/spring-cloud-repo,,MDEwOlJlcG9zaXRvcnkxODYyNTU2MjQ=
+697,Android-Week-View,1229,3388,Java,https://github.com/alamkanak/Android-Week-View,Android Week View is an android library to display calendars (week view or day view) within the app. It supports custom styling.,MDEwOlJlcG9zaXRvcnkyNDEzOTU5Mw==
+698,spring-cloud-rest-tcc,1229,2582,Java,https://github.com/prontera/spring-cloud-rest-tcc,"以Spring Cloud Netflix作为服务治理基础, 展示基于tcc思想所实现的分布式事务解决方案",MDEwOlJlcG9zaXRvcnk0NzM4NTU0Nw==
+699,java-learning,1226,4104,Java,https://github.com/brianway/java-learning,旨在打造在线最佳的 Java 学习笔记，含博客讲解和源码实例，包括 Java SE 和 Java Web,MDEwOlJlcG9zaXRvcnk1MTM0ODI5MA==
+700,Code4Reference,1225,204,Java,https://github.com/rakeshcusat/Code4Reference,This repo has code which  can be referred as example code. These code have been written for learning purpose.,MDEwOlJlcG9zaXRvcnkyNTUzNDAy
+701,kubernetes-plugin,1225,2171,Java,https://github.com/jenkinsci/kubernetes-plugin,Jenkins plugin to run dynamic agents in a Kubernetes/Docker environment,MDEwOlJlcG9zaXRvcnkzMDg2MDY3Mw==
+702,java-tron,1225,3302,Java,https://github.com/tronprotocol/java-tron,Java implementation of the Tron whitepaper,MDEwOlJlcG9zaXRvcnkxMTU0MTE4MjY=
+704,games_oop_javafx,1224,131,Java,https://github.com/peterarsentev/games_oop_javafx,"This project demonstrates how to use Java Fx in OOP Style. All examples are popular games. (Chess, TicTacToe, SeeBattle and etc)",MDEwOlJlcG9zaXRvcnkxMzEwMjc2ODc=
+707,DP-2,1224,3,Java,https://github.com/super30admin/DP-2,,MDEwOlJlcG9zaXRvcnkxOTYzMzYwMTc=
+703,buck,1223,8512,Java,https://github.com/facebook/buck,"A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.",MDEwOlJlcG9zaXRvcnk5NTA0MjE0
+706,AntennaPod,1223,4780,Java,https://github.com/AntennaPod/AntennaPod,A podcast manager for Android,MDEwOlJlcG9zaXRvcnk1MjQ0NDQ1
+709,junit-studio-lc101,1222,0,Java,https://github.com/LaunchCodeEducation/junit-studio-lc101,,MDEwOlJlcG9zaXRvcnkyMTc5MjMzODM=
+710,connectivity-samples,1221,1353,Java,https://github.com/android/connectivity-samples,Multiple samples showing the best practices in connectivity on Android.,MDEwOlJlcG9zaXRvcnkyMDY4NzU5MDE=
+708,greys-anatomy,1221,3925,Java,https://github.com/oldmanpushcart/greys-anatomy,Java诊断工具,MDEwOlJlcG9zaXRvcnk2ODAxODUy
+716,samplejavaapp,1216,17,Java,https://github.com/lerndevops/samplejavaapp,,MDEwOlJlcG9zaXRvcnkxNjc3MDk5MTY=
+712,EffectiveAndroidUI,1214,6027,Java,https://github.com/pedrovgs/EffectiveAndroidUI,"Sample project created to show some of the best Android practices to work in the Android UI Layer. The UI layer of this project has been implemented using MVP or MVVM (without binding engine) to show how this patterns works. This project is used during the talk ""EffectiveAndroidUI"".",MDEwOlJlcG9zaXRvcnkyMTQ5MDk2Mw==
+713,cardslib,1214,4695,Java,https://github.com/gabrielemariotti/cardslib,Android Library to build a UI Card,MDEwOlJlcG9zaXRvcnkxMjk4NDc0Ng==
+714,cw-advandroid,1213,1462,Java,https://github.com/commonsguy/cw-advandroid,Source Code to _The Busy Coder's Guide To Advanced Android Development_,MDEwOlJlcG9zaXRvcnkyNzg3NDU=
+705,java-bridge,1211,18,Java,https://github.com/woowacourse-precourse/java-bridge,,R_kgDOIaejww
+715,ribbon,1211,4406,Java,https://github.com/Netflix/ribbon,Ribbon is a Inter Process Communication (remote procedure calls) library with built in software load balancers. The primary usage model involves REST calls with various serialization scheme support.,MDEwOlJlcG9zaXRvcnk3NjE2MTU4
+717,nutch,1210,2553,Java,https://github.com/apache/nutch,Apache Nutch is an extensible and scalable web crawler,MDEwOlJlcG9zaXRvcnkyMDYzNzA=
+718,android-times-square,1207,4439,Java,https://github.com/square/android-times-square,Standalone Android widget for picking a single date from a calendar view.,MDEwOlJlcG9zaXRvcnk3OTIzMTIz
+719,curator,1206,2926,Java,https://github.com/apache/curator,Apache Curator,MDEwOlJlcG9zaXRvcnkxNzM1OTA1Nw==
+720,Android-Boilerplate,1205,1875,Java,https://github.com/hitherejoe/Android-Boilerplate,"Android Boilerplate project using RxJava, Dagger 2, Espresso, Mockito + more!",MDEwOlJlcG9zaXRvcnkzMzM1NzkxMQ==
+721,arcgis-runtime-samples-android,1205,627,Java,https://github.com/Esri/arcgis-runtime-samples-android,ArcGIS Runtime SDK for Android Samples,MDEwOlJlcG9zaXRvcnkxOTgzNjc0Ng==
+725,openshift3mlbparks,1202,41,Java,https://github.com/gshipley/openshift3mlbparks,,MDEwOlJlcG9zaXRvcnkzOTkyMjE0Ng==
+724,AndroidProject,1202,5545,Java,https://github.com/getActivity/AndroidProject,Android 技术中台，但愿人长久，搬砖不再有,MDEwOlJlcG9zaXRvcnkxNTQzMDkwODM=
+723,sofa-boot,1202,4679,Java,https://github.com/sofastack/sofa-boot,"SOFABoot is a framework that enhances Spring Boot and fully compatible with it, provides readiness check, class isolation, etc.",MDEwOlJlcG9zaXRvcnkxMjc3Mjc3Mjg=
+722,circular-progress-button,1202,5643,Java,https://github.com/dmytrodanylyk/circular-progress-button,Android Circular Progress Button,MDEwOlJlcG9zaXRvcnkyMDU5MzA5OQ==
+726,ud843-QuakeReport,1199,349,Java,https://github.com/udacity/ud843-QuakeReport,Discover earthquake activity around the world.,MDEwOlJlcG9zaXRvcnk1MDM4NTcxMQ==
+728,fineract,1199,893,Java,https://github.com/apache/fineract,Apache Fineract,MDEwOlJlcG9zaXRvcnk0ODQxODU5OQ==
+729,JSqlParser,1199,4246,Java,https://github.com/JSQLParser/JSqlParser,JSqlParser parses an SQL statement and translate it into a hierarchy of Java classes. The generated hierarchy can be navigated using the Visitor Pattern,MDEwOlJlcG9zaXRvcnkxOTQ0NzA5
+734,BroadleafCommerce,1199,1595,Java,https://github.com/BroadleafCommerce/BroadleafCommerce,Broadleaf Commerce - Enterprise eCommerce framework based on Spring,MDEwOlJlcG9zaXRvcnkyOTQ4OTQ5
+727,baseAdapter,1198,4695,Java,https://github.com/hongyangAndroid/baseAdapter,"Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。",MDEwOlJlcG9zaXRvcnk0MDEwMjE4Ng==
+730,tink,1196,13065,Java,https://github.com/google/tink,"Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.",MDEwOlJlcG9zaXRvcnkyMDU3MDIxNA==
+731,Demos,1196,1783,Java,https://github.com/alidili/Demos,🔥折线图、Retrofit、RxJava、RxLifecycle、DataBinding、MVP、MVVM、自动化测试工具UiAutomator、自定义控件、RecyclerView扩展组件、NDK开发、Design Support Library、蓝牙BLE开发、正则表达式,MDEwOlJlcG9zaXRvcnk5NDgzOTY4OQ==
+732,SpringBootVulExploit,1195,4834,Java,https://github.com/LandGrey/SpringBootVulExploit,SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 check list,MDEwOlJlcG9zaXRvcnkyNjU1MTMwNjc=
+733,DSpace,1195,723,Java,https://github.com/DSpace/DSpace,(Official) The DSpace digital asset management system that powers your Institutional Repository,MDEwOlJlcG9zaXRvcnkzNzQzMzc2
+735,netty-learning,1194,3475,Java,https://github.com/code4craft/netty-learning,Netty learning.,MDEwOlJlcG9zaXRvcnkxMjkzOTIwMA==
+737,hapi-fhir,1192,1656,Java,https://github.com/hapifhir/hapi-fhir,🔥 HAPI FHIR - Java API for HL7 FHIR Clients and Servers,MDEwOlJlcG9zaXRvcnkyMTE4MDc0MQ==
+738,seckill,1192,2194,Java,https://github.com/codingXiaxw/seckill,the source code of `seckill` with development documentation :zap:,MDEwOlJlcG9zaXRvcnk3NDk3Nzg4Mw==
+740,DiskLruCache,1191,5742,Java,https://github.com/JakeWharton/DiskLruCache,Java implementation of a Disk-based LRU cache which specifically targets Android compatibility.,MDEwOlJlcG9zaXRvcnkzMTA2Njk2
+741,resilience4j,1191,8663,Java,https://github.com/resilience4j/resilience4j,Resilience4j is a fault tolerance library designed for Java8 and functional programming,MDEwOlJlcG9zaXRvcnkzNjc5MzI4MA==
+739,IJPay,1191,4330,Java,https://github.com/Javen205/IJPay,IJPay 让支付触手可及，封装了微信支付、QQ支付、支付宝支付、京东支付、银联支付、PayPal 支付等常用的支付方式以及各种常用的接口。不依赖任何第三方 mvc 框架，仅仅作为工具使用简单快速完成支付模块的开发，可轻松嵌入到任何系统里。右上角点下小星星✨ ,MDEwOlJlcG9zaXRvcnk4OTk4Njc3MA==
+736,JamsMusicPlayer,1190,9,Java,https://github.com/Ficoxl/JamsMusicPlayer,"A free, powerful and elegant music player for Android.",MDEwOlJlcG9zaXRvcnkyNDQ4NDA2NQ==
+742,twitter-feed-oke,1190,12,Java,https://github.com/derekoneil/twitter-feed-oke,A version of the twitter-feed service for use with Oracle Cloud Infrastructure Container Engine for Kubernetes ,MDEwOlJlcG9zaXRvcnkxNDQwNDU0MzY=
+743,auto,1189,10056,Java,https://github.com/google/auto,A collection of source code generators for Java.,MDEwOlJlcG9zaXRvcnkxMDIzMDM2OQ==
+744,android-app,1188,1179,Java,https://github.com/eoecn/android-app,eoe的Android客户端源码,MDEwOlJlcG9zaXRvcnk3ODMyODU5
+745,logback,1187,2657,Java,https://github.com/qos-ch/logback,"The reliable, generic, fast and flexible logging framework for Java.",MDEwOlJlcG9zaXRvcnkyODMzMjU=
+746,richeditor-android,1186,6001,Java,https://github.com/wasabeef/richeditor-android,RichEditor for Android is a beautiful Rich Text WYSIWYG Editor for Android.,MDEwOlJlcG9zaXRvcnkzMzEzNDIxMw==
+759,simple-maven-project-with-tests,1186,23,Java,https://github.com/jglick/simple-maven-project-with-tests,"A Maven project that just has some test failures (and skips) at random, to demonstrate result reporting.",MDEwOlJlcG9zaXRvcnkyMjE0NzIzNQ==
+751,maven-samples,1184,24,Java,https://github.com/gabrielf/maven-samples,A simple Maven project intended as an example for use in a presentation about Maven.,MDEwOlJlcG9zaXRvcnk1NjA4NjE=
+758,Two-Pointers-2,1184,1,Java,https://github.com/super30admin/Two-Pointers-2,,MDEwOlJlcG9zaXRvcnkxOTY5NjcwNDA=
+747,useful-java-links,1180,5481,Java,https://github.com/Vedenin/useful-java-links,"A list of useful Java frameworks, libraries, software and hello worlds examples",MDEwOlJlcG9zaXRvcnk1MTY0NjUzMA==
+748,weiciyuan,1180,2636,Java,https://github.com/qii/weiciyuan,Sina Weibo Android Client,MDEwOlJlcG9zaXRvcnk1MTkzMDA5
+749,android-stickyheaderswipelistview,1178,38,Java,https://github.com/mbarrben/android-stickyheaderswipelistview,An Android List View implementation with support for drawable cells and many other swipe related features,MDEwOlJlcG9zaXRvcnk4NTI4MDQ2
+750,spring-boot-cloud,1177,2073,Java,https://github.com/zhangxd1989/spring-boot-cloud,基于 Spring Boot、Spring Cloud、Spring Oauth2 和 Spring Cloud Netflix 等框架构建的微服务项目,MDEwOlJlcG9zaXRvcnk4OTcwMjY0MQ==
+753,springmvc-mybatis-learning,1176,2871,Java,https://github.com/brianway/springmvc-mybatis-learning,SpringMVC 和 MyBatis 学习笔记，搭配示例，主要讲解一些基础的概念、用法和配置,MDEwOlJlcG9zaXRvcnk1MzU2NDUyMQ==
+752,BoomMenu,1176,5774,Java,https://github.com/Nightonke/BoomMenu,A menu which can ... BOOM! - Android,MDEwOlJlcG9zaXRvcnk1NDI2MzgzMw==
+754,Shadow,1175,6879,Java,https://github.com/Tencent/Shadow,零反射全动态Android插件框架,MDEwOlJlcG9zaXRvcnkxOTE3NDQ5NDI=
+755,android-bootstrap,1174,3,Java,https://github.com/a-thomas/android-bootstrap,A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks. ,MDEwOlJlcG9zaXRvcnk1NzA5NzAw
+756,Douya,1174,4544,Java,https://github.com/zhanghai/Douya,开源的 Material Design 豆瓣客户端（A Material Design app for douban.com）,MDEwOlJlcG9zaXRvcnk1MDg0MjA1Mw==
+757,FlowLayout,1173,5566,Java,https://github.com/hongyangAndroid/FlowLayout,[不再维护]Android流式布局，支持单选、多选等，适合用于产品标签等。,MDEwOlJlcG9zaXRvcnk0MTUzOTA1MQ==
+760,docx4j,1170,1891,Java,https://github.com/plutext/docx4j,"JAXB-based Java library for Word docx, Powerpoint pptx, and Excel xlsx files",MDEwOlJlcG9zaXRvcnk0MzAyMjg3
+761,react-native-webrtc,1169,4211,Java,https://github.com/react-native-webrtc/react-native-webrtc,The WebRTC module for React Native,MDEwOlJlcG9zaXRvcnk0MzI0MzMwMw==
+762,blade,1168,5756,Java,https://github.com/lets-blade/blade,:rocket: Lightning fast and elegant mvc framework for Java8,MDEwOlJlcG9zaXRvcnkzNzE3MzUxMg==
+771,Linked-List-1,1168,1,Java,https://github.com/super30admin/Linked-List-1,,MDEwOlJlcG9zaXRvcnkxOTgyMjkyODY=
+765,jbpm,1167,1458,Java,https://github.com/kiegroup/jbpm,a Business Process Management (BPM) Suite,MDEwOlJlcG9zaXRvcnk5MzA1NzE=
+764,DesignPattern,1167,3766,Java,https://github.com/youlookwhat/DesignPattern,📚 Java 23种设计模式全归纳,MDEwOlJlcG9zaXRvcnk3MTU1NzYzMQ==
+763,AppStarter,1167,476,Java,https://github.com/sphinx02/AppStarter,AppStarter | AppDrawer and Kodi / SPMC Updater for Amazon FireTV. Works without rooting your FireTV.,MDEwOlJlcG9zaXRvcnkzNjI0NTk5MQ==
+778,spring3-mvc-maven-xml-hello-world,1164,40,Java,https://github.com/mkyong/spring3-mvc-maven-xml-hello-world,Maven + Spring 3 MVC hello world example (XML),MDEwOlJlcG9zaXRvcnkzNzQ0Mjg5OQ==
+766,stetho,1163,12630,Java,https://github.com/facebook/stetho,"Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.",MDEwOlJlcG9zaXRvcnkyOTcwMzg3MQ==
+767,spa-day-starter-code,1163,0,Java,https://github.com/LaunchCodeEducation/spa-day-starter-code,,MDEwOlJlcG9zaXRvcnkyMjM0ODE0NjQ=
+768,Twitter4J,1160,2692,Java,https://github.com/Twitter4J/Twitter4J,Twitter4J is an open-source Java library for the Twitter API.,MDEwOlJlcG9zaXRvcnkxODQ2MDQ=
+769,light-task-scheduler,1159,2978,Java,https://github.com/ltsopensource/light-task-scheduler,Distributed Scheduled Job Framework,MDEwOlJlcG9zaXRvcnkyNTY4ODM4Nw==
+773,ftgo-application,1155,2926,Java,https://github.com/microservices-patterns/ftgo-application,Example code for the book Microservice patterns,MDEwOlJlcG9zaXRvcnkxMDc5MzIxNzY=
+770,closure-compiler,1155,6800,Java,https://github.com/google/closure-compiler,A JavaScript checker and optimizer.,MDEwOlJlcG9zaXRvcnkxODg0NTAyNA==
+774,SimianArmy,1154,7931,Java,https://github.com/Netflix/SimianArmy,Tools for keeping your cloud operating in top form. Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.,MDEwOlJlcG9zaXRvcnk0OTMxNjU5
+772,AndroidStaggeredGrid,1154,4775,Java,https://github.com/etsy/AndroidStaggeredGrid,An Android staggered grid view which supports multiple columns with rows of varying sizes.,MDEwOlJlcG9zaXRvcnkxNTA1NzIxNg==
+775,GmsCore,1151,5466,Java,https://github.com/microg/GmsCore,Free implementation of Play Services,MDEwOlJlcG9zaXRvcnkxOTA4MjcxNQ==
+776,xbin-store,1151,2135,Java,https://github.com/xubinux/xbin-store,"模仿国内知名B2C网站,实现的一个分布式B2C商城 使用Spring Boot 自动配置 Dubbox / MVC / MyBatis / Druid / Solr / Redis 等。使用Spring Cloud版本请查看",MDEwOlJlcG9zaXRvcnk4MzE4MjM2NA==
+777,spring-data-book,1150,1349,Java,https://github.com/spring-projects/spring-data-book,Spring Data - The Definitive Guide - Modern Data Access for Enterprise Java Developers,MDEwOlJlcG9zaXRvcnk0Mjk4Njc2
+779,SpringMVC-Mybatis-Shiro-redis-0.2,1150,1779,Java,https://github.com/baichengzhou/SpringMVC-Mybatis-Shiro-redis-0.2,基于SpringMVC、Mybatis、Redis、Freemarker的Shiro管理Demo源码的升级版。 ,MDEwOlJlcG9zaXRvcnk3NDc0NzY5NA==
+780,onlinebookstore,1148,230,Java,https://github.com/shashirajraja/onlinebookstore,"The Online Book Shopping Store to manage, buy, add, remove and sell books. Book name and Quantity selection, auto receipt generated and payment options. Login and logout security for both user and admin. Seperate Profile for all.",MDEwOlJlcG9zaXRvcnkxNDIyNDgzMjQ=
+781,FastBle,1147,4894,Java,https://github.com/Jasonchenlijian/FastBle,"Android Bluetooth Low Energy (BLE) Fast Development Framework. It uses simple ways to filter, scan, connect, read ,write, notify, readRssi, setMTU, and multiConnection.",MDEwOlJlcG9zaXRvcnk2NjMyMzk2MA==
+784,SpringCourse,1146,341,Java,https://github.com/NeilAlishev/SpringCourse,Сопровождающие материалы для курса по Spring Framework,MDEwOlJlcG9zaXRvcnkxNzg2NjY2MDQ=
+782,FloatingActionButton,1145,5234,Java,https://github.com/Clans/FloatingActionButton,Android Floating Action Button based on Material Design specification,MDEwOlJlcG9zaXRvcnkzMjYzMTM1Mw==
+783,smart-sso,1145,1936,Java,https://github.com/a466350665/smart-sso,springboot SSO 单点登录，OAuth2实现，支持App登录，支持分布式,MDEwOlJlcG9zaXRvcnk2MzA1MzMwNQ==
+785,Advance-Android-Tutorials,1143,346,Java,https://github.com/StacktipsLab/Advance-Android-Tutorials,Advance Android Tutorials,MDEwOlJlcG9zaXRvcnk4ODc3NzE3
+787,JS-Sorting-Algorithm,1141,4925,Java,https://github.com/hustcc/JS-Sorting-Algorithm,一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。,MDEwOlJlcG9zaXRvcnk3OTQ0NzQzMw==
+786,android-menudrawer,1140,2613,Java,https://github.com/SimonVT/android-menudrawer,"*DEPRECATED* A slide-out menu implementation, which allows users to navigate between views in your app.",MDEwOlJlcG9zaXRvcnk1NjM5ODAy
+788,staffjoy,1140,1792,Java,https://github.com/spring2go/staffjoy,微服务(Microservices)和云原生架构教学案例项目，基于Spring Boot和Kubernetes技术栈,MDEwOlJlcG9zaXRvcnkxOTUwNzc5MzM=
+789,KnowStreaming,1138,5929,Java,https://github.com/didi/KnowStreaming,一站式云原生实时流数据平台，通过0侵入、插件化构建企业级Kafka服务，极大降低操作、存储和管理实时流数据门槛,MDEwOlJlcG9zaXRvcnkyNDg0MTYyNzM=
+790,NettyRpc,1135,2203,Java,https://github.com/luxiaoxun/NettyRpc,"A simple RPC framework based on Netty, ZooKeeper and Spring",MDEwOlJlcG9zaXRvcnk1Mzc2OTA4MQ==
+791,XCL-Charts,1134,3949,Java,https://github.com/xcltapestry/XCL-Charts,"Android图表库(XCL-Charts is a free charting library for Android platform.),基于Android Canvas来绘制各种图表,使用简便,定制灵活。目前支持3D/非3D/背向式/横向/竖向柱形图(Bar Chart)、3D/非3D饼图(Pie Chart)、堆叠图(Stacked Bar Chart)、面积图(Area Chart)、 折线图(Line Chart)、曲线图(Spline Chart)、环形图(Dount Chart)、南丁格尔玫瑰图(Rose Chart)、仪表盘(Dial Chart)、刻度盘(Gauge Chart)、雷达图(Radar Chart)、漏斗图(Funnel Chart)、圆形图(Circle Chart)、弧线比较图、散点图(Scatter Chart)、气泡图(Bubble Chart)、范围条形图(RangeBar Chart)等图表。其它特性还包括支持图表缩放、手势移动、点击响应、动画效果、多轴显示、图表参考线、混合图表及同数据源不同图表类型切换等。",MDEwOlJlcG9zaXRvcnkyMDY1MjA3NA==
+793,jOOQ,1133,5359,Java,https://github.com/jOOQ/jOOQ,jOOQ is the best way to write SQL in Java,MDEwOlJlcG9zaXRvcnkxNjI1OTg2
+792,techjobs-mvc,1130,4,Java,https://github.com/LaunchCodeEducation/techjobs-mvc,Java / Spring Boot assignment,MDEwOlJlcG9zaXRvcnk4NDU5OTAxMg==
+794,jmx_exporter,1129,2576,Java,https://github.com/prometheus/jmx_exporter,A process for exposing JMX Beans via HTTP for Prometheus consumption,MDEwOlJlcG9zaXRvcnkxNzE3MDA0NA==
+795,tomcat-redis-session-manager,1129,1785,Java,https://github.com/jcoleman/tomcat-redis-session-manager,Redis-backed non-sticky session store for Apache Tomcat,MDEwOlJlcG9zaXRvcnkyMTU2NTMw
+796,small-spring,1128,3819,Java,https://github.com/fuzhengwei/small-spring,🌱《 Spring 手撸专栏》，本专栏以 Spring 源码学习为目的，通过手写简化版 Spring 框架，了解 Spring 核心原理。在手写的过程中会简化 Spring 源码，摘取整体框架中的核心逻辑，简化代码实现过程，保留核心功能，例如：IOC、AOP、Bean生命周期、上下文、作用域、资源处理等内容实现。,MDEwOlJlcG9zaXRvcnkzNjc1NTM3NjE=
+797,Android_Blog_Demos,1128,1572,Java,https://github.com/hongyangAndroid/Android_Blog_Demos,source code in blog~,MDEwOlJlcG9zaXRvcnkzNDYwNjQyNw==
+800,pixel-dungeon,1126,3240,Java,https://github.com/watabou/pixel-dungeon,Traditional roguelike game with pixel-art graphics and simple interface,MDEwOlJlcG9zaXRvcnkyMjI5MjIzMA==
+801,novel-plus,1126,2955,Java,https://github.com/201206030/novel-plus,novel-plus 是一个多端（PC、WAP）阅读 、功能完善的小说 CMS 系统。包括小说推荐、小说检索、小说排行、小说阅读、小说书架、小说评论、小说爬虫、会员中心、作家专区、充值订阅、新闻发布等功能。,MDEwOlJlcG9zaXRvcnkyNjA2MzQ0MTQ=
+799,AndroidVideoCache,1126,5173,Java,https://github.com/danikula/AndroidVideoCache,Cache support for any video player with help of single line,MDEwOlJlcG9zaXRvcnkzMzI0MzcyNQ==
+798,sofa-rpc,1125,3669,Java,https://github.com/sofastack/sofa-rpc,"SOFARPC is a high-performance, high-extensibility, production-level Java RPC  framework.",MDEwOlJlcG9zaXRvcnkxMjg3MDk4MjQ=
+802,toBeBetterJavaer,1124,7465,Java,https://github.com/itwanger/toBeBetterJavaer,一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄,MDEwOlJlcG9zaXRvcnkxNTY2MjczNjU=
+803,janusgraph,1124,4769,Java,https://github.com/JanusGraph/janusgraph,"JanusGraph: an open-source, distributed graph database",MDEwOlJlcG9zaXRvcnk3NzM4NTYwNw==
+804,AndroidResideMenu,1119,2860,Java,https://github.com/SpecialCyCi/AndroidResideMenu,The idea of ResideMenu is from Dribbble 1 and 2. It has come true and run in iOS devices. iOS ResideMenu This project is the RefsideMenu Android version. The visual effect is partly referred to iOS version of ResideMenu. And thanks to the authors for the above idea and contribution. ,MDEwOlJlcG9zaXRvcnkxNTE4NzY5OA==
+805,Small,1118,5025,Java,https://github.com/wequick/Small,A small framework to split app into small parts,MDEwOlJlcG9zaXRvcnk0Njk3NzEzMA==
+806,subsampling-scale-image-view,1118,7517,Java,https://github.com/davemorrissey/subsampling-scale-image-view,"Android library (AAR). Highly configurable, easily extendable deep zoom view for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc.",MDEwOlJlcG9zaXRvcnkxMjM4NDM1Mw==
+807,aliyun-openapi-java-sdk,1116,1351,Java,https://github.com/aliyun/aliyun-openapi-java-sdk,Alibaba Cloud SDK for Java,MDEwOlJlcG9zaXRvcnkzOTU1NTg5OA==
+808,spring-security-registration,1114,1470,Java,https://github.com/Baeldung/spring-security-registration,"Go further into ""Learn Spring Security"": ",MDEwOlJlcG9zaXRvcnk1Mjk0OTQzNQ==
+809,android,1113,3003,Java,https://github.com/cSploit/android,cSploit - The most complete and advanced IT security professional toolkit on Android.,MDEwOlJlcG9zaXRvcnkyNDc4MjkwMg==
+810,novel,1109,3711,Java,https://github.com/201206030/novel,novel 是一套基于时下最新 Java 技术栈 Spring Boot 3 + Vue 3 开发的前后端分离学习型小说项目，配备保姆级教程手把手教你从零开始开发上线一套生产级别的 Java 系统，由小说门户系统、作家后台管理系统、平台后台管理系统等多个子系统构成。包括小说推荐、作品检索、小说排行榜、小说阅读、小说评论、会员中心、作家专区、充值订阅、新闻发布等功能。,MDEwOlJlcG9zaXRvcnkyMjA4NzUyNTA=
+811,AndPermission,1108,6592,Java,https://github.com/yanzhenjie/AndPermission,:strawberry: Permissions manager for Android platform.,MDEwOlJlcG9zaXRvcnk2NzkxMTY5OA==
+812,smile,1108,5697,Java,https://github.com/haifengl/smile,Statistical Machine Intelligence & Learning Engine,MDEwOlJlcG9zaXRvcnkyNjkyMTExNg==
+814,h2database,1107,3650,Java,https://github.com/h2database/h2database,H2 is an embeddable RDBMS written in Java.,MDEwOlJlcG9zaXRvcnkzMzc0NTkxMw==
+827,Trees-2,1106,3,Java,https://github.com/super30admin/Trees-2,,MDEwOlJlcG9zaXRvcnkxOTgyMjc2MTE=
+817,webcam-capture,1105,2108,Java,https://github.com/sarxos/webcam-capture,"The goal of this project is to allow integrated or USB-connected webcams to be accessed directly from Java. Using provided libraries users are able to read camera images and detect motion. Main project consist of several sub projects - the root one, which contains required classes, build-in webcam driver compatible with Windows, Linux and Mac OS, which can stream images as fast as your camera can serve them (up to 50 FPS). Main project can be used standalone, but user is able to replace build-in driver with different one - such as OpenIMAJ, GStreamer, V4L4j, JMF, LTI-CIVIL, FMJ, etc.",MDEwOlJlcG9zaXRvcnk0NDQ5ODMw
+818,XPopup,1105,6946,Java,https://github.com/li-xiaojun/XPopup,"🔥XPopup2.0版本重磅来袭，2倍以上性能提升，带来可观的动画性能优化和交互细节的提升！！！功能强大，交互优雅，动画丝滑的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup for Android，can absolutely replace Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner. With built-in animators , very easy to custom popup view.)",MDEwOlJlcG9zaXRvcnkxNjA3Nzk5Njk=
+816,android-advanced,1105,1079,Java,https://github.com/google-developer-training/android-advanced,Solution apps for the apps that students create as they work through the Advanced Android Development training course created by Google Developer Training.,MDEwOlJlcG9zaXRvcnkxMDU2OTE2NzU=
+815,9GAG,1104,2147,Java,https://github.com/stormzhang/9GAG,Android unofficial REST Client of 9GAG.,MDEwOlJlcG9zaXRvcnkxODgyNzIyNQ==
+813,java-baseball-precourse,1103,31,Java,https://github.com/next-step/java-baseball-precourse,숫자 야구게임 미션을 위한 저장소,MDEwOlJlcG9zaXRvcnkzMDc1OTQyMjE=
+819,android-common,1103,3633,Java,https://github.com/litesuits/android-common,"Android Common Utils or Helper. Such as Log, Averager, Base64, Check, FlashLight, KeyguardLock, LogReader, Network, SilentInstaller, TimeAverager, TimeCounter, Toastor, WakeLock, ScreenReceiver, SmsReceiver, PhoneReceiver, NotificationService, AndroidUtil, AppUtil, BitmapUtil, ByteUtil, ClassUtil, DialogUtil, FieldUtil, FileUtil, HexUtil, MD5Util, NotificationUtil, NumberUtil, PackageUtil, RandomUtil, ShellUtil, TelephoneUtil, VibrateUtil, IOUtils, FileUtils, AsyncExecutor, etc.  通用性强，纯洁简单，体积不到50K！其中包括bitmap处理，文件操作，加密存储器，shell命令，静默安装，计数器，均值器，吐司，日志，校验，提示，网络监测等基础功能，以及一些Base64、MD5、Hex、Byte、Number、Dialog、Filed、Class、Package、Telephone、Random等工具类。",MDEwOlJlcG9zaXRvcnkyMDI4Njg1OA==
+820,Calligraphy,1101,8600,Java,https://github.com/chrisjenx/Calligraphy,Custom fonts in Android the easy way...,MDEwOlJlcG9zaXRvcnkxNTMyODIxMA==
+853,addressbook,1099,2,Java,https://github.com/SamPriyadarshi/addressbook,A sample Vaadin/Java web application,MDEwOlJlcG9zaXRvcnk3NTkyNzAwOQ==
+821,LQRWeChat,1098,3343,Java,https://github.com/GitLqr/LQRWeChat,本项目仿最新版微信6.5.7（除图片选择器外），基于融云SDK，使用目前较火的 Rxjava+Retrofit+MVP+Glide 技术开发。相比上个版本，加入发送位置消息，红包消息等功能。,MDEwOlJlcG9zaXRvcnk4MTE3NDg2OQ==
+822,reactor-core,1097,4478,Java,https://github.com/reactor/reactor-core,Non-Blocking Reactive Foundation for the JVM,MDEwOlJlcG9zaXRvcnk0NTkwMzYyMQ==
+823,RippleEffect,1095,4947,Java,https://github.com/traex/RippleEffect,Implementation of Ripple effect from Material Design for Android API 9+,MDEwOlJlcG9zaXRvcnkyNTIwODM5OA==
+824,jmonkeyengine,1095,3362,Java,https://github.com/jMonkeyEngine/jmonkeyengine,A complete 3-D game development suite written in Java.,MDEwOlJlcG9zaXRvcnkxNzk2MDc0Ng==
+825,android-crop,1095,4540,Java,https://github.com/jdamcd/android-crop,Android library project for cropping images,MDEwOlJlcG9zaXRvcnkxNzcwNjA5Nw==
+826,Omni-Notes,1092,2534,Java,https://github.com/federicoiosue/Omni-Notes,Open source note-taking application for Android,MDEwOlJlcG9zaXRvcnkxNTEyMDE0NA==
+828,kafka-streams-examples,1090,2136,Java,https://github.com/confluentinc/kafka-streams-examples,Demo applications and code examples for Apache Kafka's Streams API.,MDEwOlJlcG9zaXRvcnkxMDA3NTM2MDY=
+829,susi_server,1090,2441,Java,https://github.com/fossasia/susi_server,SUSI.AI server backend - the Artificial Intelligence server for personal assistants  https://api.susi.ai,MDEwOlJlcG9zaXRvcnk2ODI0MDIxMw==
+830,bytecode-viewer,1089,13605,Java,https://github.com/Konloch/bytecode-viewer,"A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)",MDEwOlJlcG9zaXRvcnkyNTIwMTM2MQ==
+831,vueblog,1088,2638,Java,https://github.com/MarkerHub/vueblog,一个前后端分离的简单博客案例，适合刚入门vue，学前后端分离的童鞋！,MDEwOlJlcG9zaXRvcnkyNjM3ODg5MzI=
+832,SwipeRecyclerView,1087,5433,Java,https://github.com/yanzhenjie/SwipeRecyclerView,:melon: RecyclerView侧滑菜单，Item拖拽，滑动删除Item，自动加载更多，HeaderView，FooterView，Item分组黏贴。,MDEwOlJlcG9zaXRvcnk2NDg1ODMyMQ==
+833,RxJava2-Android-Samples,1086,4968,Java,https://github.com/amitshekhariitbhu/RxJava2-Android-Samples,RxJava 2 Android Examples - How to use RxJava 2 in Android,MDEwOlJlcG9zaXRvcnk2NjcwNDA4OA==
+835,renren-security,1082,1963,Java,https://github.com/renrenio/renren-security,采用Spring、MyBatis、Shiro框架，开发的一套权限系统，极低门槛，拿来即用。设计之初，就非常注重安全性，为企业系统保驾护航，让一切都变得如此简单。【QQ群：324780204、145799952】,MDEwOlJlcG9zaXRvcnk3NzQ2MzEyOA==
+834,strimzi-kafka-operator,1082,3735,Java,https://github.com/strimzi/strimzi-kafka-operator,Apache Kafka® running on Kubernetes,MDEwOlJlcG9zaXRvcnk1ODE5NDE4MA==
+836,DependencyCheck,1081,4951,Java,https://github.com/jeremylong/DependencyCheck,OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.,MDEwOlJlcG9zaXRvcnk1NjYzODU3
+837,CoCoin,1080,2782,Java,https://github.com/Nightonke/CoCoin,"CoCoin, Multi-view Accounting Application",MDEwOlJlcG9zaXRvcnk0NDQzODgyMw==
+838,sample-web-application,1080,25,Java,https://github.com/DeekshithSN/sample-web-application,,MDEwOlJlcG9zaXRvcnkyNTE2MzUxODY=
+852,DP-3,1079,3,Java,https://github.com/super30admin/DP-3,,MDEwOlJlcG9zaXRvcnkxOTYzMzY4OTQ=
+839,dexposed,1078,4461,Java,https://github.com/alibaba/dexposed,dexposed enable 'god' mode for single android application.,MDEwOlJlcG9zaXRvcnkzODI4NDQwNA==
+841,geotools,1076,1432,Java,https://github.com/geotools/geotools,Official GeoTools repository,MDEwOlJlcG9zaXRvcnkyNzUyNTIy
+840,google-api-java-client-samples,1075,733,Java,https://github.com/google/google-api-java-client-samples,,MDEwOlJlcG9zaXRvcnkyOTc0OTA1Mg==
+842,ethereumj,1071,2123,Java,https://github.com/ethereum/ethereumj,DEPRECATED! Java implementation of the Ethereum yellowpaper. For JSON-RPC and other client features check Ethereum Harmony,MDEwOlJlcG9zaXRvcnkxOTczMDQ1Ng==
+843,react-native-splash-screen,1071,5416,Java,https://github.com/crazycodeboy/react-native-splash-screen,"A splash screen for react-native, hide when application loaded ,it works on iOS and Android.",MDEwOlJlcG9zaXRvcnk2ODE5Nzg5NQ==
+844,Bukkit,1070,2266,Java,https://github.com/Bukkit/Bukkit,The Minecraft Mod API,MDEwOlJlcG9zaXRvcnkxMjE1MjE1
+891,jv-oop,1069,5,Java,https://github.com/mate-academy/jv-oop,,MDEwOlJlcG9zaXRvcnkyMTgwNjY4OTk=
+850,spring-session,1067,1771,Java,https://github.com/spring-projects/spring-session,Spring Session,MDEwOlJlcG9zaXRvcnkyMTA1Mjc0NA==
+849,ActiveAndroid,1067,4710,Java,https://github.com/pardom-zz/ActiveAndroid,Active record style SQLite persistence for Android,MDEwOlJlcG9zaXRvcnk2NzA5MTQ5
+848,Android-ConvenientBanner,1067,4753,Java,https://github.com/saiwu-bigkoo/Android-ConvenientBanner,"Simple and convenient banner, loop viewpager with 3D effects",MDEwOlJlcG9zaXRvcnkyODM4MTE4Mg==
+846,Android-Terminal-Emulator,1067,2873,Java,https://github.com/jackpal/Android-Terminal-Emulator,A VT-100 terminal emulator for the Android OS,MDEwOlJlcG9zaXRvcnk4ODc4NDA=
+845,StackAnnotation,1067,1,Java,https://github.com/kenken64/StackAnnotation,StackAnnotation for Ant build,MDEwOlJlcG9zaXRvcnkxOTk0NzAyODk=
+847,base-admin,1067,2226,Java,https://github.com/huanzi-qch/base-admin,Base Admin一套简单通用的后台管理系统，主要功能有：权限管理、菜单管理、用户管理，系统设置、实时日志，实时监控，API加密，以及登录用户修改密码、配置个性菜单等,MDEwOlJlcG9zaXRvcnkyMDg5OTEwNTQ=
+851,spring-boot-microservices-workshop,1064,671,Java,https://github.com/koushikkothagal/spring-boot-microservices-workshop,,MDEwOlJlcG9zaXRvcnkxNjcxMDg1OTA=
+854,ion,1063,6299,Java,https://github.com/koush/ion,Android Asynchronous Networking and Image Loading,MDEwOlJlcG9zaXRvcnkxMDIxNDUzOA==
+855,libstreaming,1063,3315,Java,https://github.com/fyhertz/libstreaming,"A solution for streaming H.264, H.263, AMR, AAC using RTP on Android",MDEwOlJlcG9zaXRvcnk3OTI0MjEw
+856,google-cloud-java,1063,1713,Java,https://github.com/googleapis/google-cloud-java,Google Cloud Client Library for Java,MDEwOlJlcG9zaXRvcnkyNjE4MTI3OA==
+858,aws-sdk-android-samples,1063,1012,Java,https://github.com/awslabs/aws-sdk-android-samples,"This repository has samples that demonstrate various aspects of the AWS SDK for Android, you can get the SDK source on Github https://github.com/aws-amplify/aws-sdk-android/",MDEwOlJlcG9zaXRvcnkxMTk4MDQzMQ==
+857,JFoenix,1061,6082,Java,https://github.com/sshahine/JFoenix,JavaFX Material Design Library,MDEwOlJlcG9zaXRvcnk0MjExNTkzMw==
+859,MaterialEditText,1060,6115,Java,https://github.com/rengwuxian/MaterialEditText,EditText in Material Design,MDEwOlJlcG9zaXRvcnkyNTk2NTAzNA==
+860,smali,1059,5830,Java,https://github.com/JesusFreke/smali,smali/baksmali,MDEwOlJlcG9zaXRvcnk1OTI1NTYw
+872,Trees-3,1058,2,Java,https://github.com/super30admin/Trees-3,,MDEwOlJlcG9zaXRvcnkxOTgyMjg2NDY=
+862,moco,1057,4145,Java,https://github.com/dreamhead/moco,Easy Setup Stub Server,MDEwOlJlcG9zaXRvcnk2Mjc1ODIy
+863,xpay,1057,4368,Java,https://github.com/Exrick/xpay,XPay个人免签收款支付系统 完全免费 资金直接到达本人账号 支持 支付宝 微信 QQ 云闪付 无需备案 无需签约 无需挂机监控APP 无需插件 无需第三方支付SDK 无需营业执照身份证 只需收款码 搞定支付流程 现已支持移动端支付 ,MDEwOlJlcG9zaXRvcnkxMTQwMTE0NTM=
+861,addressbook-level1,1056,13,Java,https://github.com/se-edu/addressbook-level1,:ab::one: A Java sample application for students. An AddressBook application written in procedural fashion.,MDEwOlJlcG9zaXRvcnk2MzkzMjUzNA==
+864,cameraview,1056,4739,Java,https://github.com/google/cameraview,[DEPRECATED] Easily integrate Camera features into your Android app,MDEwOlJlcG9zaXRvcnk2NDkwNDkxNg==
+865,graphql-java,1055,5774,Java,https://github.com/graphql-java/graphql-java,GraphQL Java implementation,MDEwOlJlcG9zaXRvcnkzODYwMjQ1Nw==
+866,BungeeCord,1055,1374,Java,https://github.com/SpigotMC/BungeeCord,"BungeeCord, the 6th in a generation of server portal suites. Efficiently proxies and maintains connections and transport between multiple Minecraft servers.",MDEwOlJlcG9zaXRvcnk2MDg0MjEw
+880,blynk-server,1054,17,Java,https://github.com/HenrikDA/blynk-server,"Platform with iOs and Android apps to control Arduino, Raspberry Pi and similar microcontroller boards over the Internet.",MDEwOlJlcG9zaXRvcnkzMjk3MjE0NQ==
+868,weixin-popular,1053,2462,Java,https://github.com/liyiorg/weixin-popular,微信SDK  JAVA  (公众平台、开放平台、 商户平台、 服务商平台),MDEwOlJlcG9zaXRvcnkxOTAyMDc3MA==
+900,coding-events-demo,1053,5,Java,https://github.com/LaunchCodeEducation/coding-events-demo,,MDEwOlJlcG9zaXRvcnkyMjMxOTg3ODM=
+893,webapp,1053,2,Java,https://github.com/sebsto/webapp,Sample Web App with Maven for Jenkins Demo,MDEwOlJlcG9zaXRvcnkyMjA0MjE4Ng==
+867,techjobs-oo,1052,1,Java,https://github.com/LaunchCodeEducation/techjobs-oo,Java / Spring Boot assignment,MDEwOlJlcG9zaXRvcnk4NjM3NjE1Mg==
+869,SkyStone,1051,269,Java,https://github.com/FIRST-Tech-Challenge/SkyStone,FTC SDK,MDEwOlJlcG9zaXRvcnkxOTIxMzcyMjU=
+870,walle,1050,6570,Java,https://github.com/Meituan-Dianping/walle,Android Signature V2 Scheme签名下的新一代渠道包打包神器,MDEwOlJlcG9zaXRvcnk3ODQ5NDczNw==
+871,schema-registry,1050,1931,Java,https://github.com/confluentinc/schema-registry,Confluent Schema Registry for Kafka,MDEwOlJlcG9zaXRvcnkyNzc5MDc4OQ==
+873,android-pulltorefresh,1049,2477,Java,https://github.com/johannilsson/android-pulltorefresh,DEPRECATED This project aims to provide a reusable pull to refresh widget for Android.,MDEwOlJlcG9zaXRvcnkxMjM0ODk2
+874,twoway-view,1049,5249,Java,https://github.com/lucasr/twoway-view,[DEPRECATED] RecyclerView made simple,MDEwOlJlcG9zaXRvcnk3Njk0MjA4
+875,openjdk,1047,2181,Java,https://github.com/unofficial-openjdk/openjdk,Do not send pull requests! Automated Git clone of various OpenJDK branches,MDEwOlJlcG9zaXRvcnk1MzYwOTMz
+876,Android-skin-support,1047,6102,Java,https://github.com/ximsfei/Android-skin-support,"Android-skin-support is an easy dynamic skin framework to use  for Android, Only one line of code to integrate it. Android 换肤框架, 极低的学习成本, 极好的用户体验. ""一行""代码就可以实现换肤, 你值得拥有!!!",MDEwOlJlcG9zaXRvcnk3ODc1Njg3MA==
+878,librec,1046,3159,Java,https://github.com/guoguibing/librec,"LibRec: A Leading Java Library for Recommender Systems, see",MDEwOlJlcG9zaXRvcnkxNTc3MTUwNA==
+879,ThinkAndroid,1046,1977,Java,https://github.com/white-cat/ThinkAndroid,"ThinkAndroid是一个免费的开源的、简易的、遵循Apache2开源协议发布的Android开发框架，其开发宗旨是简单、快速的进行 Android应用程序的开发，包含Android mvc、简易sqlite orm、ioc模块、封装Android httpclitent的http模块, 具有快速构建文件缓存功能，无需考虑缓存文件的格式，都可以非常轻松的实现缓存，它还基于文件缓存模块实现了图片缓存功能， 在android中加载的图片的时候，对oom的问题，和对加载图片错位的问题都轻易解决。他还包括了一个手机开发中经常应用的实用工具类， 如日志管理，配置文件管理，android下载器模块，网络切换检测等等工具。",MDEwOlJlcG9zaXRvcnkxMDAzNDY2MA==
+882,SoloPi,1045,5152,Java,https://github.com/alipay/SoloPi,SoloPi 自动化测试工具,MDEwOlJlcG9zaXRvcnkxNzU2NTAyMDE=
+877,android-zxingLibrary,1045,4959,Java,https://github.com/yipianfengye/android-zxingLibrary,几行代码快速集成二维码扫描功能,MDEwOlJlcG9zaXRvcnk2NDIwMjA5NQ==
+881,apps-android-commons,1045,824,Java,https://github.com/commons-app/apps-android-commons,The Wikimedia Commons Android app allows users to upload pictures from their Android phone/tablet to Wikimedia Commons,MDEwOlJlcG9zaXRvcnk0MjAzMjg4NA==
+883,pinot,1045,4484,Java,https://github.com/apache/pinot,Apache Pinot - A realtime distributed OLAP datastore,MDEwOlJlcG9zaXRvcnkxOTk2MTA4NQ==
+884,ImagePicker,1044,4264,Java,https://github.com/jeasonlzy/ImagePicker,完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数,MDEwOlJlcG9zaXRvcnk1MDUyMzE4NQ==
+885,spring-security-react-ant-design-polls-app,1044,1631,Java,https://github.com/callicoder/spring-security-react-ant-design-polls-app,"Full Stack Polls App built using Spring Boot, Spring Security, JWT, React, and Ant Design",MDEwOlJlcG9zaXRvcnkxMjMyMzE2NTY=
+886,spring-in-action-5-samples,1043,1179,Java,https://github.com/habuma/spring-in-action-5-samples,Home for example code from Spring in Action 5.,MDEwOlJlcG9zaXRvcnkxNDQ0MjQ0Nzg=
+887,android-viewbadger,1042,3024,Java,https://github.com/jgilfelt/android-viewbadger,"[DEPRECATED] A simple way to ""badge"" any given Android view at runtime without having to cater for it in layout",MDEwOlJlcG9zaXRvcnkyNDcxMzcy
+888,languagetool,1042,8392,Java,https://github.com/languagetool-org/languagetool,Style and Grammar Checker for 25+ Languages,MDEwOlJlcG9zaXRvcnkxMTk4MTE0NA==
+889,rstudio,1042,4218,Java,https://github.com/rstudio/rstudio,RStudio is an integrated development environment (IDE) for R,MDEwOlJlcG9zaXRvcnkxMTQ3NDYz
+890,titan,1042,5212,Java,https://github.com/thinkaurelius/titan,Distributed Graph Database,MDEwOlJlcG9zaXRvcnkzNTQ4MjU0
+892,spring-data-redis,1041,1563,Java,https://github.com/spring-projects/spring-data-redis,"Provides support to increase developer productivity in Java when using Redis, a key-value store. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.",MDEwOlJlcG9zaXRvcnkxOTgzMDky
+894,java-web-dev-studio7,1037,1,Java,https://github.com/LaunchCodeEducation/java-web-dev-studio7,,MDEwOlJlcG9zaXRvcnkyMjA1NDE5NDM=
+895,spring-authorization-server,1037,4223,Java,https://github.com/spring-projects/spring-authorization-server,Spring Authorization Server,MDEwOlJlcG9zaXRvcnkyNDgwMzIxNjU=
+896,androrat,1037,1286,Java,https://github.com/DesignativeDave/androrat,Remote Administration Tool for Android devices,MDEwOlJlcG9zaXRvcnk3MzU3OTk4
+897,bc-java,1036,1901,Java,https://github.com/bcgit/bc-java,Bouncy Castle Java Distribution (Mirror),MDEwOlJlcG9zaXRvcnkxMDQxNjY0OA==
+899,dynamic-datasource-spring-boot-starter,1034,3931,Java,https://github.com/baomidou/dynamic-datasource-spring-boot-starter,dynamic datasource for springboot 多数据源 动态数据源 主从分离 读写分离 分布式事务 ,MDEwOlJlcG9zaXRvcnkxMzEzNjQ1NDU=
+898,QLExpress,1033,4002,Java,https://github.com/alibaba/QLExpress,"QLExpress is a powerful, lightweight, dynamic language for the Java platform aimed at improving developers’ productivity in different business scenes.",MDEwOlJlcG9zaXRvcnk4NTA0ODc3OQ==
+901,javaparser,1030,4616,Java,https://github.com/javaparser/javaparser,"Java 1-15 Parser and Abstract Syntax Tree for Java, including preview features to Java 13",MDEwOlJlcG9zaXRvcnkyNjc1MzU1
+902,spring-integration,1029,1380,Java,https://github.com/spring-projects/spring-integration,Spring Integration provides an extension of the Spring programming model to support the well-known Enterprise Integration Patterns (EIP),MDEwOlJlcG9zaXRvcnkyMDkwOTc5
+903,mall-tiny,1027,1465,Java,https://github.com/macrozheng/mall-tiny,mall-tiny是一款基于SpringBoot+MyBatis-Plus的快速开发脚手架，拥有完整的权限管理功能，可对接Vue前端，开箱即用。,MDEwOlJlcG9zaXRvcnkyMDE1NjYwNTk=
+904,Android_Me,1027,262,Java,https://github.com/udacity/Android_Me,App that lets you style your own Android! This uses Fragments to create a flexible and responsive UI.,MDEwOlJlcG9zaXRvcnk4MzI1MTA2Mg==
+905,linkis,1027,3001,Java,https://github.com/apache/linkis,"Apache Linkis builds a computation middleware layer to facilitate connection, governance and orchestration between the upper applications and the underlying data engines.",MDEwOlJlcG9zaXRvcnkxOTgzNjg3MTE=
+906,GT,1026,4334,Java,https://github.com/Tencent/GT,GT (Great Tit) is a portable debugging tool for bug hunting and performance tuning on smartphones anytime and anywhere just as listening music with Walkman. GT can act as the Integrated Debug Environment by directly running on smartphones.,MDEwOlJlcG9zaXRvcnk0OTU2Njk2NQ==
+907,react-native-svg,1026,6652,Java,https://github.com/software-mansion/react-native-svg,"SVG library for React Native, React Native Web, and plain React web projects.",MDEwOlJlcG9zaXRvcnk0OTgyMDYyNw==
+908,OnJava8-Examples,1023,2732,Java,https://github.com/BruceEckel/OnJava8-Examples,"Code Examples for the book ""On Java 8""",MDEwOlJlcG9zaXRvcnkzNDI5MDEzNQ==
+910,git-plugin,1022,649,Java,https://github.com/jenkinsci/git-plugin,Jenkins Git plugin ,MDEwOlJlcG9zaXRvcnk2MTI1ODc=
+911,Minimal-Todo,1021,2126,Java,https://github.com/avjinder/Minimal-Todo,Material To-Do App,MDEwOlJlcG9zaXRvcnk0MjA2NDA1NQ==
+909,StackAnnotationMaven,1020,1,Java,https://github.com/kenken64/StackAnnotationMaven,This is StackAnnotationMaven,MDEwOlJlcG9zaXRvcnkxOTk0NzUxNTE=
+913,SmoothProgressBar,1019,4436,Java,https://github.com/castorflex/SmoothProgressBar,A small Android library allowing you to have a smooth and customizable horizontal or circular indeterminate ProgressBar,MDEwOlJlcG9zaXRvcnkxNDc1ODMyOQ==
+912,jacoco,1018,3560,Java,https://github.com/jacoco/jacoco,:microscope: Java Code Coverage Library,MDEwOlJlcG9zaXRvcnk0OTUwMTg3
+914,ksql,1017,5452,Java,https://github.com/confluentinc/ksql,The database purpose-built for stream processing applications.,MDEwOlJlcG9zaXRvcnk2OTQwMDMyNg==
+915,FastHub,1017,5658,Java,https://github.com/k0shk0sh/FastHub,FastHub the ultimate GitHub client for Android.,MDEwOlJlcG9zaXRvcnk4MjQwNTE5MQ==
+916,BGARefreshLayout-Android,1016,4295,Java,https://github.com/bingoogolapple/BGARefreshLayout-Android,多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位,MDEwOlJlcG9zaXRvcnkzNjQ1MDg0MA==
+917,docker-java,1015,2510,Java,https://github.com/docker-java/docker-java,Java Docker API Client,MDEwOlJlcG9zaXRvcnkyMDQxNTI1MQ==
+926,Linked-List-2,1015,3,Java,https://github.com/super30admin/Linked-List-2,,MDEwOlJlcG9zaXRvcnkxOTgyMzAzNTU=
+922,spring-data-mongodb,1014,1497,Java,https://github.com/spring-projects/spring-data-mongodb,Provide support to increase developer productivity in Java when using MongoDB. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.,MDEwOlJlcG9zaXRvcnkyNTY2NTcw
+921,xDrip,1013,1081,Java,https://github.com/NightscoutFoundation/xDrip,Nightscout version of xDrip+,MDEwOlJlcG9zaXRvcnk2OTAyNzY1MQ==
+918,addressbook-level25,1012,11,Java,https://github.com/se-edu/addressbook-level25,:ab::three:  Address Book sample application (Level 2.5),MDEwOlJlcG9zaXRvcnk2NTEyMDkwNw==
+919,hello-algo,1012,9054,Java,https://github.com/krahets/hello-algo,"《Hello 算法》是一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。",R_kgDOIXtSqw
+920,Movie_Recommend,1012,2398,Java,https://github.com/LuckyZXL2016/Movie_Recommend,基于Spark的电影推荐系统，包含爬虫项目、web网站、后台管理系统以及spark推荐系统,MDEwOlJlcG9zaXRvcnkxMzAwODUzOTI=
+924,AndroidPerformanceMonitor,1011,6504,Java,https://github.com/markzhai/AndroidPerformanceMonitor,A transparent ui-block detection library for Android. (known as BlockCanary),MDEwOlJlcG9zaXRvcnk0OTgwNDI5Mw==
+923,FastDev4Android,1010,2840,Java,https://github.com/jiangqqlmj/FastDev4Android,"本项目是Android快速开发框架，采用AndroidStudio进行开发。 预想集成工具包,采用MVP开发模式,EventBus数据分发,沉浸式状态栏,ORM,网络请求(HTTPClint,Volley,OkHttps),数据解析,依赖注入(AndroidAnnotations),xutils,图片异步加载，二维码扫描等等，后续会进行逐步添加",MDEwOlJlcG9zaXRvcnk0NDcyMzg3NA==
+925,spring-cloud-code,1010,1890,Java,https://github.com/SpringCloud/spring-cloud-code,🔥《重新定义Spring Cloud实战》实体书对应源码，欢迎大家Star点赞收藏,MDEwOlJlcG9zaXRvcnkxMjQyMjkzMDk=
+943,springboot-sample-app,1009,20,Java,https://github.com/codecentric/springboot-sample-app,Minimal Spring Boot sample app,MDEwOlJlcG9zaXRvcnk1MzAzMDIyNg==
+928,camunda-7-code-examples,1006,552,Java,https://github.com/camunda-consulting/camunda-7-code-examples,Examples and demo applications built by the camunda consulting team,MDEwOlJlcG9zaXRvcnk5MjIxMzYx
+927,Hacktoberfest,1006,247,Java,https://github.com/ows-ali/Hacktoberfest,Opportunity to start open source and PR experience,MDEwOlJlcG9zaXRvcnkxNTE3MzI3OTQ=
+929,qianghongbao,1005,2086,Java,https://github.com/lendylongli/qianghongbao,微信抢红包外挂源码,MDEwOlJlcG9zaXRvcnkzMTA0OTQwNg==
+945,helloworld,1001,12,Java,https://github.com/Coveros/helloworld,A Java Hello World application using Maven,MDEwOlJlcG9zaXRvcnkxNDc5NjI3OTI=
+930,aurora-imui,1000,5619,Java,https://github.com/jpush/aurora-imui,General IM UI components. Android/iOS/RectNative ready.  通用 IM 聊天 UI 组件，已经同时支持 Android/iOS/RN。,MDEwOlJlcG9zaXRvcnk3NjMyNTYxNQ==
+931,graylog2-server,1000,6480,Java,https://github.com/Graylog2/graylog2-server,Free and open source log management,MDEwOlJlcG9zaXRvcnk2NzE4MjU=
+932,DevopsBasics,1000,35,Java,https://github.com/rahulshettyacademy/DevopsBasics,,MDEwOlJlcG9zaXRvcnkyODU2NjQxNDE=
+933,mockserver,999,4091,Java,https://github.com/mock-server/mockserver,"MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby.  MockServer also includes a proxy that introspects all proxied traffic including encrypted SSL traffic and supports Port Forwarding, Web Proxying (i.e. HTTP proxy), HTTPS Tunneling Proxying (using HTTP CONNECT) and SOCKS Proxying (i.e. dynamic port forwarding).",MDEwOlJlcG9zaXRvcnk4NDI2NDA2
+934,android-basic-samples,997,956,Java,https://github.com/playgameservices/android-basic-samples,Google Play game services - Android samples,MDEwOlJlcG9zaXRvcnkxMDA4NDAyMw==
+936,android_frameworks_base,997,349,Java,https://github.com/LineageOS/android_frameworks_base,,MDEwOlJlcG9zaXRvcnk3NTY0MTc1Nw==
+935,TelegramBots,994,3613,Java,https://github.com/rubenlagus/TelegramBots,Java library to create bots using Telegram Bots API,MDEwOlJlcG9zaXRvcnk0OTYxMDc5OA==
+946,mssc-brewery,993,62,Java,https://github.com/springframeworkguru/mssc-brewery,Spring MVC Brewery Microservice,MDEwOlJlcG9zaXRvcnkxODE1MzA3NDQ=
+938,ActionBar-PullToRefresh,992,3177,Java,https://github.com/chrisbanes/ActionBar-PullToRefresh,DEPRECATED,MDEwOlJlcG9zaXRvcnkxMDQ4MDkxMA==
+939,segmentfault-lessons,992,1438,Java,https://github.com/mercyblitz/segmentfault-lessons,Segment Fault 在线讲堂 代码工程,MDEwOlJlcG9zaXRvcnk5MzE1NzM4MQ==
+940,intellij-plugins,992,1944,Java,https://github.com/JetBrains/intellij-plugins,Open-source plugins included in the distribution of IntelliJ IDEA Ultimate and other IDEs based on the IntelliJ Platform,MDEwOlJlcG9zaXRvcnk1NDUzMzI0
+937,cheese-mvc-persistent,991,2,Java,https://github.com/LaunchCodeEducation/cheese-mvc-persistent,Java / Spring Boot studio,MDEwOlJlcG9zaXRvcnk4NzQzNjU2Mg==
+941,sofa-jraft,990,3147,Java,https://github.com/sofastack/sofa-jraft,A production-grade java implementation of RAFT consensus algorithm.,MDEwOlJlcG9zaXRvcnkxNzM3MjE1NjQ=
+942,cloudstack,989,1372,Java,https://github.com/apache/cloudstack,Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform,MDEwOlJlcG9zaXRvcnk5NzU5NDQ4
+969,Competitive-Coding-1,984,1,Java,https://github.com/super30admin/Competitive-Coding-1,,MDEwOlJlcG9zaXRvcnkxOTU2NTg3NTc=
+944,Meizhi,982,16,Java,https://github.com/niuxdexiaobai/Meizhi,妹纸.gank.io,MDEwOlJlcG9zaXRvcnkzNzkxMTQxMQ==
+947,elasticsearch-hadoop,981,1900,Java,https://github.com/elastic/elasticsearch-hadoop, :elephant: Elasticsearch real-time search and analytics natively integrated with Hadoop,MDEwOlJlcG9zaXRvcnk4NzEwNzM0
+948,cordova-plugin-background-mode,979,1374,Java,https://github.com/katzer/cordova-plugin-background-mode,Keep app running in background,MDEwOlJlcG9zaXRvcnkxMzQwNzcyOA==
+949,java-goof,978,74,Java,https://github.com/snyk-labs/java-goof,,MDEwOlJlcG9zaXRvcnk5NDAxMzUzOA==
+951,spring-cloud-kubernetes,978,3246,Java,https://github.com/spring-cloud/spring-cloud-kubernetes,"Kubernetes integration with Spring Cloud Discovery Client, Configuration, etc...",MDEwOlJlcG9zaXRvcnk3NjQwMDQyNg==
+952,google-authenticator,977,4985,Java,https://github.com/google/google-authenticator,Open source version of Google Authenticator (except the Android app),MDEwOlJlcG9zaXRvcnkyNDk1MzA4MA==
+950,Sunshine,976,6,Java,https://github.com/smeise/Sunshine,Android App for Android Fundamentals,MDEwOlJlcG9zaXRvcnkyMTI2OTk1OA==
+953,EhViewer,976,7692,Java,https://github.com/seven332/EhViewer,[DEPRECATED] An Unofficial E-Hentai Application for Android,MDEwOlJlcG9zaXRvcnkxOTc3NzgxMg==
+954,red5-server,976,3182,Java,https://github.com/Red5/red5-server,Red5 Server core,MDEwOlJlcG9zaXRvcnkxNDUxNDc2Nw==
+957,lawnchair,976,6964,Java,https://github.com/LawnchairLauncher/lawnchair,No clever tagline needed.,MDEwOlJlcG9zaXRvcnk4Mzc5OTQzOQ==
+955,phoenix,975,973,Java,https://github.com/apache/phoenix,Mirror of Apache Phoenix,MDEwOlJlcG9zaXRvcnkyMDQ3MzQxOA==
+956,v9porn,975,4612,Java,https://github.com/techGay/v9porn,9*Porn Android 客户端，突破游客每天观看10次视频的限制，还可以下载视频,MDEwOlJlcG9zaXRvcnkxMjkyNjQ1OTA=
+958,incubator-seatunnel,974,4878,Java,https://github.com/apache/incubator-seatunnel,"SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).",MDEwOlJlcG9zaXRvcnk5OTQxMjMwOA==
+959,PLDroidPlayer,973,4565,Java,https://github.com/pili-engineering/PLDroidPlayer,PLDroidPlayer 是七牛推出的一款免费的适用于 Android 平台的播放器 SDK，采用全自研的跨平台播放内核，拥有丰富的功能和优异的性能，可高度定制化和二次开发。,MDEwOlJlcG9zaXRvcnkzNjcwODMyMQ==
+960,easy-rules,972,4347,Java,https://github.com/j-easy/easy-rules,"The simple, stupid rules engine for Java",MDEwOlJlcG9zaXRvcnk4Njg2Mzgw
+961,Fast-Android-Networking,971,5545,Java,https://github.com/amitshekhariitbhu/Fast-Android-Networking,🚀 A Complete Fast Android Networking Library that also supports HTTP/2 🚀,MDEwOlJlcG9zaXRvcnk1NDQxMzQzNQ==
+963,testng,971,1825,Java,https://github.com/cbeust/testng,TestNG testing framework,MDEwOlJlcG9zaXRvcnk3NDU3NDk=
+962,MaterialDateTimePicker,970,4659,Java,https://github.com/wdullaer/MaterialDateTimePicker,Pick a date or time on Android in style,MDEwOlJlcG9zaXRvcnkyODc1Mjg1MA==
+964,Luyten,970,4690,Java,https://github.com/deathmarine/Luyten,An Open Source Java Decompiler Gui for Procyon,MDEwOlJlcG9zaXRvcnkxMTMzOTc1NA==
+966,micronaut-core,970,5638,Java,https://github.com/micronaut-projects/micronaut-core,Micronaut Application Framework,MDEwOlJlcG9zaXRvcnkxMjQyMzAyMDQ=
+965,AlgorithmsSedgewick,969,2708,Java,https://github.com/aistrate/AlgorithmsSedgewick,"Code from the book ""Algorithms"" (4th ed.) by Robert Sedgewick and Kevin Wayne (original, and my solutions to exercises).",MDEwOlJlcG9zaXRvcnkyOTUzOTYy
+967,DKVideoPlayer,969,4470,Java,https://github.com/Doikki/DKVideoPlayer,Android Video Player. 安卓视频播放器，封装MediaPlayer、ExoPlayer、IjkPlayer。模仿抖音并实现预加载，列表播放，悬浮播放，广告播放，弹幕，视频水印，视频滤镜,MDEwOlJlcG9zaXRvcnk4Nzg3NDUyMQ==
+968,nutz,968,2489,Java,https://github.com/nutzam/nutz,Nutz -- Web Framework(Mvc/Ioc/Aop/Dao/Json) for ALL Java developer,MDEwOlJlcG9zaXRvcnkxODczODgx
+970,javadevjournal,966,384,Java,https://github.com/javadevjournal/javadevjournal,Source code for the tutorials published on the Javadevjournal site.,MDEwOlJlcG9zaXRvcnkxMjg5NjAyNzA=
+973,gocd,964,6748,Java,https://github.com/gocd/gocd,Main repository for GoCD - Continuous Delivery server,MDEwOlJlcG9zaXRvcnkxNTE1NTUzNA==
+972,config,963,5870,Java,https://github.com/lightbend/config,configuration library for JVM languages using HOCON files,MDEwOlJlcG9zaXRvcnkyOTIzMjM2
+971,lonelyTwitter,963,3,Java,https://github.com/hazelybell/lonelyTwitter,Lonely Twitter demo for CSCI 301,MDEwOlJlcG9zaXRvcnkxMzQwMDQwOQ==
+974,Android-UI-Tutorials,962,229,Java,https://github.com/StacktipsLab/Android-UI-Tutorials,"In this series of tutorials, we show you the list of basic tutorials to get you start android programming.",MDEwOlJlcG9zaXRvcnk4NjExMTAx
+975,ZhihuDailyPurify,961,6,Java,https://github.com/nsdown/ZhihuDailyPurify,Purified version of Zhihu Daily,MDEwOlJlcG9zaXRvcnkyMDIzOTYzMQ==
+976,OpenSearch,961,6642,Java,https://github.com/opensearch-project/OpenSearch,🔎 Open source distributed and RESTful search engine.,MDEwOlJlcG9zaXRvcnkzMzQyNzQyNzE=
+978,greenhouse,959,1322,Java,https://github.com/spring-attic/greenhouse,Reference web application for Spring technologies and social destination for Spring developers.,MDEwOlJlcG9zaXRvcnkxMzk0MDky
+977,fj22-ingressos,958,8,Java,https://github.com/caelum/fj22-ingressos,,MDEwOlJlcG9zaXRvcnk5MTM4MDQ4NA==
+979,u2020,957,5687,Java,https://github.com/JakeWharton/u2020,A sample Android app which showcases advanced usage of Dagger among other open source libraries.,MDEwOlJlcG9zaXRvcnkxNDM5MzczMQ==
+980,maxwell,957,3595,Java,https://github.com/zendesk/maxwell,"Maxwell's daemon, a mysql-to-json kafka producer",MDEwOlJlcG9zaXRvcnkzMDU2MTE2MA==
+981,my-site,957,2861,Java,https://github.com/WinterChenS/my-site,springboot2.0开发的个人网站，集成了：个人首页，个人博客，个人作品,MDEwOlJlcG9zaXRvcnkxMzE5Njk2NTg=
+982,joda-time,955,4878,Java,https://github.com/JodaOrg/joda-time,Joda-Time is the widely used replacement for the Java date and time classes prior to Java SE 8.,MDEwOlJlcG9zaXRvcnkxNzU2MzUw
+989,mahout,954,2044,Java,https://github.com/apache/mahout,Mirror of Apache Mahout,MDEwOlJlcG9zaXRvcnkyMDA4OTg1OQ==
+983,OpenTripPlanner,954,1851,Java,https://github.com/opentripplanner/OpenTripPlanner,An open source multi-modal trip planner,MDEwOlJlcG9zaXRvcnkyMDY3MjUz
+984,jitsi,954,3834,Java,https://github.com/jitsi/jitsi,"Jitsi is an audio/video and chat communicator that supports protocols such as SIP, XMPP/Jabber, IRC and many other useful features.",MDEwOlJlcG9zaXRvcnk5NjUzNzUy
+990,aws-codedeploy-sample-tomcat,954,93,Java,https://github.com/aws-samples/aws-codedeploy-sample-tomcat,A sample Tomcat application integrated with CodeDeploy. ,MDEwOlJlcG9zaXRvcnk0ODA2MTIzNw==
+986,undertow,953,3325,Java,https://github.com/undertow-io/undertow,High performance non-blocking webserver,MDEwOlJlcG9zaXRvcnk1MTAzNzg1
+987,osmdroid,953,2549,Java,https://github.com/osmdroid/osmdroid,OpenStreetMap-Tools for Android,MDEwOlJlcG9zaXRvcnkxNzQ4ODk4Ng==
+985,kafka-beginners-course,953,788,Java,https://github.com/conduktor/kafka-beginners-course,,MDEwOlJlcG9zaXRvcnkxNDYzMDIyMTM=
+988,Thusy,952,1482,Java,https://github.com/jayZheng87/Thusy,Java 工具类库；在全面集成 Hutool 上进行工具类二次收集的一个类库,MDEwOlJlcG9zaXRvcnkyMDY5MTUxNDY=
+991,lilishop,951,3446,Java,https://github.com/lilishop/lilishop,商城 JAVA电商商城 多语言商城  uniapp商城  微服务商城 ,MDEwOlJlcG9zaXRvcnkzNjcyMTc0NjE=
+992,GCViewer,950,4185,Java,https://github.com/chewiebug/GCViewer,"Fork of tagtraum industries' GCViewer. Tagtraum stopped development in 2008, I aim to improve support for Sun's / Oracle's java 1.6+ garbage collector logs (including G1 collector)",MDEwOlJlcG9zaXRvcnkyNjI5OTc4
+993,line-bot-sdk-java,949,566,Java,https://github.com/line/line-bot-sdk-java,LINE Messaging API SDK for Java,MDEwOlJlcG9zaXRvcnk1NjA2MTQyMg==
+994,phimpme-android,949,2554,Java,https://github.com/fossasia/phimpme-android,Phimp.me Photo Imaging and Picture Editor https://play.google.com/store/apps/details?id=org.fossasia.phimpme,MDEwOlJlcG9zaXRvcnk1NzEzNzAy
+995,zkui,948,2261,Java,https://github.com/DeemOpen/zkui,A UI dashboard that allows CRUD operations on Zookeeper.,MDEwOlJlcG9zaXRvcnkyMDA0OTk3MQ==
+997,socket.io-client-java,948,5094,Java,https://github.com/socketio/socket.io-client-java,"Full-featured Socket.IO Client Library for Java, which is compatible with Socket.IO v1.0 and later.",MDEwOlJlcG9zaXRvcnk5NzMzMTIz
+998,liugh-parent,947,2314,Java,https://github.com/qq53182347/liugh-parent,SpringBoot+SpringCloud Oauth2+JWT+MybatisPlus实现Restful快速开发后端脚手架,MDEwOlJlcG9zaXRvcnkxMzMxNjYwOTg=
+999,springboot-seckill,945,2362,Java,https://github.com/zaiyunduan123/springboot-seckill,:racehorse:基于SpringBoot + MySQL + Redis + RabbitMQ + Guava开发的高并发商品限时秒杀系统,MDEwOlJlcG9zaXRvcnkxMzM4OTgyNjU=
+1000,99-problems,944,3315,Java,https://github.com/shekhargulati/99-problems,This is an adaptation of the Ninety-Nine Prolog Problems written by Werner Hett.,MDEwOlJlcG9zaXRvcnk0NjY0ODU0NA==
+996,wavelet,942,0,Java,https://github.com/ucsd-cse15l-f22/wavelet,,R_kgDOIDKnwg

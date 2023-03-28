@@ -21,17 +21,17 @@ def write_text(file_name, method, text):
 
 def write_ranking_repo(file_name, method, repos):
     # method: 'a'-append or 'w'-overwrite
-    table_head = "| Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |\n\
-| ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |\n"
+    table_head = "| Ranking | Project Name | Stars | Forks | Language | Description |\n\
+| ------- | ------------ | ----- | ----- | -------- | ----------- |\n"
     with open(file_name, method, encoding='utf-8') as f:
         f.write(table_head)
         for idx, repo in enumerate(repos):
             repo_description = repo['description']
             if repo_description is not None:
                 repo_description = repo_description.replace('|', '\|')  # in case there is '|' in description
-            f.write("| {} | [{}]({}) | {} | {} | {} | {} | {} | {} |\n".format(
+            f.write("| {} | [{}]({}) | {} | {} | {} | {} |\n".format(
                 idx + 1, repo['name'], repo['html_url'], repo['stargazers_count'], repo['forks_count'],
-                repo['language'], repo['open_issues_count'], repo_description, repo['pushed_at']
+                repo['language'], repo_description
             ))
         f.write('\n')
 

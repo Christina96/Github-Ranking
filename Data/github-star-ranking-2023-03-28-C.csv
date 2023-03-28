@@ -1,0 +1,1001 @@
+rank,repo_name,forks,stars,language,repo_url,description,id
+1,linux,47300,148658,C,https://github.com/torvalds/linux,Linux kernel source tree,MDEwOlJlcG9zaXRvcnkyMzI1Mjk4
+2,scrcpy,8274,80045,C,https://github.com/Genymobile/scrcpy,Display and control your Android device,MDEwOlJlcG9zaXRvcnkxMTE1ODM1OTM=
+3,netdata,5478,62417,C,https://github.com/netdata/netdata,"Real-time performance monitoring, done right! https://www.netdata.cloud",MDEwOlJlcG9zaXRvcnkxMDc0NDE4Mw==
+4,redis,22357,59122,C,https://github.com/redis/redis,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",MDEwOlJlcG9zaXRvcnkxNTYwMTg=
+5,Ventoy,3304,46995,C,https://github.com/ventoy/Ventoy,A new bootable USB solution.,MDEwOlJlcG9zaXRvcnkyNDYzMzU5ODc=
+6,obs-studio,6728,46470,C,https://github.com/obsproject/obs-studio,OBS Studio - Free and open source software for live streaming and screen recording,MDEwOlJlcG9zaXRvcnkxMzIzMzE1OA==
+7,git,24869,45706,C,https://github.com/git/git,Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.,MDEwOlJlcG9zaXRvcnkzNjUwMg==
+8,php-src,7498,35209,C,https://github.com/php/php-src,The PHP Interpreter,MDEwOlJlcG9zaXRvcnkxOTAzNTIy
+9,FFmpeg,10740,35083,C,https://github.com/FFmpeg/FFmpeg,Mirror of https://git.ffmpeg.org/ffmpeg.git,MDEwOlJlcG9zaXRvcnkxNjE0NDEw
+10,wrk,2796,34128,C,https://github.com/wg/wrk,Modern HTTP benchmarking tool,MDEwOlJlcG9zaXRvcnkzNzc0MzI4
+11,ijkplayer,7967,31250,C,https://github.com/bilibili/ijkplayer,"Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",MDEwOlJlcG9zaXRvcnkxMDQ0Njg5MA==
+12,curl,5638,28995,C,https://github.com/curl/curl,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",MDEwOlJlcG9zaXRvcnk1NjkwNDE=
+13,tmux,1873,28158,C,https://github.com/tmux/tmux,tmux source code,MDEwOlJlcG9zaXRvcnkzNjgzNjQ3NQ==
+14,lede,18815,25380,C,https://github.com/coolsnowwolf/lede,Lean's LEDE source,MDEwOlJlcG9zaXRvcnkxMDI1NzgzNDU=
+15,the_silver_searcher,1380,24752,C,https://github.com/ggreer/the_silver_searcher,"A code-searching tool similar to ack, but faster.",MDEwOlJlcG9zaXRvcnkyODEwNDU1
+16,os-tutorial,3081,24714,C,https://github.com/cfenollosa/os-tutorial,How to create an OS from scratch,MDEwOlJlcG9zaXRvcnkyNDU4NjMwOA==
+17,jq,1415,24580,C,https://github.com/stedolan/jq,Command-line JSON processor,MDEwOlJlcG9zaXRvcnk1MTAxMTQx
+18,darknet,21229,23972,C,https://github.com/pjreddie/darknet,Convolutional Neural Networks,MDEwOlJlcG9zaXRvcnkxODY2Njc1OA==
+19,emscripten,3043,23517,C,https://github.com/emscripten-core/emscripten,Emscripten: An LLVM-to-WebAssembly Compiler,MDEwOlJlcG9zaXRvcnkxMzU3Nzk2
+20,rufus,2231,22299,C,https://github.com/pbatard/rufus,The Reliable USB Formatting Utility,MDEwOlJlcG9zaXRvcnkyODEwMjky
+21,mpv,2570,21881,C,https://github.com/mpv-player/mpv,🎥 Command line video player,MDEwOlJlcG9zaXRvcnk2MjAxMDky
+22,stb,7434,21435,C,https://github.com/nothings/stb,stb single-file public domain libraries for C/C++,MDEwOlJlcG9zaXRvcnkyMDE1OTg2Nw==
+23,openssl,9010,21278,C,https://github.com/openssl/openssl,TLS/SSL and crypto library,MDEwOlJlcG9zaXRvcnk3NjM0Njc3
+24,libuv,3324,21119,C,https://github.com/libuv/libuv,Cross-platform asynchronous I/O,MDEwOlJlcG9zaXRvcnkxNDgxMjczOQ==
+25,TDengine,4631,21069,C,https://github.com/taosdata/TDengine,"TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.",MDEwOlJlcG9zaXRvcnkxOTYzNTM2NzM=
+26,masscan,2889,20807,C,https://github.com/robertdavidgraham/masscan,"TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",MDEwOlJlcG9zaXRvcnkxMTcxNTc1Mw==
+27,The-Art-Of-Programming-By-July-2nd,7180,20795,C,https://github.com/julycoding/The-Art-Of-Programming-By-July-2nd,本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售,MDEwOlJlcG9zaXRvcnkxNTE4MzQ4NQ==
+28,How-to-Make-a-Computer-Operating-System,3396,20232,C,https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System,How to Make a Computer Operating System in C++,MDEwOlJlcG9zaXRvcnkxNDgwNzE3Mw==
+29,zstd,1870,19850,C,https://github.com/facebook/zstd,Zstandard - Fast real-time compression algorithm,MDEwOlJlcG9zaXRvcnkyOTc1OTcxNQ==
+30,Tasmota,4340,19438,C,https://github.com/arendst/Tasmota,"Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",MDEwOlJlcG9zaXRvcnk4MDI4NjI4OA==
+31,HarmonyOS,3322,18701,C,https://github.com/Awesome-HarmonyOS/HarmonyOS,A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。,MDEwOlJlcG9zaXRvcnkyMDE0NTQwNTE=
+32,nginx,6234,18188,C,https://github.com/nginx/nginx,"An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",MDEwOlJlcG9zaXRvcnkzNzkxMjM5OA==
+33,radare2,2836,17795,C,https://github.com/radareorg/radare2,UNIX-like reverse engineering framework and command-line toolset,MDEwOlJlcG9zaXRvcnk0ODY5Mjk0
+34,mimikatz,3263,16955,C,https://github.com/gentilkiwi/mimikatz,A little tool to play with Windows security,MDEwOlJlcG9zaXRvcnkxODQ5NjE2Ng==
+35,hashcat,2508,16885,C,https://github.com/hashcat/hashcat,World's fastest and most advanced password recovery utility,MDEwOlJlcG9zaXRvcnk0NzQwOTY3Mg==
+36,bcc,3354,16880,C,https://github.com/iovisor/bcc,"BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",MDEwOlJlcG9zaXRvcnkzNDkyMTExNg==
+37,micropython,6292,16179,C,https://github.com/micropython/micropython,MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems,MDEwOlJlcG9zaXRvcnkxNTMzNzE0Mg==
+38,nnn,657,16023,C,https://github.com/jarun/nnn,n³ The unorthodox terminal file manager,MDEwOlJlcG9zaXRvcnk2NjE1MDEyMg==
+39,goaccess,1032,15958,C,https://github.com/allinurl/goaccess,GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.,MDEwOlJlcG9zaXRvcnkxMTM5NzkzOQ==
+40,C,3937,15865,C,https://github.com/TheAlgorithms/C,"Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.",MDEwOlJlcG9zaXRvcnk2MzQ3NzUxNQ==
+41,yabai,526,15537,C,https://github.com/koekeishiya/yabai,A tiling window manager for macOS based on binary space partitioning,MDEwOlJlcG9zaXRvcnkxODQ5MDkxNjM=
+42,llama.cpp,2025,14893,C,https://github.com/ggerganov/llama.cpp,Port of Facebook's LLaMA model in C/C++,R_kgDOJH_K4A
+43,timescaledb,782,14727,C,https://github.com/timescale/timescaledb,An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.,MDEwOlJlcG9zaXRvcnk4NDI0MDg1MA==
+44,qmk_firmware,31424,14686,C,https://github.com/qmk/qmk_firmware,Open-source keyboard firmware for Atmel AVR and Arm USB families,MDEwOlJlcG9zaXRvcnkyNzczNzM5Mw==
+45,openwrt,8475,14480,C,https://github.com/openwrt/openwrt,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.,MDEwOlJlcG9zaXRvcnk0NTgyMTU0MA==
+46,Mailspring,865,13936,C,https://github.com/Foundry376/Mailspring,":love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.",MDEwOlJlcG9zaXRvcnk3MDc3NzE4MA==
+47,ish,732,13665,C,https://github.com/ish-app/ish,Linux shell for iOS,MDEwOlJlcG9zaXRvcnk5MDMyMDQ5NA==
+48,nuklear,1122,13523,C,https://github.com/vurtun/nuklear,A single-header ANSI C gui library,MDEwOlJlcG9zaXRvcnkzMjg2NjQ1NA==
+49,WindTerm,1043,13492,C,https://github.com/kingToolbox/WindTerm,A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.,MDEwOlJlcG9zaXRvcnkyMTQwMTE0MTQ=
+50,blurhash,304,13476,C,https://github.com/woltapp/blurhash,A very compact representation of a placeholder for an image.,MDEwOlJlcG9zaXRvcnkxOTM4ODU0NjQ=
+51,whisper.cpp,1044,13422,C,https://github.com/ggerganov/whisper.cpp,Port of OpenAI's Whisper model in C/C++,R_kgDOIEMdig
+52,open-gpu-kernel-modules,930,12964,C,https://github.com/NVIDIA/open-gpu-kernel-modules,NVIDIA Linux open GPU kernel module source,R_kgDOHRZU2w
+53,kcp,2341,12881,C,https://github.com/skywind3000/kcp,:zap: KCP - A Fast and Reliable ARQ Protocol,MDEwOlJlcG9zaXRvcnkyODUxNTgzOQ==
+54,ExplorerPatcher,651,12670,C,https://github.com/valinet/ExplorerPatcher,This project aims to enhance the working environment on Windows,MDEwOlJlcG9zaXRvcnkzOTQzMTg3MTA=
+55,memcached,3173,12511,C,https://github.com/memcached/memcached,memcached development tree,MDEwOlJlcG9zaXRvcnkxODQ5ODE=
+56,nginx-rtmp-module,3446,12483,C,https://github.com/arut/nginx-rtmp-module,NGINX-based Media Streaming Server,MDEwOlJlcG9zaXRvcnkzNzE0OTAw
+57,raylib,1471,12409,C,https://github.com/raysan5/raylib,A simple and easy-to-use library to enjoy videogames programming,MDEwOlJlcG9zaXRvcnkxMzgzNjQ5OQ==
+58,HandBrake,1094,12366,C,https://github.com/HandBrake/HandBrake,HandBrake's main development repository ,MDEwOlJlcG9zaXRvcnk0MTIxNTgzNQ==
+59,reactos,1517,12153,C,https://github.com/reactos/reactos,A free Windows-compatible Operating System,MDEwOlJlcG9zaXRvcnkxMDU2Mjc4NDY=
+60,sway,993,12116,C,https://github.com/swaywm/sway,i3-compatible Wayland compositor,MDEwOlJlcG9zaXRvcnk0MDIxNzkwNA==
+61,raspberry-pi-os,1233,12106,C,https://github.com/s-matyukevich/raspberry-pi-os,Learning operating system development using Linux kernel and Raspberry Pi,MDEwOlJlcG9zaXRvcnk5NTEzMzY2NQ==
+62,postgres,3801,12070,C,https://github.com/postgres/postgres,"Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch",MDEwOlJlcG9zaXRvcnk5Mjc0NDI=
+63,brotli,1178,11999,C,https://github.com/google/brotli,Brotli compression format,MDEwOlJlcG9zaXRvcnkyNDk5MzEzOA==
+64,tengine,2463,11930,C,https://github.com/alibaba/tengine,A distribution of Nginx with some advanced features,MDEwOlJlcG9zaXRvcnkzNzg0MDE3
+65,skynet,3967,11855,C,https://github.com/cloudwu/skynet,A lightweight online game framework,MDEwOlJlcG9zaXRvcnk1MjU0NTU3
+66,twemproxy,2034,11733,C,https://github.com/twitter/twemproxy,"A fast, light-weight proxy for memcached and redis",MDEwOlJlcG9zaXRvcnkzNTE2NjI0
+67,lvgl,2376,11632,C,https://github.com/lvgl/lvgl,"Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.",MDEwOlJlcG9zaXRvcnk2MDY2NzczMA==
+68,robotjs,893,11608,C,https://github.com/octalmage/robotjs,Node.js Desktop Automation. ,MDEwOlJlcG9zaXRvcnkyMzUxNTAyNA==
+69,tig,597,11545,C,https://github.com/jonas/tig,Text-mode interface for git,MDEwOlJlcG9zaXRvcnkxNDA2NTY=
+70,esp8266_deauther,2376,11467,C,https://github.com/SpacehuhnTech/esp8266_deauther,Affordable WiFi hacking platform for testing and learning,MDEwOlJlcG9zaXRvcnk3ODI4MTA3NQ==
+71,openresty,1470,11219,C,https://github.com/openresty/openresty,High Performance Web Platform Based on Nginx and LuaJIT,MDEwOlJlcG9zaXRvcnk0ODAwODA=
+72,OpenCorePkg,1962,11156,C,https://github.com/acidanthera/OpenCorePkg,OpenCore bootloader,MDEwOlJlcG9zaXRvcnkxNzkzNTQyODI=
+73,webview,863,11003,C,https://github.com/webview/webview,Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows),MDEwOlJlcG9zaXRvcnkxMDA3ODEwMzU=
+74,rofi,586,10878,C,https://github.com/davatorium/rofi,"Rofi: A window switcher, application launcher and dmenu replacement",MDEwOlJlcG9zaXRvcnk3NzE1ODIw
+75,systemd,3288,10853,C,https://github.com/systemd/systemd,The systemd System and Service Manager ,MDEwOlJlcG9zaXRvcnkzMjg3MzMxMw==
+76,libsodium,1659,10848,C,https://github.com/jedisct1/libsodium,"A modern, portable, easy to use crypto library.",MDEwOlJlcG9zaXRvcnk3NzEwNjQ3
+77,BlackHole,453,10771,C,https://github.com/ExistentialAudio/BlackHole,BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.,MDEwOlJlcG9zaXRvcnkyMTEzODEyOTE=
+78,cosmopolitan,349,10647,C,https://github.com/jart/cosmopolitan,build-once run-anywhere c library,MDEwOlJlcG9zaXRvcnkyNzI0NTc2MDY=
+79,vlc,3375,10619,C,https://github.com/videolan/vlc,"VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/",MDEwOlJlcG9zaXRvcnkzMjk5MjA4
+80,darwin-xnu,1653,10612,C,https://github.com/apple/darwin-xnu,"The Darwin Kernel (mirror). This repository is a pure mirror and contributions are currently not accepted via pull-requests, please submit your contributions via https://developer.apple.com/bug-reporting/",MDEwOlJlcG9zaXRvcnk5MzIwNTQ2NQ==
+81,lua-nginx-module,2005,10559,C,https://github.com/openresty/lua-nginx-module,Embed the Power of Lua into NGINX HTTP servers,MDEwOlJlcG9zaXRvcnk2MTM4Mjk=
+82,seafile,1485,10527,C,https://github.com/haiwen/seafile,"High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.",MDEwOlJlcG9zaXRvcnk0OTk5OTU5
+83,libui,620,10429,C,https://github.com/andlabs/libui,Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.,MDEwOlJlcG9zaXRvcnkzNDA4ODI4NQ==
+84,arduino-esp32,6625,10420,C,https://github.com/espressif/arduino-esp32,Arduino core for the ESP32,MDEwOlJlcG9zaXRvcnk3MDEyNzIxOA==
+85,glfw,4200,10388,C,https://github.com/glfw/glfw,"A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",MDEwOlJlcG9zaXRvcnk5NTI0OTk3
+86,h2o,825,10332,C,https://github.com/h2o/h2o,"H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server",MDEwOlJlcG9zaXRvcnkyMzAyOTYxNw==
+87,esp-idf,6317,10232,C,https://github.com/espressif/esp-idf,Espressif IoT Development Framework. Official development framework for Espressif SoCs.,MDEwOlJlcG9zaXRvcnk2NTg5OTQ3Ng==
+88,DOOM,1758,10120,C,https://github.com/id-Software/DOOM,DOOM Open Source Release,MDEwOlJlcG9zaXRvcnkzMzE5MDQw
+89,sumatrapdf,1522,9979,C,https://github.com/sumatrapdfreader/sumatrapdf,SumatraPDF reader,MDEwOlJlcG9zaXRvcnk2MDQxMzAx
+90,SoftEtherVPN,2377,9925,C,https://github.com/SoftEtherVPN/SoftEtherVPN,Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.,MDEwOlJlcG9zaXRvcnkxNTU4MzMxMA==
+91,Tinyhttpd,3753,9686,C,https://github.com/EZLippi/Tinyhttpd,Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net,MDEwOlJlcG9zaXRvcnkzNTkzMDgwNQ==
+92,libevent,3210,9679,C,https://github.com/libevent/libevent,Event notification library,MDEwOlJlcG9zaXRvcnkxODU2OTc2
+93,Craft,1301,9650,C,https://github.com/fogleman/Craft,A simple Minecraft clone written in C using modern OpenGL (shaders).,MDEwOlJlcG9zaXRvcnk5MzMwMDcy
+95,phpredis,2125,9624,C,https://github.com/phpredis/phpredis,A PHP extension for Redis,MDEwOlJlcG9zaXRvcnkxNDgyOTk3
+94,linux,4453,9624,C,https://github.com/raspberrypi/linux,Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/,MDEwOlJlcG9zaXRvcnkzMTk5MDAy
+96,wcdb,1299,9606,C,https://github.com/Tencent/wcdb,WCDB is a cross-platform database framework developed by WeChat.,MDEwOlJlcG9zaXRvcnk5MDk2MTYzNA==
+97,sanitizers,927,9481,C,https://github.com/google/sanitizers,"AddressSanitizer, ThreadSanitizer, MemorySanitizer",MDEwOlJlcG9zaXRvcnkyMzY0MTgxNg==
+98,redis-3.0-annotated,4115,9392,C,https://github.com/huangz1990/redis-3.0-annotated,带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。,MDEwOlJlcG9zaXRvcnkyMTI5NDYwMA==
+99,Sandboxie,994,9334,C,https://github.com/sandboxie-plus/Sandboxie,Sandboxie Plus & Classic,MDEwOlJlcG9zaXRvcnkyNTQzMjcyNjE=
+100,mongoose,2516,9298,C,https://github.com/cesanta/mongoose,Embedded Web Server,MDEwOlJlcG9zaXRvcnk1NDE0NDg4
+101,Dummy-Robot,2072,9230,C,https://github.com/peng-zhihui/Dummy-Robot,我的超迷你机械臂机器人项目。,R_kgDOGLXz-Q
+102,audacity,2024,9151,C,https://github.com/audacity/audacity,Audio Editor                                     ,MDEwOlJlcG9zaXRvcnkzMjkyMTczNg==
+103,coturn,1782,8971,C,https://github.com/coturn/coturn,coturn TURN server project,MDEwOlJlcG9zaXRvcnkzOTI0Mjg5NA==
+104,libgit2,2322,8951,C,https://github.com/libgit2/libgit2,"A cross-platform, linkable library implementation of Git that you can use in your application.",MDEwOlJlcG9zaXRvcnk5MDE2NjI=
+105,zfs,1584,8831,C,https://github.com/openzfs/zfs,OpenZFS on Linux and FreeBSD,MDEwOlJlcG9zaXRvcnk0MzcwMTE=
+106,torch7,2390,8803,C,https://github.com/torch/torch7,http://torch.ch,MDEwOlJlcG9zaXRvcnkxMzY3NzE4Nw==
+107,ImageMagick,1153,8723,C,https://github.com/ImageMagick/ImageMagick,🧙‍♂️ ImageMagick 7,MDEwOlJlcG9zaXRvcnkzNTc4MDk3Nw==
+108,toxcore,1290,8705,C,https://github.com/irungentoo/toxcore,The future of online communications.,MDEwOlJlcG9zaXRvcnkxMDg5NDcxNg==
+109,systeminformer,1193,8649,C,https://github.com/winsiderss/systeminformer,"A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com",MDEwOlJlcG9zaXRvcnk1MDgyNDQ4NQ==
+110,ffmpeg-libav-tutorial,841,8637,C,https://github.com/leandromoreira/ffmpeg-libav-tutorial,"FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳",MDEwOlJlcG9zaXRvcnkxMDk3NjI5MDQ=
+111,cJSON,2894,8609,C,https://github.com/DaveGamble/cJSON,Ultralightweight JSON parser in ANSI C,MDEwOlJlcG9zaXRvcnk1NDI4MDc3OA==
+112,japronto,593,8608,C,https://github.com/squeaky-pl/japronto, Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser.,MDEwOlJlcG9zaXRvcnk3MjAzOTA3Mg==
+113,proxychains-ng,1020,8584,C,https://github.com/rofl0r/proxychains-ng,"proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.",MDEwOlJlcG9zaXRvcnkyMzIxMDUx
+114,fastdfs,1953,8478,C,https://github.com/happyfish100/fastdfs,"FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. Wechat/Weixin public account (Chinese Language): fastdfs",MDEwOlJlcG9zaXRvcnkxMTE3ODUxMg==
+115,GoodbyeDPI,791,8431,C,https://github.com/ValdikSS/GoodbyeDPI,GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows),MDEwOlJlcG9zaXRvcnk5MTQ5MzA4OA==
+116,react-native-code-push,1369,8420,C,https://github.com/microsoft/react-native-code-push,React Native module for CodePush,MDEwOlJlcG9zaXRvcnkzNjc0OTE1Mw==
+117,tini,425,8399,C,https://github.com/krallin/tini,A tiny but valid `init` for containers,MDEwOlJlcG9zaXRvcnkzMTQzMjU3Mw==
+118,xLua,2376,8316,C,https://github.com/Tencent/xLua,"xLua is a lua programming solution for  C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.",MDEwOlJlcG9zaXRvcnk3NTgxMTAxNQ==
+119,openvpn,2661,8301,C,https://github.com/OpenVPN/openvpn,OpenVPN  is  an open source VPN daemon,MDEwOlJlcG9zaXRvcnk0MTUxOTkz
+120,i3,720,8138,C,https://github.com/i3/i3,A tiling window manager for X11,MDEwOlJlcG9zaXRvcnkzMDI5MTA5MA==
+121,citus,554,8135,C,https://github.com/citusdata/citus,Distributed PostgreSQL as an extension,MDEwOlJlcG9zaXRvcnk1MDg3NDQ0Mg==
+122,rt-thread,4337,8133,C,https://github.com/RT-Thread/rt-thread,RT-Thread is an open source IoT real-time operating system (RTOS).,MDEwOlJlcG9zaXRvcnk3NDA4MTA4
+123,cockpit,975,8122,C,https://github.com/cockpit-project/cockpit,Cockpit is a web-based graphical interface for servers.,MDEwOlJlcG9zaXRvcnkxNDA0OTIxNg==
+124,db_tutorial,878,8116,C,https://github.com/cstack/db_tutorial,Writing a sqlite clone from scratch in C,MDEwOlJlcG9zaXRvcnkxMDIwMjkxNTA=
+125,lz4,1228,8073,C,https://github.com/lz4/lz4,Extremely Fast Compression algorithm,MDEwOlJlcG9zaXRvcnkxODEwNjI2OQ==
+126,c4,1306,8064,C,https://github.com/rswier/c4,C in four functions,MDEwOlJlcG9zaXRvcnkyNjE4MTI4Nw==
+127,FreeRDP,21998,8037,C,https://github.com/FreeRDP/FreeRDP,FreeRDP is a free remote desktop protocol library and clients,MDEwOlJlcG9zaXRvcnkxOTc5Nzk3
+128,blender,1374,8021,C,https://github.com/blender/blender,Official mirror of Blender,MDEwOlJlcG9zaXRvcnkyMTM5MTY4OTY=
+129,mimalloc,615,7946,C,https://github.com/microsoft/mimalloc,mimalloc is a compact general purpose allocator with excellent performance.,MDEwOlJlcG9zaXRvcnkxOTI4MDUzMzU=
+130,disque,550,7921,C,https://github.com/antirez/disque,Disque is a distributed message broker,MDEwOlJlcG9zaXRvcnkzNDY3Njc3Mw==
+131,jemalloc,1310,7881,C,https://github.com/jemalloc/jemalloc,,MDEwOlJlcG9zaXRvcnkxMzMxMDUyNw==
+132,acwj,768,7880,C,https://github.com/DoctorWkt/acwj,A Compiler Writing Journey,MDEwOlJlcG9zaXRvcnkyMTU5NzM5NjI=
+133,AppImageKit,519,7840,C,https://github.com/AppImage/AppImageKit,"Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat",MDEwOlJlcG9zaXRvcnk5NDM1MTUz
+134,libvips,593,7783,C,https://github.com/libvips/libvips,A fast image processing library with low memory needs.,MDEwOlJlcG9zaXRvcnkxMjkxNDEw
+135,RetroArch,1548,7777,C,https://github.com/libretro/RetroArch,"Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",MDEwOlJlcG9zaXRvcnk2ODkzNDQ=
+136,BGAQRCode-Android,1744,7744,C,https://github.com/bingoogolapple/BGAQRCode-Android,QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式,MDEwOlJlcG9zaXRvcnkyODQwNTU3OA==
+137,Mirai-Source-Code,3382,7710,C,https://github.com/jgamblin/Mirai-Source-Code,Leaked Mirai Source Code for Research/IoC Development Purposes,MDEwOlJlcG9zaXRvcnk2OTgyODY4MA==
+138,yugabyte-db,903,7639,C,https://github.com/yugabyte/yugabyte-db,YugabyteDB - the cloud native distributed SQL database for mission-critical applications.,MDEwOlJlcG9zaXRvcnkxMDU5NDQ0MDE=
+139,qemu,4535,7580,C,https://github.com/qemu/qemu,Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.,MDEwOlJlcG9zaXRvcnk1MzgzNzMx
+140,nmap,2081,7543,C,https://github.com/nmap/nmap,Nmap - the Network Mapper. Github mirror of official SVN repository.,MDEwOlJlcG9zaXRvcnkzNjcxNDc5
+141,TheFatRat,2120,7542,C,https://github.com/screetsec/TheFatRat,"Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection .",MDEwOlJlcG9zaXRvcnk2NDA2MDMxNA==
+142,john,1855,7516,C,https://github.com/openwall/john,"John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs",MDEwOlJlcG9zaXRvcnkyOTk3MjA0
+143,darktable,994,7503,C,https://github.com/darktable-org/darktable,darktable is an open source photography workflow application and raw developer,MDEwOlJlcG9zaXRvcnkzNzkxODM1
+144,gcc,3973,7492,C,https://github.com/gcc-mirror/gcc,,MDEwOlJlcG9zaXRvcnkyMjcxMTUwMw==
+145,zephyr,4679,7480,C,https://github.com/zephyrproject-rtos/zephyr,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",MDEwOlJlcG9zaXRvcnk1OTc3MTQyNQ==
+146,xmrig,3375,7463,C,https://github.com/xmrig/xmrig,"RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark",MDEwOlJlcG9zaXRvcnk4ODMyNzQwNg==
+147,thc-hydra,1676,7403,C,https://github.com/vanhauser-thc/thc-hydra,hydra,MDEwOlJlcG9zaXRvcnkxOTExMjA5MQ==
+148,nodemcu-firmware,3078,7326,C,https://github.com/nodemcu/nodemcu-firmware,"Lua based interactive firmware for ESP8266, ESP8285 and ESP32",MDEwOlJlcG9zaXRvcnkyNjkxNzU2OA==
+149,chibicc,682,7305,C,https://github.com/rui314/chibicc,A small C compiler,MDEwOlJlcG9zaXRvcnkyMDAzMjE2OTg=
+150,xxHash,681,7208,C,https://github.com/Cyan4973/xxHash,Extremely fast non-cryptographic hash algorithm,MDEwOlJlcG9zaXRvcnkxOTMzMDQ2Ng==
+151,Learn-Algorithms,2297,7191,C,https://github.com/nonstriater/Learn-Algorithms,算法学习笔记,MDEwOlJlcG9zaXRvcnkxOTQ1MzcxNQ==
+152,Nuklear,440,7159,C,https://github.com/Immediate-Mode-UI/Nuklear,A single-header ANSI C immediate mode cross-platform GUI library,MDEwOlJlcG9zaXRvcnkyMjQxNTEwNjU=
+153,mac-precision-touchpad,458,7157,C,https://github.com/imbushuo/mac-precision-touchpad,Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad,MDEwOlJlcG9zaXRvcnkxMDE1NDA0NDQ=
+154,mosquitto,2130,7154,C,https://github.com/eclipse/mosquitto,Eclipse Mosquitto - An open source MQTT broker,MDEwOlJlcG9zaXRvcnk1MzYxNDE5MA==
+155,vlmcsd,1982,7123,C,https://github.com/Wind4/vlmcsd,"KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)",MDEwOlJlcG9zaXRvcnk0NzA1NzI0Nw==
+156,windows-kernel-exploits,2810,7075,C,https://github.com/SecWiki/windows-kernel-exploits,windows-kernel-exploits   Windows平台提权漏洞集合,MDEwOlJlcG9zaXRvcnk4OTMxNTk4MA==
+157,janus-gateway,2310,7072,C,https://github.com/meetecho/janus-gateway,Janus WebRTC Server,MDEwOlJlcG9zaXRvcnkxNjczNDY5Ng==
+158,catboost,1104,7032,C,https://github.com/catboost/catboost,"A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.",MDEwOlJlcG9zaXRvcnk5NzU1NjI2NQ==
+159,gb-studio,402,6961,C,https://github.com/chrismaltby/gb-studio,A quick and easy to use drag and drop retro game creator for your favourite handheld video game system,MDEwOlJlcG9zaXRvcnkxODE4OTQ5MTM=
+160,ccv,1732,6922,C,https://github.com/liuliu/ccv,"C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library",MDEwOlJlcG9zaXRvcnk5MTI4OTY=
+161,bspwm,422,6886,C,https://github.com/baskerville/bspwm,A tiling window manager based on binary space partitioning,MDEwOlJlcG9zaXRvcnk1MjEzMDkx
+162,poco,1940,6883,C,https://github.com/pocoproject/poco,"The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.",MDEwOlJlcG9zaXRvcnk2Mzc2MzM3
+163,json-tutorial,4063,6858,C,https://github.com/miloyip/json-tutorial,从零开始的 JSON 库教程,MDEwOlJlcG9zaXRvcnk2ODI5MTk4OA==
+164,lab,1373,6844,C,https://github.com/deepmind/lab,A customisable 3D platform for agent-based AI research,MDEwOlJlcG9zaXRvcnk3NTE5MDQ3NQ==
+165,L-ink_Card,1692,6838,C,https://github.com/peng-zhihui/L-ink_Card,Smart NFC & ink-Display Card,MDEwOlJlcG9zaXRvcnkyNzM2ODk1NDg=
+166,redis,947,6820,C,https://github.com/tporadowski/redis,"Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs. This repository contains unofficial port of Redis to Windows.",MDEwOlJlcG9zaXRvcnkxMDgxMTA3MDY=
+167,freebsd-src,2555,6794,C,https://github.com/freebsd/freebsd-src,The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....,MDEwOlJlcG9zaXRvcnkyMzI4MTgx
+168,lua,1387,6714,C,https://github.com/lua/lua,"The Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Report issues in the Lua mailing list https://www.lua.org/lua-l.html",MDEwOlJlcG9zaXRvcnk1ODA1MjU2
+169,betaflight,2506,6665,C,https://github.com/betaflight/betaflight,Open Source Flight Controller Firmware,MDEwOlJlcG9zaXRvcnkzNzA2MDg1Mg==
+170,Undecimus,1348,6662,C,https://github.com/pwn20wndstuff/Undecimus,unc0ver jailbreak for iOS 11.0 - 12.4,MDEwOlJlcG9zaXRvcnkxNDc2Njc2ODc=
+171,sm64,1194,6647,C,https://github.com/n64decomp/sm64,"A Super Mario 64 decompilation, brought to you by a bunch of clever folks.",MDEwOlJlcG9zaXRvcnkxOTA4NDUyNjc=
+172,librdkafka,2969,6592,C,https://github.com/confluentinc/librdkafka,The Apache Kafka C/C++ library,MDEwOlJlcG9zaXRvcnk1ODcwMDY5
+173,yara,1312,6530,C,https://github.com/VirusTotal/yara,The pattern matching swiss knife,MDEwOlJlcG9zaXRvcnk3MDM3OTk2
+174,jerryscript,661,6519,C,https://github.com/jerryscript-project/jerryscript,Ultra-lightweight JavaScript engine for the Internet of Things.,MDEwOlJlcG9zaXRvcnkzMzMzOTY2MA==
+175,go-sqlite3,1020,6494,C,https://github.com/mattn/go-sqlite3,sqlite3 driver for go using database/sql,MDEwOlJlcG9zaXRvcnkyNzU1Njk2
+176,WSL2-Linux-Kernel,833,6458,C,https://github.com/microsoft/WSL2-Linux-Kernel,The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2),MDEwOlJlcG9zaXRvcnkxODc5MjIwNjc=
+177,anypixel,534,6439,C,https://github.com/googlecreativelab/anypixel,A web-friendly way for anyone to build unusual displays,MDEwOlJlcG9zaXRvcnk2MDI2NjkxMQ==
+178,klipper,4398,6399,C,https://github.com/Klipper3d/klipper,Klipper is a 3d-printer firmware,MDEwOlJlcG9zaXRvcnk1OTY3NjE3MQ==
+179,ecapture,662,6372,C,https://github.com/gojue/ecapture,capture SSL/TLS text content without CA cert using eBPF. supports Linux/Android  x86_64/Aarch64.,R_kgDOG_j-6w
+180,xhyve,363,6370,C,https://github.com/machyve/xhyve,"xhyve, a lightweight OS X virtualization solution",MDEwOlJlcG9zaXRvcnkzNzE3NTkyOQ==
+181,winfile,673,6359,C,https://github.com/microsoft/winfile,Original Windows File Manager (winfile) with enhancements,MDEwOlJlcG9zaXRvcnkxMjc3ODkwODE=
+182,Quake-III-Arena,1774,6337,C,https://github.com/id-Software/Quake-III-Arena,Quake III Arena GPL Source Release,MDEwOlJlcG9zaXRvcnkzMzE4MDI3
+183,xv6-public,3418,6311,C,https://github.com/mit-pdos/xv6-public,xv6 OS,MDEwOlJlcG9zaXRvcnk0MDUwNDQ4MA==
+184,beanstalkd,877,6286,C,https://github.com/beanstalkd/beanstalkd,"Beanstalk is a simple, fast work queue.",MDEwOlJlcG9zaXRvcnk2MDQw
+185,capstone,1418,6263,C,https://github.com/capstone-engine/capstone,"Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) + bindings.",MDEwOlJlcG9zaXRvcnkxNDczNTQyOQ==
+186,GloVe,1444,6256,C,https://github.com/stanfordnlp/GloVe,GloVe model for distributed word representation,MDEwOlJlcG9zaXRvcnk0MTc1MjY3Mw==
+187,unleashed-firmware,572,6238,C,https://github.com/DarkFlippers/unleashed-firmware,Flipper Zero Unleashed Firmware,R_kgDOHAx5hw
+188,WinObjC,843,6202,C,https://github.com/microsoft/WinObjC,Objective-C for Windows,MDEwOlJlcG9zaXRvcnkzNzk1MDE2Ng==
+189,kphp-kdb,213,6193,C,https://github.com/vk-com/kphp-kdb,VK-KittenPHP/DB/Engine suite,MDEwOlJlcG9zaXRvcnkxNjk1NzAwMA==
+190,unicorn,1190,6190,C,https://github.com/unicorn-engine/unicorn,"Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)",MDEwOlJlcG9zaXRvcnk0MTEwNzAzNw==
+191,http-parser,1547,6165,C,https://github.com/nodejs/http-parser,http request/response parser for c,MDEwOlJlcG9zaXRvcnkxODY3NDk=
+192,qoi,291,6149,C,https://github.com/phoboslab/qoi,"The “Quite OK Image Format” for fast, lossless image compression",R_kgDOGbcm7w
+193,ElectronBot,1499,6137,C,https://github.com/peng-zhihui/ElectronBot,,R_kgDOG--TWg
+194,pifs,287,6126,C,https://github.com/philipl/pifs,πfs - the data-free filesystem!,MDEwOlJlcG9zaXRvcnkzODg5OTQ3
+195,smartdns,936,6123,C,https://github.com/pymumu/smartdns,"A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。",MDEwOlJlcG9zaXRvcnkxMzA1Nzg4ODk=
+196,flipperzero-firmware,1683,6112,C,https://github.com/flipperdevices/flipperzero-firmware,Flipper Zero firmware source code,MDEwOlJlcG9zaXRvcnkyODQxMzQ4NzE=
+197,itlwm,580,6105,C,https://github.com/OpenIntelWireless/itlwm,Intel Wi-Fi Drivers for macOS,MDEwOlJlcG9zaXRvcnkyNDE2NTk2MTA=
+198,Cello,364,6047,C,https://github.com/orangeduck/Cello,Higher level programming in C,MDEwOlJlcG9zaXRvcnk1MTAwNjIz
+199,system-bus-radio,426,6039,C,https://github.com/fulldecent/system-bus-radio,Transmits AM radio on computers without radio transmitting hardware.,MDEwOlJlcG9zaXRvcnk1MjgyNzMyOQ==
+200,how2heap,1079,6037,C,https://github.com/shellphish/how2heap,A repository for learning various heap exploitation techniques.,MDEwOlJlcG9zaXRvcnk0OTk5NTI5NQ==
+201,deepin-wine-ubuntu,910,6025,C,https://github.com/wszqkzqk/deepin-wine-ubuntu,Deepin Wine for Ubuntu/Debian,MDEwOlJlcG9zaXRvcnkxMzk2NTI0MDU=
+202,ttyd,718,6006,C,https://github.com/tsl0922/ttyd,Share your terminal over the web,MDEwOlJlcG9zaXRvcnk2ODA2MzUxMQ==
+203,progress,284,6001,C,https://github.com/Xfennec/progress,"Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)",MDEwOlJlcG9zaXRvcnkxNDYyMTA2Ng==
+204,i3,323,6000,C,https://github.com/Airblader/i3,A fork of the i3 window manager with gaps and some other features. :warning: i3-gaps has been merged into i3. ,MDEwOlJlcG9zaXRvcnkyNjk3MzAyOQ==
+205,nokogiri,905,5997,C,https://github.com/sparklemotion/nokogiri,Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.,MDEwOlJlcG9zaXRvcnkzMzk0NQ==
+206,wasm3,381,5969,C,https://github.com/wasm3/wasm3,🚀 A fast WebAssembly interpreter and the most universal WASM runtime,MDEwOlJlcG9zaXRvcnkyMTIxNTI5MDA=
+207,tg,1513,5954,C,https://github.com/vysheng/tg,telegram-cli,MDEwOlJlcG9zaXRvcnkxMzI5Nzg1OA==
+208,Windows-driver-samples,4699,5903,C,https://github.com/microsoft/Windows-driver-samples,This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.,MDEwOlJlcG9zaXRvcnkzMTc5MTQ4Mg==
+209,kilo,707,5901,C,https://github.com/antirez/kilo,A text editor in less than 1000 LOC with syntax highlight and search.,MDEwOlJlcG9zaXRvcnk2Mjk5NDIxOQ==
+210,pygame,2571,5849,C,https://github.com/pygame/pygame,"🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.",MDEwOlJlcG9zaXRvcnk4NjI0NTgxNQ==
+211,8cc,738,5840,C,https://github.com/rui314/8cc,A Small C Compiler,MDEwOlJlcG9zaXRvcnkzNTY4NTQz
+212,quickjs,592,5810,C,https://github.com/bellard/quickjs,Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.,MDEwOlJlcG9zaXRvcnkyOTMzMTYwNzE=
+213,TencentOS-tiny,1527,5804,C,https://github.com/OpenAtomFoundation/TencentOS-tiny,腾讯物联网终端操作系统,MDEwOlJlcG9zaXRvcnkyMDM5NTc0NTY=
+214,endlessh,242,5798,C,https://github.com/skeeto/endlessh,SSH tarpit that slowly sends an endless banner,MDEwOlJlcG9zaXRvcnkxNjg5MDYxMjI=
+215,wazuh,997,5781,C,https://github.com/wazuh/wazuh,Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.,MDEwOlJlcG9zaXRvcnk0MDU1NjEwNg==
+216,htop,615,5761,C,https://github.com/hishamhm/htop,htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.,MDEwOlJlcG9zaXRvcnkxNTg4NDkyNg==
+217,lwan,570,5723,C,https://github.com/lpereira/lwan,"Experimental, scalable, high performance HTTP server",MDEwOlJlcG9zaXRvcnkzMjg3NTkx
+218,Flipper,1365,5672,C,https://github.com/UberGuidoZ/Flipper,Playground (and dump) of stuff I make or modify for the Flipper Zero,R_kgDOHTvqQw
+219,ios-webkit-debug-proxy,470,5665,C,https://github.com/google/ios-webkit-debug-proxy,A DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector).,MDEwOlJlcG9zaXRvcnk4MTY1MTYx
+220,hiredis,1746,5660,C,https://github.com/redis/hiredis,Minimalistic C client for Redis >= 1.2,MDEwOlJlcG9zaXRvcnk2NzMyNjc=
+221,gpdb,1587,5654,C,https://github.com/greenplum-db/gpdb,"Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI.",MDEwOlJlcG9zaXRvcnk0NDc4MTE0MA==
+222,VoxelSpace,242,5653,C,https://github.com/s-macke/VoxelSpace,Terrain rendering algorithm in less than 20 lines of code,MDEwOlJlcG9zaXRvcnkxMDQ1ODk2NjI=
+223,nanomsg,975,5622,C,https://github.com/nanomsg/nanomsg,nanomsg library,MDEwOlJlcG9zaXRvcnk2MTU0MzE1
+224,CMake,2416,5606,C,https://github.com/Kitware/CMake,Mirror of CMake upstream repository,MDEwOlJlcG9zaXRvcnk1Mzc2OTk=
+225,redshift,424,5576,C,https://github.com/jonls/redshift,Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.,MDEwOlJlcG9zaXRvcnk3MjU4Mjc4
+226,libimobiledevice,1185,5546,C,https://github.com/libimobiledevice/libimobiledevice,A cross-platform protocol library to communicate with iOS devices,MDEwOlJlcG9zaXRvcnk4MTgwNjc3
+227,GameNetworkingResources,390,5481,C,https://github.com/ThusSpokeNomad/GameNetworkingResources,A Curated List of Game Network Programming Resources,MDEwOlJlcG9zaXRvcnkxMTg3NDAwMjM=
+228,toaruos,459,5457,C,https://github.com/klange/toaruos,"A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network stack, etc.",MDEwOlJlcG9zaXRvcnkxMjU5MjU4
+229,IronOS,614,5441,C,https://github.com/Ralim/IronOS,Open Source Soldering Iron firmware for Miniware and Pinecil,MDEwOlJlcG9zaXRvcnk2ODA4MjczMA==
+230,ctags,528,5418,C,https://github.com/universal-ctags/ctags,A maintained ctags implementation,MDEwOlJlcG9zaXRvcnk1Nzg4Mzk=
+231,mujoco,503,5418,C,https://github.com/deepmind/mujoco,Multi-Joint dynamics with Contact. A general purpose physics simulator.,MDEwOlJlcG9zaXRvcnk0MDA1MDExMzY=
+232,siege,367,5410,C,https://github.com/JoeDog/siege,Siege is an http load tester and benchmarking utility,MDEwOlJlcG9zaXRvcnkyNDUwNjk0Nw==
+233,sqlcipher,1204,5402,C,https://github.com/sqlcipher/sqlcipher,SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.,MDEwOlJlcG9zaXRvcnkzODYxNw==
+234,winfsp,435,5398,C,https://github.com/winfsp/winfsp,Windows File System Proxy - FUSE for Windows,MDEwOlJlcG9zaXRvcnk1OTE1MTIwMw==
+235,ponyc,414,5382,C,https://github.com/ponylang/ponyc,":horse: Pony is an open-source, actor-model, capabilities-secure, high performance programming language",MDEwOlJlcG9zaXRvcnk2NjY3MDg0
+236,wireshark,1633,5354,C,https://github.com/wireshark/wireshark,Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. GitHub won't let us disable pull requests. ☞ THEY WILL BE IGNORED HERE ☜ Please upload them at GitLab.,MDEwOlJlcG9zaXRvcnkyMTMyOTU1MA==
+237,no-more-secrets,256,5297,C,https://github.com/bartobri/no-more-secrets,A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.,MDEwOlJlcG9zaXRvcnk1NTQ0MzM5Nw==
+238,SDL,1012,5274,C,https://github.com/libsdl-org/SDL,Simple Directmedia Layer,MDEwOlJlcG9zaXRvcnkzMzAwMDg4MDE=
+239,libhv,955,5271,C,https://github.com/ithewei/libhv,🔥 比libevent、libuv更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT client/server.,MDEwOlJlcG9zaXRvcnkxNDYzOTc3Njg=
+240,hackrf,1374,5259,C,https://github.com/greatscottgadgets/hackrf,low cost software radio platform,MDEwOlJlcG9zaXRvcnkzNjgxMzky
+241,camerakit-android,869,5257,C,https://github.com/CameraKit/camerakit-android,Library for Android Camera 1 and 2 APIs. Massively increase stability and reliability of photo and video capture on all Android devices.,MDEwOlJlcG9zaXRvcnk3NDkwOTM0OA==
+242,SQLAdvisor,1207,5242,C,https://github.com/Meituan-Dianping/SQLAdvisor,输入SQL，输出索引优化建议,MDEwOlJlcG9zaXRvcnk4MzUyMzAzNg==
+243,fontforge,644,5228,C,https://github.com/fontforge/fontforge,"Free (libre) font editor for Windows, Mac OS X and GNU+Linux",MDEwOlJlcG9zaXRvcnk1MzkwMTU2
+244,ZipArchive,1274,5203,C,https://github.com/ZipArchive/ZipArchive,"ZipArchive is a simple utility class for zipping and unzipping files on iOS, macOS and tvOS.",MDEwOlJlcG9zaXRvcnk4NDk2OTI=
+245,HDMI-PI,790,5188,C,https://github.com/peng-zhihui/HDMI-PI,我设计的一个HDMI转MIPI模块，可以用于驱动各种手机屏幕当显示器用。,MDEwOlJlcG9zaXRvcnkzMDUyNDgzOTg=
+246,Provenance,646,5187,C,https://github.com/Provenance-Emu/Provenance,"iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  | ",MDEwOlJlcG9zaXRvcnkxMjQxNjg2Mg==
+247,iperf,1104,5186,C,https://github.com/esnet/iperf,"iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool",MDEwOlJlcG9zaXRvcnkxNzE4Mzg3MQ==
+248,mjolnir,136,5185,C,https://github.com/mjolnirapp/mjolnir,Lightweight automation and productivity app for OS X,MDEwOlJlcG9zaXRvcnkyMDk5OTAxOA==
+249,reptyr,211,5168,C,https://github.com/nelhage/reptyr,Reparent a running program to a new terminal,MDEwOlJlcG9zaXRvcnkxMjUyODY0
+250,AdAway,490,5159,C,https://github.com/AdAway/AdAway,AdAway is a free and open source ad blocker for Android. ,MDEwOlJlcG9zaXRvcnk1MDU3MTcz
+251,kbengine,2346,5152,C,https://github.com/kbengine/kbengine,A MMOG engine of server.,MDEwOlJlcG9zaXRvcnkxNjkwNzQ3NA==
+252,HP-Socket,1701,5143,C,https://github.com/ldcsaa/HP-Socket,High Performance TCP/UDP/HTTP Communication Component,MDEwOlJlcG9zaXRvcnkxNTI1NzIxMw==
+253,tmate,290,5132,C,https://github.com/tmate-io/tmate,Instant Terminal Sharing,MDEwOlJlcG9zaXRvcnkxMDY1MTQyMA==
+254,macvim,413,5127,C,https://github.com/b4winckler/macvim,Vim - the text editor - for Mac OS X,MDEwOlJlcG9zaXRvcnk2OTI3OTg=
+255,mozjpeg,428,5109,C,https://github.com/mozilla/mozjpeg,Improved JPEG encoder.,MDEwOlJlcG9zaXRvcnkxNTgzNzY3Ng==
+256,mruby,767,5094,C,https://github.com/mruby/mruby,Lightweight Ruby,MDEwOlJlcG9zaXRvcnk0MDczNTE2
+257,HoloCubic,1056,5078,C,https://github.com/peng-zhihui/HoloCubic,带网络功能的伪全息透明显示桌面站,MDEwOlJlcG9zaXRvcnkzMjc0OTE4OTU=
+258,OpenBLAS,1290,5075,C,https://github.com/xianyi/OpenBLAS,OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version. ,MDEwOlJlcG9zaXRvcnkxMjg2ODA1
+259,sysbench,968,5071,C,https://github.com/akopytov/sysbench,Scriptable database and system performance benchmark,MDEwOlJlcG9zaXRvcnkzMTgwNjA5NA==
+260,UACME,1226,5067,C,https://github.com/hfiref0x/UACME,Defeating Windows User Account Control,MDEwOlJlcG9zaXRvcnkzMzAzMTg4NQ==
+261,dsvpn,381,5052,C,https://github.com/jedisct1/dsvpn,A Dead Simple VPN.,MDEwOlJlcG9zaXRvcnkxOTc0MzI3NTg=
+262,iodine,465,5048,C,https://github.com/yarrick/iodine,Official git repo for iodine dns tunnel,MDEwOlJlcG9zaXRvcnkzMzU0OTAy
+263,blink,147,5035,C,https://github.com/jart/blink,tiniest x86-64-linux emulator,R_kgDOIXL5Nw
+264,MBE,873,5029,C,https://github.com/RPISEC/MBE,Course materials for Modern Binary Exploitation by RPISEC,MDEwOlJlcG9zaXRvcnkzNzc4NDI3Nw==
+265,30dayMakeOS,1295,5022,C,https://github.com/yourtion/30dayMakeOS,《30天自制操作系统》源码中文版。自己制作一个操作系统（OSASK）的过程,MDEwOlJlcG9zaXRvcnkyMzY5MzM2Mg==
+266,proxychains,562,5007,C,https://github.com/haad/proxychains,"proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: ""user/pass"" for SOCKS4/5, ""basic"" for HTTP.",MDEwOlJlcG9zaXRvcnkxNDEwNzYy
+267,bitwise,197,5001,C,https://github.com/pervognsen/bitwise,Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.,MDEwOlJlcG9zaXRvcnkxMjQ2MjMwODA=
+268,cjdns,598,4994,C,https://github.com/cjdelisle/cjdns,An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.,MDEwOlJlcG9zaXRvcnkxMzc2MTAx
+269,nvtop,210,4987,C,https://github.com/Syllo/nvtop,"GPUs process monitoring for AMD, Intel and NVIDIA ",MDEwOlJlcG9zaXRvcnk5NDUzMDY3NA==
+270,sshfs,432,4958,C,https://github.com/libfuse/sshfs,A network filesystem client to connect to SSH servers,MDEwOlJlcG9zaXRvcnk0ODM4ODI4Ng==
+271,grbl,2914,4956,C,https://github.com/grbl/grbl,"An open source, embedded, high performance g-code-parser and CNC milling controller written in optimized C that will run on a straight Arduino",MDEwOlJlcG9zaXRvcnkxMTQxMDI=
+272,fishhook,951,4919,C,https://github.com/facebook/fishhook,A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.,MDEwOlJlcG9zaXRvcnkxMTM1MTkyNw==
+273,n2n,793,4917,C,https://github.com/ntop/n2n,Peer-to-peer VPN,MDEwOlJlcG9zaXRvcnk3MTY5MTIxMg==
+274,cmus,476,4893,C,https://github.com/cmus/cmus,"Small, fast and powerful console music player for Unix-like operating systems.",MDEwOlJlcG9zaXRvcnk3MzY1MTM2
+275,licecap,433,4883,C,https://github.com/justinfrankel/licecap,LICEcap simple animated screen capture tool for Windows and OS X,MDEwOlJlcG9zaXRvcnkyMjA0ODQ3Mg==
+276,ravynos,170,4853,C,https://github.com/ravynsoft/ravynos,A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS),MDEwOlJlcG9zaXRvcnkzMzQ3Nzc4NTc=
+277,VeraCrypt,748,4851,C,https://github.com/veracrypt/VeraCrypt,Disk encryption with strong security based on TrueCrypt,MDEwOlJlcG9zaXRvcnkyNjM3NjQ5MA==
+278,rtl_433,1154,4831,C,https://github.com/merbanan/rtl_433,Program to decode radio transmissions from devices on the ISM bands (and other frequencies),MDEwOlJlcG9zaXRvcnk3NzA1NjM5
+279,redcarpet,540,4829,C,https://github.com/vmg/redcarpet,"The safe Markdown parser, reloaded.",MDEwOlJlcG9zaXRvcnkxNTIzMTA2
+280,Logan,785,4829,C,https://github.com/Meituan-Dianping/Logan,Logan is a lightweight case logging system based on mobile platform.,MDEwOlJlcG9zaXRvcnkxNTAzNTQzNjc=
+281,firejail,513,4798,C,https://github.com/netblue30/firejail,Linux namespaces and seccomp-bpf sandbox,MDEwOlJlcG9zaXRvcnk0MDQxODE0Ng==
+282,HelloWord-Keyboard,786,4774,C,https://github.com/peng-zhihui/HelloWord-Keyboard,,R_kgDOHvZyPg
+283,firmware,1667,4773,C,https://github.com/raspberrypi/firmware,"This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.",MDEwOlJlcG9zaXRvcnkzNTY1OTA5
+284,linux-kernel-exploits,1758,4767,C,https://github.com/SecWiki/linux-kernel-exploits,linux-kernel-exploits Linux平台提权漏洞集合,MDEwOlJlcG9zaXRvcnk4OTMxODk2NA==
+285,yasea,1319,4763,C,https://github.com/begeekmyfriend/yasea,RTMP live streaming client for Android,MDEwOlJlcG9zaXRvcnk1NTYwODk5Mw==
+286,coder-kung-fu,796,4759,C,https://github.com/yanfeizhang/coder-kung-fu,开发内功修炼,MDEwOlJlcG9zaXRvcnkzMzA5ODA1OTk=
+287,hekate,463,4739,C,https://github.com/CTCaer/hekate,hekate - A GUI based Nintendo Switch Bootloader,MDEwOlJlcG9zaXRvcnkxMzE3MTAzMjg=
+288,htop,309,4728,C,https://github.com/htop-dev/htop,htop - an interactive process viewer,MDEwOlJlcG9zaXRvcnkyODgwODI5MDk=
+289,kcat,439,4717,C,https://github.com/edenhill/kcat,Generic command line non-JVM Apache Kafka producer and consumer,MDEwOlJlcG9zaXRvcnkxODI1NzM1OA==
+290,sioyek,142,4714,C,https://github.com/ahrm/sioyek,Sioyek is a PDF viewer with a focus on textbooks and research papers,MDEwOlJlcG9zaXRvcnkzODUwMzcwNTI=
+291,zmap,863,4691,C,https://github.com/zmap/zmap,ZMap is a fast single packet network scanner designed for Internet-wide network surveys.,MDEwOlJlcG9zaXRvcnk3NzY1NDAz
+292,nanovg,731,4678,C,https://github.com/memononen/nanovg,Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations.,MDEwOlJlcG9zaXRvcnkxNDMyNTc1Nw==
+293,arcore-android-sdk,1170,4677,C,https://github.com/google-ar/arcore-android-sdk,ARCore SDK for Android Studio,MDEwOlJlcG9zaXRvcnkxMDA5Nzk0ODQ=
+294,Atlas,1172,4647,C,https://github.com/Qihoo360/Atlas,"A high-performance and stable proxy for MySQL, it is developed by Qihoo's DBA and infrastructure team",MDEwOlJlcG9zaXRvcnkxNTI3OTk4MA==
+295,pngquant,464,4629,C,https://github.com/kornelski/pngquant,Lossy PNG compressor — pngquant command based on libimagequant library,MDEwOlJlcG9zaXRvcnkzMTAyOTY=
+296,dokany,612,4624,C,https://github.com/dokan-dev/dokany,User mode file system library for windows with FUSE Wrapper,MDEwOlJlcG9zaXRvcnkyNzgxODM2NQ==
+297,LiteOS,1553,4621,C,https://github.com/LiteOS/LiteOS,code and manual,MDEwOlJlcG9zaXRvcnk2NzkzNDE5MA==
+298,MangoHud,193,4600,C,https://github.com/flightlessmango/MangoHud,"A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb",MDEwOlJlcG9zaXRvcnkyMzY2NDgzMzM=
+300,streem,257,4592,C,https://github.com/matz/streem,prototype of stream based programming language,MDEwOlJlcG9zaXRvcnkyNzg2MDczOA==
+299,tpotce,816,4592,C,https://github.com/telekom-security/tpotce,🍯 T-Pot - The All In One Honeypot Platform 🐝,MDEwOlJlcG9zaXRvcnkyNzI3NTQ0Mg==
+301,mdp,258,4573,C,https://github.com/visit1985/mdp,A command-line based markdown presentation tool.,MDEwOlJlcG9zaXRvcnkyNDAyMjMzMw==
+302,clib,230,4506,C,https://github.com/clibs/clib,C package manager-ish,MDEwOlJlcG9zaXRvcnk2NDI1NDM1
+303,yaf,1410,4495,C,https://github.com/laruence/yaf,"Fast php framework written in c, built in php extension",MDEwOlJlcG9zaXRvcnkyOTcwOTgy
+304,vim.js,283,4458,C,https://github.com/coolwanglu/vim.js,JavaScript port of Vim,MDEwOlJlcG9zaXRvcnkxNDgxNjk5Mw==
+305,xrdp,2561,4436,C,https://github.com/neutrinolabs/xrdp,xrdp: an open source RDP server,MDEwOlJlcG9zaXRvcnkxNjYwMTI3
+306,fluent-bit,1253,4419,C,https://github.com/fluent/fluent-bit,"Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows",MDEwOlJlcG9zaXRvcnkyOTkzMzk0OA==
+307,collapseos,268,4404,C,https://github.com/hsoft/collapseos,Bootstrap post-collapse technology,MDEwOlJlcG9zaXRvcnkxNzQyMzE3MzU=
+308,RIOT,1876,4396,C,https://github.com/RIOT-OS/RIOT,RIOT -  The friendly OS for IoT,MDEwOlJlcG9zaXRvcnk3MzcwMjQx
+309,libfuse,987,4382,C,https://github.com/libfuse/libfuse,The reference implementation of the Linux FUSE (Filesystem in Userspace) interface,MDEwOlJlcG9zaXRvcnk0ODI5NjE3Nw==
+310,mgba,613,4381,C,https://github.com/mgba-emu/mgba,mGBA Game Boy Advance Emulator,MDEwOlJlcG9zaXRvcnkyNzc4ODQ3MQ==
+311,AliOS-Things,1084,4366,C,https://github.com/alibaba/AliOS-Things,面向IoT领域的、高可伸缩的物联网操作系统，可去官网了解更多信息https://www.aliyun.com/product/aliosthings,MDEwOlJlcG9zaXRvcnkxMDE4NjYwNzM=
+312,jo,145,4349,C,https://github.com/jpmens/jo,JSON output from a shell,MDEwOlJlcG9zaXRvcnk1MzEzMzYxMw==
+313,WickedEngine,462,4345,C,https://github.com/turanszkij/WickedEngine,3D engine with modern graphics,MDEwOlJlcG9zaXRvcnkzNzc3MDk2MQ==
+314,sds,438,4337,C,https://github.com/antirez/sds,Simple Dynamic Strings library for C,MDEwOlJlcG9zaXRvcnkxNjU4MjQ2Mw==
+315,sokol,351,4332,C,https://github.com/floooh/sokol,minimal cross-platform standalone C headers,MDEwOlJlcG9zaXRvcnk5NzIxMjQ5MA==
+316,Telegram-iOS,1228,4331,C,https://github.com/TelegramMessenger/Telegram-iOS,Telegram-iOS,MDEwOlJlcG9zaXRvcnkxNTc1OTAyOTQ=
+317,esp_wifi_repeater,863,4327,C,https://github.com/martin-ger/esp_wifi_repeater,A full functional WiFi Repeater (correctly: a WiFi NAT Router),MDEwOlJlcG9zaXRvcnk3NjY0OTQzMA==
+318,tbox,656,4311,C,https://github.com/tboox/tbox,🎁 A glib-like multi-platform c library,MDEwOlJlcG9zaXRvcnkxNTk1MDk5
+319,mbed-os,2897,4309,C,https://github.com/ARMmbed/mbed-os,Arm Mbed OS is a platform operating system designed for the internet of things,MDEwOlJlcG9zaXRvcnk4MjcwOTcy
+320,zlib,2144,4278,C,https://github.com/madler/zlib,A massively spiffy yet delicately unobtrusive compression library.,MDEwOlJlcG9zaXRvcnkyMzU5Mzc4
+321,libusb,1700,4275,C,https://github.com/libusb/libusb,A cross-platform library to access USB devices ,MDEwOlJlcG9zaXRvcnkxNTEyMDY3Ng==
+322,s2n-tls,685,4263,C,https://github.com/aws/s2n-tls,An implementation of the TLS/SSL protocols,MDEwOlJlcG9zaXRvcnkyMTI4NzA3Ng==
+323,naxsi,596,4262,C,https://github.com/nbs-system/naxsi,"NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX",MDEwOlJlcG9zaXRvcnkyMjMzMTg1
+324,phc-winner-argon2,378,4239,C,https://github.com/P-H-C/phc-winner-argon2,"The password hash Argon2, winner of PHC ",MDEwOlJlcG9zaXRvcnk0MzYyOTc5MA==
+325,RediSearch,438,4231,C,https://github.com/RediSearch/RediSearch,"A query and indexing engine for Redis, providing secondary indexing, full-text search, and aggregations. ",MDEwOlJlcG9zaXRvcnk1ODEzMjU0NA==
+326,MTProxy,748,4225,C,https://github.com/TelegramMessenger/MTProxy,,MDEwOlJlcG9zaXRvcnkxMzUzNDgyMTU=
+327,tcpcopy,1027,4222,C,https://github.com/session-replay-tools/tcpcopy,"An online request replication tool, also a tcp stream replay tool, fit for real testing, performance testing, stability testing, stress testing, load testing, smoke testing, etc",MDEwOlJlcG9zaXRvcnkyNTc0OTgw
+328,Tesseract-OCR-iOS,956,4161,C,https://github.com/gali8/Tesseract-OCR-iOS,"Tesseract OCR iOS is a Framework for iOS7+, compiled also for armv7s and arm64.",MDEwOlJlcG9zaXRvcnk5NzY5MDQx
+329,gravity,211,4149,C,https://github.com/marcobambini/gravity,Gravity Programming Language,MDEwOlJlcG9zaXRvcnk4MzA1MjE2NQ==
+330,X-TRACK,999,4147,C,https://github.com/FASTSHIFT/X-TRACK,A GPS bicycle speedometer that supports offline maps and track recording ,MDEwOlJlcG9zaXRvcnkzNDk0OTA3NzA=
+331,seL4,578,4138,C,https://github.com/seL4/seL4,The seL4 microkernel,MDEwOlJlcG9zaXRvcnkyMTk3NzY5MQ==
+332,Luma3DS,516,4133,C,https://github.com/LumaTeam/Luma3DS,"Noob-proof (N)3DS ""Custom Firmware""",MDEwOlJlcG9zaXRvcnk1MTI3NTk4NA==
+333,OpenLara,355,4131,C,https://github.com/XProger/OpenLara,Classic Tomb Raider open-source engine,MDEwOlJlcG9zaXRvcnk2NTYzODgxMA==
+334,fio,1088,4086,C,https://github.com/axboe/fio,Flexible I/O Tester,MDEwOlJlcG9zaXRvcnk2MzMxNjMx
+335,mbedtls,2231,4083,C,https://github.com/Mbed-TLS/mbedtls,"An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API.",MDEwOlJlcG9zaXRvcnk2Njg3OTM2
+336,loadlibrary,374,4080,C,https://github.com/taviso/loadlibrary,Porting Windows Dynamic Link Libraries to Linux,MDEwOlJlcG9zaXRvcnk5MjIxOTQzMQ==
+337,katran,444,4077,C,https://github.com/facebookincubator/katran,A high performance layer 4 load balancer,MDEwOlJlcG9zaXRvcnkxMzEzNDc5NTQ=
+338,mpc-hc,1723,4066,C,https://github.com/mpc-hc/mpc-hc,MPC-HC's main repository.  For support use our Trac: https://trac.mpc-hc.org/,MDEwOlJlcG9zaXRvcnk1MTgwNTc3
+339,dynomite,534,4047,C,https://github.com/Netflix/dynomite,A generic dynamo implementation for different k-v storage engines,MDEwOlJlcG9zaXRvcnkxMzQ4NDYyNQ==
+340,openwrt-passwall,2023,4034,C,https://github.com/xiaorouji/openwrt-passwall,A commonly used proxy toolchain for Openwrt LuCI Application.,MDEwOlJlcG9zaXRvcnkxNTE4NzAzNjQ=
+341,glusterfs,1041,4027,C,https://github.com/gluster/glusterfs,Gluster Filesystem : Build your distributed storage in minutes,MDEwOlJlcG9zaXRvcnkxMzc3MDM3
+342,meltdown,535,4026,C,https://github.com/IAIK/meltdown,"This repository contains several applications, demonstrating the Meltdown bug.",MDEwOlJlcG9zaXRvcnkxMTYxMTk3MDQ=
+343,oot,520,4023,C,https://github.com/zeldaret/oot,Decompilation of The Legend of Zelda: Ocarina of Time,MDEwOlJlcG9zaXRvcnkyNDc4NzU3Mzg=
+344,lxc,1075,4017,C,https://github.com/lxc/lxc,LXC - Linux Containers,MDEwOlJlcG9zaXRvcnk1NzIwOTk1
+345,ultrajson,364,4011,C,https://github.com/ultrajson/ultrajson,Ultra fast JSON decoder and encoder written in C with Python bindings,MDEwOlJlcG9zaXRvcnkxNDE4OTQx
+346,Quake,792,3987,C,https://github.com/id-Software/Quake,Quake GPL Source Release,MDEwOlJlcG9zaXRvcnkzMzE4NTMx
+347,h3,404,3983,C,https://github.com/uber/h3,Hexagonal hierarchical geospatial indexing system,MDEwOlJlcG9zaXRvcnkxMTQ5NDg4MTY=
+348,CyberEngineTweaks,255,3982,C,https://github.com/yamashi/CyberEngineTweaks,"Cyberpunk 2077 tweaks, hacks and scripting framework",MDEwOlJlcG9zaXRvcnkzMjA5MjE0NTM=
+349,LookingGlass,244,3971,C,https://github.com/gnif/LookingGlass,An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.,MDEwOlJlcG9zaXRvcnkxMTM0MTI0NTc=
+350,PINRemoteImage,512,3970,C,https://github.com/pinterest/PINRemoteImage,"A thread safe, performant, feature rich image fetcher",MDEwOlJlcG9zaXRvcnkzOTUzNzEwMw==
+351,vis,253,3946,C,https://github.com/martanne/vis,A vi-like editor based on Plan 9's structural regular expressions,MDEwOlJlcG9zaXRvcnkyNjY3NzQxOA==
+352,sslh,342,3942,C,https://github.com/yrutschle/sslh,Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port),MDEwOlJlcG9zaXRvcnkxMTMyNDk5MQ==
+353,TIC-80,374,3941,C,https://github.com/nesbox/TIC-80,"TIC-80 is a fantasy computer for making, playing and sharing tiny games.",MDEwOlJlcG9zaXRvcnk3NzkyMDM4Mw==
+354,RxFFmpeg,699,3931,C,https://github.com/microshow/RxFFmpeg,🔥💥RxFFmpeg 是基于 ( FFmpeg 4.0 + X264 + mp3lame + fdk-aac + opencore-amr + openssl ) 编译的适用于 Android 平台的音视频编辑、视频剪辑的快速处理框架，包含以下功能：视频拼接，转码，压缩，裁剪，片头片尾，分离音视频，变速，添加静态贴纸和gif动态贴纸，添加字幕，添加滤镜，添加背景音乐，加速减速视频，倒放音视频，音频裁剪，变声，混音，图片合成视频，视频解码图片，抖音首页，视频播放器及支持 OpenSSL https 等主流特色功能,MDEwOlJlcG9zaXRvcnkxNTI0MjAwMzM=
+355,FFmpegAndroid,1087,3912,C,https://github.com/xufuji456/FFmpegAndroid,FFmpeg实现音频拼接、混音、均衡器音效；视频裁剪、水印、转码、编解码、转Gif动图；FFmpeg本地推流、H264与RTMP实时推流直播；OpenGL滤镜特效，视频拍摄。音视频学习路线，音视频知识总结、流媒体协议,MDEwOlJlcG9zaXRvcnkxMTg1NzI0MjY=
+356,ossec-hids,994,3911,C,https://github.com/ossec/ossec-hids,"OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.",MDEwOlJlcG9zaXRvcnkxMjkwMTU1OQ==
+357,LCUI,354,3908,C,https://github.com/lc-soft/LCUI,"A small C library for building user interfaces with C, XML and CSS.",MDEwOlJlcG9zaXRvcnk1MjkzODAy
+358,osv,601,3886,C,https://github.com/cloudius-systems/osv,"OSv, a new operating system for the cloud.",MDEwOlJlcG9zaXRvcnk3MjU4Njg1
+359,gimp,607,3871,C,https://github.com/GNOME/gimp,Read-only mirror of https://gitlab.gnome.org/GNOME/gimp,MDEwOlJlcG9zaXRvcnk0NTM3NTA4
+360,btrfs,190,3870,C,https://github.com/maharmstone/btrfs,WinBtrfs - an open-source btrfs driver for Windows,MDEwOlJlcG9zaXRvcnk1MjIzMDM5Ng==
+361,CloverBootloader,579,3864,C,https://github.com/CloverHackyColor/CloverBootloader,"Bootloader for macOS, Windows and Linux in UEFI and in legacy mode",MDEwOlJlcG9zaXRvcnkyMDU4MTAxMjE=
+362,reading-code-of-nginx-1.9.2,1194,3861,C,https://github.com/y123456yz/reading-code-of-nginx-1.9.2,nginx-1.9.2源码通读分析注释，带详尽函数中文分析注释以及相关函数流程调用注释，最全面的nginx源码阅读分析中文注释，更新完毕,MDEwOlJlcG9zaXRvcnk0Mjc2NjE5Nw==
+363,skhd,167,3857,C,https://github.com/koekeishiya/skhd, Simple hotkey daemon for macOS,MDEwOlJlcG9zaXRvcnk5OTYwNzA4Mg==
+364,littlefs,648,3846,C,https://github.com/littlefs-project/littlefs,A little fail-safe filesystem designed for microcontrollers,MDEwOlJlcG9zaXRvcnk4MzE2MDgxMQ==
+365,GmSSL,1407,3839,C,https://github.com/guanzhi/GmSSL,支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱,MDEwOlJlcG9zaXRvcnkyNzM1OTE4Mw==
+366,tinyproxy,592,3820,C,https://github.com/tinyproxy/tinyproxy,tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems,MDEwOlJlcG9zaXRvcnk0NzU1NjA0OQ==
+367,study,757,3818,C,https://github.com/ming1016/study,学习记录,MDEwOlJlcG9zaXRvcnkzMTM1NjMyMQ==
+368,wrk2,339,3809,C,https://github.com/giltene/wrk2,"A constant throughput, correct latency recording variant of wrk",MDEwOlJlcG9zaXRvcnkyNjM2Mjc5OA==
+369,libwebsockets,1363,3804,C,https://github.com/warmcat/libwebsockets,canonical libwebsockets.org networking library,MDEwOlJlcG9zaXRvcnk4MDQ2MjY5
+370,simplewall,368,3802,C,https://github.com/henrypp/simplewall,Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.,MDEwOlJlcG9zaXRvcnk2NjAxNjEzNA==
+371,ttygif,249,3795,C,https://github.com/icholy/ttygif,Convert terminal recordings to animated gifs,MDEwOlJlcG9zaXRvcnkxMjA2MDcyNQ==
+372,vgpu_unlock,366,3791,C,https://github.com/DualCoder/vgpu_unlock,Unlock vGPU functionality for consumer grade GPUs.,MDEwOlJlcG9zaXRvcnkzMzM5MTcyNTU=
+373,tmk_keyboard,1686,3782,C,https://github.com/tmk/tmk_keyboard,Keyboard firmwares for Atmel AVR and Cortex-M,MDEwOlJlcG9zaXRvcnkxMDMwNjAy
+374,sqlite,654,3772,C,https://github.com/sqlite/sqlite,Official Git mirror of the SQLite source tree,MDEwOlJlcG9zaXRvcnkxNzYyNzg0ODU=
+375,fastsocket,745,3769,C,https://github.com/fastos/fastsocket,"Fastsocket is a highly scalable socket and its underlying networking implementation of Linux kernel. With the straight linear scalability, Fastsocket can provide extremely good performance in multicore machines. In addition, it is very easy to use and maintain. As a result, it has been deployed in the production environment of SINA.",MDEwOlJlcG9zaXRvcnkyMTE1NjkwOA==
+376,u8g2,899,3762,C,https://github.com/olikraus/u8g2,"U8glib library for monochrome displays, version 2 ",MDEwOlJlcG9zaXRvcnk0NTcwMzg4NA==
+377,klib,515,3750,C,https://github.com/attractivechaos/klib,A standalone and lightweight C library,MDEwOlJlcG9zaXRvcnkxMjUxMzkz
+378,tor,886,3750,C,https://github.com/torproject/tor,unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --,MDEwOlJlcG9zaXRvcnkxMDUxMzU5MA==
+379,xv6-riscv,1421,3747,C,https://github.com/mit-pdos/xv6-riscv,Xv6 for RISC-V,MDEwOlJlcG9zaXRvcnkyMDQ0NTkyNTA=
+380,cute_headers,255,3746,C,https://github.com/RandyGaul/cute_headers,"Collection of cross-platform one-file C/C++ libraries with no dependencies, primarily used for games",MDEwOlJlcG9zaXRvcnk2MDQzNjA1NA==
+381,rainmeter,537,3745,C,https://github.com/rainmeter/rainmeter,Desktop customization tool for Windows,MDEwOlJlcG9zaXRvcnkzODg3Mzc1
+382,sshfs-win,209,3744,C,https://github.com/winfsp/sshfs-win,SSHFS For Windows,MDEwOlJlcG9zaXRvcnk2MTQ1MTkxNw==
+383,flecs,293,3730,C,https://github.com/SanderMertens/flecs,A fast entity component system (ECS) for C & C++,MDEwOlJlcG9zaXRvcnkxNDYxNTUyODQ=
+384,pushdeer,398,3729,C,https://github.com/easychen/pushdeer,开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备,R_kgDOGihuAA
+385,aircrack-ng,767,3726,C,https://github.com/aircrack-ng/aircrack-ng,WiFi security auditing tools suite,MDEwOlJlcG9zaXRvcnkxMjQ2NzgyMDQ=
+386,tess-two,1401,3725,C,https://github.com/rmtheis/tess-two,Fork of Tesseract Tools for Android,MDEwOlJlcG9zaXRvcnkyNTgxMzU3
+387,LuaJIT,806,3724,C,https://github.com/LuaJIT/LuaJIT,Mirror of the LuaJIT git repository,MDEwOlJlcG9zaXRvcnk0MDMwNjUxMg==
+388,dunst,318,3715,C,https://github.com/dunst-project/dunst,Lightweight and customizable notification daemon,MDEwOlJlcG9zaXRvcnkyMzQxMTQ2
+389,ly,257,3698,C,https://github.com/fairyglade/ly,display manager with console UI,MDEwOlJlcG9zaXRvcnk5MjIwMzg2OA==
+390,stlink,1122,3693,C,https://github.com/stlink-org/stlink,Open source STM32 MCU programming toolset,MDEwOlJlcG9zaXRvcnkxMjUzODc5
+391,gamemode,178,3690,C,https://github.com/FeralInteractive/gamemode,Optimise Linux system performance on demand,MDEwOlJlcG9zaXRvcnkxMjg5MDk5MTk=
+392,clumsy,407,3686,C,https://github.com/jagt/clumsy,"clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.",MDEwOlJlcG9zaXRvcnkxMzIzNDA0OA==
+393,qira,460,3678,C,https://github.com/geohot/qira,QEMU Interactive Runtime Analyser,MDEwOlJlcG9zaXRvcnkyMzcwNzM2Mg==
+394,libpostal,388,3674,C,https://github.com/openvenues/libpostal,A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.,MDEwOlJlcG9zaXRvcnkzMTU3MDkwNg==
+395,zelda3,311,3671,C,https://github.com/snesrev/zelda3,,R_kgDOHzSorA
+396,CPython-Internals,393,3668,C,https://github.com/zpoint/CPython-Internals,"Dive into CPython internals, trying to illustrate every detail of CPython implementation",MDEwOlJlcG9zaXRvcnkxODE1MTMzNjM=
+397,Linux-NetSpeed,2552,3643,C,https://github.com/Chikage0o0/Linux-NetSpeed,将Linux现常用的网络加速集成在一起,MDEwOlJlcG9zaXRvcnkxMDg5ODkyMDk=
+398,flatpak,368,3637,C,https://github.com/flatpak/flatpak,Linux application sandboxing and distribution framework,MDEwOlJlcG9zaXRvcnk1OTIxMzIwMA==
+399,wasm-micro-runtime,459,3616,C,https://github.com/bytecodealliance/wasm-micro-runtime,WebAssembly Micro Runtime (WAMR),MDEwOlJlcG9zaXRvcnkxODQ2NTQyOTg=
+400,sc-im,178,3606,C,https://github.com/andmarti1424/sc-im,sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal,MDEwOlJlcG9zaXRvcnkyNTk4MDczOA==
+401,xHook,694,3601,C,https://github.com/iqiyi/xHook,🔥 A PLT hook library for Android native ELF.,MDEwOlJlcG9zaXRvcnkxMzAwMTI5NDI=
+402,magspoof,590,3597,C,https://github.com/samyk/magspoof,"A portable device that can spoof/emulate any magnetic stripe, credit card or hotel card ""wirelessly"", even on standard magstripe (non-NFC/RFID) readers. It can disable Chip&PIN and predict AMEX card numbers with 100% accuracy.",MDEwOlJlcG9zaXRvcnk0NjgxNDQ4MQ==
+403,flinux,257,3595,C,https://github.com/wishstudio/flinux,Foreign LINUX - Run unmodified Linux applications inside Windows.,MDEwOlJlcG9zaXRvcnkyMTczOTQ3Mg==
+404,grbl,1491,3579,C,https://github.com/gnea/grbl,"An open source, embedded, high performance g-code-parser and CNC milling controller written in optimized C that will run on a straight Arduino",MDEwOlJlcG9zaXRvcnk2ODc1MTg1Ng==
+405,mobile-ffmpeg,723,3573,C,https://github.com/tanersener/mobile-ffmpeg,"FFmpeg for Android, iOS and tvOS. Not maintained anymore. Superseded by FFmpegKit.",MDEwOlJlcG9zaXRvcnkxMjMxMzU2OTE=
+406,tinyusb,736,3573,C,https://github.com/hathach/tinyusb,An open source  cross-platform USB stack for embedded system,MDEwOlJlcG9zaXRvcnk2ODYwNzcx
+407,haproxy,665,3566,C,https://github.com/haproxy/haproxy,HAProxy Load Balancer's development branch (mirror of git.haproxy.org),MDEwOlJlcG9zaXRvcnkxMjg3OTE4ODk=
+408,kore,321,3562,C,https://github.com/jorisvink/kore,"An easy to use, scalable and secure web application framework for writing web APIs in C or Python. || This is a read-only mirror, please see https://kore.io/mail and https://kore.io/source for information on how to contribute via the mailing lists.",MDEwOlJlcG9zaXRvcnkxMDUwNDcwMg==
+409,contiki,2587,3547,C,https://github.com/contiki-os/contiki,"The official git repository for Contiki, the open source OS for the Internet of Things",MDEwOlJlcG9zaXRvcnk2MzY1Mjg0
+410,Skill-Tree,1097,3542,C,https://github.com/linw7/Skill-Tree,🐼 准备秋招，欢迎来树上取果实,MDEwOlJlcG9zaXRvcnk5NTYyNDc2Mw==
+411,AFLplusplus,702,3538,C,https://github.com/AFLplusplus/AFLplusplus,"The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",MDEwOlJlcG9zaXRvcnkxODkwNDQ3MDQ=
+412,hstr,221,3536,C,https://github.com/dvorka/hstr,"bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.",MDEwOlJlcG9zaXRvcnkxNDg3NzI3Mg==
+413,daytripper,165,3533,C,https://github.com/dekuNukem/daytripper,Hide-My-Windows Laser Tripwire,MDEwOlJlcG9zaXRvcnkxNDQ1NzUxNjk=
+414,tiny-AES-c,1201,3530,C,https://github.com/kokke/tiny-AES-c,Small portable AES128/192/256 in C,MDEwOlJlcG9zaXRvcnk0NDM0NDI4
+415,edk2,2022,3525,C,https://github.com/tianocore/edk2,EDK II,MDEwOlJlcG9zaXRvcnkxNjEzMTc2
+416,ChinaDNS,1353,3516,C,https://github.com/shadowsocks/ChinaDNS,Protect yourself against DNS poisoning in China.,MDEwOlJlcG9zaXRvcnkyMjIwMTExOA==
+417,legacy-cc,329,3497,C,https://github.com/mortdeus/legacy-cc,The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr. ,MDEwOlJlcG9zaXRvcnk4NTAyNDMz
+418,pthreads,514,3482,C,https://github.com/krakjoe/pthreads,"Threading for PHP - Share Nothing, Do Everything :)",MDEwOlJlcG9zaXRvcnk1NTg5NzIz
+419,bytehound,154,3462,C,https://github.com/koute/bytehound,A memory profiler for Linux.,MDEwOlJlcG9zaXRvcnkxODcwNDI0NzE=
+420,hyperkit,353,3454,C,https://github.com/moby/hyperkit,A toolkit for embedding hypervisor capabilities in your application,MDEwOlJlcG9zaXRvcnk1NTk4NTAyMw==
+421,f-stack,837,3440,C,https://github.com/F-Stack/f-stack,"F-Stack is an user space  network development kit with high performance based on DPDK, FreeBSD TCP/IP stack and coroutine API.",MDEwOlJlcG9zaXRvcnk4ODIyNDYyMQ==
+422,FreeRTOS,1155,3439,C,https://github.com/FreeRTOS/FreeRTOS,'Classic' FreeRTOS distribution.  Started as Git clone of FreeRTOS SourceForge SVN repo.  Submodules the kernel.,MDEwOlJlcG9zaXRvcnkyMDYxMjE4Mjg=
+424,orbital,248,3435,C,https://github.com/AlexAltea/orbital,Experimental PlayStation 4 emulator.,MDEwOlJlcG9zaXRvcnkxMDg2NjcyMDE=
+423,mimipenguin,636,3435,C,https://github.com/huntergregal/mimipenguin,A tool to dump the login password from the current linux user,MDEwOlJlcG9zaXRvcnk4NjUwODY4MQ==
+425,activate-linux,73,3434,C,https://github.com/MrGlockenspiel/activate-linux,"The ""Activate Windows"" watermark ported to Linux",R_kgDOHA7qZg
+426,uthash,820,3425,C,https://github.com/troydhanson/uthash,C macros for hash tables and more,MDEwOlJlcG9zaXRvcnk3NDc2OTQ4
+427,small-video-record,734,3422,C,https://github.com/mabeijianxi/small-video-record,利用FFmpeg视频录制微信小视频与其压缩处理,MDEwOlJlcG9zaXRvcnk2NjU0NDA3Mw==
+428,coz,147,3416,C,https://github.com/plasma-umass/coz,Coz: Causal Profiling,MDEwOlJlcG9zaXRvcnkxNDYyNTE2OA==
+429,keepalived,709,3413,C,https://github.com/acassen/keepalived,Keepalived,MDEwOlJlcG9zaXRvcnk0OTg4Nzk1
+430,nanopb,718,3413,C,https://github.com/nanopb/nanopb,Protocol Buffers with small code size,MDEwOlJlcG9zaXRvcnkzNDgwNzU2MQ==
+431,sandboxie,697,3407,C,https://github.com/sandboxie/sandboxie,The Sandboxie application,MDEwOlJlcG9zaXRvcnkyNTU2NzA3OTg=
+432,libfreenect,1143,3400,C,https://github.com/OpenKinect/libfreenect,"Drivers and libraries for the Xbox Kinect device on Windows, Linux, and OS X",MDEwOlJlcG9zaXRvcnkxMDczNzIy
+433,rpitx,449,3392,C,https://github.com/F5OEO/rpitx,RF transmitter for Raspberry Pi,MDEwOlJlcG9zaXRvcnk0NDY4ODE4Ng==
+434,coreutils,803,3381,C,https://github.com/coreutils/coreutils,upstream mirror,MDEwOlJlcG9zaXRvcnkxMTIzMzU5MA==
+435,noise-suppression-for-voice,161,3380,C,https://github.com/werman/noise-suppression-for-voice,Noise suppression plugin based on Xiph's RNNoise,MDEwOlJlcG9zaXRvcnkxMTgzNzA1NTg=
+436,sqlitestudio,481,3379,C,https://github.com/pawelsalawa/sqlitestudio,"A free, open source, multi-platform SQLite database manager.",MDEwOlJlcG9zaXRvcnkxMTcxMTk3MTg=
+437,write-a-C-interpreter,676,3374,C,https://github.com/lotabout/write-a-C-interpreter,Write a simple interpreter of C. Inspired by c4 and largely based on it.,MDEwOlJlcG9zaXRvcnk0ODQ2OTc2Mw==
+438,OBS,897,3372,C,https://github.com/jp9000/OBS,Open Broadcaster Software (Deprecated: See OBS Studio repository instead),MDEwOlJlcG9zaXRvcnk1NzkzMTEw
+439,dqlite,178,3365,C,https://github.com/canonical/dqlite,"Embeddable, replicated and fault tolerant SQL engine.",MDEwOlJlcG9zaXRvcnk5MjMyOTQzMw==
+440,dSYMTools,881,3364,C,https://github.com/answer-huang/dSYMTools,dSYM analyze,MDEwOlJlcG9zaXRvcnkyMTIzMjk1Mg==
+441,ngx_http_google_filter_module,804,3318,C,https://github.com/cuber/ngx_http_google_filter_module,Nginx Module for Google Mirror,MDEwOlJlcG9zaXRvcnkyODA3MTE3NQ==
+442,wuffs,116,3316,C,https://github.com/google/wuffs,Wrangling Untrusted File Formats Safely,MDEwOlJlcG9zaXRvcnkxMTA0ODIyNjc=
+443,picom,514,3315,C,https://github.com/yshui/picom,A lightweight compositor for X11,MDEwOlJlcG9zaXRvcnk2MzM2OTA3OA==
+444,UEFITool,550,3315,C,https://github.com/LongSoft/UEFITool,UEFI firmware image viewer and editor,MDEwOlJlcG9zaXRvcnkxMzQwNTk4Ng==
+445,CTF-All-In-One,645,3314,C,https://github.com/firmianay/CTF-All-In-One,CTF竞赛权威指南,MDEwOlJlcG9zaXRvcnk5NzI5MTIyMA==
+446,motion,538,3312,C,https://github.com/Motion-Project/motion,"Motion, a software motion detector.     Home page:  https://motion-project.github.io/",MDEwOlJlcG9zaXRvcnkyMDgyMjYyMA==
+447,Lilu,418,3284,C,https://github.com/acidanthera/Lilu,Arbitrary kext and process patching on macOS,MDEwOlJlcG9zaXRvcnk4MjgxNTc3MA==
+448,pocketsphinx,635,3284,C,https://github.com/cmusphinx/pocketsphinx,A small speech recognizer,MDEwOlJlcG9zaXRvcnkxODUxMzQ1NA==
+449,libuv,674,3282,C,https://github.com/joyent/libuv,Go to ,MDEwOlJlcG9zaXRvcnkxNTQzNDMx
+450,xCrash,559,3279,C,https://github.com/iqiyi/xCrash,"🔥 xCrash provides the Android app with the ability to capture java crash, native crash and ANR. No root permission or any system permissions are required.",MDEwOlJlcG9zaXRvcnkxNzk0MTE4NjE=
+451,msquic,419,3272,C,https://github.com/microsoft/msquic,"Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.",MDEwOlJlcG9zaXRvcnkyMTc2NTQxOTk=
+452,uwsgi,668,3266,C,https://github.com/unbit/uwsgi,uWSGI application server container,MDEwOlJlcG9zaXRvcnkyNTQxNzA0
+453,miraclecast,390,3250,C,https://github.com/albfan/miraclecast,Connect external monitors to your system via Wifi-Display specification also known as Miracast,MDEwOlJlcG9zaXRvcnkyMjU0MjY4NA==
+454,libaco,371,3248,C,https://github.com/hnes/libaco,A blazing fast and lightweight C asymmetric coroutine library  💎 ⛅🚀⛅🌞,MDEwOlJlcG9zaXRvcnkxMzkyNTA3NTk=
+455,cuda-samples,1199,3244,C,https://github.com/NVIDIA/cuda-samples,Samples for CUDA Developers which demonstrates features in CUDA Toolkit,MDEwOlJlcG9zaXRvcnkxMjcwMjM0NDE=
+456,minhook,758,3233,C,https://github.com/TsudaKageyu/minhook,The Minimalistic x86/x64 API Hooking Library for Windows,MDEwOlJlcG9zaXRvcnk5OTgyMTEy
+457,gifsicle,217,3228,C,https://github.com/kohler/gifsicle,"Create, manipulate, and optimize GIF images and animations",MDEwOlJlcG9zaXRvcnkxMDEyNzEwNA==
+458,tectonic,130,3224,C,https://github.com/tectonic-typesetting/tectonic,"A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.",MDEwOlJlcG9zaXRvcnk3NDkzNjY4MQ==
+459,jsmn,706,3222,C,https://github.com/zserge/jsmn,Jsmn is a world fastest JSON parser/tokenizer. This is the official repo replacing the old one at Bitbucket,MDEwOlJlcG9zaXRvcnk0MzY4MzA4Mg==
+460,libjpeg-turbo,905,3212,C,https://github.com/libjpeg-turbo/libjpeg-turbo,Main libjpeg-turbo repository,MDEwOlJlcG9zaXRvcnkzOTc2MDQ1NA==
+461,varnish-cache,365,3210,C,https://github.com/varnishcache/varnish-cache,Varnish Cache source code repository,MDEwOlJlcG9zaXRvcnk0MzY4MTgyNA==
+462,nDPI,821,3201,C,https://github.com/ntop/nDPI,Open Source Deep Packet Inspection Software Toolkit,MDEwOlJlcG9zaXRvcnkzNDE5NDA3NQ==
+463,Nintendo_Switch_Reverse_Engineering,187,3196,C,https://github.com/dekuNukem/Nintendo_Switch_Reverse_Engineering,A look at inner workings of Joycon and Nintendo Switch,MDEwOlJlcG9zaXRvcnk4NDQ1NzAyMg==
+464,minecraft-weekend,359,3195,C,https://github.com/jdah/minecraft-weekend,"Minecraft, but I made it in 48 hours.",MDEwOlJlcG9zaXRvcnkyNTcxMTM2Mzc=
+465,krackattacks-scripts,774,3193,C,https://github.com/vanhoefm/krackattacks-scripts,,MDEwOlJlcG9zaXRvcnkxMDc0MDg1MTQ=
+466,linenoise,603,3179,C,https://github.com/antirez/linenoise,A small self-contained alternative to readline and libedit,MDEwOlJlcG9zaXRvcnk1NzE5Mjk=
+467,httpd,1041,3179,C,https://github.com/apache/httpd,Mirror of Apache HTTP Server. Issues: http://issues.apache.org,MDEwOlJlcG9zaXRvcnkyMDU0MjM=
+468,cmatrix,316,3155,C,https://github.com/abishekvashok/cmatrix,"Terminal based ""The Matrix"" like implementation",MDEwOlJlcG9zaXRvcnkxNDAyMTIxOQ==
+469,rtty,425,3153,C,https://github.com/zhaojh329/rtty,🐛 Access your terminal from anywhere via the web.,MDEwOlJlcG9zaXRvcnk5MjcxNTAyMw==
+470,7-Zip-zstd,221,3131,C,https://github.com/mcmilk/7-Zip-zstd,"7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard",MDEwOlJlcG9zaXRvcnk2MTk1ODEzNQ==
+471,v4l2loopback,459,3127,C,https://github.com/umlaeute/v4l2loopback,v4l2-loopback device ,MDEwOlJlcG9zaXRvcnk5MzU3MzU=
+472,ovs,1803,3118,C,https://github.com/openvswitch/ovs,Open vSwitch,MDEwOlJlcG9zaXRvcnkxODM4MzM2NA==
+473,checkedc,194,3115,C,https://github.com/microsoft/checkedc,"Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe.  The goal is to let people easily make their existing C code type-safe and eliminate entire classes of errors. Checked C does not address use-after-free errors. This repo has a wiki for Checked C, sample code, the specification, and test code.",MDEwOlJlcG9zaXRvcnk1MjM3OTE4NA==
+474,nng,409,3112,C,https://github.com/nanomsg/nng,nanomsg-next-generation -- light-weight brokerless messaging,MDEwOlJlcG9zaXRvcnk3NjE1Nzc3NA==
+475,rt-n56u,3582,3112,C,https://github.com/hanwckf/rt-n56u,Padavan,MDEwOlJlcG9zaXRvcnkxMDg1Njg2Mzg=
+476,C,1563,3087,C,https://github.com/Mzzopublic/C,C语言,MDEwOlJlcG9zaXRvcnk1NTE4Nzkz
+477,zsh,420,3076,C,https://github.com/zsh-users/zsh,Mirror of the Z shell source code repository.,MDEwOlJlcG9zaXRvcnkyMDg2NDU5
+478,cava,193,3072,C,https://github.com/karlstav/cava,Cross-platform Audio Visualizer,MDEwOlJlcG9zaXRvcnkxNzgwODk0OQ==
+479,AFL,539,3070,C,https://github.com/google/AFL,american fuzzy lop - a security-oriented fuzzer,MDEwOlJlcG9zaXRvcnkxOTg4NjkyNTU=
+480,suricata,1221,3053,C,https://github.com/OISF/suricata,Suricata git repository maintained by the OISF,MDEwOlJlcG9zaXRvcnk1NDEwMjM0
+481,eddystone,789,3049,C,https://github.com/google/eddystone,"Specification for Eddystone, an open beacon format from Google",MDEwOlJlcG9zaXRvcnkzODEwNjQzMQ==
+482,openrazer,462,3046,C,https://github.com/openrazer/openrazer,Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux,MDEwOlJlcG9zaXRvcnk0NTgzODI3Mg==
+483,rubinius,606,3041,C,https://github.com/rubinius/rubinius,The Rubinius Language Platform,MDEwOlJlcG9zaXRvcnkyNw==
+484,tinyvm,286,3040,C,https://github.com/jakogut/tinyvm,"TinyVM is a small, fast, lightweight virtual machine written in pure ANSI C.",MDEwOlJlcG9zaXRvcnkxMjMxOTE3
+485,stellar-core,1008,3033,C,https://github.com/stellar/stellar-core,stellar-core is the reference implementation for the peer to peer agent that manages the Stellar network,MDEwOlJlcG9zaXRvcnkyNzA4NTgyMQ==
+486,emojicode,162,3032,C,https://github.com/emojicode/emojicode,😀😜🔂 World’s only programming language that’s bursting with emojis,MDEwOlJlcG9zaXRvcnk0ODg2MDI3NQ==
+487,clink,297,3017,C,https://github.com/mridgers/clink,Bash's powerful command line editing in cmd.exe,MDEwOlJlcG9zaXRvcnkxNTU5NDAzMw==
+488,entr,82,3010,C,https://github.com/eradman/entr,Run arbitrary commands when files change,MDEwOlJlcG9zaXRvcnkxMjY5ODMzOTk=
+489,wsltty,107,3008,C,https://github.com/mintty/wsltty,Mintty as a terminal for Bash on Ubuntu on Windows / WSL,MDEwOlJlcG9zaXRvcnk2NzkyODIyMw==
+490,displayplacer,112,3003,C,https://github.com/jakehilborn/displayplacer,macOS command line utility to configure multi-display resolutions and arrangements. Essentially XRandR for macOS.,MDEwOlJlcG9zaXRvcnkzNjY0NTU4NA==
+491,palera1n,375,3001,C,https://github.com/palera1n/palera1n,iOS 15.0-16.3.1 semi-tethered checkm8 jailbreak,R_kgDOIA463A
+492,ESP8266_RTOS_SDK,1493,3001,C,https://github.com/espressif/ESP8266_RTOS_SDK,"Latest ESP8266 SDK based on FreeRTOS, esp-idf style.",MDEwOlJlcG9zaXRvcnkyNzU4NDE4MQ==
+493,haxm,834,2989,C,https://github.com/intel/haxm,Intel® Hardware Accelerated Execution Manager (Intel® HAXM),MDEwOlJlcG9zaXRvcnk5ODI1Nzg1MA==
+494,oj,243,2982,C,https://github.com/ohler55/oj,Optimized JSON,MDEwOlJlcG9zaXRvcnkzNDY4NjE4
+495,bubblewrap,198,2977,C,https://github.com/containers/bubblewrap,Low-level unprivileged sandboxing tool used by Flatpak and similar projects,MDEwOlJlcG9zaXRvcnk1MTg2ODAxMA==
+496,openwifi,502,2969,C,https://github.com/open-sdr/openwifi,"open-source IEEE 802.11 WiFi baseband FPGA (chip) design: driver, software",MDEwOlJlcG9zaXRvcnkyMjA0NDk3NzI=
+497,3proxy,561,2961,C,https://github.com/3proxy/3proxy,3proxy - tiny free proxy server,MDEwOlJlcG9zaXRvcnkxODU1MTcwOQ==
+498,flex,487,2956,C,https://github.com/westes/flex,The Fast Lexical Analyzer - scanner generator for lexing in C and C++,MDEwOlJlcG9zaXRvcnkxNDUyMTAwMQ==
+499,rnnoise,803,2955,C,https://github.com/xiph/rnnoise,Recurrent neural network for audio noise reduction,MDEwOlJlcG9zaXRvcnk5OTE5OTE1MQ==
+500,retro,456,2951,C,https://github.com/openai/retro,Retro Games in Gym,MDEwOlJlcG9zaXRvcnkxMjA1NDEzOTc=
+501,glad,367,2941,C,https://github.com/Dav1dde/glad,Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.,MDEwOlJlcG9zaXRvcnkxMTczNzM4NQ==
+502,icmptunnel,339,2937,C,https://github.com/DhavalKapil/icmptunnel,Transparently tunnel your IP traffic through ICMP echo and reply packets.,MDEwOlJlcG9zaXRvcnk0MTMyODYxMg==
+503,Unity,830,2934,C,https://github.com/ThrowTheSwitch/Unity,Simple Unit Testing for C,MDEwOlJlcG9zaXRvcnkzMjc2ODYw
+504,Data-Structure,939,2933,C,https://github.com/kangjianwei/Data-Structure,《数据结构》-严蔚敏.吴伟民-教材源码与习题解析,MDEwOlJlcG9zaXRvcnkxNTE3MjAxNjg=
+505,pcileech,506,2929,C,https://github.com/ufrisk/pcileech,Direct Memory Access (DMA) Attack Software,MDEwOlJlcG9zaXRvcnk2NDMyNDQxMw==
+506,ostep-projects,892,2921,C,https://github.com/remzi-arpacidusseau/ostep-projects,Projects for an undergraduate OS course,MDEwOlJlcG9zaXRvcnkxMTc3MDQ2NTY=
+507,aubio,357,2920,C,https://github.com/aubio/aubio,a library for audio and music analysis,MDEwOlJlcG9zaXRvcnkzOTYzODk=
+508,AirConnect,202,2920,C,https://github.com/philippe44/AirConnect,Use AirPlay to stream to UPnP/Sonos & Chromecast devices,MDEwOlJlcG9zaXRvcnk5OTYyODc1MA==
+509,nchan,298,2914,C,https://github.com/slact/nchan,"Fast, horizontally scalable, multiprocess pub/sub queuing server and proxy for HTTP, long-polling, Websockets and EventSource (SSE), powered by Nginx.",MDEwOlJlcG9zaXRvcnkyNzQyMTg=
+510,c-algorithms,697,2914,C,https://github.com/fragglet/c-algorithms,A library of common data structures and algorithms written in C.,MDEwOlJlcG9zaXRvcnk3MzY2NDQ=
+511,psycopg2,475,2910,C,https://github.com/psycopg/psycopg2,PostgreSQL database adapter for the Python programming language,MDEwOlJlcG9zaXRvcnk3NzMwODI5
+512,odyssey,142,2903,C,https://github.com/yandex/odyssey,Scalable PostgreSQL connection pooler,MDEwOlJlcG9zaXRvcnkxMzUxNzU1MTM=
+513,redsocks,827,2900,C,https://github.com/darkk/redsocks,transparent TCP-to-proxy redirector,MDEwOlJlcG9zaXRvcnk0MzY1MQ==
+514,bjoern,186,2900,C,https://github.com/jonashaag/bjoern,A screamingly fast Python 2/3 WSGI server written in C.,MDEwOlJlcG9zaXRvcnk1NDIwODk=
+515,nginx-module-vts,429,2899,C,https://github.com/vozlt/nginx-module-vts,Nginx virtual host traffic status module,MDEwOlJlcG9zaXRvcnkzMDc1OTQ5OQ==
+516,p2pvc,220,2890,C,https://github.com/mofarrell/p2pvc,A point to point color terminal video chat.,MDEwOlJlcG9zaXRvcnkzMDQ0MjIxMQ==
+517,leetcode,794,2887,C,https://github.com/begeekmyfriend/leetcode,LeetCode in pure C,MDEwOlJlcG9zaXRvcnkzNzQ3NDY4Ng==
+518,lastpass-cli,286,2870,C,https://github.com/lastpass/lastpass-cli,LastPass command line interface tool,MDEwOlJlcG9zaXRvcnkyNTU4Njc4Mg==
+519,INTANG,588,2862,C,https://github.com/seclab-ucr/INTANG,,MDEwOlJlcG9zaXRvcnkxMDM3MTA2NzM=
+520,openwrt,1797,2860,C,https://github.com/Lienol/openwrt,Lienol's Modified OpenWrt source,MDEwOlJlcG9zaXRvcnkyNDAwMTExNDU=
+521,hexchat,510,2843,C,https://github.com/hexchat/hexchat,GTK+ IRC client,MDEwOlJlcG9zaXRvcnk0OTk0Nzg1
+522,lk,557,2842,C,https://github.com/littlekernel/lk,LK embedded kernel,MDEwOlJlcG9zaXRvcnkzMDU4NDU2
+523,collectd,1227,2839,C,https://github.com/collectd/collectd,The system statistics collection daemon. Please send Pull Requests here!,MDEwOlJlcG9zaXRvcnkzMjA4NjQw
+524,unit,268,2832,C,https://github.com/nginx/unit," NGINX Unit – universal web app server – a lightweight and versatile open source server project that works as a reverse proxy, serves static assets, and runs applications in multiple languages. ",MDEwOlJlcG9zaXRvcnkxMDI2Mjc2Mzg=
+525,EasyLogger,990,2819,C,https://github.com/armink/EasyLogger,"An ultra-lightweight(ROM<1.6K, RAM<0.3k), high-performance C/C++ log library. | 一款超轻量级(ROM<1.6K, RAM<0.3k)、高性能的 C/C++ 日志库",MDEwOlJlcG9zaXRvcnkzNTMxMzMyOA==
+526,GTAO_Booster_PoC,187,2808,C,https://github.com/tostercx/GTAO_Booster_PoC,,MDEwOlJlcG9zaXRvcnkzNDMwNzkyMDQ=
+527,sqlean,80,2806,C,https://github.com/nalgeon/sqlean,The ultimate set of SQLite extensions,MDEwOlJlcG9zaXRvcnkzNDMxOTE4MDQ=
+528,ics-openvpn,1099,2799,C,https://github.com/schwabe/ics-openvpn,OpenVPN for Android,MDEwOlJlcG9zaXRvcnkzMjUxOTExOQ==
+529,inotify-tools,382,2791,C,https://github.com/inotify-tools/inotify-tools,  inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.,MDEwOlJlcG9zaXRvcnkzODE5NjU=
+530,janet,187,2788,C,https://github.com/janet-lang/janet,A dynamic language and bytecode vm,MDEwOlJlcG9zaXRvcnk4NDUyMTQ1OA==
+531,helloworld,1868,2787,C,https://github.com/fw876/helloworld,,MDEwOlJlcG9zaXRvcnkyNTYxMDUyOTY=
+532,clamav,593,2776,C,https://github.com/Cisco-Talos/clamav,ClamAV - Documentation is here: https://docs.clamav.net,MDEwOlJlcG9zaXRvcnk1MTI4MDg0
+533,pingfs,129,2775,C,https://github.com/yarrick/pingfs,Stores your data in ICMP ping packets,MDEwOlJlcG9zaXRvcnkyMjczODA3Mg==
+534,dumpdecrypted,668,2770,C,https://github.com/stefanesser/dumpdecrypted,Dumps decrypted mach-o files from encrypted iPhone applications from memory to disk. This tool is necessary for security researchers to be able to look under the hood of encryption.,MDEwOlJlcG9zaXRvcnkyNDc0NzE4
+535,Main_MiSTer,297,2763,C,https://github.com/MiSTer-devel/Main_MiSTer,Main MiSTer binary and Wiki,MDEwOlJlcG9zaXRvcnk5NDI0NjM0NA==
+536,jansson,778,2760,C,https://github.com/akheron/jansson,"C library for encoding, decoding and manipulating JSON data",MDEwOlJlcG9zaXRvcnkxODMzNjI=
+537,libffi,629,2754,C,https://github.com/libffi/libffi,A portable foreign-function interface library.,MDEwOlJlcG9zaXRvcnkzMjExNTQ=
+538,neomutt,273,2753,C,https://github.com/neomutt/neomutt,✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat,MDEwOlJlcG9zaXRvcnk0ODM0NTY3NA==
+539,u-boot,2797,2736,C,https://github.com/u-boot/u-boot,"""Das U-Boot"" Source Tree",MDEwOlJlcG9zaXRvcnkyNjUzNzEzNQ==
+540,honggfuzz,514,2735,C,https://github.com/google/honggfuzz,"Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based)",MDEwOlJlcG9zaXRvcnkzNTIyODc2OQ==
+541,rpi4-osdev,190,2727,C,https://github.com/isometimes/rpi4-osdev,"Tutorial: Writing a ""bare metal"" operating system for Raspberry Pi 4",MDEwOlJlcG9zaXRvcnkyNzkwMjg3MDM=
+542,miniaudio,235,2725,C,https://github.com/mackron/miniaudio,"Audio playback and capture library written in C, in a single source file.",MDEwOlJlcG9zaXRvcnk3MTUyNTYzMA==
+543,fzy,116,2725,C,https://github.com/jhawthorn/fzy,":mag: A simple, fast fuzzy finder for the terminal",MDEwOlJlcG9zaXRvcnkyMTc1OTUzMg==
+544,proxmark3,862,2724,C,https://github.com/Proxmark/proxmark3,Proxmark 3,MDEwOlJlcG9zaXRvcnkxNzgxMjAzNw==
+545,muon,66,2715,C,https://github.com/ImVexed/muon,GPU based Electron on a diet,MDEwOlJlcG9zaXRvcnkyMTExNzU2NDM=
+546,zydis,383,2714,C,https://github.com/zyantific/zydis,Fast and lightweight x86/x86-64 disassembler and code generation library,MDEwOlJlcG9zaXRvcnkyNTcwODE2Mw==
+547,QuickJS,270,2713,C,https://github.com/quickjs-zh/QuickJS,QuickJS是一个小型并且可嵌入的Javascript引擎，它支持ES2020规范，包括模块，异步生成器和代理器。,MDEwOlJlcG9zaXRvcnkxOTY1ODExODk=
+548,awtk,719,2707,C,https://github.com/zlgopen/awtk,AWTK = Toolkit AnyWhere(a cross-platform embedded GUI),MDEwOlJlcG9zaXRvcnkxMjIzMjU1NzA=
+550,src,807,2687,C,https://github.com/openbsd/src,Public git conversion mirror of OpenBSD's official CVS src repository. Pull requests not accepted - send diffs to the tech@ mailing list.,MDEwOlJlcG9zaXRvcnk2Njk2NjIwOA==
+549,memreduct,285,2687,C,https://github.com/henrypp/memreduct,Lightweight real-time memory management application to monitor and clean system memory on your computer.,MDEwOlJlcG9zaXRvcnkyODA1ODcxMw==
+551,nq,57,2685,C,https://github.com/leahneukirchen/nq,Unix command line queue utility,MDEwOlJlcG9zaXRvcnk0MDAwODY1Mw==
+552,zimg,408,2681,C,https://github.com/buaazp/zimg,A lightweight and high performance image storage and processing system.,MDEwOlJlcG9zaXRvcnkxMTEwMjkwOQ==
+553,premake-core,566,2671,C,https://github.com/premake/premake-core,Premake,MDEwOlJlcG9zaXRvcnkzMjYzNDQwNQ==
+554,UVCCamera,1123,2663,C,https://github.com/saki4510t/UVCCamera,library and sample to access to UVC web camera on non-rooted Android device,MDEwOlJlcG9zaXRvcnkxOTQwMzAyOA==
+555,pwnat,436,2661,C,https://github.com/samyk/pwnat,"The only tool and technique to punch holes through firewalls/NATs where both clients and server can be behind separate NATs without any 3rd party involvement. Pwnat uses a newly developed technique, exploiting a property of NAT translation tables, with no 3rd party, port forwarding, DMZ, router administrative requirements, STUN/TURN/UPnP/ICE, or spoofing required.",MDEwOlJlcG9zaXRvcnk1MzY1NTEx
+556,neuralcoref,462,2660,C,https://github.com/huggingface/neuralcoref,✨Fast Coreference Resolution in spaCy with Neural Networks,MDEwOlJlcG9zaXRvcnk5NjExMTU5Mw==
+557,webdis,295,2657,C,https://github.com/nicolasff/webdis,A Redis HTTP interface with JSON output,MDEwOlJlcG9zaXRvcnkxMTg0Njc4
+558,EasyHook,619,2651,C,https://github.com/EasyHook/EasyHook,EasyHook - The reinvention of Windows API Hooking,MDEwOlJlcG9zaXRvcnk0MDQyNDYyMg==
+559,json-c,1032,2648,C,https://github.com/json-c/json-c,https://github.com/json-c/json-c is the official code repository for json-c.  See the wiki for release tarballs for download.  API docs at http://json-c.github.io/json-c/,MDEwOlJlcG9zaXRvcnkxMTM5MTE5
+560,os,217,2648,C,https://github.com/minoca/os,Minoca operating system,MDEwOlJlcG9zaXRvcnk3MjM4NTU5MA==
+561,gear-lib,753,2645,C,https://github.com/gozfree/gear-lib,"Gear-Lib, C library for IOT Embedded Multimedia and Network",MDEwOlJlcG9zaXRvcnk0MDM1OTg3MQ==
+562,notcurses,96,2644,C,https://github.com/dankamongmen/notcurses,blingful character graphics/TUI library. definitely not curses.,MDEwOlJlcG9zaXRvcnkyMjIxODczNjE=
+563,libmill,201,2642,C,https://github.com/sustrik/libmill,Go-style concurrency in C,MDEwOlJlcG9zaXRvcnkxOTI2NzY1Mg==
+564,libmodbus,1531,2635,C,https://github.com/stephane/libmodbus,"A Modbus library for Linux, Mac OS, FreeBSD and Windows",MDEwOlJlcG9zaXRvcnk0ODE5Nzc=
+565,weechat,311,2634,C,https://github.com/weechat/weechat,The extensible chat client.,MDEwOlJlcG9zaXRvcnkxNzM1OTIxMA==
+566,irssi,348,2631,C,https://github.com/irssi/irssi,The client of the future,MDEwOlJlcG9zaXRvcnkyMDM0NDAzMA==
+567,Broadway,421,2629,C,https://github.com/mbebenita/Broadway,A JavaScript H.264 decoder.,MDEwOlJlcG9zaXRvcnkyNTc3OTM5
+568,patchelf,410,2626,C,https://github.com/NixOS/patchelf,A small utility to modify the dynamic linker and RPATH of ELF executables,MDEwOlJlcG9zaXRvcnkyOTI4MTY0
+569,mjpg-streamer,1154,2625,C,https://github.com/jacksonliam/mjpg-streamer,Fork of http://sourceforge.net/projects/mjpg-streamer/,MDEwOlJlcG9zaXRvcnkxMDU1NTAyMQ==
+570,starrtc-server,843,2624,C,https://github.com/starrtc/starrtc-server,免费IM系统，IM即时通信消息系统(含一对一文字聊天，群聊，聊天室)，免费一对一voip实时通话，录屏，webrtc服务端，免费直播连麦，互动直播，视频直播，RTSP拉流，RTMP推流，语音对讲，免费在线会议，视频会议等服务端程序，支持物联网平台，✨万水千山总是情，来个star行不行✨,MDEwOlJlcG9zaXRvcnkxNjQ1ODUyNDc=
+571,libopencm3,954,2613,C,https://github.com/libopencm3/libopencm3,Open source ARM Cortex-M microcontroller library,MDEwOlJlcG9zaXRvcnk0MDY1OTgw
+572,massdns,439,2612,C,https://github.com/blechschmidt/massdns,A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration),MDEwOlJlcG9zaXRvcnk2MTc5NjcyNQ==
+573,SmartAppUpdates,835,2612,C,https://github.com/cundong/SmartAppUpdates,Android应用增量更新,MDEwOlJlcG9zaXRvcnkxNTAzOTQ2Nw==
+574,shadowsocksr-native,788,2612,C,https://github.com/ShadowsocksR-Live/shadowsocksr-native,"翻墙 从容穿越党国敏感日 ShadowsocksR (SSRoT) native implementation for all platforms, GFW terminator",MDEwOlJlcG9zaXRvcnk5ODY1MTE2Ng==
+575,microui,200,2605,C,https://github.com/rxi/microui,A tiny immediate-mode UI library,MDEwOlJlcG9zaXRvcnkxNDk4NTQ3MDU=
+576,pafish,442,2600,C,https://github.com/a0rtega/pafish,Pafish is a testing tool that uses different techniques to detect virtual machines and malware analysis environments in the same way that malware families do,MDEwOlJlcG9zaXRvcnk0ODQ5NjMw
+577,esp-link,692,2597,C,https://github.com/jeelabs/esp-link,"esp8266 wifi-serial bridge, outbound TCP, and arduino/AVR/LPC/NXP programmer",MDEwOlJlcG9zaXRvcnkzNTczMDA0Ng==
+578,obs-ndi,308,2588,C,https://github.com/obs-ndi/obs-ndi,NewTek NDI integration for OBS Studio,MDEwOlJlcG9zaXRvcnk3MTY0MzAwOA==
+579,viabtc_exchange_server,1497,2586,C,https://github.com/viabtc/viabtc_exchange_server,A trading engine with high-speed performance and real-time notification,MDEwOlJlcG9zaXRvcnk4NDAyMzE4Mw==
+580,geany,564,2569,C,https://github.com/geany/geany,A fast and lightweight IDE,MDEwOlJlcG9zaXRvcnkyNTMyOTIy
+581,shellinabox,444,2567,C,https://github.com/shellinabox/shellinabox,Official-ish Fork of Shell In A Box,MDEwOlJlcG9zaXRvcnkzMTU2NDMyMg==
+582,waifu2x-ncnn-vulkan,187,2561,C,https://github.com/nihui/waifu2x-ncnn-vulkan,"waifu2x converter ncnn version, runs fast on intel / amd / nvidia / apple-silicon GPU with vulkan",MDEwOlJlcG9zaXRvcnkxNzkzMDQ3NTI=
+583,TFT_eSPI,824,2560,C,https://github.com/Bodmer/TFT_eSPI,"Arduino and PlatformIO IDE compatible TFT library optimised for the Raspberry Pi Pico (RP2040), STM32, ESP8266 and ESP32 that supports different driver chips",MDEwOlJlcG9zaXRvcnk4Mjc1NDU1Ng==
+584,Espruino,714,2557,C,https://github.com/espruino/Espruino,The Espruino JavaScript interpreter - Official Repo,MDEwOlJlcG9zaXRvcnkxMzEyMzE0Mg==
+585,box86,187,2557,C,https://github.com/ptitSeb/box86,"Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices",MDEwOlJlcG9zaXRvcnkxNjQ4NDQ1NDY=
+586,Tiny,342,2554,C,https://github.com/Sunzxyong/Tiny,an image compression framework.（一个高保真、高压缩比的图片压缩框架）,MDEwOlJlcG9zaXRvcnk4NzE1MTUwMw==
+587,PolarDB-for-PostgreSQL,405,2553,C,https://github.com/ApsaraDB/PolarDB-for-PostgreSQL,A cloud-native database based on PostgreSQL developed by Alibaba Cloud.,MDEwOlJlcG9zaXRvcnkzNzA1Mjk1MDU=
+588,sl,391,2553,C,https://github.com/mtoyoda/sl,SL(1): Cure your bad habit of mistyping,MDEwOlJlcG9zaXRvcnk5ODU4NzE4
+589,WizQTClient,815,2552,C,https://github.com/WizTeam/WizQTClient,为知笔记跨平台客户端,MDEwOlJlcG9zaXRvcnk2NjgyMDk0
+590,dpvs,654,2552,C,https://github.com/iqiyi/dpvs,DPVS is a high performance Layer-4 load balancer based on DPDK.,MDEwOlJlcG9zaXRvcnkxMDYzNzU2MzE=
+591,donut,499,2552,C,https://github.com/TheWover/donut,"Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files, and other Windows payloads from memory and runs them with parameters",MDEwOlJlcG9zaXRvcnkxNzgwODk0OTk=
+592,pipelinedb,236,2548,C,https://github.com/pipelinedb/pipelinedb,High-performance time-series aggregation for PostgreSQL,MDEwOlJlcG9zaXRvcnkxNDcwMjQ0NA==
+593,tidy-html5,422,2545,C,https://github.com/htacg/tidy-html5,"The granddaddy of HTML tools, with support for modern standards",MDEwOlJlcG9zaXRvcnkyNzkzNzg4
+594,io,295,2542,C,https://github.com/IoLanguage/io,"Io programming language. Inspired by Self, Smalltalk and LISP.",MDEwOlJlcG9zaXRvcnk5NjY=
+595,acl,917,2541,C,https://github.com/acl-dev/acl,"A powerful server and network library, including coroutine, redis client, http, websocket, mqtt with C/C++ for multi-platform.",MDEwOlJlcG9zaXRvcnk2MTExMjk3
+596,gnucash,691,2538,C,https://github.com/Gnucash/gnucash,GnuCash Double-Entry Accounting Program.,MDEwOlJlcG9zaXRvcnk3OTY2NjUw
+597,iotjs,455,2532,C,https://github.com/jerryscript-project/iotjs,Platform for Internet of Things with JavaScript http://www.iotjs.net ,MDEwOlJlcG9zaXRvcnkzMzU4OTQ3MA==
+598,amazon-freertos,1114,2527,C,https://github.com/aws/amazon-freertos,DEPRECATED - See README.md,MDEwOlJlcG9zaXRvcnkxMTAxNzA0Mzk=
+599,Collections-C,320,2525,C,https://github.com/srdja/Collections-C,A library of generic data structures.,MDEwOlJlcG9zaXRvcnkyMzA0MTk0OA==
+600,ostep-code,1111,2519,C,https://github.com/remzi-arpacidusseau/ostep-code,Code from various chapters in OSTEP (http://www.ostep.org),MDEwOlJlcG9zaXRvcnkxMjI5OTMxODY=
+601,sysstat,408,2519,C,https://github.com/sysstat/sysstat,Performance monitoring tools for Linux,MDEwOlJlcG9zaXRvcnk5NjcwMTk4
+602,frr,1024,2517,C,https://github.com/FRRouting/frr,The FRRouting Protocol Suite,MDEwOlJlcG9zaXRvcnk3NjU5OTQzOQ==
+603,minix,840,2508,C,https://github.com/Stichting-MINIX-Research-Foundation/minix,Official MINIX sources - Automatically replicated from gerrit.minix3.org,MDEwOlJlcG9zaXRvcnkyNDc1MTE0Nw==
+604,webgl-noise,273,2503,C,https://github.com/ashima/webgl-noise,Procedural Noise Shader Routines compatible with WebGL,MDEwOlJlcG9zaXRvcnkxNDAwMTI1
+605,lightning,819,2503,C,https://github.com/ElementsProject/lightning,Core Lightning — Lightning Network implementation focusing on spec compliance and performance,MDEwOlJlcG9zaXRvcnkzNzM1MDQ3Mg==
+606,ffmpeg-kit,351,2503,C,https://github.com/arthenica/ffmpeg-kit,"FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.",MDEwOlJlcG9zaXRvcnkyODMxNDk2MzU=
+607,proxmark3,782,2499,C,https://github.com/RfidResearchGroup/proxmark3,"The Iceman fork of Proxmark3 / RFID / NFC  reader, writer, sniffer and emulator ",MDEwOlJlcG9zaXRvcnkxNDQ0NjUzNzI=
+608,word2vec,627,2494,C,https://github.com/danielfrg/word2vec,Python interface to Google word2vec,MDEwOlJlcG9zaXRvcnkxMjM2NjE5NQ==
+609,cleanflight,1383,2487,C,https://github.com/cleanflight/cleanflight,Clean-code version of the baseflight flight controller firmware,MDEwOlJlcG9zaXRvcnk5MDY2MzQ3
+610,Kernelhub,637,2483,C,https://github.com/Ascotbe/Kernelhub,":palm_tree:Linux、macOS、Windows Kernel privilege escalation vulnerability collection, with compilation environment, demo GIF map, vulnerability details, executable file  (提权漏洞合集) ",MDEwOlJlcG9zaXRvcnkyODYxNzU0Njc=
+611,npcap,478,2483,C,https://github.com/nmap/npcap,Nmap Project's Windows packet capture and transmission library,MDEwOlJlcG9zaXRvcnkzNTg1NTM1Nw==
+612,Remotery,230,2476,C,https://github.com/Celtoys/Remotery,"Single C file, Realtime CPU/GPU Profiler with Remote Web Viewer",MDEwOlJlcG9zaXRvcnkxNzY2NDM4MQ==
+613,HomeKitADK,237,2464,C,https://github.com/apple/HomeKitADK,,MDEwOlJlcG9zaXRvcnkyMjc0MjQ0OTU=
+614,exploits,710,2464,C,https://github.com/r4j0x00/exploits,,MDEwOlJlcG9zaXRvcnkyOTA1NjgxNTU=
+615,media-server,958,2455,C,https://github.com/ireader/media-server,RTSP/RTP/RTMP/FLV/HLS/MPEG-TS/MPEG-PS/MPEG-DASH/MP4/fMP4/MKV/WebM,MDEwOlJlcG9zaXRvcnkxNTU5ODQ5Ng==
+616,luna,162,2448,C,https://github.com/tj/luna,"luna programming language - a small, elegant VM implemented in C",MDEwOlJlcG9zaXRvcnkxODQwNDE3
+617,packr,171,2445,C,https://github.com/libgdx/packr,"Packages your JAR, assets and a JVM for distribution on Windows, Linux and Mac OS X",MDEwOlJlcG9zaXRvcnkxODE4ODQyMA==
+618,WebBench,1149,2444,C,https://github.com/EZLippi/WebBench,Webbench是Radim Kolar在1997年写的一个在linux下使用的非常简单的网站压测工具。它使用fork()模拟多个客户端同时访问我们设定的URL，测试网站在压力下工作的性能，最多可以模拟3万个并发连接去测试网站的负载能力。官网地址:http://home.tiscali.cz/~cz210552/webbench.html,MDEwOlJlcG9zaXRvcnkzMzg0ODI1OA==
+619,axel,243,2442,C,https://github.com/axel-download-accelerator/axel,Lightweight CLI download accelerator,MDEwOlJlcG9zaXRvcnk0MDY2MjkzNw==
+620,mpc,280,2437,C,https://github.com/orangeduck/mpc,A Parser Combinator library for C,MDEwOlJlcG9zaXRvcnkxMzEyMjg2OA==
+621,MemoryModule,724,2431,C,https://github.com/fancycode/MemoryModule,Library to load a DLL from memory.,MDEwOlJlcG9zaXRvcnkxMDE4NTIy
+622,wine,927,2431,C,https://github.com/wine-mirror/wine,,MDEwOlJlcG9zaXRvcnkyMjcxMTgwMg==
+623,sxhkd,130,2427,C,https://github.com/baskerville/sxhkd,Simple X hotkey daemon,MDEwOlJlcG9zaXRvcnk3Mzg2Mzg5
+624,surge,327,2423,C,https://github.com/surge-synthesizer/surge,Synthesizer plug-in (previously released as Vember Audio Surge),MDEwOlJlcG9zaXRvcnkxNDk2NzgyMDI=
+625,xdotool,280,2421,C,https://github.com/jordansissel/xdotool,"fake keyboard/mouse input, window management, and more ",MDEwOlJlcG9zaXRvcnkxMzcyMjU0
+626,shairport,1092,2418,C,https://github.com/abrasive/shairport,Airtunes emulator! Shairport is no longer maintained.,MDEwOlJlcG9zaXRvcnkxNTk3NzEx
+628,nginx-http-flv-module,535,2415,C,https://github.com/winshining/nginx-http-flv-module,"A media streaming server based on nginx-rtmp-module. In addtion to the features nginx-rtmp-module provides, HTTP-FLV, GOP cache and VHost (one IP for multi domain names) are supported now.",MDEwOlJlcG9zaXRvcnk5NTM0ODkzNw==
+627,RMStore,458,2415,C,https://github.com/robotmedia/RMStore,A lightweight iOS library for In-App Purchases,MDEwOlJlcG9zaXRvcnkxMTc2NjY5NQ==
+629,goxel,208,2414,C,https://github.com/guillaumechereau/goxel,Goxel: Free and Open Source 3D Voxel Editor ,MDEwOlJlcG9zaXRvcnk0MzY1OTQ3NQ==
+630,guacamole-server,538,2412,C,https://github.com/apache/guacamole-server,Mirror of Apache Guacamole Server,MDEwOlJlcG9zaXRvcnk1NDQ1MjYyNw==
+631,raspi3-tutorial,312,2408,C,https://github.com/bztsrc/raspi3-tutorial,Bare metal Raspberry Pi 3 tutorials,MDEwOlJlcG9zaXRvcnkxMTYyODg3OTE=
+632,tsar,734,2407,C,https://github.com/alibaba/tsar,Taobao System Activity Reporter,MDEwOlJlcG9zaXRvcnk3NjQyNTY5
+633,yyjson,222,2406,C,https://github.com/ibireme/yyjson,The fastest C JSON library,MDEwOlJlcG9zaXRvcnkzMDIyOTgwOTU=
+634,blackmagic,657,2402,C,https://github.com/blackmagic-debug/blackmagic,In application debugger for ARM Cortex microcontrollers.,MDEwOlJlcG9zaXRvcnkxMzM1Njgw
+635,PF_RING,334,2396,C,https://github.com/ntop/PF_RING,High-speed packet processing framework,MDEwOlJlcG9zaXRvcnkzNTA0MDA5Ng==
+636,httrack,533,2391,C,https://github.com/xroche/httrack,"HTTrack Website Copier, copy websites to your computer (Official repository)",MDEwOlJlcG9zaXRvcnkzMjIwMjE2NQ==
+637,bdwgc,348,2391,C,https://github.com/ivmai/bdwgc,"The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (bdwgc, also known as bdw-gc, boehm-gc, libgc)",MDEwOlJlcG9zaXRvcnkyMTA5NDU2
+638,ZBar,1040,2385,C,https://github.com/ZBar/ZBar,Clone of the mercurial repository http://zbar.hg.sourceforge.net:8000/hgroot/zbar/zbar,MDEwOlJlcG9zaXRvcnk1OTE0OTMz
+639,mongoose-os,435,2372,C,https://github.com/cesanta/mongoose-os,"Mongoose OS - an IoT Firmware Development Framework. Supported microcontrollers: ESP32, ESP8266, CC3220, CC3200, STM32F4, STM32L4, STM32F7. Amazon AWS IoT, Microsoft Azure, Google IoT Core integrated. Code in C or JavaScript.",MDEwOlJlcG9zaXRvcnkyMTMxODI2OA==
+640,tvheadend,876,2364,C,https://github.com/tvheadend/tvheadend,"Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV,SAT>IP and other formats through the unix pipe as input sources.",MDEwOlJlcG9zaXRvcnkxMjA4MzYw
+641,ShiYanLou,719,2363,C,https://github.com/Ewenwan/ShiYanLou,学习C & C++ & python&汇编语言 LLVM编译器 数据结构 算法 操作系统 单片机  linux  面试,MDEwOlJlcG9zaXRvcnkxMTA1NTkwOTk=
+643,Arduino_STM32,1211,2362,C,https://github.com/rogerclarkmelbourne/Arduino_STM32,"Arduino STM32. Hardware files to support STM32 boards, on Arduino IDE 1.8.x including LeafLabs Maple and other generic STM32F103 boards",MDEwOlJlcG9zaXRvcnkyNTk0NzE3NQ==
+642,u2f-zero,202,2362,C,https://github.com/conorpp/u2f-zero,"U2F USB token optimized for physical security, affordability, and style",MDEwOlJlcG9zaXRvcnk0ODgzNDA2Mw==
+644,spdk,964,2349,C,https://github.com/spdk/spdk,Storage Performance Development Kit,MDEwOlJlcG9zaXRvcnkzOTA0MjE1Nw==
+645,uftrace,354,2348,C,https://github.com/namhyung/uftrace,Function graph tracer for C/C++/Rust,MDEwOlJlcG9zaXRvcnkxNjcyNzc0OQ==
+646,lwip,230,2347,C,https://github.com/EyalAr/lwip,Light Weight Image Processor for NodeJS,MDEwOlJlcG9zaXRvcnkyMTMwNjIxMw==
+647,dpdk,1010,2347,C,https://github.com/DPDK/dpdk,Data Plane Development Kit,MDEwOlJlcG9zaXRvcnk5NjM0ODg0Mg==
+648,tmux-MacOSX-pasteboard,83,2338,C,https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard,Notes and workarounds for accessing the Mac OS X pasteboard in tmux sessions. Note: The pu branch (“Proposed Updates”) may be rewound without notice.,MDEwOlJlcG9zaXRvcnkxNTI4NjM5
+649,permafrost-engine,82,2336,C,https://github.com/eduard-permyakov/permafrost-engine,An OpenGL RTS game engine written in C,MDEwOlJlcG9zaXRvcnkxMTU4MTc4NzM=
+650,inav,1228,2336,C,https://github.com/iNavFlight/inav,INAV: Navigation-enabled flight control software,MDEwOlJlcG9zaXRvcnkzMjE0ODYwNA==
+651,sl4a,820,2325,C,https://github.com/damonkohler/sl4a,SL4A brings scripting languages to Android by allowing you to edit and execute scripts and interactive interpreters directly on the Android device.,MDEwOlJlcG9zaXRvcnkxMzE0NzM1Mw==
+652,vifm,105,2324,C,https://github.com/vifm/vifm,"Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt.",MDEwOlJlcG9zaXRvcnkxMTIxNzk=
+653,fsearch,187,2321,C,https://github.com/cboxdoerfer/fsearch,A fast file search utility for Unix-like systems based on GTK3,MDEwOlJlcG9zaXRvcnk0OTgyMjYxMA==
+654,simple-obfs,572,2318,C,https://github.com/shadowsocks/simple-obfs,A simple obfuscating tool (Deprecated),MDEwOlJlcG9zaXRvcnk3NzczOTE2Mg==
+655,chia-plotter,676,2316,C,https://github.com/madMAx43v3r/chia-plotter,,MDEwOlJlcG9zaXRvcnkzNjk4NTIwODc=
+656,fftw3,596,2315,C,https://github.com/FFTW/fftw3,DO NOT CHECK OUT THESE FILES FROM GITHUB UNLESS YOU KNOW WHAT YOU ARE DOING. (See below.),MDEwOlJlcG9zaXRvcnk4ODQzMzg4
+657,civetweb,884,2312,C,https://github.com/civetweb/civetweb,Embedded C/C++ web server,MDEwOlJlcG9zaXRvcnkxMzM1Mjk0OQ==
+658,annotated_redis_source,1059,2312,C,https://github.com/huangz1990/annotated_redis_source,带有详细注释的 Redis 2.6 源码,MDEwOlJlcG9zaXRvcnk4NTc0ODk4
+659,libsql,57,2311,C,https://github.com/libsql/libsql,"libSQL is a fork of SQLite that is both Open Source, and Open Contributions.",R_kgDOIGG8zg
+660,enet,606,2308,C,https://github.com/lsalzman/enet,ENet reliable UDP networking library ,MDEwOlJlcG9zaXRvcnk0MjMzMjk5
+661,julius,250,2303,C,https://github.com/bvschaik/julius,An open source re-implementation of Caesar III,MDEwOlJlcG9zaXRvcnkxMDA4MjA1NTU=
+662,pigz,158,2303,C,https://github.com/madler/pigz,"A parallel implementation of gzip for modern multi-processor, multi-core machines.",MDEwOlJlcG9zaXRvcnk2MDMyODY=
+663,ExpressLRS,453,2302,C,https://github.com/ExpressLRS/ExpressLRS,STM32/ESP32/ESP8285-based High-Performance Radio Link for RC applications,MDEwOlJlcG9zaXRvcnkxNTEwNjQ0Mzk=
+664,swift-corelibs-libdispatch,445,2301,C,https://github.com/apple/swift-corelibs-libdispatch,"The libdispatch Project, (a.k.a. Grand Central Dispatch), for concurrency on multicore hardware",MDEwOlJlcG9zaXRvcnk0NTg2Mzk2NQ==
+665,pycryptodome,430,2300,C,https://github.com/Legrandin/pycryptodome,A self-contained cryptographic library for Python,MDEwOlJlcG9zaXRvcnkxOTM3ODkzNQ==
+666,Goldleaf,281,2297,C,https://github.com/XorTroll/Goldleaf,🍂 Multipurpose homebrew tool for Nintendo Switch,MDEwOlJlcG9zaXRvcnkxMzkwODg3MzY=
+667,SketchyBar,41,2296,C,https://github.com/FelixKratz/SketchyBar,A highly customizable macOS status bar replacement,MDEwOlJlcG9zaXRvcnkzOTU2ODQwMTU=
+668,NetHack,409,2292,C,https://github.com/NetHack/NetHack,Official NetHack Git Repository,MDEwOlJlcG9zaXRvcnk0NzU5MzU0Ng==
+669,CreepyCodeCollection,139,2290,C,https://github.com/MinhasKamal/CreepyCodeCollection,A Nonsense Collection of Disgusting Codes,MDEwOlJlcG9zaXRvcnk2Njc1ODQxMA==
+670,Quake-2,597,2288,C,https://github.com/id-Software/Quake-2,Quake 2 GPL Source Release,MDEwOlJlcG9zaXRvcnkzMzE4MTc0
+671,OpenSimpleLidar,223,2284,C,https://github.com/iliasam/OpenSimpleLidar,Open Source scanning laser rangefinder,MDEwOlJlcG9zaXRvcnk4NjQ5ODAxMw==
+672,rawdrawandroid,156,2278,C,https://github.com/cnlohr/rawdrawandroid,"Build android apps without any java, entirely in C and Make",MDEwOlJlcG9zaXRvcnkyMTIwMTI0NDA=
+673,openssh-portable,1543,2274,C,https://github.com/openssh/openssh-portable,Portable OpenSSH,MDEwOlJlcG9zaXRvcnkxNTk5MTQ1Nw==
+675,hidapi,893,2272,C,https://github.com/signal11/hidapi,"A Simple library for communicating with USB and Bluetooth HID devices on Linux, Mac, and Windows.",MDEwOlJlcG9zaXRvcnk2MDU0NTk=
+674,pico-sdk,566,2272,C,https://github.com/raspberrypi/pico-sdk,,MDEwOlJlcG9zaXRvcnkzMzEzODA3MjM=
+676,libfaketime,285,2269,C,https://github.com/wolfcw/libfaketime,libfaketime modifies the system time for a single application,MDEwOlJlcG9zaXRvcnkxNjU3MjE1
+677,netcode,178,2264,C,https://github.com/networkprotocol/netcode,A protocol for secure client/server connections over UDP,MDEwOlJlcG9zaXRvcnk3NzY0NTc0Nw==
+678,sniproxy,380,2262,C,https://github.com/dlundquist/sniproxy,Proxies incoming HTTP and TLS connections based on the hostname contained in the initial request of the TCP session.,MDEwOlJlcG9zaXRvcnkxMTgzNzA4
+679,rosenbridge,224,2259,C,https://github.com/xoreaxeaxeax/rosenbridge,Hardware backdoors in some x86 CPUs,MDEwOlJlcG9zaXRvcnkxNDQwOTg2OTY=
+680,wireguard-monolithic-historical,309,2256,C,https://github.com/WireGuard/wireguard-monolithic-historical,"Historical monolithic WireGuard repository, split into wireguard-tools, wireguard-linux, and wireguard-linux-compat.",MDEwOlJlcG9zaXRvcnk4MjAwMzA4MA==
+681,glew,541,2254,C,https://github.com/nigels-com/glew,The OpenGL Extension Wrangler Library,MDEwOlJlcG9zaXRvcnk4ODcwMDMx
+682,PongoOS,355,2253,C,https://github.com/checkra1n/PongoOS,pongoOS,MDEwOlJlcG9zaXRvcnkyMzg1Mzk1NjI=
+683,earlyoom,132,2252,C,https://github.com/rfjakob/earlyoom,earlyoom - Early OOM Daemon for Linux,MDEwOlJlcG9zaXRvcnkxNTg1MDc4NA==
+684,jsmpeg-vnc,386,2252,C,https://github.com/phoboslab/jsmpeg-vnc,"A low latency, high framerate screen sharing server for Windows and client for browsers",MDEwOlJlcG9zaXRvcnkzOTc3MTU5Ng==
+685,OSCPRepo,731,2250,C,https://github.com/rewardone/OSCPRepo,"A list of commands, scripts, resources, and more that I have gathered and attempted to consolidate for use as OSCP (and more) study material. Commands in 'Usefulcommands' Keepnote. Bookmarks and reading material in 'BookmarkList' CherryTree. Reconscan Py2 and Py3. Custom ISO building.",MDEwOlJlcG9zaXRvcnkxMTA0MzY1OTY=
+686,tcpkali,202,2247,C,https://github.com/satori-com/tcpkali,Fast multi-core TCP and WebSockets load generator.,MDEwOlJlcG9zaXRvcnkyNDcwMTI3MQ==
+687,freeswitch,1076,2246,C,https://github.com/signalwire/freeswitch,"FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",MDEwOlJlcG9zaXRvcnkxNTQ1MjUxMTE=
+688,sleuthkit,575,2244,C,https://github.com/sleuthkit/sleuthkit,The Sleuth Kit® (TSK) is a library and collection of command line digital forensics tools that allow you to investigate volume and file system data. The library can be incorporated into larger digital forensics tools and the command line tools can be directly used to find evidence. ,MDEwOlJlcG9zaXRvcnkyNTYyODcz
+689,glb-director,233,2243,C,https://github.com/github/glb-director,GitHub Load Balancer Director and supporting tooling.,MDEwOlJlcG9zaXRvcnkxMzM3NjAzMDA=
+690,dynamorio,497,2237,C,https://github.com/DynamoRIO/dynamorio,Dynamic Instrumentation Tool Platform,MDEwOlJlcG9zaXRvcnkyNzI0MjkzNQ==
+691,level-ip,336,2230,C,https://github.com/saminiir/level-ip,A hacker's userspace TCP/IP stack,MDEwOlJlcG9zaXRvcnk1MjYxMjYxNQ==
+692,coroutine,672,2229,C,https://github.com/cloudwu/coroutine,A asymmetric coroutine library for C.,MDEwOlJlcG9zaXRvcnk1MTUyMDE5
+693,yojimbo,222,2224,C,https://github.com/networkprotocol/yojimbo,A network library for client/server games written in C++,MDEwOlJlcG9zaXRvcnk1OTkyNTc0Nw==
+694,ATC_MiThermometer,389,2223,C,https://github.com/atc1441/ATC_MiThermometer,Custom firmware for the Xiaomi Thermometer LYWSD03MMC and Telink Flasher via USB to Serial converter,MDEwOlJlcG9zaXRvcnkyOTA4MDgzOTE=
+695,neural-redis,106,2215,C,https://github.com/antirez/neural-redis,Neural networks module for Redis,MDEwOlJlcG9zaXRvcnk2OTM5Mzg0Mw==
+696,mtr,316,2214,C,https://github.com/traviscross/mtr,"Official repository for mtr, a network diagnostic tool",MDEwOlJlcG9zaXRvcnk3OTcyNDAy
+697,EpMedia,511,2212,C,https://github.com/yangjie10930/EpMedia,"Android上基于FFmpeg开发的视频处理框架，简单易用，体积小，帮助使用者快速实现视频处理功能。包含以下功能：剪辑，裁剪，旋转，镜像，合并，分离，变速，添加LOGO，添加滤镜，添加背景音乐，加速减速视频，倒放音视频。 The video processing framework based on FFmpeg developed on Android is simple, easy to use, and small in size, helping users quickly realize video processing functions. Contains the following functions: editing, cropping, rotating, mirroring, merging, separating, variable speed, adding LOGO, adding filters, adding background music, accelerating and decelerating video, rewinding audio and video.",MDEwOlJlcG9zaXRvcnk5MjM1NjE3Nw==
+698,panda,469,2204,C,https://github.com/panda-re/panda,Platform for Architecture-Neutral Dynamic Analysis,MDEwOlJlcG9zaXRvcnkxMjMzMDg3Mg==
+699,smenu,47,2204,C,https://github.com/p-gen/smenu,"smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.",MDEwOlJlcG9zaXRvcnk2OTE4ODE4OQ==
+700,libqrencode,555,2202,C,https://github.com/fukuchi/libqrencode,A fast and compact QR Code encoding library,MDEwOlJlcG9zaXRvcnkxNDEwMjQy
+701,DBProxy,572,2199,C,https://github.com/Meituan-Dianping/DBProxy,,MDEwOlJlcG9zaXRvcnk3NzUyMzcwNw==
+702,compton,537,2197,C,https://github.com/chjj/compton,A compositor for X11.,MDEwOlJlcG9zaXRvcnkyNzExNTM5
+703,rugged,292,2197,C,https://github.com/libgit2/rugged,ruby bindings to libgit2,MDEwOlJlcG9zaXRvcnk5MDE2NjM=
+704,silk-v3-decoder,545,2191,C,https://github.com/kn007/silk-v3-decoder,"[Skype Silk Codec SDK]Decode silk v3 audio files (like wechat amr, aud files, qq slk files) and convert to other format (like mp3). Batch conversion support.",MDEwOlJlcG9zaXRvcnk1MTI1NDYxMw==
+705,riscv-gnu-toolchain,849,2190,C,https://github.com/riscv-collab/riscv-gnu-toolchain,"GNU toolchain for RISC-V, including GCC",MDEwOlJlcG9zaXRvcnkyMzc4MDEzOA==
+706,ZQCNN,507,2187,C,https://github.com/zuoqing1988/ZQCNN,一款推理框架，同时有很多有用的demo，觉得好用请点星啊,MDEwOlJlcG9zaXRvcnkxMzIwOTE4Njg=
+707,esp-homekit-devices,321,2180,C,https://github.com/RavenSystem/esp-homekit-devices,Project to add native Apple HomeKit support to any device with an ESP32 or an ESP8266 chip,MDEwOlJlcG9zaXRvcnkxMTkwODY5OTI=
+708,Arduino_Core_STM32,837,2180,C,https://github.com/stm32duino/Arduino_Core_STM32,STM32 core support for Arduino,MDEwOlJlcG9zaXRvcnk5MDg2Nzg5OQ==
+709,ck,300,2180,C,https://github.com/concurrencykit/ck,"Concurrency primitives, safe memory reclamation mechanisms and non-blocking (including lock-free) data structures designed to aid in the research, design and implementation of high performance concurrent systems developed in C99+.",MDEwOlJlcG9zaXRvcnkxODg4NzE4Nw==
+710,lmdb,538,2176,C,https://github.com/LMDB/lmdb,Read-only mirror of official repo on openldap.org. Issues and pull requests here are ignored. Use OpenLDAP ITS for issues.,MDEwOlJlcG9zaXRvcnkzNDQwNjkzMw==
+711,immortalwrt,962,2176,C,https://github.com/immortalwrt/immortalwrt,An opensource OpenWrt variant for mainland China users.,MDEwOlJlcG9zaXRvcnkyMDM3NTk4OTY=
+712,unbound,292,2176,C,https://github.com/NLnetLabs/unbound,"Unbound is a validating, recursive, and caching DNS resolver.",MDEwOlJlcG9zaXRvcnk5NDE5NTMwMQ==
+713,solo1,254,2174,C,https://github.com/solokeys/solo1,Solo 1 firmware in C,MDEwOlJlcG9zaXRvcnkxNDg3MDYyMDg=
+714,earth-reverse-engineering,201,2171,C,https://github.com/retroplasma/earth-reverse-engineering,Reversing Google's 3D satellite mode,MDEwOlJlcG9zaXRvcnkxNjUzNTM2NjY=
+715,ReflectiveDLLInjection,721,2169,C,https://github.com/stephenfewer/ReflectiveDLLInjection,Reflective DLL injection is a library injection technique in which the concept of reflective programming is employed to perform the loading of a library from memory into a host process.,MDEwOlJlcG9zaXRvcnkyNzA5MTc2
+716,Il2CppInspector,352,2168,C,https://github.com/djkaty/Il2CppInspector,Powerful automated tool for reverse engineering Unity IL2CPP binaries,MDEwOlJlcG9zaXRvcnk4NTI5NjUwMw==
+717,warpd,93,2167,C,https://github.com/rvaiya/warpd,A modal keyboard-driven virtual pointer,MDEwOlJlcG9zaXRvcnkyMTAwOTkyNDg=
+718,libpcap,776,2165,C,https://github.com/the-tcpdump-group/libpcap,the LIBpcap interface to various kernel packet capture mechanism,MDEwOlJlcG9zaXRvcnk5NDM1ODg3
+720,tcpdump,770,2164,C,https://github.com/the-tcpdump-group/tcpdump,the TCPdump network dissector,MDEwOlJlcG9zaXRvcnk5NDM1ODgy
+721,tetragon,186,2164,C,https://github.com/cilium/tetragon,eBPF-based Security Observability and Runtime Enforcement,R_kgDOHDOB4Q
+719,nginx-push-stream-module,300,2164,C,https://github.com/wandenberg/nginx-push-stream-module,A pure stream http push technology for your Nginx setup. Comet made easy and really scalable.,MDEwOlJlcG9zaXRvcnk5OTQ2MTU=
+722,net-speeder,565,2162,C,https://github.com/snooda/net-speeder,net-speeder 在高延迟不稳定链路上优化单线程下载速度 ,MDEwOlJlcG9zaXRvcnkyOTU5OTI1Mg==
+723,libsixel,70,2159,C,https://github.com/saitoha/libsixel,A SIXEL encoder/decoder implementation derived from kmiya's sixel (https://github.com/saitoha/sixel).,MDEwOlJlcG9zaXRvcnkxMjI0NzIxMw==
+724,renderer,246,2158,C,https://github.com/zauonlok/renderer,A shader-based software renderer written from scratch in C89,MDEwOlJlcG9zaXRvcnk4NTU3OTYzMA==
+725,way-cooler,78,2145,C,https://github.com/way-cooler/way-cooler,Wayland compositor for AwesomeWM,MDEwOlJlcG9zaXRvcnk0OTMxMjA3MQ==
+726,gpac,458,2141,C,https://github.com/gpac/gpac,"Modular Multimedia framework for packaging, streaming and playing your favorite content, see http://netflix.gpac.io",MDEwOlJlcG9zaXRvcnkxOTQwMTY0Ng==
+727,Reptile,533,2121,C,https://github.com/f0rb1dd3n/Reptile,LKM Linux rootkit,MDEwOlJlcG9zaXRvcnkxMDc4OTExNzk=
+728,i3blocks,175,2118,C,https://github.com/vivien/i3blocks,The hacker-friendly status_command for Sway and i3,MDEwOlJlcG9zaXRvcnkxNjYyODY3Mw==
+729,hashcat-legacy,319,2117,C,https://github.com/hashcat/hashcat-legacy,Advanced CPU-based password recovery utility,MDEwOlJlcG9zaXRvcnk0Njg2MjQzOA==
+730,openvas-scanner,495,2111,C,https://github.com/greenbone/openvas-scanner,This repository contains the scanner component for Greenbone Community Edition.,MDEwOlJlcG9zaXRvcnkxMTg0MjQwNTM=
+731,WiringPi,1071,2111,C,https://github.com/WiringPi/WiringPi,Gordon's Arduino wiring-like WiringPi Library for the Raspberry Pi (Unofficial Mirror for WiringPi bindings),MDEwOlJlcG9zaXRvcnk0ODMwMzM0
+732,raygui,205,2109,C,https://github.com/raysan5/raygui,A simple and easy-to-use immediate-mode gui library,MDEwOlJlcG9zaXRvcnk2MTIzMTMzOQ==
+733,darkforestGo,344,2108,C,https://github.com/facebookresearch/darkforestGo,"DarkForest, the Facebook Go engine.",MDEwOlJlcG9zaXRvcnk1ODI5MTgwOQ==
+734,desmume,414,2104,C,https://github.com/TASEmulators/desmume,DeSmuME is a Nintendo DS emulator,MDEwOlJlcG9zaXRvcnk3NDYzMDUxNQ==
+735,esp32-snippets,684,2104,C,https://github.com/nkolban/esp32-snippets,Sample ESP32 snippets and code fragments,MDEwOlJlcG9zaXRvcnk3MjkzNDc3Nw==
+736,crun,235,2103,C,https://github.com/containers/crun,A fast and lightweight fully featured OCI runtime and C library for running containers,MDEwOlJlcG9zaXRvcnkxMDM0NDY0NjA=
+737,drmemory,248,2100,C,https://github.com/DynamoRIO/drmemory,"Memory Debugger for Windows, Linux, Mac, and Android",MDEwOlJlcG9zaXRvcnkyNzI0NDE4MQ==
+738,dustcloud,248,2100,C,https://github.com/dgiese/dustcloud,Xiaomi Smart Home Device Reverse Engineering and Hacking,MDEwOlJlcG9zaXRvcnkxMTUyMTMwODI=
+739,criu,455,2099,C,https://github.com/checkpoint-restore/criu,Checkpoint/Restore tool,MDEwOlJlcG9zaXRvcnkxNTk5OTYzOA==
+740,InfiniTime,726,2098,C,https://github.com/InfiniTimeOrg/InfiniTime,Firmware for Pinetime smartwatch written in C++ and based on FreeRTOS,MDEwOlJlcG9zaXRvcnkyMjYxNjc2MjA=
+741,OpenSC,653,2094,C,https://github.com/OpenSC/OpenSC,Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend,MDEwOlJlcG9zaXRvcnkxOTk5Njky
+742,dump1090,1238,2086,C,https://github.com/antirez/dump1090,Dump1090 is a simple Mode S decoder for RTLSDR devices,MDEwOlJlcG9zaXRvcnk3NDU1MzI5
+743,Reader,438,2086,C,https://github.com/binbyu/Reader,A win32 txt file reader,MDEwOlJlcG9zaXRvcnkxNDkyMzMxOTE=
+744,zapret,226,2084,C,https://github.com/bol-van/zapret,Обход DPI в linux,MDEwOlJlcG9zaXRvcnk1MTc1NzQ1OA==
+745,HyperDbg,298,2084,C,https://github.com/HyperDbg/HyperDbg,State-of-the-art native debugging tool,MDEwOlJlcG9zaXRvcnkyMzEyMTQzNTA=
+746,winafl,504,2082,C,https://github.com/googleprojectzero/winafl,A fork of AFL for fuzzing Windows binaries,MDEwOlJlcG9zaXRvcnk2MjgwMjczMA==
+747,fwupd,335,2080,C,https://github.com/fwupd/fwupd,A system daemon to allow session software to update firmware,MDEwOlJlcG9zaXRvcnkzMTM3NDczNQ==
+748,yajl,430,2079,C,https://github.com/lloyd/yajl,A fast streaming JSON parsing library in C.,MDEwOlJlcG9zaXRvcnk4OTkxMg==
+749,util-linux,1062,2077,C,https://github.com/util-linux/util-linux,,MDEwOlJlcG9zaXRvcnkyMzM5NTU1
+750,open62541,1054,2070,C,https://github.com/open62541/open62541,Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0,MDEwOlJlcG9zaXRvcnkxNTMzMzgwOQ==
+752,ext-ds,97,2067,C,https://github.com/php-ds/ext-ds,An extension providing efficient data structures for PHP 7,MDEwOlJlcG9zaXRvcnk1MDgyNDIzNQ==
+751,thc-tips-tricks-hacks-cheat-sheet,271,2067,C,https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet,Various tips & tricks,MDEwOlJlcG9zaXRvcnkyMzU4MDQzNjQ=
+753,OpenGL,638,2063,C,https://github.com/McNopper/OpenGL,OpenGL 3 and 4 with GLSL,MDEwOlJlcG9zaXRvcnk4MzczMzU4
+754,litex,435,2062,C,https://github.com/enjoy-digital/litex,"Build your hardware, easily!",MDEwOlJlcG9zaXRvcnk0NTczNDcxOQ==
+755,wlroots,352,2061,C,https://github.com/swaywm/wlroots,A modular Wayland compositor library,MDEwOlJlcG9zaXRvcnk4OTM3NzM5Mg==
+756,melonDS,346,2059,C,https://github.com/melonDS-emu/melonDS,"DS emulator, sorta",MDEwOlJlcG9zaXRvcnk1ODg5NDU4Mg==
+757,ldd3,827,2057,C,https://github.com/martinezjavier/ldd3,Linux Device Drivers 3 examples updated to work in recent kernels,MDEwOlJlcG9zaXRvcnkxMTE3MTg1
+758,HID,376,2056,C,https://github.com/NicoHood/HID,Bring enhanced HID functions to your Arduino!,MDEwOlJlcG9zaXRvcnkyMDQ0NjY4Mg==
+759,nexmon,421,2053,C,https://github.com/seemoo-lab/nexmon,"The C-based Firmware Patching Framework for Broadcom/Cypress WiFi Chips that enables Monitor Mode, Frame Injection and much more",MDEwOlJlcG9zaXRvcnk3MjA5MzAxMA==
+760,gps-sdr-sim,679,2052,C,https://github.com/osqzss/gps-sdr-sim,Software-Defined GPS Signal Simulator,MDEwOlJlcG9zaXRvcnkzNzQzNjIyMw==
+761,moonlight-android,376,2046,C,https://github.com/moonlight-stream/moonlight-android,GameStream client for Android,MDEwOlJlcG9zaXRvcnkxMjk4OTc5MA==
+762,Down,298,2037,C,https://github.com/johnxnguyen/Down,"Blazing fast Markdown / CommonMark rendering in Swift, built upon cmark.",MDEwOlJlcG9zaXRvcnk1OTkxOTkzMg==
+763,tinn,185,2034,C,https://github.com/glouw/tinn,A tiny neural network library,MDEwOlJlcG9zaXRvcnkxMjY5NDQ5MzM=
+764,openmv,930,2031,C,https://github.com/openmv/openmv,OpenMV Camera Module,MDEwOlJlcG9zaXRvcnkxNDM2MDk0MA==
+765,wiredtiger,350,2021,C,https://github.com/wiredtiger/wiredtiger,WiredTiger's source tree,MDEwOlJlcG9zaXRvcnkyOTQ0MzAy
+766,RTKLIB,1417,2018,C,https://github.com/tomojitakasu/RTKLIB,,MDEwOlJlcG9zaXRvcnk5NzQzMjY3
+767,Adafruit-GFX-Library,1457,2018,C,https://github.com/adafruit/Adafruit-GFX-Library,"Adafruit GFX graphics core Arduino library, this is the 'core' class that all our other graphics libraries derive from",MDEwOlJlcG9zaXRvcnkzNzAxNjk0
+768,tilck,84,2018,C,https://github.com/vvaltchev/tilck,A Tiny Linux-Compatible Kernel,MDEwOlJlcG9zaXRvcnk1Mzg0NTU5NQ==
+770,c-jwt-cracker,245,2017,C,https://github.com/brendan-rius/c-jwt-cracker,JWT brute force cracker written in C,MDEwOlJlcG9zaXRvcnk3OTUwMTM1NQ==
+769,dosbox-x,307,2017,C,https://github.com/joncampbell123/dosbox-x,DOSBox-X fork of the DOSBox project,MDEwOlJlcG9zaXRvcnkxOTg4MTQyMQ==
+772,proxydroid,678,2016,C,https://github.com/madeye/proxydroid,Global Proxy for Android,MDEwOlJlcG9zaXRvcnkzMjgwODI3
+771,HackSysExtremeVulnerableDriver,498,2016,C,https://github.com/hacksysteam/HackSysExtremeVulnerableDriver,HackSys Extreme Vulnerable Windows Driver (HEVD),MDEwOlJlcG9zaXRvcnkzNjQyNDgzMg==
+773,playerctl,78,2015,C,https://github.com/altdesktop/playerctl,"🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.",MDEwOlJlcG9zaXRvcnkxODc4ODgwNA==
+774,nanos,114,2013,C,https://github.com/nanovms/nanos,A kernel designed to run one and only one application in a virtualized environment,MDEwOlJlcG9zaXRvcnkxMTUxNTk2MTY=
+775,php-ext-xlswriter,206,2013,C,https://github.com/viest/php-ext-xlswriter,🚀 PHP Extension for creating and reader XLSX files. ,MDEwOlJlcG9zaXRvcnkxMTE3NjY3OTc=
+776,xcape,122,2011,C,https://github.com/alols/xcape,Linux utility to configure modifier keys to act as other keys when pressed and released on their own.,MDEwOlJlcG9zaXRvcnkzODg4MjY1
+777,quadsort,97,2007,C,https://github.com/scandum/quadsort,Quadsort is a branchless stable adaptive mergesort faster than quicksort.,MDEwOlJlcG9zaXRvcnkyMzk3NzA0OTA=
+778,printf,390,2005,C,https://github.com/mpaland/printf,"Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems. Extensive test suite passing.",MDEwOlJlcG9zaXRvcnkyNDc5ODc2Mw==
+779,ettercap,474,2002,C,https://github.com/Ettercap/ettercap,Ettercap Project,MDEwOlJlcG9zaXRvcnk1MDQxMTMz
+780,ltp,927,1998,C,https://github.com/linux-test-project/ltp,Linux Test Project http://linux-test-project.github.io/,MDEwOlJlcG9zaXRvcnkzNjQ5OTIy
+781,liburing,297,1995,C,https://github.com/axboe/liburing,,MDEwOlJlcG9zaXRvcnkyMDA2NjM1NTU=
+782,userland,1096,1994,C,https://github.com/raspberrypi/userland,Source code for ARM side libraries for interfacing to Raspberry Pi GPU.,MDEwOlJlcG9zaXRvcnk2MzY3ODg2
+783,mc,485,1988,C,https://github.com/MidnightCommander/mc,Midnight Commander's repository,MDEwOlJlcG9zaXRvcnkyNzY2Mjcz
+784,wax,638,1983,C,https://github.com/probablycorey/wax,Wax is now being maintained by alibaba,MDEwOlJlcG9zaXRvcnkyMzg1Mzk=
+786,pspg,82,1982,C,https://github.com/okbob/pspg,"Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It supports searching, selecting rows, columns, or block and export selected area to clipboard. ",MDEwOlJlcG9zaXRvcnk5NjkyNjI0Mw==
+785,libarchive,641,1982,C,https://github.com/libarchive/libarchive,Multi-format archive and compression library,MDEwOlJlcG9zaXRvcnkzMjE5ODA0
+787,ServerStatus-Hotaru,646,1972,C,https://github.com/cokemine/ServerStatus-Hotaru,云探针、多服务器探针、云监控、多服务器云监控,MDEwOlJlcG9zaXRvcnkxNjkwMzQ1ODc=
+789,pg_cron,156,1970,C,https://github.com/citusdata/pg_cron,Run periodic jobs in PostgreSQL,MDEwOlJlcG9zaXRvcnk2NzM3Mjk3Nw==
+788,Divert,450,1970,C,https://github.com/basil00/Divert,WinDivert: Windows Packet Divert,MDEwOlJlcG9zaXRvcnkyMjMzNzA4
+790,chafa,41,1968,C,https://github.com/hpjansson/chafa,📺🗿 Terminal graphics for the 21st century.,MDEwOlJlcG9zaXRvcnkxMzA5MDY4OTc=
+791,oniguruma,300,1967,C,https://github.com/kkos/oniguruma,regular expression library,MDEwOlJlcG9zaXRvcnkzODk5OTg3NA==
+792,pgbouncer,368,1965,C,https://github.com/pgbouncer/pgbouncer,lightweight connection pooler for PostgreSQL,MDEwOlJlcG9zaXRvcnk2NDY0MjM=
+793,FreeDVDBoot,148,1960,C,https://github.com/CTurt/FreeDVDBoot,PlayStation 2 DVD Player Exploit,MDEwOlJlcG9zaXRvcnkyNzIyMjI2MjQ=
+794,rlwrap,136,1959,C,https://github.com/hanslub42/rlwrap,A readline wrapper,MDEwOlJlcG9zaXRvcnkxNzExMzAzNw==
+795,fdupes,168,1958,C,https://github.com/adrianlopezroche/fdupes,FDUPES is a program for identifying or deleting duplicate files residing within specified directories.,MDEwOlJlcG9zaXRvcnkxOTgxMzAwMw==
+796,sqlite,542,1946,C,https://github.com/mackyle/sqlite,Unofficial git mirror of SQLite sources (see link for build instructions),MDEwOlJlcG9zaXRvcnkxMDQwMDYzMg==
+797,inih,419,1946,C,https://github.com/benhoyt/inih,"Simple .INI file parser in C, good for embedded systems",MDEwOlJlcG9zaXRvcnkzMjA5NTQwNg==
+798,open-vm-tools,403,1943,C,https://github.com/vmware/open-vm-tools,Official repository of VMware open-vm-tools project,MDEwOlJlcG9zaXRvcnkxOTE2MTQxNQ==
+799,sundown,394,1939,C,https://github.com/vmg/sundown,"Standards compliant, fast, secure markdown processing library in C",MDEwOlJlcG9zaXRvcnkxNjE4MTE0
+800,printf-tac-toe,56,1937,C,https://github.com/carlini/printf-tac-toe,tic-tac-toe in a single call to printf,MDEwOlJlcG9zaXRvcnkyNjM4NDIxMTc=
+802,winevdm,123,1935,C,https://github.com/otya128/winevdm,"16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",MDEwOlJlcG9zaXRvcnk0MjkzNjA0OQ==
+801,go-sdl2,220,1935,C,https://github.com/veandco/go-sdl2,SDL2 binding for Go,MDEwOlJlcG9zaXRvcnkxMDUwOTY4Mw==
+803,Remmina,719,1931,C,https://github.com/FreeRDP/Remmina,Mirror of https://gitlab.com/Remmina/Remmina The GTK+ Remmina Remote Desktop Client,MDEwOlJlcG9zaXRvcnkyNjk2MzA2
+804,box64,131,1931,C,https://github.com/ptitSeb/box64,"Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices",MDEwOlJlcG9zaXRvcnkzMTc0OTM0NDI=
+805,noah,93,1930,C,https://github.com/linux-noah/noah,Bash on Ubuntu on macOS,MDEwOlJlcG9zaXRvcnk1NTY1OTQ2MQ==
+806,mini3d,478,1927,C,https://github.com/skywind3000/mini3d,3D Software Renderer in 700 Lines !!,MDEwOlJlcG9zaXRvcnk0MDQ0MzQ2NQ==
+807,toybox,280,1926,C,https://github.com/landley/toybox,toybox,MDEwOlJlcG9zaXRvcnkzMzc0NTU0
+808,mydumper,396,1926,C,https://github.com/mydumper/mydumper,Official MyDumper project,MDEwOlJlcG9zaXRvcnk0NTY5NTYxNg==
+809,VulkanMemoryAllocator,268,1925,C,https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator,Easy to integrate Vulkan memory allocation library,MDEwOlJlcG9zaXRvcnk5NDU1MTY0Nw==
+810,FUZIX,241,1924,C,https://github.com/EtchedPixels/FUZIX,FuzixOS: Because Small Is Beautiful,MDEwOlJlcG9zaXRvcnkyNjAxNDAxMw==
+811,SwiftLaTeX,98,1922,C,https://github.com/SwiftLaTeX/SwiftLaTeX,"SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor ",MDEwOlJlcG9zaXRvcnkyMjU5OTAyMDk=
+812,ejoy2d,644,1922,C,https://github.com/ejoy/ejoy2d,A 2D Graphics Engine for Mobile Game,MDEwOlJlcG9zaXRvcnkxNTQ5MDEzMA==
+813,onion,251,1922,C,https://github.com/davidmoreno/onion,C library to create simple HTTP servers and Web Applications.,MDEwOlJlcG9zaXRvcnk5NjEzMzU=
+814,LVS,682,1917,C,https://github.com/alibaba/LVS,"A distribution of Linux Virtual Server with some advanced features. It introduces a new packet forwarding method - FULLNAT other than NAT/Tunneling/DirectRouting, and defense mechanism against synflooding attack - SYNPROXY.",MDEwOlJlcG9zaXRvcnkxMTExNzY4Ng==
+815,sc,187,1912,C,https://github.com/tezc/sc,Common libraries and data structures for C.,MDEwOlJlcG9zaXRvcnkzMTE3OTgzMjQ=
+816,FidelityFX-FSR,148,1911,C,https://github.com/GPUOpen-Effects/FidelityFX-FSR,FidelityFX Super Resolution,MDEwOlJlcG9zaXRvcnkzODU2NDIwMjA=
+817,sigma-file-manager,70,1911,C,https://github.com/aleksey-hoffman/sigma-file-manager,"""Sigma File Manager"" is a free, open-source, quickly evolving, modern file manager (explorer / finder) app for Windows and Linux.",MDEwOlJlcG9zaXRvcnkzNzA2Nzk4MTE=
+818,Chipmunk2D,321,1905,C,https://github.com/slembcke/Chipmunk2D,A fast and lightweight 2D game physics library.,MDEwOlJlcG9zaXRvcnkyMDMzMDc5
+819,gobpf,300,1905,C,https://github.com/iovisor/gobpf,Go bindings for creating BPF programs.,MDEwOlJlcG9zaXRvcnk3NDE1NTkyMw==
+820,simplest_ffmpeg_mobile,769,1903,C,https://github.com/leixiaohua1020/simplest_ffmpeg_mobile,ffmpeg examples in Android / IOS / WinPhone,MDEwOlJlcG9zaXRvcnkzNzg1OTExNA==
+821,php-rdkafka,258,1902,C,https://github.com/arnaud-lb/php-rdkafka,"Production-ready, stable Kafka client for PHP",MDEwOlJlcG9zaXRvcnkzMzE0MDYxNg==
+822,rune,46,1902,C,https://github.com/google/rune,Rune is a programming language developed to test ideas for improving security and efficiency.,R_kgDOGUHfFw
+823,keen,173,1897,C,https://github.com/keendreams/keen,Keen Dreams on Greenlight!,MDEwOlJlcG9zaXRvcnkyNDA5NDcwOA==
+824,cc65,369,1895,C,https://github.com/cc65/cc65,cc65 - a freeware C compiler for 6502 based systems,MDEwOlJlcG9zaXRvcnk4OTMyNDg5
+825,termbox,185,1895,C,https://github.com/nsf/termbox,Library for writing text-based user interfaces,MDEwOlJlcG9zaXRvcnk0ODM3NzA=
+826,f3,122,1894,C,https://github.com/AltraMayor/f3,F3 - Fight Flash Fraud,MDEwOlJlcG9zaXRvcnkyOTg0MTU2
+827,txiki.js,121,1890,C,https://github.com/saghul/txiki.js,A tiny JavaScript runtime,MDEwOlJlcG9zaXRvcnkxOTgwOTc4NTA=
+828,YAOF,543,1887,C,https://github.com/QiuSimons/YAOF,OpenWrt for Nanopi R2C/R2S/R4S/X86,MDEwOlJlcG9zaXRvcnkyNzU4MzczNTI=
+829,android_bootable_recovery,1543,1886,C,https://github.com/omnirom/android_bootable_recovery,,MDEwOlJlcG9zaXRvcnkxMzUzNTgwMQ==
+830,CSAPP-Labs,405,1883,C,https://github.com/Exely/CSAPP-Labs,Solutions and Notes for Labs of Computer Systems: A Programmer's Perspective 3rd Editon // 《深入理解计算机系统》第三版的实验文件、解答与笔记,MDEwOlJlcG9zaXRvcnkxMDQ1NjI2NTA=
+831,nuster,157,1881,C,https://github.com/jiangwenyuan/nuster,A high performance HTTP proxy cache server and RESTful NoSQL cache server based on HAProxy,MDEwOlJlcG9zaXRvcnkxMDkxMjA4Mjg=
+832,KernelSU,303,1875,C,https://github.com/tiann/KernelSU,A Kernel based root solution for Android,R_kgDOIlmzKw
+833,Shipwright,316,1872,C,https://github.com/HarbourMasters/Shipwright,,R_kgDOHCru5Q
+834,pgvector,57,1871,C,https://github.com/pgvector/pgvector,Open-source vector similarity search for Postgres,MDEwOlJlcG9zaXRvcnkzNTk5NTI2MDE=
+835,sslscan,356,1870,C,https://github.com/rbsec/sslscan,sslscan tests SSL/TLS enabled services to discover supported cipher suites,MDEwOlJlcG9zaXRvcnk5NDc2NTQy
+836,PureDarwin,148,1867,C,https://github.com/PureDarwin/PureDarwin,"Darwin is the Open Source core of macOS, and PureDarwin is a community project to extend Darwin into a complete, usable operating system.",MDEwOlJlcG9zaXRvcnkyNzY3MjQ2Mg==
+837,wolfssl,695,1867,C,https://github.com/wolfSSL/wolfssl,"The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.  wolfSSL supports up to TLS 1.3!",MDEwOlJlcG9zaXRvcnkyODkyODUyMg==
+838,bcrypt-ruby,280,1865,C,https://github.com/bcrypt-ruby/bcrypt-ruby,"bcrypt-ruby is a Ruby binding for the OpenBSD bcrypt() password hashing algorithm, allowing you to easily store a secure hash of your users' passwords.",MDEwOlJlcG9zaXRvcnkxNTI5Mw==
+839,espeak-ng,644,1864,C,https://github.com/espeak-ng/espeak-ng,eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.,MDEwOlJlcG9zaXRvcnk0NzY0ODQ1Ng==
+840,SUDO_KILLER,231,1862,C,https://github.com/TH3xACE/SUDO_KILLER,A tool to identify and exploit sudo rules' misconfigurations and vulnerabilities within sudo for linux privilege escalation.,MDEwOlJlcG9zaXRvcnkxNjA4NzU1OTQ=
+841,msysgit,641,1862,C,https://github.com/msysgit/msysgit,msysGit has been superseded by Git for Windows 2.x,MDEwOlJlcG9zaXRvcnkzMjU4Mjc=
+842,pico-examples,575,1857,C,https://github.com/raspberrypi/pico-examples,,MDEwOlJlcG9zaXRvcnkzMzEzODExMDU=
+843,shad0w,311,1855,C,https://github.com/bats3c/shad0w,A post exploitation framework designed to operate covertly on heavily monitored environments,MDEwOlJlcG9zaXRvcnkyNTk2OTU1Njc=
+844,Team-Win-Recovery-Project,755,1854,C,https://github.com/TeamWin/Team-Win-Recovery-Project,"Core recovery files for the Team Win Recovery Project (T.W.R.P) - this is not up to date, please see https://github.com/TeamWin/android_bootable_recovery/",MDEwOlJlcG9zaXRvcnkzOTg4NDEw
+845,pelikan,159,1854,C,https://github.com/twitter/pelikan,Pelikan is Twitter's unified cache backend,MDEwOlJlcG9zaXRvcnk0MjgyOTE5MQ==
+847,RedisGraph,216,1849,C,https://github.com/RedisGraph/RedisGraph,A graph database as a Redis module,MDEwOlJlcG9zaXRvcnk4NDQ1ODUxMg==
+846,HIT-OSLab,565,1849,C,https://github.com/hoverwinter/HIT-OSLab,S - 哈工大《操作系统》实验,MDEwOlJlcG9zaXRvcnkyNDM5NTQ1Mw==
+848,kamailio,833,1848,C,https://github.com/kamailio/kamailio,Kamailio - The Open Source SIP Server for large VoIP and real-time communication platforms -,MDEwOlJlcG9zaXRvcnkxNTEwMTU3OQ==
+849,TrustKit,307,1847,C,https://github.com/datatheorem/TrustKit,"Easy SSL pinning validation and reporting for iOS, macOS, tvOS and watchOS.",MDEwOlJlcG9zaXRvcnkzMDU2NjE2MQ==
+850,rizin,235,1845,C,https://github.com/rizinorg/rizin,UNIX-like reverse engineering framework and command-line toolset.,MDEwOlJlcG9zaXRvcnkyOTk4Njc0OTk=
+851,ngx_brotli,195,1844,C,https://github.com/google/ngx_brotli,NGINX module for Brotli compression,MDEwOlJlcG9zaXRvcnk0Mzk4MjY5MA==
+852,MemProcFS,231,1843,C,https://github.com/ufrisk/MemProcFS,MemProcFS,MDEwOlJlcG9zaXRvcnkxNTgxMTM0MTY=
+853,mpitutorial,725,1840,C,https://github.com/mpitutorial/mpitutorial,MPI programming lessons in C and executable code examples,MDEwOlJlcG9zaXRvcnk2OTE1Mzg5
+854,sophia,155,1839,C,https://github.com/pmwkaa/sophia,Modern transactional key-value/row storage library.,MDEwOlJlcG9zaXRvcnkxMjg0MzE1NQ==
+855,WindowsInternals,454,1835,C,https://github.com/zodiacon/WindowsInternals,Windows Internals Book 7th edition Tools,MDEwOlJlcG9zaXRvcnk3Mzc5MDUxMA==
+856,unqlite,151,1834,C,https://github.com/symisc/unqlite,"An Embedded NoSQL, Transactional Database Engine",MDEwOlJlcG9zaXRvcnkyMjc2MTQ5MQ==
+857,ios-twitter-image-pipeline,103,1831,C,https://github.com/twitter/ios-twitter-image-pipeline,Twitter Image Pipeline is a robust and performant image loading and caching framework for iOS clients,MDEwOlJlcG9zaXRvcnk4MDEzODA4Nw==
+858,tools,531,1830,C,https://github.com/nullsecuritynet/tools,"Security and Hacking Tools, Exploits, Proof of Concepts, Shellcodes, Scripts.",MDEwOlJlcG9zaXRvcnkzMDE0NzUwMg==
+859,distcc,265,1830,C,https://github.com/distcc/distcc,"distributed builds for C, C++ and Objective C",MDEwOlJlcG9zaXRvcnkzNjk2MjIyOQ==
+860,log.c,411,1827,C,https://github.com/rxi/log.c,A simple logging library implemented in C99,MDEwOlJlcG9zaXRvcnk4NDczMjExOA==
+861,can-utils,634,1826,C,https://github.com/linux-can/can-utils,Linux-CAN / SocketCAN user space applications,MDEwOlJlcG9zaXRvcnkzMTY3MzA3MQ==
+862,Validity90,119,1825,C,https://github.com/nmikhailov/Validity90,"Reverse engineering of Validity/Synaptics 138a:0090, 138a:0094, 138a:0097, 06cb:0081, 06cb:009a fingerprint readers protocol",MDEwOlJlcG9zaXRvcnk3OTgzMjIyOQ==
+863,inception,1334,1822,C,https://github.com/arkdb/inception,一个集审核、执行、备份及生成回滚语句于一身的MySQL自动化运维工具,MDEwOlJlcG9zaXRvcnk0MTUyNTMxNg==
+864,tools,877,1822,C,https://github.com/raspberrypi/tools,,MDEwOlJlcG9zaXRvcnkzMzI5NzQw
+865,mtcp,425,1818,C,https://github.com/mtcp-stack/mtcp,mTCP: A Highly Scalable User-level TCP Stack for Multicore Systems,MDEwOlJlcG9zaXRvcnkxODMxMjEyMg==
+866,ctypes.sh,88,1816,C,https://github.com/taviso/ctypes.sh,A foreign function interface for bash.,MDEwOlJlcG9zaXRvcnkzOTc1NjU2OQ==
+867,deconz-rest-plugin,435,1815,C,https://github.com/dresden-elektronik/deconz-rest-plugin,deCONZ REST-API plugin to control ZigBee devices,MDEwOlJlcG9zaXRvcnkxMTUyNjcxNQ==
+868,linux-wifi-hotspot,201,1814,C,https://github.com/lakinduakash/linux-wifi-hotspot,Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Similar to Windows 10). ,MDEwOlJlcG9zaXRvcnkxNzMxMzM5MTI=
+869,syslog-ng,431,1810,C,https://github.com/syslog-ng/syslog-ng,"syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.",MDEwOlJlcG9zaXRvcnkxNDE0Njc1Nw==
+870,Entware,133,1809,C,https://github.com/Entware/Entware,Ultimate repo for embedded devices,MDEwOlJlcG9zaXRvcnkxMjM5MjUwNjE=
+871,esp8266-oled-ssd1306,609,1809,C,https://github.com/ThingPulse/esp8266-oled-ssd1306,"Driver for the SSD1306 and SH1106 based 128x64, 128x32, 64x48 pixel OLED display running on ESP8266/ESP32",MDEwOlJlcG9zaXRvcnk0NjA4MDE2Nw==
+872,WidescreenFixesPack,192,1807,C,https://github.com/ThirteenAG/WidescreenFixesPack,"Plugins to make or improve widescreen resolutions support in games, add more features and fix bugs.",MDEwOlJlcG9zaXRvcnkxNzMzNTM3Mg==
+873,GCanvas,206,1805,C,https://github.com/alibaba/GCanvas,A lightweight cross-platform graphics rendering engine. (超轻量的跨平台图形引擎) https://alibaba.github.io/GCanvas,MDEwOlJlcG9zaXRvcnkxMjI5MzU3MDg=
+874,freeradius-server,1002,1803,C,https://github.com/FreeRADIUS/freeradius-server,FreeRADIUS - A multi-protocol policy server.,MDEwOlJlcG9zaXRvcnkzNTY0OQ==
+875,statsite,252,1802,C,https://github.com/statsite/statsite,C implementation of statsd,MDEwOlJlcG9zaXRvcnk0MTk2ODgx
+876,magma,168,1797,C,https://github.com/lavabit/magma,"The magma server daemon, is an encrypted email system with support for SMTP, POP, IMAP, HTTP and MOLTEN,. Additional support for DMTP and DMAP is currently in active development.",MDEwOlJlcG9zaXRvcnkyODM2OTgwOQ==
+878,monyhar-lite,134,1795,C,https://github.com/monyhar/monyhar-lite,梦弘浏览器 自主研发版本 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。缺少上网功能。,MDEwOlJlcG9zaXRvcnkzNzU5NDU5NzA=
+877,crown,132,1795,C,https://github.com/crownengine/crown,The flexible game engine.,MDEwOlJlcG9zaXRvcnk1MzIxMzE1
+879,zlog,620,1794,C,https://github.com/HardySimpson/zlog,"A reliable, high-performance, thread safe, flexsible, clear-model, pure C logging library.",MDEwOlJlcG9zaXRvcnkzMDU1MDI1
+880,Yolo-Fastest,409,1794,C,https://github.com/dog-qiuqiu/Yolo-Fastest,":zap: Based on yolo's ultra-lightweight universal target detection algorithm, the calculation amount is only 250mflops, the ncnn model size is only 666kb, the Raspberry Pi 3b can run up to 15fps+, and the mobile terminal can run up to 178fps+",MDEwOlJlcG9zaXRvcnkyODkxNjk4MDY=
+881,hitch,156,1792,C,https://github.com/varnish/hitch,A scalable TLS proxy by Varnish Software.,MDEwOlJlcG9zaXRvcnkzMzE5MDc1Ng==
+882,Ditto,118,1790,C,https://github.com/sabrogden/Ditto,Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.,MDEwOlJlcG9zaXRvcnkzMTI0MzAyMTA=
+883,coreboot,455,1789,C,https://github.com/coreboot/coreboot,Mirror of https://review.coreboot.org/coreboot.git. We don't handle Pull Requests.,MDEwOlJlcG9zaXRvcnkxNzc5NDk0MA==
+884,LDD-LinuxDeviceDrivers,703,1788,C,https://github.com/gatieme/LDD-LinuxDeviceDrivers,Linux内核与设备驱动程序学习笔记,MDEwOlJlcG9zaXRvcnk1NDc3ODg5OA==
+885,bplustree,304,1785,C,https://github.com/begeekmyfriend/bplustree,A minimal but extreme fast B+ tree indexing structure demo for billions of key-value storage,MDEwOlJlcG9zaXRvcnkyNDQ5NDg3MA==
+886,a-shell,85,1783,C,https://github.com/holzschu/a-shell,"A terminal for iOS, with multiple windows",MDEwOlJlcG9zaXRvcnkxOTYyNzUyMzk=
+887,nginx-vod-module,400,1781,C,https://github.com/kaltura/nginx-vod-module,NGINX-based MP4 Repackager,MDEwOlJlcG9zaXRvcnkyMTc5MzUzMQ==
+888,openwebrtc,546,1778,C,https://github.com/EricssonResearch/openwebrtc,A cross-platform WebRTC client framework based on GStreamer,MDEwOlJlcG9zaXRvcnkyNDMyNzUxMg==
+889,CVE-2021-4034,506,1774,C,https://github.com/berdav/CVE-2021-4034,CVE-2021-4034 1day,R_kgDOGvI1dw
+890,ebpf-for-windows,146,1773,C,https://github.com/microsoft/ebpf-for-windows,eBPF implementation that runs on top of Windows,MDEwOlJlcG9zaXRvcnkzNTU3MTg3NTc=
+891,mir,117,1767,C,https://github.com/vnmakarov/mir,A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and interpreter based on MIR,MDEwOlJlcG9zaXRvcnkxNzg5MzI0OTI=
+892,fbtft,492,1767,C,https://github.com/notro/fbtft,Linux Framebuffer drivers for small TFT LCD display modules,MDEwOlJlcG9zaXRvcnk3Njg5NTk3
+893,DungeonRush,276,1766,C,https://github.com/rapiz1/DungeonRush,"👾🐍 A opensource game inspired by Snake, written in pure C with SDL",MDEwOlJlcG9zaXRvcnkyNDIxNjIwNDk=
+894,polipo,352,1765,C,https://github.com/jech/polipo,The Polipo caching HTTP proxy,MDEwOlJlcG9zaXRvcnkyMTIxMTYw
+896,DAPLink,860,1762,C,https://github.com/ARMmbed/DAPLink,,MDEwOlJlcG9zaXRvcnkyNDU3MTA1OQ==
+895,slurm,549,1762,C,https://github.com/SchedMD/slurm,Slurm: A Highly Scalable Workload Manager,MDEwOlJlcG9zaXRvcnkxOTI0NDU4
+897,wcc,109,1761,C,https://github.com/endrazine/wcc,The Witchcraft Compiler Collection,MDEwOlJlcG9zaXRvcnk2NTI2OTU2NA==
+898,stm32f429,1235,1760,C,https://github.com/MaJerle/stm32f429,Keil projects and libraries for STM32F4xx devices,MDEwOlJlcG9zaXRvcnkxODk5MTQwNw==
+899,winscp,254,1758,C,https://github.com/winscp/winscp,"WinSCP is a popular free SFTP and FTP client for Windows, a powerful file manager that will improve your productivity. It supports also Amazon S3, FTPS, SCP and WebDAV protocols. Power users can automate WinSCP using .NET assembly.",MDEwOlJlcG9zaXRvcnk2MTczNzc2NQ==
+900,opengles3-book,717,1757,C,https://github.com/danginsburg/opengles3-book,OpenGL ES 3.0 Programming Guide Sample Code,MDEwOlJlcG9zaXRvcnkxNDcyNTg5OA==
+901,rspamd,349,1755,C,https://github.com/rspamd/rspamd,Rapid spam filtering system.,MDEwOlJlcG9zaXRvcnk5NTQ5MDgx
+902,rsyslog,611,1750,C,https://github.com/rsyslog/rsyslog,a Rocket-fast SYStem for LOG processing,MDEwOlJlcG9zaXRvcnkxMDQ1ODM2Mg==
+903,sxiv,262,1747,C,https://github.com/xyb3rt/sxiv,Simple X Image Viewer,MDEwOlJlcG9zaXRvcnkxMjYzNTIy
+904,xemu,195,1747,C,https://github.com/xemu-project/xemu,"Original Xbox Emulator for Windows, macOS, and Linux (Active Development)",MDEwOlJlcG9zaXRvcnkyNDEyNzA5OTY=
+905,qemu-t8030,136,1744,C,https://github.com/TrungNguyen1909/qemu-t8030,iPhone 11 emulated on QEMU,MDEwOlJlcG9zaXRvcnkzMzY3MTkyMjk=
+906,lcc,399,1744,C,https://github.com/drh/lcc,The lcc retargetable ANSI C compiler,MDEwOlJlcG9zaXRvcnk5NTcwNDk=
+907,libratbag,216,1741,C,https://github.com/libratbag/libratbag,"A DBus daemon to configure input devices, mainly high-end and gaming mice",MDEwOlJlcG9zaXRvcnk0MTM5NDczOQ==
+908,badvpn,585,1740,C,https://github.com/ambrop72/badvpn,"NCD scripting language, tun2socks proxifier, P2P VPN",MDEwOlJlcG9zaXRvcnkxNjkzMTM3Ng==
+910,pulseaudio-modules-bt,89,1737,C,https://github.com/EHfive/pulseaudio-modules-bt,"[Deprecated, see https://github.com/EHfive/pulseaudio-modules-bt/issues/154] Adds Sony LDAC, aptX, aptX HD, AAC codecs (A2DP Audio) support to PulseAudio on Linux",MDEwOlJlcG9zaXRvcnkxMzU4MTIyNzE=
+909,simde,179,1737,C,https://github.com/simd-everywhere/simde,Implementations of SIMD instruction sets for systems which don't natively support them.,MDEwOlJlcG9zaXRvcnk4NjQ5NzgwMA==
+911,nginx-upsync-module,391,1736,C,https://github.com/weibocom/nginx-upsync-module,"For http protocol. nginx-upsync-module, sync upstreams from consul or etcd and so on, dynamiclly modify backend-servers attributes(weight, max_fails, down...), needn't reload nginx",MDEwOlJlcG9zaXRvcnk0MjYzMzM0MA==
+912,PainterEngine,199,1734,C,https://github.com/matrixcascade/PainterEngine,"PainterEngine is a application/game engine with software renderer,PainterEngine can be transplanted to any platform that supports C",MDEwOlJlcG9zaXRvcnkxOTAxMTk5MjY=
+913,rpmalloc,145,1734,C,https://github.com/mjansson/rpmalloc,Public domain cross platform lock free thread caching 16-byte aligned memory allocator implemented in C,MDEwOlJlcG9zaXRvcnk3NDEyOTc4NA==
+914,9cc,147,1729,C,https://github.com/rui314/9cc,A Small C Compiler,MDEwOlJlcG9zaXRvcnkxNDM1NjkxNzg=
+915,ubertooth,423,1726,C,https://github.com/greatscottgadgets/ubertooth,"Software, firmware, and hardware designs for Ubertooth",MDEwOlJlcG9zaXRvcnk5NzEyMDEx
+916,mjs,159,1725,C,https://github.com/cesanta/mjs,Embedded JavaScript engine for C/C++,MDEwOlJlcG9zaXRvcnk3NzA1NzE0Mg==
+917,strace,360,1719,C,https://github.com/strace/strace,"strace is a diagnostic, debugging and instructional userspace utility for Linux",MDEwOlJlcG9zaXRvcnkyOTA0MjMwMA==
+918,eaphammer,284,1717,C,https://github.com/s0lst1c3/eaphammer,Targeted evil twin attacks against WPA2-Enterprise networks. Indirect wireless pivots using hostile portal attacks.,MDEwOlJlcG9zaXRvcnk4MDg4Mjc4OA==
+919,Criterion,167,1716,C,https://github.com/Snaipe/Criterion,A cross-platform C and C++ unit testing framework for the 21st century,MDEwOlJlcG9zaXRvcnkzMDExMTk2OQ==
+920,facil.io,114,1715,C,https://github.com/boazsegev/facil.io,Your high performance web application C framework,MDEwOlJlcG9zaXRvcnk0OTgxNjI3Ng==
+921,GodMode9,168,1715,C,https://github.com/d0k3/GodMode9,GodMode9 Explorer - A full access file browser for the Nintendo 3DS console :godmode:,MDEwOlJlcG9zaXRvcnk1MDE5ODA5NA==
+922,86Box,242,1714,C,https://github.com/86Box/86Box,Emulator of x86-based machines based on PCem.,MDEwOlJlcG9zaXRvcnk2MTk2NDEyNw==
+923,uhubctl,192,1710,C,https://github.com/mvp/uhubctl,uhubctl - USB hub per-port power control,MDEwOlJlcG9zaXRvcnkyODk0MTc1Mw==
+924,opus,510,1710,C,https://github.com/xiph/opus,Modern audio compression for the internet.,MDEwOlJlcG9zaXRvcnkyMzA5NzE3Mw==
+925,minisign,106,1709,C,https://github.com/jedisct1/minisign,A dead simple tool to sign files and verify digital signatures.,MDEwOlJlcG9zaXRvcnkzNzAyMzczOQ==
+926,pianobar,329,1707,C,https://github.com/PromyLOPh/pianobar,Console-based pandora.com player,MDEwOlJlcG9zaXRvcnkyMzg5Mg==
+927,xdp-tutorial,451,1707,C,https://github.com/xdp-project/xdp-tutorial,XDP tutorial,MDEwOlJlcG9zaXRvcnkxNzI1MjM0MjY=
+928,EDRs,309,1707,C,https://github.com/Mr-Un1k0d3r/EDRs,,MDEwOlJlcG9zaXRvcnkzNDM4NjIyNzA=
+929,miniz,269,1706,C,https://github.com/richgel999/miniz,"miniz: Single C source file zlib-replacement library, originally from code.google.com/p/miniz",MDEwOlJlcG9zaXRvcnkzNTk4OTc1Nw==
+930,projectsandcastle,146,1705,C,https://github.com/corellium/projectsandcastle,Supporting tools for Android/Linux on the iPhone,MDEwOlJlcG9zaXRvcnkyNDQ5MzU2NTE=
+931,yjPlay,327,1705,C,https://github.com/yangchaojiang/yjPlay,"一个支持自定义UI布局,流式API, 加密,直播  ,亮度,音量,快进等手势 ,广告视频预览,多种加载模式 ,多种分辨率切换 ,多种封面图, 自定义数据源,列表播放,倍数播放,边播变缓存<font color=""red"">不是使用AndroidVideoCache</font>,离线播放,神奇的播放器  ",MDEwOlJlcG9zaXRvcnk4Mzc4OTYxOQ==
+932,cstore_fdw,174,1705,C,https://github.com/citusdata/cstore_fdw,Columnar storage extension for Postgres built as a foreign data wrapper. Check out https://github.com/citusdata/citus for a modernized columnar storage implementation built as a table access method.,MDEwOlJlcG9zaXRvcnkxODQwMDUxMw==
+933,sensible-side-buttons,121,1704,C,https://github.com/archagon/sensible-side-buttons,A macOS menu bar app that enables system-wide navigation functionality for the side buttons on third-party mice.,MDEwOlJlcG9zaXRvcnk5MzU3NTUyMg==
+934,lzfse,180,1703,C,https://github.com/lzfse/lzfse,LZFSE compression library and command line tool,MDEwOlJlcG9zaXRvcnk2MDY1NTM2MA==
+935,secp256k1,926,1703,C,https://github.com/bitcoin-core/secp256k1,Optimized C library for EC operations on curve secp256k1,MDEwOlJlcG9zaXRvcnkxNjY0ODYxOA==
+936,ddcctl,150,1703,C,https://github.com/kfix/ddcctl,DDC monitor controls (brightness) for Mac OSX command line,MDEwOlJlcG9zaXRvcnkyMjQ5NDkwMA==
+937,dperf,230,1702,C,https://github.com/baidu/dperf,dperf is a DPDK based 100Gbps network performance and load testing software.,R_kgDOGkCIYQ
+938,esp8266-wiki,300,1701,C,https://github.com/esp8266/esp8266-wiki,,MDEwOlJlcG9zaXRvcnkyNDcwNjM0Ng==
+939,libsoundio,214,1699,C,https://github.com/andrewrk/libsoundio,C library for cross-platform real-time audio input and output,MDEwOlJlcG9zaXRvcnkzODMzMzUwMQ==
+940,bfgminer,804,1695,C,https://github.com/luke-jr/bfgminer,"Modular ASIC/FPGA miner written in C, featuring overclocking, monitoring, fan speed control and remote interface capabilities.",MDEwOlJlcG9zaXRvcnk0MTQ2OTg0
+941,AndroidUSBCamera,591,1693,C,https://github.com/jiangdongguo/AndroidUSBCamera,"🔥🔥🔥Flexible and useful UVC camera engine on Android platform, supporting multi-road cameras!",MDEwOlJlcG9zaXRvcnkxMDUyNTU2ODU=
+942,CoreFreq,116,1685,C,https://github.com/cyring/CoreFreq,CoreFreq is a CPU monitoring software designed for the 64-bits Processors.,MDEwOlJlcG9zaXRvcnkzNzc5MjI0Mg==
+943,LoRaMac-node,1044,1684,C,https://github.com/Lora-net/LoRaMac-node,Reference implementation and documentation of a LoRa network node.,MDEwOlJlcG9zaXRvcnkxNjM0NjgyMQ==
+944,themis,137,1681,C,https://github.com/cossacklabs/themis,Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across 14 platforms.,MDEwOlJlcG9zaXRvcnkzNTE1OTkyMA==
+945,phptrace,405,1678,C,https://github.com/Qihoo360/phptrace,A tracing and troubleshooting tool for PHP scripts.,MDEwOlJlcG9zaXRvcnkyODYxNzU2Mg==
+946,tinc,270,1677,C,https://github.com/gsliepen/tinc,a VPN daemon,MDEwOlJlcG9zaXRvcnkxMjQ4MTUx
+947,NyuziProcessor,310,1675,C,https://github.com/jbush001/NyuziProcessor,GPGPU microprocessor architecture,MDEwOlJlcG9zaXRvcnkyNjcxNTEz
+948,herebedragons,75,1673,C,https://github.com/kosua20/herebedragons,"A basic 3D scene implemented with various engines, frameworks or APIs.",MDEwOlJlcG9zaXRvcnk3MDk1MTU4OA==
+949,strongswan,672,1673,C,https://github.com/strongswan/strongswan,strongSwan - IPsec-based VPN,MDEwOlJlcG9zaXRvcnkxMDMxMjM1
+950,ompi,759,1671,C,https://github.com/open-mpi/ompi,Open MPI main development repository,MDEwOlJlcG9zaXRvcnkyNDEwNzAwMQ==
+951,android-gpuimage-plus,458,1669,C,https://github.com/wysaid/android-gpuimage-plus,Android Image & Camera Filters Based on OpenGL. ,MDEwOlJlcG9zaXRvcnk0NjU0NzQxNw==
+952,libphenom,371,1667,C,https://github.com/facebookarchive/libphenom,An eventing framework for building high performance and high scalability systems in C.,MDEwOlJlcG9zaXRvcnk3MDgzMjYx
+953,EasyFlash,690,1667,C,https://github.com/armink/EasyFlash,Lightweight IoT device information storage solution: KV/IAP/LOG. | 轻量级物联网设备信息存储方案：参数存储、在线升级及日志存储 ，全新一代版本请移步至 https://github.com/armink/FlashDB,MDEwOlJlcG9zaXRvcnkyOTc3MDI4Nw==
+954,CrossC2,298,1664,C,https://github.com/gloxec/CrossC2,generate CobaltStrike's cross-platform payload,MDEwOlJlcG9zaXRvcnkyMzQzNjQ0NTk=
+955,Open-Golf,67,1662,C,https://github.com/mgerdes/Open-Golf,A cross-platform minigolf game written in C.,MDEwOlJlcG9zaXRvcnkyOTgxMzQwMzU=
+956,riscv-isa-sim,619,1660,C,https://github.com/riscv-software-src/riscv-isa-sim,"Spike, a RISC-V ISA Simulator",MDEwOlJlcG9zaXRvcnkyMjc2Mjg3
+957,mac-dictionary-kit,178,1659,C,https://github.com/jjgod/mac-dictionary-kit,Dictionary conversion tool for Mac OS X 10.5 and above,MDEwOlJlcG9zaXRvcnk1NTU5MTM=
+958,cups,447,1659,C,https://github.com/apple/cups,Apple CUPS Sources,MDEwOlJlcG9zaXRvcnk0NDEzNzg1Mg==
+959,Swift,441,1657,C,https://github.com/iOS-Swift-Developers/Swift,"🥇Swift基础知识大全,🚀Swift学习从简单到复杂,不断地完善与更新, 欢迎Star❤️,欢迎Fork, iOS开发者交流:①群:446310206 ②群:426087546",MDEwOlJlcG9zaXRvcnk5NDA2NjEyNQ==
+960,netmap,513,1656,C,https://github.com/luigirizzo/netmap,Automatically exported from code.google.com/p/netmap,MDEwOlJlcG9zaXRvcnkzMzEyNDY4Ng==
+961,owntone-server,211,1653,C,https://github.com/owntone/owntone-server,"Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay 1 and 2 speakers (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.",MDEwOlJlcG9zaXRvcnkxMDI2MzU1Mw==
+962,libwebp,433,1652,C,https://github.com/webmproject/libwebp,Mirror only. Please do not send pull requests.,MDEwOlJlcG9zaXRvcnkyMzM2ODQ0NQ==
+963,SQLiteCpp,451,1651,C,https://github.com/SRombauts/SQLiteCpp,SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper.,MDEwOlJlcG9zaXRvcnk0MDAyMjIy
+964,linked-list-good-taste,94,1648,C,https://github.com/mkirchner/linked-list-good-taste,"Linus Torvalds' linked list argument for good taste, explained",MDEwOlJlcG9zaXRvcnkzMTUxMjk2MDI=
+965,rpi_ws281x,596,1645,C,https://github.com/jgarff/rpi_ws281x,Userspace Raspberry Pi PWM library for WS281X LEDs,MDEwOlJlcG9zaXRvcnkyMzYyMDkyMQ==
+966,switch-lan-play,177,1643,C,https://github.com/spacemeowx2/switch-lan-play,Make you and your friends play games like in a LAN.,MDEwOlJlcG9zaXRvcnkxMTMyMTQ4NzU=
+967,cglm,176,1640,C,https://github.com/recp/cglm,📽 Highly Optimized Graphics Math (glm) for C,MDEwOlJlcG9zaXRvcnk2Nzk1MjAzOA==
+968,Configurations,3083,1640,C,https://github.com/MarlinFirmware/Configurations,Configurations for Marlin Firmware,MDEwOlJlcG9zaXRvcnkyMTE3NTY5MDU=
+969,libtree,45,1639,C,https://github.com/haampie/libtree,ldd as a tree,MDEwOlJlcG9zaXRvcnkyNTMwNDUxODM=
+971,julius,277,1637,C,https://github.com/julius-speech/julius,Open-Source Large Vocabulary Continuous Speech Recognition Engine,MDEwOlJlcG9zaXRvcnkzNDY5ODg1Nw==
+970,tizonia-openmax-il,94,1637,C,https://github.com/tizonia/tizonia-openmax-il,"Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices.",MDEwOlJlcG9zaXRvcnk3MzkyNjQ4
+972,ESP8266Audio,381,1634,C,https://github.com/earlephilhower/ESP8266Audio,"Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32",MDEwOlJlcG9zaXRvcnkxMDAxMTg1MjU=
+973,libdill,155,1632,C,https://github.com/sustrik/libdill,Structured concurrency in C,MDEwOlJlcG9zaXRvcnk0OTc2Mjg1Mw==
+974,shc,300,1631,C,https://github.com/neurobin/shc,Shell script compiler,MDEwOlJlcG9zaXRvcnkzMzIyMDY1NQ==
+975,Keylogger,560,1629,C,https://github.com/GiacomoLaw/Keylogger,"A simple keylogger for Windows, Linux and Mac",MDEwOlJlcG9zaXRvcnk3NDc4MTg2Ng==
+976,MobileNet-Yolo,264,1627,C,https://github.com/dog-qiuqiu/MobileNet-Yolo,"MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops 420KB:fire::fire::fire:",MDEwOlJlcG9zaXRvcnkyNzI4ODM4MTU=
+977,LearningVideo,285,1626,C,https://github.com/ChenLittlePing/LearningVideo,【Android 音视频开发打怪升级】系列文章示例代码（A demo to introduce how to develop android video）。本项目将从MediaCodec硬解，FFmpeg软解，OpenGL等方面，全方位讲解如何在Android上进行音视频编辑开发。,MDEwOlJlcG9zaXRvcnkyMDk3MzI5ODA=
+978,vmtouch,201,1625,C,https://github.com/hoytech/vmtouch,Portable file system cache diagnostics and control,MDEwOlJlcG9zaXRvcnkzMjYxOTgw
+979,nginx_tcp_proxy_module,370,1624,C,https://github.com/yaoweibin/nginx_tcp_proxy_module,"add the feature of tcp proxy with nginx, with health check and status monitor",MDEwOlJlcG9zaXRvcnk1NDA5OTk=
+980,httpserver.h,115,1623,C,https://github.com/jeremycw/httpserver.h,Single header library for writing non-blocking HTTP servers in C,MDEwOlJlcG9zaXRvcnkyMjI1NDU5ODI=
+981,FFmpegMediaMetadataRetriever,373,1623,C,https://github.com/wseemann/FFmpegMediaMetadataRetriever,FFmpegMediaMetadataRetriever provides a unified interface for retrieving frame and meta data from an input media file.,MDEwOlJlcG9zaXRvcnk5MjMyOTQy
+982,minigame-unity-webgl-transform,283,1623,C,https://github.com/wechat-miniprogram/minigame-unity-webgl-transform,,MDEwOlJlcG9zaXRvcnkzNzAzMzg4NzU=
+983,Corange,192,1621,C,https://github.com/orangeduck/Corange,Pure C Game Engine,MDEwOlJlcG9zaXRvcnkxNjk3NDAz
+984,php-beast,496,1621,C,https://github.com/liexusong/php-beast,PHP source code encrypt module (PHP源码加密扩展),MDEwOlJlcG9zaXRvcnkxMDU2MjY3MQ==
+985,threadx,540,1620,C,https://github.com/azure-rtos/threadx,Azure RTOS ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.,MDEwOlJlcG9zaXRvcnkyNjMwNzY4Njk=
+986,ucore,386,1619,C,https://github.com/kiukotsu/ucore,清华大学操作系统课程实验 (OS Kernel Labs),MDEwOlJlcG9zaXRvcnk0NjI2MTA0OA==
+987,py-webrtcvad,377,1618,C,https://github.com/wiseman/py-webrtcvad,Python interface to the WebRTC Voice Activity Detector ,MDEwOlJlcG9zaXRvcnk1NjkwMTQxMA==
+988,php-xhprof-extension,209,1615,C,https://github.com/tideways/php-xhprof-extension,Modern XHProf compatible PHP Profiler for PHP 7,MDEwOlJlcG9zaXRvcnkzMzAwMTY1OA==
+989,cpufetch,84,1612,C,https://github.com/Dr-Noob/cpufetch,Simple yet fancy CPU architecture fetching tool,MDEwOlJlcG9zaXRvcnkxMjY0NDk1OTk=
+990,picohttpparser,221,1611,C,https://github.com/h2o/picohttpparser,tiny HTTP parser written in C (used in HTTP::Parser::XS et al.),MDEwOlJlcG9zaXRvcnkzMzA0MTQ=
+991,glibc,943,1608,C,https://github.com/lattera/glibc,GNU Libc - Extremely old repo used for research purposes years ago. Please do not rely on this repo.,MDEwOlJlcG9zaXRvcnkzOTExNDMw
+992,vimcdoc,233,1602,C,https://github.com/yianwillis/vimcdoc,Vim 中文文档计划,MDEwOlJlcG9zaXRvcnkxMjM5NzQ0MQ==
+993,bldc,1123,1602,C,https://github.com/vedderb/bldc,The VESC motor control firmware,MDEwOlJlcG9zaXRvcnkxNTc2ODY0Ng==
+994,alpr-unconstrained,593,1600,C,https://github.com/sergiomsilva/alpr-unconstrained,License Plate Detection and Recognition in Unconstrained Scenarios,MDEwOlJlcG9zaXRvcnkxNDUwMjcxNjk=
+995,cgdb,174,1599,C,https://github.com/cgdb/cgdb,Console front-end to the GNU debugger,MDEwOlJlcG9zaXRvcnk0MjI5OTc3
+996,write-ups-2016,523,1599,C,https://github.com/ctfs/write-ups-2016,"Wiki-like CTF write-ups repository, maintained by the community. 2016",MDEwOlJlcG9zaXRvcnk0ODEwMzE3Ng==
+997,pgbackrest,162,1598,C,https://github.com/pgbackrest/pgbackrest,Reliable PostgreSQL Backup & Restore,MDEwOlJlcG9zaXRvcnkxNDMxMzI4OA==
+998,flashcache,427,1597,C,https://github.com/facebookarchive/flashcache,"A general purpose, write-back block cache for Linux.",MDEwOlJlcG9zaXRvcnk1NzI5MjM=
+999,hcxtools,360,1597,C,https://github.com/ZerBea/hcxtools,"Portable (that doesn't include proprietary/commercial operating systems) solution for conversion of cap/pcap/pcapng (gz compressed) WiFi dump files to hashcat formats (recommended by hashcat) and to John the Ripper formats. hcx: h = hash, c = convert and calculate candidates, x = different hashtypes",MDEwOlJlcG9zaXRvcnk4NzYyMDcwNw==
+1000,NNPACK,315,1597,C,https://github.com/Maratyszcza/NNPACK,Acceleration package for neural networks on multi-core CPUs,MDEwOlJlcG9zaXRvcnk1NDQxMDI2Mg==

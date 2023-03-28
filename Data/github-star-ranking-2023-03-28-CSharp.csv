@@ -1,0 +1,1001 @@
+rank,repo_name,forks,stars,language,repo_url,description,id
+1,PowerToys,5101,88597,C#,https://github.com/microsoft/PowerToys,Windows system utilities to maximize productivity,MDEwOlJlcG9zaXRvcnkxODQ0NTYyNTE=
+2,shadowsocks-windows,16423,56115,C#,https://github.com/shadowsocks/shadowsocks-windows,A C# port of shadowsocks,MDEwOlJlcG9zaXRvcnk3NjAwNDA5
+3,v2rayN,7629,39885,C#,https://github.com/2dust/v2rayN,"A V2Ray client for Windows, support Xray core and v2fly core",MDEwOlJlcG9zaXRvcnkxOTk1NzAwNzE=
+4,PowerShell,6415,37678,C#,https://github.com/PowerShell/PowerShell,PowerShell for every system!,MDEwOlJlcG9zaXRvcnk0OTYwOTU4MQ==
+5,aspnetcore,8937,31290,C#,https://github.com/dotnet/aspnetcore,"ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",MDEwOlJlcG9zaXRvcnkxNzYyMDM0Nw==
+6,Files,1738,26846,C#,https://github.com/files-community/Files,Building the best file manager experience for Windows,MDEwOlJlcG9zaXRvcnkxNjQxNDA3NTY=
+7,ShareX,2812,23724,C#,https://github.com/ShareX/ShareX,"ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.",MDEwOlJlcG9zaXRvcnkxMzQyODI2NA==
+8,CodeHub,655,23024,C#,https://github.com/CodeHubApp/CodeHub,CodeHub is an iOS application written using Xamarin,MDEwOlJlcG9zaXRvcnkxMTYyMDY2OQ==
+9,dnSpy,4507,22987,C#,https://github.com/dnSpy/dnSpy,.NET debugger and assembly editor,MDEwOlJlcG9zaXRvcnkzODM4MDg1NA==
+10,eShopOnContainers,9817,22811,C#,https://github.com/dotnet-architecture/eShopOnContainers,"Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.",MDEwOlJlcG9zaXRvcnk3MDEwNDgyNQ==
+11,Wox,2374,22753,C#,https://github.com/Wox-launcher/Wox,"Launcher for Windows, an alternative to Alfred and Launchy.",MDEwOlJlcG9zaXRvcnkxNTMxNTc4OQ==
+12,jellyfin,1987,21281,C#,https://github.com/jellyfin/jellyfin,The Free Software Media System,MDEwOlJlcG9zaXRvcnkxNjEwMTIwMTk=
+13,WaveFunctionCollapse,1121,20977,C#,https://github.com/mxgmn/WaveFunctionCollapse,Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics,MDEwOlJlcG9zaXRvcnk2OTY2MjcyMA==
+14,RevokeMsgPatcher,2604,19848,C#,https://github.com/huiyadanli/RevokeMsgPatcher,:trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）,MDEwOlJlcG9zaXRvcnkxOTgwNzE3NTY=
+15,ScreenToGif,1973,19700,C#,https://github.com/NickeManarin/ScreenToGif,"🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.",MDEwOlJlcG9zaXRvcnk2NDcxMzc2OQ==
+16,maui,1257,18679,C#,https://github.com/dotnet/maui,".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",MDEwOlJlcG9zaXRvcnkyNjIzOTUyMjQ=
+17,awesome-dotnet-core,2712,17709,C#,https://github.com/thangchung/awesome-dotnet-core,":honeybee: A collection of awesome .NET core libraries, tools, frameworks and software",MDEwOlJlcG9zaXRvcnk1NDA4Njk2OQ==
+18,Avalonia,1516,17371,C#,https://github.com/AvaloniaUI/Avalonia,A cross-platform UI framework for .NET,MDEwOlJlcG9zaXRvcnkxNDk2NDQ3NQ==
+19,ILSpy,3078,17355,C#,https://github.com/icsharpcode/ILSpy,".NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!",MDEwOlJlcG9zaXRvcnkxMzI3NzM5
+20,roslyn,3838,17224,C#,https://github.com/dotnet/roslyn,The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.,MDEwOlJlcG9zaXRvcnkyOTA3ODk5Nw==
+21,Ryujinx,1848,16899,C#,https://github.com/Ryujinx/Ryujinx,Experimental Nintendo Switch Emulator written in C#,MDEwOlJlcG9zaXRvcnkxMjAyMzE2OTE=
+22,Dapper,3608,15952,C#,https://github.com/DapperLib/Dapper,Dapper - a simple object mapper for .Net,MDEwOlJlcG9zaXRvcnkxNjEzMzQ1
+23,ml-agents,3769,14360,C#,https://github.com/Unity-Technologies/ml-agents,The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.,MDEwOlJlcG9zaXRvcnkxMDI5MDQ2MTM=
+24,netch,2303,13911,C#,https://github.com/netchx/netch,A simple proxy client,MDEwOlJlcG9zaXRvcnkxOTM2ODE2ODY=
+25,QuickLook,964,13867,C#,https://github.com/QL-Win/QuickLook,Bring macOS “Quick Look” feature to Windows,MDEwOlJlcG9zaXRvcnk4ODA2NDM1Nw==
+26,DevToys,731,13744,C#,https://github.com/veler/DevToys,A Swiss Army knife for developers.,R_kgDOGIblEA
+27,MaterialDesignInXamlToolkit,3211,13336,C#,https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit,"Google's Material Design in XAML & WPF, for C# & VB.Net. ",MDEwOlJlcG9zaXRvcnkzMDQ3NDI2Ng==
+28,SteamTools,816,13058,C#,https://github.com/BeyondDimension/SteamTools,🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。,MDEwOlJlcG9zaXRvcnkzMjE2ODI0NjU=
+29,OpenRA,2493,12569,C#,https://github.com/OpenRA/OpenRA,"Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.",MDEwOlJlcG9zaXRvcnk5NTk5MDg=
+30,CleanArchitecture,2229,12343,C#,https://github.com/ardalis/CleanArchitecture,Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core,MDEwOlJlcG9zaXRvcnk2OTY3MzAzMw==
+31,efcore,2920,12341,C#,https://github.com/dotnet/efcore,"EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",MDEwOlJlcG9zaXRvcnkxNjE1Nzc0Ng==
+32,server,1038,12195,C#,https://github.com/bitwarden/server,"The core infrastructure backend (API, database, Docker, etc).",MDEwOlJlcG9zaXRvcnk0Njc1NTE4NQ==
+33,osu,1875,12016,C#,https://github.com/ppy/osu,rhythm is just a *click* away!,MDEwOlJlcG9zaXRvcnkyMjQ1NjQ0MA==
+34,FastGithub,1628,11939,C#,https://github.com/dotnetcore/FastGithub,github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题,MDEwOlJlcG9zaXRvcnkzNzU5MzkwNzI=
+35,downkyi,1469,11806,C#,https://github.com/leiurayer/downkyi,哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。https://t.me/+7zeNbdkP0TEzODll,MDEwOlJlcG9zaXRvcnkzMjQ0NzM4OTU=
+36,PEASS-ng,2629,11778,C#,https://github.com/carlospolop/PEASS-ng,PEASS - Privilege Escalation Awesome Scripts SUITE (with colors),MDEwOlJlcG9zaXRvcnkxNjU1NDgxOTE=
+37,Polly,1044,11732,C#,https://github.com/App-vNext/Polly,"Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+.",MDEwOlJlcG9zaXRvcnk5ODY0MTY2
+38,runtime,3833,11592,C#,https://github.com/dotnet/runtime,".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.",MDEwOlJlcG9zaXRvcnkyMTA3MTYwMDU=
+39,AspNetCore.Docs,25412,11483,C#,https://github.com/dotnet/AspNetCore.Docs,Documentation for ASP.NET Core,MDEwOlJlcG9zaXRvcnkyODIzOTQ1NQ==
+40,CleanArchitecture,2586,11479,C#,https://github.com/jasontaylordev/CleanArchitecture,Clean Architecture Solution Template for .NET 7,MDEwOlJlcG9zaXRvcnkyMTM0NjAyODU=
+41,N_m3u8DL-CLI,1868,11182,C#,https://github.com/nilaoda/N_m3u8DL-CLI,"[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.",MDEwOlJlcG9zaXRvcnkxODIwOTUzNTI=
+42,aspnetboilerplate,3691,10969,C#,https://github.com/aspnetboilerplate/aspnetboilerplate,ASP.NET Boilerplate - Web Application Framework,MDEwOlJlcG9zaXRvcnkxMjIwMTUzOA==
+43,CMWTAT_Digital_Edition,1581,10873,C#,https://github.com/TGSAN/CMWTAT_Digital_Edition,"CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！",MDEwOlJlcG9zaXRvcnkxMzUwNTAyMTk=
+44,AssetStudio,2026,10517,C#,https://github.com/Perfare/AssetStudio,"AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles.",MDEwOlJlcG9zaXRvcnk2NDc1MzA0Mw==
+45,mono,3780,10357,C#,https://github.com/mono/mono,"Mono open source ECMA CLI, C# and .NET implementation.",MDEwOlJlcG9zaXRvcnk3OTE2MTE=
+46,lively,830,10339,C#,https://github.com/rocksdanister/lively,Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.,MDEwOlJlcG9zaXRvcnkyMDExODgxMjI=
+47,UnityCsReference,2278,10190,C#,https://github.com/Unity-Technologies/UnityCsReference,Unity C# reference source code.,MDEwOlJlcG9zaXRvcnkxMjY0ODY3MDE=
+48,Newtonsoft.Json,3167,9939,C#,https://github.com/JamesNK/Newtonsoft.Json,Json.NET is a popular high-performance JSON framework for .NET,MDEwOlJlcG9zaXRvcnkzNDc2ODQ1
+49,csharplang,974,9769,C#,https://github.com/dotnet/csharplang,The official repo for the design of the C# programming language,MDEwOlJlcG9zaXRvcnk3NTk5MDg4OA==
+50,abp,2959,9651,C#,https://github.com/abpframework/abp,Open Source Web Application Framework for ASP.NET Core,MDEwOlJlcG9zaXRvcnk3NTUwNTEyNQ==
+51,basic-computer-games,1214,9373,C#,https://github.com/coding-horror/basic-computer-games,"An updated version of the classic ""Basic Computer Games"" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic-computer-games/",MDEwOlJlcG9zaXRvcnkzMzQ1MTUxNTU=
+52,MonoGame,2681,9323,C#,https://github.com/MonoGame/MonoGame,One framework for creating powerful cross-platform games.,MDEwOlJlcG9zaXRvcnkxNTc5OTkw
+53,MediatR,1056,9317,C#,https://github.com/jbogard/MediatR,"Simple, unambitious mediator implementation in .NET",MDEwOlJlcG9zaXRvcnkxNzM2OTM2MQ==
+54,AutoMapper,1708,9300,C#,https://github.com/AutoMapper/AutoMapper,A convention-based object-object mapper in .NET. ,MDEwOlJlcG9zaXRvcnk1MDUzODA=
+55,ArchiSteamFarm,994,9218,C#,https://github.com/JustArchiNET/ArchiSteamFarm,C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.,MDEwOlJlcG9zaXRvcnk0NDg5NzQ2Mg==
+56,CefSharp,2852,9207,C#,https://github.com/cefsharp/CefSharp,.NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework,MDEwOlJlcG9zaXRvcnkxMTM1NDU0
+57,orleans,1964,9201,C#,https://github.com/dotnet/orleans,Cloud Native application framework for .NET,MDEwOlJlcG9zaXRvcnkyODIzMjY2Mw==
+58,IdentityServer4,3836,9015,C#,https://github.com/IdentityServer/IdentityServer4,OpenID Connect and OAuth 2.0 Framework for ASP.NET Core,MDEwOlJlcG9zaXRvcnk0NjY1MjIyNw==
+59,RestSharp,2283,8963,C#,https://github.com/restsharp/RestSharp,Simple REST and HTTP API Client for .NET,MDEwOlJlcG9zaXRvcnkzNzQyMjg=
+60,choco,871,8950,C#,https://github.com/chocolatey/choco,Chocolatey - the package manager for Windows,MDEwOlJlcG9zaXRvcnkyODY0NzIxOA==
+61,SignalR,2295,8855,C#,https://github.com/SignalR/SignalR,Incredibly simple real-time web for .NET,MDEwOlJlcG9zaXRvcnkyMDg3MDY0
+62,Jackett,1050,8837,C#,https://github.com/Jackett/Jackett,API Support for your favorite torrent trackers,MDEwOlJlcG9zaXRvcnk0NTE5NTYxNA==
+63,BenchmarkDotNet,873,8830,C#,https://github.com/dotnet/BenchmarkDotNet,Powerful .NET library for benchmarking,MDEwOlJlcG9zaXRvcnkxMjE5MTI0NA==
+64,winsw,1335,8816,C#,https://github.com/winsw/winsw,"A wrapper executable that can run any executable as a Windows service, in a permissive license.",MDEwOlJlcG9zaXRvcnk1MDAwOTM=
+65,FluentTerminal,442,8771,C#,https://github.com/felixse/FluentTerminal,A Terminal Emulator based on UWP and web technologies.,MDEwOlJlcG9zaXRvcnkxMTgzMjIyODY=
+66,MahApps.Metro,2420,8648,C#,https://github.com/MahApps/MahApps.Metro,A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.,MDEwOlJlcG9zaXRvcnkyNTg0Nzc3
+67,eShopOnWeb,4427,8616,C#,https://github.com/dotnet-architecture/eShopOnWeb,"Sample ASP.NET Core 6.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.",MDEwOlJlcG9zaXRvcnk4MzM4MDk5NQ==
+68,duplicati,801,8606,C#,https://github.com/duplicati/duplicati,Store securely encrypted backups in the cloud!,MDEwOlJlcG9zaXRvcnkyMjYzNjI2Mw==
+69,Locale-Emulator,725,8488,C#,https://github.com/xupefei/Locale-Emulator,Yet Another System Region and Language Simulator,MDEwOlJlcG9zaXRvcnk4ODM1MDU3
+70,Sonarr,1107,8441,C#,https://github.com/Sonarr/Sonarr,Smart PVR for newsgroup and bittorrent users.,MDEwOlJlcG9zaXRvcnkyNDY1NzIz
+71,machinelearning,1809,8337,C#,https://github.com/dotnet/machinelearning,ML.NET is an open source and cross-platform machine learning framework for .NET.,MDEwOlJlcG9zaXRvcnkxMzIwMjExNjY=
+72,Captura,1579,8236,C#,https://github.com/MathewSachin/Captura,"Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes",MDEwOlJlcG9zaXRvcnk0MTU4OTQzOQ==
+73,modular-monolith-with-ddd,1233,8218,C#,https://github.com/kgrzybek/modular-monolith-with-ddd,Full Modular Monolith application with Domain-Driven Design approach.,MDEwOlJlcG9zaXRvcnkyMDM4OTI0NTQ=
+74,Hangfire,1582,8139,C#,https://github.com/HangfireIO/Hangfire,An easy way to perform background job processing in your .NET and .NET Core applications. No Windows Service or separate process required,MDEwOlJlcG9zaXRvcnkxMTkyMDU0Mg==
+75,Terminal.Gui,597,8034,C#,https://github.com/gui-cs/Terminal.Gui,Cross Platform Terminal UI toolkit for .NET,MDEwOlJlcG9zaXRvcnkxMTM4MDczMzA=
+76,FluentValidation,1125,8007,C#,https://github.com/FluentValidation/FluentValidation,A popular .NET validation library for building strongly-typed validation rules.,MDEwOlJlcG9zaXRvcnk0NDM5NjI=
+77,nopCommerce,4541,7998,C#,https://github.com/nopSolutions/nopCommerce,ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart.,MDEwOlJlcG9zaXRvcnkxODU4NjcwNQ==
+78,WeiXinMPSDK,4283,7757,C#,https://github.com/JeffreySu/WeiXinMPSDK,微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0、.NET 7.0。已支持微信公众号、小程序、小游戏、微信支付、企业微信/企业号、开放平台、JSSDK、微信周边等全平台。 WeChat SDK for C#.,MDEwOlJlcG9zaXRvcnk3NTYwNTg5
+79,practical-aspnetcore,1009,7634,C#,https://github.com/dodyg/practical-aspnetcore,"Practical samples of ASP.NET Core 2.1, 2.2, 3.1, 5.0, 6.0, 7.0 and 8.0 preview 2  projects you can use. Readme contains explanations on all projects.",MDEwOlJlcG9zaXRvcnk2NDI5MDczOQ==
+80,Humanizer,894,7606,C#,https://github.com/Humanizr/Humanizer,"Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities",MDEwOlJlcG9zaXRvcnk0MjEzNDc0
+81,Ocelot,1544,7545,C#,https://github.com/ThreeMammals/Ocelot,.NET core API Gateway,MDEwOlJlcG9zaXRvcnk2MjI1NjA5Nw==
+82,uno,622,7537,C#,https://github.com/unoplatform/uno,"Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.",MDEwOlJlcG9zaXRvcnkxMzI0NTM0Mzg=
+83,Notepads,430,7492,C#,https://github.com/0x7c13/Notepads,"A modern, lightweight text editor with a minimalist design.",MDEwOlJlcG9zaXRvcnkxODk2NzY3Nzc=
+84,ReactiveUI,1118,7407,C#,https://github.com/reactiveui/ReactiveUI,"An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state away from your user interfaces, express the idea around a feature in one readable place and improve the testability of your application.",MDEwOlJlcG9zaXRvcnk3MTUwODI=
+85,Radarr,828,7362,C#,https://github.com/Radarr/Radarr,A fork of Sonarr to work with movies à la Couchpotato.,MDEwOlJlcG9zaXRvcnk3NzMyMzIyMA==
+86,LiteDB,1117,7347,C#,https://github.com/mbdavid/LiteDB,LiteDB - A .NET NoSQL Document Store in a single data file - https://www.litedb.org,MDEwOlJlcG9zaXRvcnkyMzMxNTIzMg==
+87,blockchain,2643,7337,C#,https://github.com/dvf/blockchain,A simple Blockchain in Python,MDEwOlJlcG9zaXRvcnkxMDQ2NzA5Nzc=
+88,Bili.Uwp,486,7330,C#,https://github.com/Richasy/Bili.Uwp,适用于新系统UI的哔哩,MDEwOlJlcG9zaXRvcnkzNzIwOTYwNTc=
+89,mRemoteNG,1328,7321,C#,https://github.com/mRemoteNG/mRemoteNG,"mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.",MDEwOlJlcG9zaXRvcnk0NjA4NDg=
+90,ailab,1366,7302,C#,https://github.com/microsoft/ailab,"Experience, Learn and Code the latest breakthrough innovations with Microsoft AI",MDEwOlJlcG9zaXRvcnkxNDIwNzY3NDc=
+91,Lean,2784,7256,C#,https://github.com/QuantConnect/Lean,"Lean Algorithmic Trading Engine by QuantConnect (Python, C#)",MDEwOlJlcG9zaXRvcnkyNzI1MTQ2Mw==
+92,EarTrumpet,470,7190,C#,https://github.com/File-New-Project/EarTrumpet,EarTrumpet - Volume Control for Windows,MDEwOlJlcG9zaXRvcnkzODkxOTcwMg==
+93,Nancy,1508,7182,C#,https://github.com/NancyFx/Nancy,"Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono",MDEwOlJlcG9zaXRvcnk3MzgyNTA=
+94,Bogus,412,7017,C#,https://github.com/bchavez/Bogus,":card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.",MDEwOlJlcG9zaXRvcnkzNjk5MDcyMw==
+95,refit,689,7011,C#,https://github.com/reactiveui/refit,"The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.",MDEwOlJlcG9zaXRvcnkxMTU5MTMxMw==
+96,PDFPatcher,1100,6961,C#,https://github.com/wmjordan/PDFPatcher,PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等,R_kgDOGlAo7g
+97,ContextMenuManager,407,6947,C#,https://github.com/BluePointLilac/ContextMenuManager,🖱️ 纯粹的Windows右键菜单管理程序,MDEwOlJlcG9zaXRvcnkzMDQyMzAzMzM=
+98,gitextensions,2011,6859,C#,https://github.com/gitextensions/gitextensions,Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).,MDEwOlJlcG9zaXRvcnk4NTk1Mw==
+99,ET,2535,6848,C#,https://github.com/egametang/ET,Unity3D Client And C# Server Framework,MDEwOlJlcG9zaXRvcnk3NDM0MzY=
+100,spectre.console,324,6802,C#,https://github.com/spectreconsole/spectre.console,A .NET library that makes it easier to create beautiful console applications.,MDEwOlJlcG9zaXRvcnkyODEzNjA4Njk=
+101,Electron.NET,667,6623,C#,https://github.com/ElectronNET/Electron.NET,":electron: Build cross platform desktop apps with ASP.NET Core (Razor Pages, MVC, Blazor).",MDEwOlJlcG9zaXRvcnkxMDU2NDkyNzM=
+102,jynew,1458,6557,C#,https://github.com/jynew/jynew,JinYongLegend-like RPG Game Framework with full Modding support,MDEwOlJlcG9zaXRvcnkzNjY2NjM0Mjk=
+103,Quasar,2144,6530,C#,https://github.com/quasar/Quasar,Remote Administration Tool for Windows,MDEwOlJlcG9zaXRvcnkyMTYxMTcyMw==
+104,OrchardCore,2131,6461,C#,https://github.com/OrchardCMS/OrchardCore,"Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.",MDEwOlJlcG9zaXRvcnkyNjg4NDcyNQ==
+105,reverse-proxy,623,6407,C#,https://github.com/microsoft/reverse-proxy,A toolkit for developing high-performance HTTP reverse proxy applications.,MDEwOlJlcG9zaXRvcnkyNDUyMzUxMzM=
+106,ImageSharp,782,6399,C#,https://github.com/SixLabors/ImageSharp,":camera: A modern, cross-platform, 2D Graphics library for .NET",MDEwOlJlcG9zaXRvcnk3MjE3NDE2NA==
+107,ShadowsocksR-Windows,1099,6398,C#,https://github.com/HMBSbige/ShadowsocksR-Windows,Ship of Theseus,MDEwOlJlcG9zaXRvcnkxMzAxNjA3OTU=
+108,QuestPDF,336,6398,C#,https://github.com/QuestPDF/QuestPDF,"QuestPDF is a modern open-source .NET library for PDF document generation. Offering comprehensive layout engine powered by concise and discoverable C# Fluent API. Easily generate PDF reports, invoices, exports, etc.",MDEwOlJlcG9zaXRvcnkzMjY4MjYwMjM=
+109,UniRx,835,6353,C#,https://github.com/neuecc/UniRx,Reactive Extensions for Unity,MDEwOlJlcG9zaXRvcnkxNzk0MTUyMA==
+110,wpf,1038,6259,C#,https://github.com/dotnet/wpf,WPF is a .NET Core UI framework for building Windows desktop applications.,MDEwOlJlcG9zaXRvcnkxNTM3MTE5NDU=
+111,de4dot,2540,6254,C#,https://github.com/de4dot/de4dot,.NET deobfuscator and unpacker.,MDEwOlJlcG9zaXRvcnkyNDE5NzI3
+112,Dependencies,538,6222,C#,https://github.com/lucasg/Dependencies,"A rewrite of the old legacy software ""depends.exe"" in C# for Windows devs to troubleshoot dll load dependencies issues.",MDEwOlJlcG9zaXRvcnk5NTM2NjY4MA==
+113,AspNetCoreDiagnosticScenarios,612,6206,C#,https://github.com/davidfowl/AspNetCoreDiagnosticScenarios,This repository has examples of broken patterns in ASP.NET Core applications,MDEwOlJlcG9zaXRvcnkxNTIzNzA4MjM=
+114,Entitas,1066,6175,C#,https://github.com/sschmid/Entitas,Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity,MDEwOlJlcG9zaXRvcnkxNzg3MzM4Mg==
+115,serilog,742,6149,C#,https://github.com/serilog/serilog,Simple .NET logging with fully-structured events,MDEwOlJlcG9zaXRvcnk4MTk4NTEx
+116,Bulk-Crap-Uninstaller,363,5977,C#,https://github.com/Klocman/Bulk-Crap-Uninstaller,Remove large amounts of unwanted applications quickly.,MDEwOlJlcG9zaXRvcnk2NDY3Nzg3Mw==
+117,CAP,1198,5954,C#,https://github.com/dotnetcore/CAP,"Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern",MDEwOlJlcG9zaXRvcnk3NjQ0NTcwNA==
+118,clean-code-dotnet,925,5926,C#,https://github.com/thangchung/clean-code-dotnet,:bathtub:  Clean Code concepts and tools adapted for .NET ,MDEwOlJlcG9zaXRvcnkxMDMwODY2OTc=
+119,EquinoxProject,1515,5890,C#,https://github.com/EduardoPires/EquinoxProject,"Full ASP.NET Core 6 application with DDD, CQRS and Event Sourcing concepts",MDEwOlJlcG9zaXRvcnk3NjQyNTIzNg==
+120,MarkovJunior,261,5855,C#,https://github.com/mxgmn/MarkovJunior,"Probabilistic language based on pattern matching and constraint propagation, 153 examples",R_kgDOHbn2pw
+121,imewlconverter,574,5854,C#,https://github.com/studyzy/imewlconverter,”深蓝词库转换“ 一款开源免费的输入法词库转换程序,MDEwOlJlcG9zaXRvcnk0MDAxMTM5
+122,docker-lambda,448,5853,C#,https://github.com/lambci/docker-lambda,Docker images and test runners that replicate the live AWS Lambda environment,MDEwOlJlcG9zaXRvcnk1OTcxNTQ2Nw==
+123,reactive,688,5848,C#,https://github.com/dotnet/reactive,The Reactive Extensions for .NET,MDEwOlJlcG9zaXRvcnkxMjU3NjUyNg==
+124,EverythingToolbar,303,5832,C#,https://github.com/srwi/EverythingToolbar,Everything integration for the Windows taskbar.,MDEwOlJlcG9zaXRvcnkyOTUyMDA3Mjg=
+125,NLog,1349,5821,C#,https://github.com/NLog/NLog,NLog - Advanced and Structured Logging for Various .NET Platforms,MDEwOlJlcG9zaXRvcnk1NzgwNDE2
+126,VFSForGit,462,5807,C#,https://github.com/microsoft/VFSForGit,Virtual File System for Git: Enable Git at Enterprise Scale,MDEwOlJlcG9zaXRvcnk4MDA1ODI2OQ==
+127,NSwag,1096,5767,C#,https://github.com/RicoSuter/NSwag,"The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript. ",MDEwOlJlcG9zaXRvcnk0MTgyMjMyMA==
+128,Mvc,2197,5694,C#,https://github.com/aspnet/Mvc,"[Archived] ASP.NET Core MVC is a model view controller framework for building dynamic web sites with clean separation of concerns, including the merged MVC, Web API, and Web Pages w/ Razor. Project moved to https://github.com/aspnet/AspNetCore",MDEwOlJlcG9zaXRvcnkxNTEyNjQyOQ==
+129,MixedRealityToolkit-Unity,2119,5659,C#,https://github.com/microsoft/MixedRealityToolkit-Unity,Mixed Reality Toolkit (MRTK) provides a set of components and features to accelerate cross-platform MR app development in Unity.,MDEwOlJlcG9zaXRvcnk1MDYwNTQyNg==
+130,Xamarin.Forms,1923,5646,C#,https://github.com/xamarin/Xamarin.Forms,Xamarin.Forms Official Home,MDEwOlJlcG9zaXRvcnk1NDIxMzQ5MA==
+131,quartznet,1602,5577,C#,https://github.com/quartznet/quartznet,Quartz Enterprise Scheduler .NET,MDEwOlJlcG9zaXRvcnkxMjA4ODI0
+132,Prism,1539,5564,C#,https://github.com/PrismLibrary/Prism,"Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Xamarin Forms, and Uno / Win UI Applications..",MDEwOlJlcG9zaXRvcnkzMTMzNTMwMA==
+133,StockSharp,1540,5552,C#,https://github.com/StockSharp/StockSharp,"Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options).",MDEwOlJlcG9zaXRvcnkyNzcwMzk4Mw==
+134,FASTER,517,5484,C#,https://github.com/microsoft/FASTER,"Fast persistent recoverable log and key-value store + cache, in C# and C++.",MDEwOlJlcG9zaXRvcnkxNDMyNTMwMjA=
+135,StackExchange.Redis,1455,5480,C#,https://github.com/StackExchange/StackExchange.Redis,General purpose redis client,MDEwOlJlcG9zaXRvcnkxNzc0ODE4Mw==
+136,graphql-dotnet,887,5479,C#,https://github.com/graphql-dotnet/graphql-dotnet,GraphQL for .NET,MDEwOlJlcG9zaXRvcnkzODYzMjQ2OA==
+137,C-Sharp-Algorithms,1333,5407,C#,https://github.com/aalhour/C-Sharp-Algorithms,:books: :chart_with_upwards_trend: Plug-and-play class-library project of standard Data Structures and Algorithms in C#,MDEwOlJlcG9zaXRvcnkzNTYwODY5NA==
+138,WindowsCommunityToolkit,1338,5386,C#,https://github.com/CommunityToolkit/WindowsCommunityToolkit,"The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / WinUI 3 for Windows 10 and Windows 11. The toolkit is part of the .NET Foundation.",MDEwOlJlcG9zaXRvcnk2MTQwMzQwMg==
+139,microsoft-ui-xaml,613,5386,C#,https://github.com/microsoft/microsoft-ui-xaml,Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications,MDEwOlJlcG9zaXRvcnkxNDI0ODA5MDM=
+140,language-ext,376,5353,C#,https://github.com/louthy/language-ext,C# functional language extensions - a base class library for functional programming,MDEwOlJlcG9zaXRvcnkyNjczMjQ1Mw==
+141,Windows-Auto-Night-Mode,208,5339,C#,https://github.com/AutoDarkMode/Windows-Auto-Night-Mode,Automatically switches between the dark and light theme of Windows 10 and Windows 11,MDEwOlJlcG9zaXRvcnkxNTgwMjU4NDk=
+142,Live-Charts,1371,5330,C#,https://github.com/Live-Charts/Live-Charts,"Simple, flexible, interactive & powerful charts, maps and gauges for .Net",MDEwOlJlcG9zaXRvcnk0Mjc0OTg0MQ==
+143,EntityComponentSystemSamples,1261,5307,C#,https://github.com/Unity-Technologies/EntityComponentSystemSamples,,MDEwOlJlcG9zaXRvcnkxMjU2MTIyNzE=
+144,sharpkeys,376,5305,C#,https://github.com/randyrants/sharpkeys,SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.,MDEwOlJlcG9zaXRvcnk4ODA2ODEyMA==
+145,Unity3DTraining,1594,5290,C#,https://github.com/XINCGer/Unity3DTraining,【Unity杂货铺】unity大杂烩~,MDEwOlJlcG9zaXRvcnk1NzA0OTIxMg==
+146,MailKit,761,5282,C#,https://github.com/jstedfast/MailKit,"A cross-platform .NET library for IMAP, POP3, and SMTP.",MDEwOlJlcG9zaXRvcnkxNDk5OTYyMw==
+147,MassTransit,1461,5258,C#,https://github.com/MassTransit/MassTransit,Distributed Application Framework for .NET,MDEwOlJlcG9zaXRvcnk3Nzg4Mjg=
+148,Playnite,381,5207,C#,https://github.com/JosefNemec/Playnite,"Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.",MDEwOlJlcG9zaXRvcnk4NjE4MjQ5MA==
+149,C-Sharp,1152,5202,C#,https://github.com/TheAlgorithms/C-Sharp,All algorithms implemented in C#.,MDEwOlJlcG9zaXRvcnk2NDQ1NDk1Mg==
+150,ServiceStack,1631,5188,C#,https://github.com/ServiceStack/ServiceStack,"Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all",MDEwOlJlcG9zaXRvcnkxMzM5OTIy
+151,open-project-1,1936,5150,C#,https://github.com/UnityTechnologies/open-project-1,Unity Open Project #1: Chop Chop,MDEwOlJlcG9zaXRvcnkyODY0OTAwNjU=
+152,tye,520,5100,C#,https://github.com/dotnet/tye,"Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.",MDEwOlJlcG9zaXRvcnkyNDM4NTQxNjY=
+153,moq4,670,5098,C#,https://github.com/moq/moq4,Repo for managing Moq 4.x ,MDEwOlJlcG9zaXRvcnkzNjg5NzE4
+154,DiscordChatExporter,528,5087,C#,https://github.com/Tyrrrz/DiscordChatExporter,Exports Discord chat logs to a file,MDEwOlJlcG9zaXRvcnk5NzAzNDA0Mg==
+155,subtitleedit,704,5085,C#,https://github.com/SubtitleEdit/subtitleedit,the subtitle editor :),MDEwOlJlcG9zaXRvcnkxNjQ3MzU4NQ==
+156,UniTask,554,5083,C#,https://github.com/Cysharp/UniTask,Provides an efficient allocation free async/await integration for Unity.,MDEwOlJlcG9zaXRvcnkxODc0OTkyODQ=
+157,openhardwaremonitor,1154,5075,C#,https://github.com/openhardwaremonitor/openhardwaremonitor,Open Hardware Monitor,MDEwOlJlcG9zaXRvcnk0MTI2ODI1Mg==
+158,ImageGlass,393,5058,C#,https://github.com/d2phap/ImageGlass,"🏞 A lightweight, versatile image viewer",MDEwOlJlcG9zaXRvcnk3Mzc3OTM2
+159,xdm,976,5041,C#,https://github.com/subhra74/xdm,Powerfull download accelerator and video downloader,MDEwOlJlcG9zaXRvcnkxMjI4MzcxMTE=
+160,websocket-sharp,1563,5033,C#,https://github.com/sta/websocket-sharp,A C# implementation of the WebSocket protocol client and server,MDEwOlJlcG9zaXRvcnk5OTc0OTE=
+161,Il2CppDumper,942,5031,C#,https://github.com/Perfare/Il2CppDumper,Unity il2cpp reverse engineer,MDEwOlJlcG9zaXRvcnk3NzcwMzQxMA==
+162,MudBlazor,857,5010,C#,https://github.com/MudBlazor/MudBlazor,Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.,MDEwOlJlcG9zaXRvcnkyODg0Mjg2NzY=
+163,BBDown,559,5003,C#,https://github.com/nilaoda/BBDown,Bilibili Downloader. 一款命令行式哔哩哔哩下载器.,MDEwOlJlcG9zaXRvcnkyODI2Mzc5MjQ=
+164,npoi,1336,4937,C#,https://github.com/nissl-lab/npoi,"a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.",MDEwOlJlcG9zaXRvcnk3NDAwODE1
+165,msbuild,1318,4918,C#,https://github.com/dotnet/msbuild,The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.,MDEwOlJlcG9zaXRvcnkzMjA1MTg5MA==
+166,NorthwindTraders,1582,4900,C#,https://github.com/jasontaylordev/NorthwindTraders,Northwind Traders is a sample application built using ASP.NET Core and Entity Framework Core.,MDEwOlJlcG9zaXRvcnk3MDU4NDA3OQ==
+167,ProxySU,1512,4893,C#,https://github.com/proxysu/ProxySU,"Xray,V2ray，Trojan，NaiveProxy, Trojan-Go, ShadowsocksR(SSR),Shadowsocks-libev及相关插件,MTProto+TLS 一键安装工具，windows下用（一键科学上网）",MDEwOlJlcG9zaXRvcnkyNDUwMzMxMzE=
+168,ant-design-blazor,794,4867,C#,https://github.com/ant-design-blazor/ant-design-blazor,🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.,MDEwOlJlcG9zaXRvcnkyMjQxMDkzODI=
+169,EventStore,630,4810,C#,https://github.com/EventStore/EventStore,The stream database optimised for event sourcing,MDEwOlJlcG9zaXRvcnk1ODQ0NDc0
+170,SparkleShare,605,4803,C#,https://github.com/hbons/SparkleShare,"Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows.",MDEwOlJlcG9zaXRvcnk5NTY3MzI=
+171,stateless,705,4782,C#,https://github.com/dotnet-state-machine/stateless,A simple library for creating state machines in C# code,MDEwOlJlcG9zaXRvcnkyMzAwMTM1Mw==
+172,Swashbuckle.AspNetCore,1194,4767,C#,https://github.com/domaindrivendev/Swashbuckle.AspNetCore,Swagger tools for documenting API's built on ASP.NET Core,MDEwOlJlcG9zaXRvcnkzMjMwNDEyMQ==
+173,win-acme,763,4735,C#,https://github.com/win-acme/win-acme,A simple ACME client for Windows (for use with Let's Encrypt et al.),MDEwOlJlcG9zaXRvcnk0NjA4MDMyNQ==
+174,SyncTrayzor,353,4688,C#,https://github.com/canton7/SyncTrayzor,Windows tray utility / filesystem watcher / launcher for Syncthing,MDEwOlJlcG9zaXRvcnkzMDQ5ODQxMg==
+175,optimizer,425,4657,C#,https://github.com/hellzerg/optimizer,The finest Windows Optimizer,MDEwOlJlcG9zaXRvcnkxMDMzNzAxNTc=
+176,DriverStoreExplorer,336,4653,C#,https://github.com/lostindark/DriverStoreExplorer,Driver Store Explorer [RAPR],MDEwOlJlcG9zaXRvcnk2MTE3NjQ5Mg==
+177,react-native-fs,922,4649,C#,https://github.com/itinance/react-native-fs,Native filesystem access for react-native,MDEwOlJlcG9zaXRvcnkzNTI5MTQ0Ng==
+178,RunCat_for_windows,446,4629,C#,https://github.com/Kyome22/RunCat_for_windows,A cute running cat animation on your windows taskbar.,MDEwOlJlcG9zaXRvcnkyODU2MTg4MDQ=
+179,Hearthstone-Deck-Tracker,1124,4620,C#,https://github.com/HearthSim/Hearthstone-Deck-Tracker,A deck tracker and deck manager for Hearthstone on Windows,MDEwOlJlcG9zaXRvcnkyMDMwNDM5MA==
+180,HandyControl,871,4588,C#,https://github.com/HandyOrg/HandyControl,Contains some simple and commonly used WPF controls,MDEwOlJlcG9zaXRvcnkxMzQzNjMwNzM=
+181,MessagePack-CSharp,618,4568,C#,https://github.com/neuecc/MessagePack-CSharp,"Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]",MDEwOlJlcG9zaXRvcnk4MTc3MDI5MQ==
+182,AngleSharp,531,4568,C#,https://github.com/AngleSharp/AngleSharp,":angel: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.",MDEwOlJlcG9zaXRvcnkxMDUwMTYzOA==
+183,shadowsocksr-csharp,1939,4562,C#,https://github.com/shadowsocksr-backup/shadowsocksr-csharp,,MDEwOlJlcG9zaXRvcnk5ODU0NzY1OA==
+184,FPSSample,1781,4550,C#,https://github.com/Unity-Technologies/FPSSample,A first person multiplayer shooter example project in Unity,MDEwOlJlcG9zaXRvcnkxNTM0Mjc0NzU=
+185,NAudio,1035,4530,C#,https://github.com/naudio/NAudio,Audio and MIDI library for .NET,MDEwOlJlcG9zaXRvcnkzMDgzMDY4OQ==
+186,btcpayserver,1088,4525,C#,https://github.com/btcpayserver/btcpayserver,"Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor. ",MDEwOlJlcG9zaXRvcnkxMDA3MTE5Nzg=
+187,mobile,613,4504,C#,https://github.com/bitwarden/mobile,The mobile app vault (iOS and Android).,MDEwOlJlcG9zaXRvcnk1NzQ1MjE0Mw==
+188,ThisIsWin11,314,4496,C#,https://github.com/builtbybel/ThisIsWin11,The real PowerToys for Windows 11,MDEwOlJlcG9zaXRvcnkzODc1NDI0MTI=
+189,Common.Utility,1978,4479,C#,https://github.com/Jimmey-Jiang/Common.Utility,Various helper class,MDEwOlJlcG9zaXRvcnkxMDYzODYxNzc=
+190,GameFramework,1233,4468,C#,https://github.com/EllanJiang/GameFramework,"This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the development speed and ensures the product quality.",MDEwOlJlcG9zaXRvcnk4MzE4NzY1Ng==
+191,stride,740,4463,C#,https://github.com/stride3d/stride,Stride Game Engine (formerly Xenko),MDEwOlJlcG9zaXRvcnkxMzY1NzAyMzE=
+192,opencvsharp,1008,4434,C#,https://github.com/shimat/opencvsharp,OpenCV wrapper for .NET,MDEwOlJlcG9zaXRvcnkxNTM1MTM4NQ==
+193,UIEffect,644,4432,C#,https://github.com/mob-sakai/UIEffect, UIEffect is an effect component for uGUI element in Unity. Let's decorate your UI with effects!,MDEwOlJlcG9zaXRvcnk4MzMxNTI3MA==
+194,workflow-core,1037,4421,C#,https://github.com/danielgerlag/workflow-core,Lightweight workflow engine for .NET Standard,MDEwOlJlcG9zaXRvcnk3Mzg2NDgwMg==
+195,PushSharp,1566,4358,C#,https://github.com/Redth/PushSharp,"A server-side library for sending Push Notifications to iOS (iPhone/iPad APNS), Android (C2DM and GCM - Google Cloud Message), Windows Phone, Windows 8, Amazon, Blackberry, and (soon) FirefoxOS devices!",MDEwOlJlcG9zaXRvcnk0NjAwNDAw
+196,elsa-core,831,4344,C#,https://github.com/elsa-workflows/elsa-core,A .NET workflows library,MDEwOlJlcG9zaXRvcnkxNTExNDg0ODI=
+197,framework,1956,4344,C#,https://github.com/accord-net/framework,"Machine learning, computer vision, statistics and general scientific computing for .NET",MDEwOlJlcG9zaXRvcnkzOTY0NTE0
+198,SqlSugar,1237,4340,C#,https://github.com/DotNetNext/SqlSugar,".Net ORM    Fastest ORM   Simple Easy  Sqlite  orm Oracle ORM Mysql Orm  postgresql ORm  SqlServer oRm     达梦 ORM 人大金仓 ORM 神通ORM  C# ORM , C# ORM .NET ORM NET5 ORM .NET6 ORM ClickHouse orm QuestDb",MDEwOlJlcG9zaXRvcnkzODk5MjIzMw==
+199,akka.net,1017,4326,C#,https://github.com/akkadotnet/akka.net,Canonical actor model implementation for .NET with local + distributed actors in C# and F#.,MDEwOlJlcG9zaXRvcnkxNTUwOTQ0MA==
+200,electrino,105,4315,C#,https://github.com/pojala/electrino,"Desktop runtime for apps built on web technologies, using the system's own web browser engine",MDEwOlJlcG9zaXRvcnk5MDA0MjUzNA==
+201,graphql-platform,632,4312,C#,https://github.com/ChilliCream/graphql-platform,"Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Banana Cake Pop the awesome Monaco based GraphQL IDE.",MDEwOlJlcG9zaXRvcnkxMTcxMDIxODM=
+202,xamarin-forms-samples,7604,4277,C#,https://github.com/xamarin/xamarin-forms-samples,Sample apps built using the Xamarin.Forms framework,MDEwOlJlcG9zaXRvcnkxOTIxNjgyNQ==
+203,Blog.Core,1239,4266,C#,https://github.com/anjoy8/Blog.Core,💖 ASP.NET Core 6.0/7.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：,MDEwOlJlcG9zaXRvcnkxNDUxMDE0ODQ=
+204,Opserver,817,4242,C#,https://github.com/opserver/Opserver,Stack Exchange's Monitoring System,MDEwOlJlcG9zaXRvcnkxMzU4OTQ2MQ==
+205,Borderless-Gaming,416,4226,C#,https://github.com/Codeusa/Borderless-Gaming,Play your favorite games in a borderless window; no more time consuming alt-tabs. ,MDEwOlJlcG9zaXRvcnkxNTgxOTAyNA==
+206,Util,1223,4184,C#,https://github.com/dotnetcore/Util,Util是一个.net core平台下的应用框架，旨在提升小型团队的开发输出能力，由常用公共操作类(工具类)、分层架构基类、Ui组件，第三方组件封装，第三方业务接口封装，配套代码生成模板，权限等组成。,MDEwOlJlcG9zaXRvcnk5NjI5OTM1NA==
+207,WPF-Samples,3017,4175,C#,https://github.com/microsoft/WPF-Samples,Repository for WPF related samples,MDEwOlJlcG9zaXRvcnkzNDAyMzkxNg==
+208,protobuf-net,1012,4174,C#,https://github.com/protobuf-net/protobuf-net,Protocol Buffers library for idiomatic .NET ,MDEwOlJlcG9zaXRvcnkyMDg3ODgwMg==
+209,git-credential-manager,1345,4149,C#,https://github.com/git-ecosystem/git-credential-manager,"Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.",MDEwOlJlcG9zaXRvcnkxNTg0MDU1NTE=
+210,YoutubeDownloader,746,4139,C#,https://github.com/Tyrrrz/YoutubeDownloader,Downloads videos and playlists from YouTube,MDEwOlJlcG9zaXRvcnkxNTc4NTg1OTc=
+211,Autofac,814,4117,C#,https://github.com/autofac/Autofac,An addictive .NET IoC container,MDEwOlJlcG9zaXRvcnkxNjEzOTIxMA==
+212,CsvHelper,989,4076,C#,https://github.com/JoshClose/CsvHelper,Library to help reading and writing CSV files,MDEwOlJlcG9zaXRvcnk0NTMwMzc=
+213,wavefunctioncollapse,477,4073,C#,https://github.com/marian42/wavefunctioncollapse,"Walk through an infinite, procedurally generated city",MDEwOlJlcG9zaXRvcnkxNTQ3NDE5MTQ=
+214,OptiKey,507,4056,C#,https://github.com/OptiKey/OptiKey,OptiKey - Full computer control and speech with your eyes,MDEwOlJlcG9zaXRvcnkyMTgzNjE0OA==
+215,ApplicationInspector,343,4047,C#,https://github.com/microsoft/ApplicationInspector,A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.,MDEwOlJlcG9zaXRvcnkyMTM0ODA1MTQ=
+216,Mirror,649,3998,C#,https://github.com/MirrorNetworking/Mirror,#1 Open Source Unity Networking Library,MDEwOlJlcG9zaXRvcnkxNDE3NDU5NDM=
+217,Psychson,1294,3987,C#,https://github.com/brandonlw/Psychson,Phison 2251-03 (2303) Custom Firmware & Existing Firmware Patches (BadUSB),MDEwOlJlcG9zaXRvcnkyNDUwNDg5Mw==
+218,SteamAchievementManager,611,3968,C#,https://github.com/gibbed/SteamAchievementManager,A manager for game achievements in Steam.,MDEwOlJlcG9zaXRvcnkxMDk5MTY5NTQ=
+219,Fody,441,3958,C#,https://github.com/Fody/Fody,Extensible tool for weaving .net assemblies,MDEwOlJlcG9zaXRvcnk0OTMzMDM5
+220,Harmony,393,3925,C#,https://github.com/pardeike/Harmony,"A library for patching, replacing and decorating .NET and Mono methods during runtime",MDEwOlJlcG9zaXRvcnk3ODAwMjU4Nw==
+221,commandline,448,3922,C#,https://github.com/commandlineparser/commandline,"The best C# command line parser that brings standardized *nix getopt style, for .NET.  Includes F# support",MDEwOlJlcG9zaXRvcnkxMDk1MTQ4NDA=
+222,wpfui,436,3875,C#,https://github.com/lepoco/wpfui,"WPF UI provides the Fluent experience in your known and loved WPF framework. Intuitive design, themes, navigation and new immersive controls. All natively and effortlessly.",MDEwOlJlcG9zaXRvcnkzODkyMTgwNzM=
+223,Masuit.Tools,916,3864,C#,https://github.com/ldqk/Masuit.Tools,新手友好的C#万能工具库，包含一些常用的操作类，大都是静态类，加密解密，反射操作，权重随机筛选算法，分布式短id，表达式树，linq扩展，文件压缩，多线程下载和FTP客户端，硬件信息，字符串扩展方法，日期时间扩展操作，中国农历，大文件拷贝，图像裁剪，验证码，断点续传，集合扩展、Excel导出等常用封装。诸多功能集一身，代码量不到2MB！,MDEwOlJlcG9zaXRvcnk4MzY0NTgxOA==
+224,WTM,827,3849,C#,https://github.com/dotnetcore/WTM,Use WTM to write .netcore app fast !!!,MDEwOlJlcG9zaXRvcnkxMzQ3MDc5MTI=
+225,VisualStudioUninstaller,589,3849,C#,https://github.com/microsoft/VisualStudioUninstaller,Visual Studio Uninstallation sometimes can be unreliable and often leave out a lot of unwanted artifacts. Visual Studio Uninstaller is designed to thoroughly and reliably remove these unwanted artifacts.,MDEwOlJlcG9zaXRvcnk0Mjc1MzM2Mg==
+226,SimplCommerce,1431,3831,C#,https://github.com/simplcommerce/SimplCommerce,"A simple, cross platform, modularized ecommerce system built on .NET Core",MDEwOlJlcG9zaXRvcnk1OTM2MTk2Nw==
+227,Umbraco-CMS,2477,3820,C#,https://github.com/umbraco/Umbraco-CMS,"The simple, flexible and friendly ASP.NET CMS used by more than 730.000 websites",MDEwOlJlcG9zaXRvcnkxMDYwMTIwOA==
+228,winforms,859,3811,C#,https://github.com/dotnet/winforms,Windows Forms is a .NET UI framework for building Windows desktop applications.,MDEwOlJlcG9zaXRvcnkxNTM3MTE4MzA=
+229,DotNetty,944,3798,C#,https://github.com/Azure/DotNetty,"DotNetty project – a port of netty, event-driven asynchronous network application framework",MDEwOlJlcG9zaXRvcnkzNTI5MDM3Nw==
+230,self-driving-car-sim,1459,3758,C#,https://github.com/udacity/self-driving-car-sim,A self-driving car simulator built with Unity,MDEwOlJlcG9zaXRvcnk4MTI4MzU1Mg==
+231,MvvmCross,1304,3746,C#,https://github.com/MvvmCross/MvvmCross,"The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.",MDEwOlJlcG9zaXRvcnkyODcwOTEx
+232,spine-runtimes,2763,3696,C#,https://github.com/EsotericSoftware/spine-runtimes,2D skeletal animation runtimes for Spine.,MDEwOlJlcG9zaXRvcnk4MzAyMTgx
+233,MathUtilities,353,3665,C#,https://github.com/zalo/MathUtilities,A collection of some of the neat math and physics tricks that I've collected over the last few years.,MDEwOlJlcG9zaXRvcnk4MTY4NzY0Ng==
+234,EPPlus,1126,3660,C#,https://github.com/JanKallman/EPPlus,Create advanced Excel spreadsheets using .NET,MDEwOlJlcG9zaXRvcnk5Njk3NTY5NQ==
+235,QRCoder,969,3652,C#,https://github.com/codebude/QRCoder,A pure C# Open Source QR Code implementation,MDEwOlJlcG9zaXRvcnkxMzUzNzM2OQ==
+236,xunit,749,3645,C#,https://github.com/xunit/xunit,"xUnit.net is a free, open source, community-focused unit testing tool for .NET.",MDEwOlJlcG9zaXRvcnk5ODkxMjQ5
+237,ClosedXML,716,3641,C#,https://github.com/ClosedXML/ClosedXML,"ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive and user-friendly interface to dealing with the underlying OpenXML API.",MDEwOlJlcG9zaXRvcnk2NjcwOTA4OA==
+238,PostProcessing,745,3639,C#,https://github.com/Unity-Technologies/PostProcessing,Post Processing Stack,MDEwOlJlcG9zaXRvcnk3MDQ2MDc4NQ==
+239,FreeSql,799,3634,C#,https://github.com/dotnetcore/FreeSql,"🦄 .NET orm, C# orm, VB.NET orm, Mysql orm, Postgresql orm, SqlServer orm, Oracle orm, Sqlite orm, Firebird orm, 达梦 orm, 人大金仓 orm, 神通 orm, 翰高 orm, 南大通用 orm, 国产 orm, Clickhouse orm, QuestDB orm, MsAccess orm.",MDEwOlJlcG9zaXRvcnkxNjIyMjIwMDI=
+240,VRTK,996,3617,C#,https://github.com/ExtendRealityLtd/VRTK,*Beta* - An example of how to use the Tilia packages to create great content with VRTK v4.,MDEwOlJlcG9zaXRvcnk1Njk0MDM1MQ==
+241,pythonnet,631,3616,C#,https://github.com/pythonnet/pythonnet,Python for .NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers.,MDEwOlJlcG9zaXRvcnkxNDc0ODEyMw==
+242,runner,794,3615,C#,https://github.com/actions/runner,The Runner for GitHub Actions :rocket:,MDEwOlJlcG9zaXRvcnkxODQyODY4NzU=
+243,MisakaTranslator,382,3609,C#,https://github.com/hanmin0822/MisakaTranslator,御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具,MDEwOlJlcG9zaXRvcnkyNDQ1NTA3OTc=
+244,ModernWpf,394,3603,C#,https://github.com/Kinnara/ModernWpf,Modern styles and controls for your WPF applications,MDEwOlJlcG9zaXRvcnkyMTYwNTA2MjA=
+245,WinDynamicDesktop,269,3600,C#,https://github.com/t1m0thyj/WinDynamicDesktop,Port of macOS Mojave Dynamic Desktop feature to Windows 10,MDEwOlJlcG9zaXRvcnkxMzY2NzQ4ODU=
+246,DotnetSpider,977,3598,C#,https://github.com/dotnetcore/DotnetSpider,"DotnetSpider, a .NET standard web crawling library. It is lightweight, efficient and fast high-level web crawling & scraping framework",MDEwOlJlcG9zaXRvcnk1NDM1NzYxMA==
+247,clean-architecture-manga,619,3595,C#,https://github.com/ivanpaulovich/clean-architecture-manga," :cyclone: Clean Architecture with .NET6, C#10 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks",MDEwOlJlcG9zaXRvcnkxMTU1MTY1MTI=
+248,NaughtyAttributes,396,3595,C#,https://github.com/dbrizov/NaughtyAttributes,Attribute Extensions for Unity,MDEwOlJlcG9zaXRvcnkxMDcxMzQ0NTE=
+249,grpc-dotnet,702,3577,C#,https://github.com/grpc/grpc-dotnet,gRPC for .NET,MDEwOlJlcG9zaXRvcnkxNTk1NDg1NjE=
+250,sqlite-net,1411,3575,C#,https://github.com/praeclarum/sqlite-net,"Simple, powerful, cross-platform SQLite client and ORM for .NET",MDEwOlJlcG9zaXRvcnkxNjY2MjQ1
+251,Flow.Launcher,160,3570,C#,https://github.com/Flow-Launcher/Flow.Launcher,:mag: Quick file search & app launcher for Windows with community-made plugins,MDEwOlJlcG9zaXRvcnkyNTc1MjYyMTI=
+252,Topshelf,677,3557,C#,https://github.com/Topshelf/Topshelf,An easy service hosting framework for building Windows services using .NET,MDEwOlJlcG9zaXRvcnk3Nzg4MzQ=
+253,cake,714,3551,C#,https://github.com/cake-build/cake,:cake: Cake (C# Make) is a cross platform build automation system.,MDEwOlJlcG9zaXRvcnkyMDA5NDAyOQ==
+254,NETworkManager,474,3543,C#,https://github.com/BornToBeRoot/NETworkManager,A powerful tool for managing networks and troubleshoot network problems!,MDEwOlJlcG9zaXRvcnk4OTUyNzYxNA==
+255,Flurl,353,3521,C#,https://github.com/tmenier/Flurl,Fluent URL builder and testable HTTP client for .NET,MDEwOlJlcG9zaXRvcnkxNjg5NzAwOA==
+256,azure-powershell,3404,3511,C#,https://github.com/Azure/azure-powershell,Microsoft Azure PowerShell,MDEwOlJlcG9zaXRvcnkyMzg5MTE5NA==
+257,SuperSocket,1078,3506,C#,https://github.com/kerryjiang/SuperSocket,"SuperSocket is a light weight, cross platform and extensible socket server application framework.",MDEwOlJlcG9zaXRvcnk1Mjk3Mzcw
+258,Covenant,685,3506,C#,https://github.com/cobbr/Covenant,Covenant is a collaborative .NET C2 framework for red teamers.,MDEwOlJlcG9zaXRvcnkxNjk1OTc4NTM=
+259,CliWrap,217,3504,C#,https://github.com/Tyrrrz/CliWrap,Library for running command-line processes,MDEwOlJlcG9zaXRvcnk4Njc0Mzg4MA==
+260,markdig,402,3486,C#,https://github.com/xoofx/markdig,"A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET",MDEwOlJlcG9zaXRvcnk1OTY2OTMyNg==
+261,perfview,662,3480,C#,https://github.com/microsoft/perfview,PerfView is a CPU and memory performance-analysis tool,MDEwOlJlcG9zaXRvcnkzMzAxMDY3Mw==
+262,NoteHighlight2016,380,3479,C#,https://github.com/elvirbrk/NoteHighlight2016,Source code syntax highlighting for OneNote 2016 and OneNote for O365 . NoteHighlight 2013 port for OneNote 2016 (32-bit and 64-bit),MDEwOlJlcG9zaXRvcnk3NjI1NzIyMg==
+263,MQTTnet,886,3478,C#,https://github.com/dotnet/MQTTnet,MQTTnet is a high performance .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). The implementation is based on the documentation from http://mqtt.org/.,MDEwOlJlcG9zaXRvcnk4NTI0MjMyMQ==
+264,Emby,775,3476,C#,https://github.com/MediaBrowser/Emby,Emby Server is a personal media server with apps on just about every device.,MDEwOlJlcG9zaXRvcnk4MjMxNDY2
+265,semantic-kernel,324,3466,C#,https://github.com/microsoft/semantic-kernel,Integrate cutting-edge LLM technology quickly and easily into your apps,R_kgDOJDJ_YQ
+266,example-voting-app,7065,3462,C#,https://github.com/dockersamples/example-voting-app,"Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes",MDEwOlJlcG9zaXRvcnk0NjIzMzQ1MQ==
+267,Mapster,272,3458,C#,https://github.com/MapsterMapper/Mapster,"A fast, fun and stimulating object to object Mapper",MDEwOlJlcG9zaXRvcnkyMDM0Mjc5NA==
+268,ink,450,3455,C#,https://github.com/inkle/ink,inkle's open source scripting language for writing interactive narrative.,MDEwOlJlcG9zaXRvcnk1MDI0NDY3Mw==
+269,VsVim,390,3454,C#,https://github.com/VsVim/VsVim,Vim Emulator Plugin for Visual Studio 2015+ ,MDEwOlJlcG9zaXRvcnkzODg4NjA=
+270,Open-XML-SDK,525,3453,C#,https://github.com/dotnet/Open-XML-SDK,Open XML SDK by Microsoft,MDEwOlJlcG9zaXRvcnkyMDUzMjA1Mg==
+271,Unity-Design-Pattern,905,3438,C#,https://github.com/QianMo/Unity-Design-Pattern,:tea:  All Gang of Four Design Patterns written in Unity C# with many examples. And some Game Programming Patterns  written in Unity C#. | 各种设计模式的Unity3D C#版本实现,MDEwOlJlcG9zaXRvcnk3MDU1NTg3MQ==
+272,neo,1013,3410,C#,https://github.com/neo-project/neo,NEO Smart Economy,MDEwOlJlcG9zaXRvcnkzNjYxMzAzNg==
+273,ExcelDataReader,906,3403,C#,https://github.com/ExcelDataReader/ExcelDataReader,Lightweight and fast library written in C# for reading Microsoft Excel files,MDEwOlJlcG9zaXRvcnkyMjI1MzUxNA==
+274,docfx,779,3396,C#,https://github.com/dotnet/docfx,Static site generator for .NET API documentation.,MDEwOlJlcG9zaXRvcnkzODAwNzA1Mw==
+275,elasticsearch-net,1144,3396,C#,https://github.com/elastic/elasticsearch-net,"This strongly-typed, client library enables working with Elasticsearch. It is the official client maintained and supported by Elastic.",MDEwOlJlcG9zaXRvcnk5NDI2MTM=
+276,wpftoolkit,827,3394,C#,https://github.com/xceedsoftware/wpftoolkit,All the controls missing in WPF. Over 1 million downloads.,MDEwOlJlcG9zaXRvcnk5NDI0MjA4OQ==
+277,openiddict-core,410,3369,C#,https://github.com/openiddict/openiddict-core,Versatile OpenID Connect stack for ASP.NET Core and Microsoft.Owin (compatible with ASP.NET 4.6.1),MDEwOlJlcG9zaXRvcnk0MTE3MzMzNQ==
+278,gsudo,98,3362,C#,https://github.com/gerardog/gsudo,Sudo for Windows,MDEwOlJlcG9zaXRvcnkyMjAyNTE4MjA=
+279,IdentityServer4.Admin,1092,3361,C#,https://github.com/skoruba/IdentityServer4.Admin,The administration for the IdentityServer4 and Asp.Net Core Identity,MDEwOlJlcG9zaXRvcnkxMjEwNDkwNDU=
+280,copy-dialog-lunar-lander,65,3342,C#,https://github.com/Sanakan8472/copy-dialog-lunar-lander,Play lunar lander in you windows file copy dialog,R_kgDOH76HQQ
+281,ConfuserEx,1527,3335,C#,https://github.com/yck1509/ConfuserEx,"An open-source, free protector for .NET applications",MDEwOlJlcG9zaXRvcnkxODIwMzc1Mg==
+282,SkiaSharp,464,3316,C#,https://github.com/mono/SkiaSharp,"SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.",MDEwOlJlcG9zaXRvcnk1MjI5MzEyNg==
+283,SharpZipLib,935,3309,C#,https://github.com/icsharpcode/SharpZipLib,"#ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.",MDEwOlJlcG9zaXRvcnk4Njg3ODk=
+284,carnac,463,3282,C#,https://github.com/Code52/carnac,A utility to give some insight into how you use your keyboard,MDEwOlJlcG9zaXRvcnkzNDI5NDM0
+285,greenshot,503,3260,C#,https://github.com/greenshot/greenshot,Greenshot for Windows - Report bugs & features go here: https://greenshot.atlassian.net or look for information on:,MDEwOlJlcG9zaXRvcnkzNjc1NjkxNw==
+286,AspNetCore.Diagnostics.HealthChecks,665,3259,C#,https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks,Enterprise HealthChecks for ASP.NET Core Diagnostics Package,MDEwOlJlcG9zaXRvcnkxNTA1NzIxNTE=
+287,Eto,309,3252,C#,https://github.com/picoe/Eto,Cross platform GUI framework for desktop and mobile applications in .NET,MDEwOlJlcG9zaXRvcnkxODM1NzU4
+288,SSH.NET,832,3248,C#,https://github.com/sshnet/SSH.NET,"SSH.NET is a Secure Shell (SSH) library for .NET, optimized for parallelism.",MDEwOlJlcG9zaXRvcnk0OTY3Mzg3Mg==
+289,jint,507,3239,C#,https://github.com/sebastienros/jint,Javascript Interpreter for .NET,MDEwOlJlcG9zaXRvcnkxNTc4NTUwNw==
+290,Ombi,390,3224,C#,https://github.com/Ombi-app/Ombi,Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!,MDEwOlJlcG9zaXRvcnk1MjUyMjA0Ng==
+291,play-games-plugin-for-unity,950,3211,C#,https://github.com/playgameservices/play-games-plugin-for-unity,Google Play Games plugin for Unity,MDEwOlJlcG9zaXRvcnkxNTA2MTQwNA==
+292,tModLoader,1651,3207,C#,https://github.com/tModLoader/tModLoader,A mod to make and play Terraria mods. Supports Terraria 1.4 (and earlier) installations ,MDEwOlJlcG9zaXRvcnkzOTQyNTg2NA==
+293,ravendb,822,3205,C#,https://github.com/ravendb/ravendb,ACID Document Database,MDEwOlJlcG9zaXRvcnk1NDI3MTQ=
+294,Remotely,1521,3200,C#,https://github.com/immense/Remotely,"A remote control and remote scripting solution, built with .NET 6, Blazor, and SignalR Core.",MDEwOlJlcG9zaXRvcnkxNzY1MjM1OTQ=
+295,MoreLINQ,375,3196,C#,https://github.com/morelinq/MoreLINQ,Extensions to LINQ to Objects,MDEwOlJlcG9zaXRvcnk0MTE1MDYzNQ==
+296,acat,631,3185,C#,https://github.com/intel/acat,Assistive Context-Aware Toolkit (ACAT),MDEwOlJlcG9zaXRvcnkzMDk0MTUzMg==
+297,surging,930,3185,C#,https://github.com/fanliang11/surging,"Surging is a micro-service engine that provides a lightweight, high-performance, modular RPC request pipeline.  support Event-based Asynchronous Pattern and reactive programming ,The service engine supports http, TCP, WS,Grpc, Thrift,Mqtt, UDP, and DNS protocols. It uses ZooKeeper and Consul as a registry, and integrates it. Hash, random, polling, Fair Polling as a load balancing algorithm, built-in service governance to ensure reliable RPC communication, the engine contains Diagnostic, link tracking for protocol and middleware calls, and integration SkyWalking Distributed APM",MDEwOlJlcG9zaXRvcnk5NDU0NTU1OA==
+298,AsyncEx,343,3184,C#,https://github.com/StephenCleary/AsyncEx,A helper library for async/await.,MDEwOlJlcG9zaXRvcnkxOTU1NTcyMw==
+299,fluentassertions,493,3183,C#,https://github.com/fluentassertions/fluentassertions,"A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3.",MDEwOlJlcG9zaXRvcnkxMTcxODQyNA==
+300,QFramework,688,3175,C#,https://github.com/liangxiegame/QFramework,Unity3D System Design Architecture,MDEwOlJlcG9zaXRvcnk1MTE0MjkzMg==
+301,Templates,481,3161,C#,https://github.com/Dotnet-Boxed/Templates,".NET project templates with batteries included, providing the minimum amount of code required to get you going faster.",MDEwOlJlcG9zaXRvcnkyNTgxMDc0Mg==
+302,WinAppDriver,1340,3119,C#,https://github.com/microsoft/WinAppDriver,Windows Application Driver,MDEwOlJlcG9zaXRvcnk1NDMwODQwMw==
+303,MagicOnion,375,3115,C#,https://github.com/Cysharp/MagicOnion,Unified Realtime/API framework for .NET platform and Unity.,MDEwOlJlcG9zaXRvcnk3NjEwMDU3NQ==
+304,Celeste,385,3106,C#,https://github.com/NoelFB/Celeste,Celeste Bugs & Issue Tracker + some Source Code,MDEwOlJlcG9zaXRvcnkxMjM0OTQzOTk=
+305,mathnet-numerics,859,3098,C#,https://github.com/mathnet/mathnet-numerics,Math.NET Numerics,MDEwOlJlcG9zaXRvcnkyMzUzMDM=
+306,Rubeus,642,3096,C#,https://github.com/GhostPack/Rubeus,Trying to tame the three-headed dog.,MDEwOlJlcG9zaXRvcnkxNTAwMzU5Mzg=
+307,TensorFlowSharp,583,3094,C#,https://github.com/migueldeicaza/TensorFlowSharp,TensorFlow API for .NET languages,MDEwOlJlcG9zaXRvcnk3OTA4MjM3OA==
+308,blazor-workshop,1383,3071,C#,https://github.com/dotnet-presentations/blazor-workshop,Blazor workshop,MDEwOlJlcG9zaXRvcnkxNjYyNzAyMjU=
+309,JavaScriptServices,541,3067,C#,https://github.com/aspnet/JavaScriptServices,[Archived] This repository has been archived,MDEwOlJlcG9zaXRvcnk0NTM2NTI5OA==
+310,PSReadLine,277,3062,C#,https://github.com/PowerShell/PSReadLine,A bash inspired readline implementation for PowerShell,MDEwOlJlcG9zaXRvcnkxMDAyNTczNw==
+311,Hawk,975,3054,C#,https://github.com/ferventdesert/Hawk,visualized crawler & ETL IDE written with C#/WPF,MDEwOlJlcG9zaXRvcnk1NTI4NDAxNg==
+312,Swashbuckle.WebApi,690,3050,C#,https://github.com/domaindrivendev/Swashbuckle.WebApi,Seamlessly adds a swagger to WebApi projects!,MDEwOlJlcG9zaXRvcnkxMDc1MDEzOQ==
+313,EFCore.BulkExtensions,507,3038,C#,https://github.com/borisdj/EFCore.BulkExtensions,"Entity Framework Core Bulk Batch Extensions in .Net for Insert Update Delete Read (CRUD), Truncate and SaveChanges operations on SQL Server, PostgreSQL, MySQL, SQLite",MDEwOlJlcG9zaXRvcnk5MTA5NjIxMw==
+314,kudu,665,3032,C#,https://github.com/projectkudu/kudu,"Kudu is the engine behind git/hg deployments, WebJobs, and various other features in Azure Web Sites. It can also run outside of Azure.",MDEwOlJlcG9zaXRvcnkxOTM5NzY5
+315,CleanArchitecture,645,3032,C#,https://github.com/blazorhero/CleanArchitecture,Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.,MDEwOlJlcG9zaXRvcnkzNDI2MzcyNjQ=
+316,command-line-api,349,3027,C#,https://github.com/dotnet/command-line-api,"Command line parsing, invocation, and rendering of terminal output.",MDEwOlJlcG9zaXRvcnkxMjk5MzQ4ODQ=
+317,ScottPlot,504,3011,C#,https://github.com/ScottPlot/ScottPlot,Interactive plotting library for .NET,MDEwOlJlcG9zaXRvcnkxMTYyMTA1Njg=
+318,ModernFlyouts,177,3006,C#,https://github.com/ModernFlyouts-Community/ModernFlyouts,A modern Fluent Design replacement for the old Metro themed flyouts present in Windows.,MDEwOlJlcG9zaXRvcnkyNzI4ODcwMDc=
+319,ParrelSync,203,2994,C#,https://github.com/VeriorPies/ParrelSync,(Unity3D) Test multiplayer without building,MDEwOlJlcG9zaXRvcnkyNjQ0NTQ4Mjg=
+320,rant3,108,2992,C#,https://github.com/TheBerkin/rant3,(Obsolete) Archive of Rant 3.x.,MDEwOlJlcG9zaXRvcnkyMjU4NDgyMw==
+321,BepInEx,422,2983,C#,https://github.com/BepInEx/BepInEx,Unity / XNA game patcher and plugin framework,MDEwOlJlcG9zaXRvcnkxMjEwNjcxMzI=
+322,DS4Windows,1372,2972,C#,https://github.com/Jays2Kings/DS4Windows,"Like those other ds4tools, but sexier",MDEwOlJlcG9zaXRvcnkyMzU1MDQyMw==
+323,privatezilla,154,2966,C#,https://github.com/builtbybel/privatezilla,👀👮🐢🔥Performs a privacy & security check of Windows 10 ,MDEwOlJlcG9zaXRvcnkyNjgzNjc3ODk=
+324,BiliBiliToolPro,1415,2963,C#,https://github.com/RayWangQvQ/BiliBiliToolPro,B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。,R_kgDOGgE1gQ
+325,ScpToolkit,542,2962,C#,https://github.com/nefarius/ScpToolkit,Windows Driver and XInput Wrapper for Sony DualShock 3/4 Controllers,MDEwOlJlcG9zaXRvcnkzOTc4NzIwMg==
+326,Chromely,276,2959,C#,https://github.com/chromelyapps/Chromely,"Build Cross Platform HTML Desktop Apps on .NET using native GUI, HTML5, JavaScript, CSS, Owin, AspNetCore (MVC, RazorPages, Blazor)",MDEwOlJlcG9zaXRvcnkxMDMwNDMyMjg=
+327,AutoFixture,332,2951,C#,https://github.com/AutoFixture/AutoFixture,"AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on what is being tested rather than how to setup the test scenario, by making it easier to create object graphs containing test data.",MDEwOlJlcG9zaXRvcnk0NDc1OTAw
+328,mongo-csharp-driver,1238,2950,C#,https://github.com/mongodb/mongo-csharp-driver,The Official C# .NET Driver for MongoDB,MDEwOlJlcG9zaXRvcnk2OTk2ODk=
+329,ToastFish,284,2944,C#,https://github.com/Uahh/ToastFish,一个利用摸鱼时间背单词的软件。,MDEwOlJlcG9zaXRvcnkzNjM4NjY2NDM=
+330,Skinner,399,2933,C#,https://github.com/keijiro/Skinner,Special Effects with Skinned Mesh in Unity,MDEwOlJlcG9zaXRvcnk3NDE5Mjk1Nw==
+331,ParticleEffectForUGUI,457,2926,C#,https://github.com/mob-sakai/ParticleEffectForUGUI,"Render particle effect in UnityUI(uGUI). Maskable, sortable, and no extra Camera/RenderTexture/Canvas.",MDEwOlJlcG9zaXRvcnkxMzgyOTAwMjI=
+332,Discord.Net,704,2921,C#,https://github.com/discord-net/Discord.Net,An unofficial .Net wrapper for the Discord API (https://discord.com/),MDEwOlJlcG9zaXRvcnk0MDE3MTQ5Ng==
+333,hakchi2,465,2919,C#,https://github.com/ClusterM/hakchi2,Tool that allows you to add more games to your NES/SNES Classic Mini,MDEwOlJlcG9zaXRvcnk3ODI4OTQyMg==
+334,fluentmigrator,630,2917,C#,https://github.com/fluentmigrator/fluentmigrator,Fluent migrations framework for .NET,MDEwOlJlcG9zaXRvcnk1ODkzNDk=
+335,corert,524,2912,C#,https://github.com/dotnet/corert,"This repo contains CoreRT, an experimental .NET Core runtime optimized for AOT (ahead of time compilation) scenarios, with the accompanying compiler toolchain.",MDEwOlJlcG9zaXRvcnk0MjU1MjE0Mw==
+336,Power-Fx,271,2904,C#,https://github.com/microsoft/Power-Fx,Power Fx low-code programming language,MDEwOlJlcG9zaXRvcnkzNDE3MDQwMzQ=
+337,referencesource,1243,2901,C#,https://github.com/microsoft/referencesource,Source from the Microsoft .NET Reference Source that represent a subset of the .NET Framework,MDEwOlJlcG9zaXRvcnkyNjUyMTEyOQ==
+338,hashids.net,157,2900,C#,https://github.com/ullmark/hashids.net,A small .NET package to generate YouTube-like hashes from one or many numbers. Use hashids when you do not want to expose your database ids to the user.,MDEwOlJlcG9zaXRvcnk2MjIzNDk4
+339,crest,429,2895,C#,https://github.com/wave-harmonic/crest,An advanced ocean system implemented in Unity,MDEwOlJlcG9zaXRvcnk5ODQxMDU3OA==
+340,Scrutor,207,2884,C#,https://github.com/khellang/Scrutor,Assembly scanning and decoration extensions for Microsoft.Extensions.DependencyInjection,MDEwOlJlcG9zaXRvcnk0NjE1NjEwMQ==
+341,SpaceEngineers,864,2882,C#,https://github.com/KeenSoftwareHouse/SpaceEngineers,,MDEwOlJlcG9zaXRvcnkzNTU1NTA4OQ==
+342,BetterJoy,294,2880,C#,https://github.com/Davidobot/BetterJoy,"Allows the Nintendo Switch Pro Controller, Joycons and SNES controller to be used with CEMU, Citra, Dolphin, Yuzu and as generic XInput",MDEwOlJlcG9zaXRvcnkxMjMxOTUxNzA=
+343,UnityLibrary,366,2861,C#,https://github.com/UnityCommunity/UnityLibrary,":books: Library of all kind of scripts, snippets & shaders for Unity",MDEwOlJlcG9zaXRvcnk1ODYwNDcxNA==
+344,BaiduPanDownloadWinform,544,2858,C#,https://github.com/Accelerider/BaiduPanDownloadWinform,百度网盘不限速下载工具,MDEwOlJlcG9zaXRvcnk3MDEyODk0NQ==
+345,npgsql,781,2856,C#,https://github.com/npgsql/npgsql,Npgsql is the .NET data provider for PostgreSQL.,MDEwOlJlcG9zaXRvcnkyODgzNTc0
+346,tolua,869,2847,C#,https://github.com/topameng/tolua,The fastest unity lua binding solution,MDEwOlJlcG9zaXRvcnk0NTkwNzIyNw==
+347,TwitchLeecher,410,2842,C#,https://github.com/Franiac/TwitchLeecher,Twitch Leecher - The Broadcast Downloader,MDEwOlJlcG9zaXRvcnk1MjE2NjMyNw==
+348,Deform,202,2842,C#,https://github.com/keenanwoodall/Deform,A fully-featured deformer system for Unity.,MDEwOlJlcG9zaXRvcnkxNjg4MDA5MjE=
+349,Seatbelt,557,2824,C#,https://github.com/GhostPack/Seatbelt,"Seatbelt is a C# project that performs a number of security oriented host-survey ""safety checks"" relevant from both offensive and defensive security perspectives.",MDEwOlJlcG9zaXRvcnkxNDIxOTI0NTk=
+350,qttabbar,227,2821,C#,https://github.com/indiff/qttabbar,Qttabbar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/indiff/qttabbar,MDEwOlJlcG9zaXRvcnkxNzcxMjczODY=
+351,Digital-Logic-Sim,352,2815,C#,https://github.com/SebLague/Digital-Logic-Sim,,MDEwOlJlcG9zaXRvcnkzMTUzMTI2MDg=
+352,Git-Credential-Manager-for-Windows,643,2813,C#,https://github.com/microsoft/Git-Credential-Manager-for-Windows,"Secure Git credential storage for Windows with support for Visual Studio Team Services, GitHub, and Bitbucket multi-factor authentication.",MDEwOlJlcG9zaXRvcnk0MjQ1Njk5Ng==
+353,Architecture,728,2813,C#,https://github.com/rafaelfgx/Architecture,".NET 7, Angular 15, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Principle, Mediator Pattern, Result Pattern, Folder-By-Feature Structure, Separation of Concerns.",MDEwOlJlcG9zaXRvcnkxMDYxNDQxMzQ=
+354,PKHeX,552,2812,C#,https://github.com/kwsch/PKHeX,Pokémon Save File Editor,MDEwOlJlcG9zaXRvcnkyMTMxMTI0MA==
+355,oxyplot,910,2806,C#,https://github.com/oxyplot/oxyplot,A cross-platform plotting library for .NET,MDEwOlJlcG9zaXRvcnkyMjg5NDk5OQ==
+356,AICommand,286,2804,C#,https://github.com/keijiro/AICommand,ChatGPT integration with Unity Editor,R_kgDOJLIaSA
+357,SymSpell,270,2799,C#,https://github.com/wolfgarbe/SymSpell,SymSpell: 1 million times faster spelling correction & fuzzy search through Symmetric Delete spelling correction algorithm,MDEwOlJlcG9zaXRvcnkxODA5NzI3NQ==
+358,ILRuntime,660,2795,C#,https://github.com/Ourpalm/ILRuntime,"Pure C# IL Intepreter Runtime, which is fast and reliable for scripting requirement on enviorments, where jitting isn't possible. ",MDEwOlJlcG9zaXRvcnk1Njk2NDY1MA==
+359,AspNetCoreRateLimit,412,2793,C#,https://github.com/stefanprodan/AspNetCoreRateLimit,ASP.NET Core rate limiting middleware,MDEwOlJlcG9zaXRvcnk2MzgxMjgzOA==
+360,Geographical-Adventures,374,2781,C#,https://github.com/SebLague/Geographical-Adventures,,R_kgDOG5P7Tg
+361,EventSourcing.NetCore,433,2779,C#,https://github.com/oskardudycz/EventSourcing.NetCore,Examples and Tutorials of Event Sourcing in .NET,MDEwOlJlcG9zaXRvcnk4MDI4MDQwMw==
+362,libgit2sharp,853,2773,C#,https://github.com/libgit2/libgit2sharp,Git + .NET/Mono = ❤,MDEwOlJlcG9zaXRvcnkxNDE1MTY4
+363,opentk,621,2769,C#,https://github.com/opentk/opentk,"The Open Toolkit library is a fast, low-level C# wrapper for OpenGL, OpenAL & OpenCL. It also includes windowing, mouse, keyboard and joystick input and a robust and fast math library, giving you everything you need to write your own renderer or game engine. OpenTK can be used standalone or inside a GUI on Windows, Linux, Mac.",MDEwOlJlcG9zaXRvcnkxNDMxODk5MA==
+364,NavMeshComponents,1013,2767,C#,https://github.com/Unity-Technologies/NavMeshComponents,High Level API Components for Runtime NavMesh Building,MDEwOlJlcG9zaXRvcnk2OTY2OTUwNg==
+365,Unity,447,2766,C#,https://github.com/github-for-unity/Unity,GitHub for Unity,MDEwOlJlcG9zaXRvcnk5NDc3MDg2MA==
+366,samples,4718,2761,C#,https://github.com/dotnet/samples,Sample code referenced by the .NET documentation,MDEwOlJlcG9zaXRvcnkxMTk1NzE0NDY=
+367,monodevelop,998,2752,C#,https://github.com/mono/monodevelop,MonoDevelop is a cross platform .NET IDE,MDEwOlJlcG9zaXRvcnk3OTEyOTk=
+368,xNode,487,2730,C#,https://github.com/Siccity/xNode,Unity Node Editor: Lets you view and edit node graphs inside Unity,MDEwOlJlcG9zaXRvcnkxMDM1NzQzMzY=
+369,Magick.NET,374,2721,C#,https://github.com/dlemstra/Magick.NET,The .NET library for ImageMagick,MDEwOlJlcG9zaXRvcnk0MjgwNTc1NA==
+370,Blazorise,485,2719,C#,https://github.com/Megabit/Blazorise,"Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Bulma, AntDesign, and Material.",MDEwOlJlcG9zaXRvcnkxNTk5NzM5MTc=
+371,Lidarr,200,2716,C#,https://github.com/Lidarr/Lidarr,Looks and smells like Sonarr but made for music.,MDEwOlJlcG9zaXRvcnk5MDQ2ODM1Mg==
+372,LiveCharts2,379,2714,C#,https://github.com/beto-rodriguez/LiveCharts2,"Simple, flexible, interactive & powerful charts, maps and gauges for .Net, LiveCharts2 can now practically run everywhere Maui, Uno Platform, Blazor-wasm, WPF, WinForms, Xamarin, Avalonia, WinUI, UWP.",MDEwOlJlcG9zaXRvcnkzMzc4OTcwOTQ=
+373,TensorFlow.NET,433,2713,C#,https://github.com/SciSharp/TensorFlow.NET,".NET Standard bindings for Google's TensorFlow for developing, training and deploying Machine Learning models in C# and F#.",MDEwOlJlcG9zaXRvcnkxNjEyNDc5ODg=
+374,testcontainers-dotnet,153,2710,C#,https://github.com/testcontainers/testcontainers-dotnet,A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.,MDEwOlJlcG9zaXRvcnkxNzA5ODg5MDY=
+376,P,158,2709,C#,https://github.com/p-org/P,The P programming language.,MDEwOlJlcG9zaXRvcnkzNzc5OTI3NA==
+375,gvr-unity-sdk,1122,2709,C#,https://github.com/googlevr/gvr-unity-sdk,Google VR SDK for Unity,MDEwOlJlcG9zaXRvcnkyNzc5MTkwOA==
+377,Unigram,368,2705,C#,https://github.com/UnigramDev/Unigram,Telegram for Windows,MDEwOlJlcG9zaXRvcnk1OTQ2Nzk4OA==
+378,dotnet,580,2697,C#,https://github.com/MiniProfiler/dotnet,A simple but effective mini-profiler for ASP.NET (and Core) websites,MDEwOlJlcG9zaXRvcnkxMTkwNjgyMQ==
+379,dotnet-webapi-boilerplate,863,2693,C#,https://github.com/fullstackhero/dotnet-webapi-boilerplate,Clean Architecture Template for .NET 6.0 WebApi built with Multitenancy Support.,MDEwOlJlcG9zaXRvcnkzOTgxODEzNDA=
+380,netmq,712,2693,C#,https://github.com/zeromq/netmq,A 100% native C# implementation of ZeroMQ for .NET,MDEwOlJlcG9zaXRvcnk2NTIxMTQy
+381,FastEndpoints,170,2689,C#,https://github.com/FastEndpoints/FastEndpoints,A light-weight REST API development framework for ASP.Net 6 and newer.,MDEwOlJlcG9zaXRvcnk0MDcwMjM3MjY=
+382,EasyNetQ,729,2688,C#,https://github.com/EasyNetQ/EasyNetQ,An easy to use .NET API for RabbitMQ,MDEwOlJlcG9zaXRvcnkxNjQ1OTU0
+383,coverlet,376,2675,C#,https://github.com/coverlet-coverage/coverlet,Cross platform code coverage for .NET,MDEwOlJlcG9zaXRvcnkxMTk3MTY3MzI=
+384,BruteShark,306,2674,C#,https://github.com/odedshimon/BruteShark,Network Analysis Tool,MDEwOlJlcG9zaXRvcnkyNDA5NjQ5MDE=
+385,aspnet-api-versioning,681,2666,C#,https://github.com/dotnet/aspnet-api-versioning,"Provides a set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core.",MDEwOlJlcG9zaXRvcnk2NDIyNjc0MA==
+386,KestrelHttpServer,536,2655,C#,https://github.com/aspnet/KestrelHttpServer,[Archived] A cross platform web server for ASP.NET Core. Project moved to https://github.com/aspnet/AspNetCore,MDEwOlJlcG9zaXRvcnkyMDM0NDY2Mg==
+387,querybuilder,449,2654,C#,https://github.com/sqlkata/querybuilder,"SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird",MDEwOlJlcG9zaXRvcnk5MDYwODUwNg==
+388,puppeteer-sharp,377,2638,C#,https://github.com/hardkoded/puppeteer-sharp,Headless Chrome .NET API,MDEwOlJlcG9zaXRvcnkxMDUzOTkwMzU=
+389,Caliburn.Micro,782,2636,C#,https://github.com/Caliburn-Micro/Caliburn.Micro,"A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability.",MDEwOlJlcG9zaXRvcnkxNjQxMjQ0MA==
+390,Silk.NET,274,2634,C#,https://github.com/dotnet/Silk.NET,"The high-speed OpenGL, OpenCL, OpenAL, OpenXR, GLFW, SDL, Vulkan, Assimp, WebGPU, and DirectX bindings library your mother warned you about.",MDEwOlJlcG9zaXRvcnkxOTEyMzIyNDA=
+391,ViVe,173,2630,C#,https://github.com/thebookisclosed/ViVe,C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer,MDEwOlJlcG9zaXRvcnkyMDk2MjM4ODU=
+392,bflat,63,2624,C#,https://github.com/bflattened/bflat,"C# as you know it but with Go-inspired tooling (small, selfcontained, and native executables)",MDEwOlJlcG9zaXRvcnkzNzgxNDczMzk=
+393,Roslynator,228,2624,C#,https://github.com/JosefPihrt/Roslynator,"A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn. ",MDEwOlJlcG9zaXRvcnk1NzE1Mzc0NA==
+394,Telegram.Bot,637,2616,C#,https://github.com/TelegramBots/Telegram.Bot,.NET Client for Telegram Bot API,MDEwOlJlcG9zaXRvcnkzODE4Mjk2Ng==
+395,optick,252,2606,C#,https://github.com/bombomby/optick,C++ Profiler For Games,MDEwOlJlcG9zaXRvcnkyOTM5MjE3MQ==
+396,Ninject,536,2605,C#,https://github.com/ninject/Ninject,the ninja of .net dependency injectors,MDEwOlJlcG9zaXRvcnkxNDUzNTY=
+397,MaterialSkin,792,2597,C#,https://github.com/IgnaceMaes/MaterialSkin,"Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles.",MDEwOlJlcG9zaXRvcnkyODI0MjYyNg==
+398,behaviac,772,2587,C#,https://github.com/Tencent/behaviac,"behaviac is a framework of the game AI development, and it also can be used as a rapid game prototype design tool. behaviac supports the behavior tree, finite state machine and hierarchical task network(BT, FSM, HTN)",MDEwOlJlcG9zaXRvcnk3NDMyODAyNw==
+399,CppSharp,457,2583,C#,https://github.com/mono/CppSharp,Tools and libraries to glue C/C++ APIs to high-level languages,MDEwOlJlcG9zaXRvcnk5OTg4MzE4
+400,Emby.Plugins.JavScraper,510,2582,C#,https://github.com/JavScraper/Emby.Plugins.JavScraper,Emby/Jellyfin 的一个日本电影刮削器插件，可以从某些网站抓取影片信息。,MDEwOlJlcG9zaXRvcnkyMzUwNDYwNjU=
+401,UnrealCLR,175,2578,C#,https://github.com/nxrighthere/UnrealCLR,Unreal Engine .NET 6 integration,MDEwOlJlcG9zaXRvcnkyNzI0NzEyNDI=
+402,linq2db,427,2572,C#,https://github.com/linq2db/linq2db,Linq to database provider.,MDEwOlJlcG9zaXRvcnkxOTE2MjI4
+403,Cosmos,497,2571,C#,https://github.com/CosmosOS/Cosmos,"Cosmos is an operating system ""construction kit"". Build your own OS using managed languages such as C#, VB.NET, and more!",MDEwOlJlcG9zaXRvcnkyNzU1MTY5Mw==
+404,LiteNetLib,447,2571,C#,https://github.com/RevenantX/LiteNetLib,Lite reliable UDP library for Mono and .NET,MDEwOlJlcG9zaXRvcnk0OTczNzE1Ng==
+405,NanUI,563,2548,C#,https://github.com/NetDimension/NanUI,"NanUI is an open source .NET project for .NET developers who want to create desktop applications with HTML, CSS and JavaScript.",MDEwOlJlcG9zaXRvcnk2MDY3MjM3NA==
+406,SmartStoreNET,1478,2548,C#,https://github.com/smartstore/SmartStoreNET,Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution,MDEwOlJlcG9zaXRvcnkyMjg5NzQ4OQ==
+407,ApiEndpoints,175,2546,C#,https://github.com/ardalis/ApiEndpoints,A project for supporting API Endpoints in ASP.NET Core web applications.,MDEwOlJlcG9zaXRvcnkyMzkyMzMzNDY=
+408,mui,764,2535,C#,https://github.com/firstfloorsoftware/mui,Modern UI for WPF,MDEwOlJlcG9zaXRvcnkzMDQ5NzgwMA==
+409,RulesEngine,433,2525,C#,https://github.com/microsoft/RulesEngine,A Json based Rules Engine with extensive Dynamic expression support,MDEwOlJlcG9zaXRvcnkxOTk2Mjg3MDg=
+410,Ben.Demystifier,105,2519,C#,https://github.com/benaadams/Ben.Demystifier,High performance understanding for stack traces (Make error logs more productive),MDEwOlJlcG9zaXRvcnkxMDg1ODk3NDQ=
+411,FileConverter,270,2514,C#,https://github.com/Tichau/FileConverter,File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer.,MDEwOlJlcG9zaXRvcnkzMzQ3NjU2Ng==
+412,LibreHardwareMonitor,392,2513,C#,https://github.com/LibreHardwareMonitor/LibreHardwareMonitor,"Libre Hardware Monitor, home of the fork of Open Hardware Monitor",MDEwOlJlcG9zaXRvcnk5OTk0Mjc2OQ==
+413,FluentScheduler,399,2513,C#,https://github.com/fluentscheduler/FluentScheduler,Automated job scheduler with fluent interface for the .NET platform.,MDEwOlJlcG9zaXRvcnk1MzMyMDY3
+414,FluentEmail,381,2512,C#,https://github.com/lukencode/FluentEmail,"All in one email sender for .NET. Supports popular senders (SendGrid, MailGun, etc) and Razor templates.",MDEwOlJlcG9zaXRvcnk2MDM0MDU=
+415,osharp,717,2503,C#,https://github.com/dotnetcore/osharp,OSharp是一个基于.NetCore的快速开发框架，框架对 AspNetCore 的配置、依赖注入、日志、缓存、实体框架、Mvc(WebApi)、身份认证、功能权限、数据权限等模块进行更高一级的自动化封装，并规范了一套业务实现的代码结构与操作流程，使 .Net Core 框架更易于应用到实际项目开发中。,MDEwOlJlcG9zaXRvcnkxMDAyODg3MzQ=
+416,confluent-kafka-dotnet,776,2500,C#,https://github.com/confluentinc/confluent-kafka-dotnet,Confluent's Apache Kafka .NET client,MDEwOlJlcG9zaXRvcnk3MjU1NDU3OA==
+417,coravel,201,2498,C#,https://github.com/jamesmh/coravel,"Near-zero config .NET library that makes advanced application features like Task Scheduling, Caching, Queuing, Event Broadcasting, and more a breeze!",MDEwOlJlcG9zaXRvcnkxMzcxMDQ3ODk=
+418,AttackSurfaceAnalyzer,255,2497,C#,https://github.com/microsoft/AttackSurfaceAnalyzer,Attack Surface Analyzer can help you analyze your operating system's security configuration for changes during software installation.,MDEwOlJlcG9zaXRvcnkxNzA3ODUzOTU=
+419,FluentFTP,586,2497,C#,https://github.com/robinrodricks/FluentFTP,"An FTP and FTPS client for .NET & .NET Standard, optimized for speed. Provides extensive FTP commands, File uploads/downloads, SSL/TLS connections, Automatic directory listing parsing, File hashing/checksums, File permissions/CHMOD, FTP proxies, FXP support, UTF-8 support, Async/await support, Powershell support and more. Written entirely in C#.",MDEwOlJlcG9zaXRvcnk3MjI2ODg4NQ==
+420,ImageProcessor,506,2492,C#,https://github.com/JimBobSquarePants/ImageProcessor,:camera: A fluent wrapper around System.Drawing for the processing of image files.,MDEwOlJlcG9zaXRvcnk0NDcxMTYw
+421,GitVersion,622,2478,C#,https://github.com/GitTools/GitVersion,From git log to SemVer in no time,MDEwOlJlcG9zaXRvcnkxMjM5OTc5MA==
+422,GuardClauses,234,2473,C#,https://github.com/ardalis/GuardClauses,A simple package with guard clause extensions.,MDEwOlJlcG9zaXRvcnkxMDMzMDk3OTg=
+423,ysoserial.net,409,2470,C#,https://github.com/pwntester/ysoserial.net,Deserialization payload generator for a variety of .NET formatters,MDEwOlJlcG9zaXRvcnkxMDM5NzIxMjE=
+424,arfoundation-samples,923,2466,C#,https://github.com/Unity-Technologies/arfoundation-samples,Example content for Unity projects based on AR Foundation,MDEwOlJlcG9zaXRvcnkxMzc0MzM4ODI=
+425,BililiveRecorder,229,2465,C#,https://github.com/BililiveRecorder/BililiveRecorder,B站录播姬 | BiliBili Stream Recorder | 哔哩哔哩直播录制,MDEwOlJlcG9zaXRvcnkxMjQ4NzU2ODY=
+426,X-PostProcessing-Library,567,2454,C#,https://github.com/QianMo/X-PostProcessing-Library,Unity Post Processing Stack Library | Unity引擎的高品质后处理库,MDEwOlJlcG9zaXRvcnkyNTMyMjE3Njg=
+427,PTVS,697,2446,C#,https://github.com/microsoft/PTVS,Python Tools for Visual Studio,MDEwOlJlcG9zaXRvcnkzMjQ4Nzc2Mw==
+428,XCharts,476,2446,C#,https://github.com/XCharts-Team/XCharts,A charting and data visualization library for Unity.   Unity数据可视化图表插件。 ,MDEwOlJlcG9zaXRvcnkxNDc1Mzc1OTM=
+429,nbfc,457,2446,C#,https://github.com/hirschmann/nbfc,NoteBook FanControl,MDEwOlJlcG9zaXRvcnkzMTI3NjczMw==
+430,Malware-Patch,131,2445,C#,https://github.com/the1812/Malware-Patch,阻止中国流氓软件的管理员授权. / Prevent UAC authorization of Chinese malware.,MDEwOlJlcG9zaXRvcnkxMzM2MDA5ODc=
+431,Kavita,140,2441,C#,https://github.com/Kareadita/Kavita,"Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.",MDEwOlJlcG9zaXRvcnkzMjA5MzYxNDU=
+432,cecil,603,2435,C#,https://github.com/jbevain/cecil,"Cecil is a library to inspect, modify and create .NET programs and libraries.",MDEwOlJlcG9zaXRvcnk2MDYxNDU=
+433,octokit.net,1113,2431,C#,https://github.com/octokit/octokit.net,A GitHub API client library for .NET ,MDEwOlJlcG9zaXRvcnk3NTI4Njc5
+434,Pomelo.EntityFrameworkCore.MySql,369,2428,C#,https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql,Entity Framework Core provider for MySQL and MariaDB built on top of MySqlConnector,MDEwOlJlcG9zaXRvcnk2MzA4MjUyNw==
+435,UtinyRipper,413,2426,C#,https://github.com/mafaca/UtinyRipper,"GUI and API library to work with Engine assets, serialized and bundle files",MDEwOlJlcG9zaXRvcnkxMjExNDU2MDg=
+436,OpenLiveWriter,501,2425,C#,https://github.com/OpenLiveWriter/OpenLiveWriter,An open source fork of Windows Live Writer,MDEwOlJlcG9zaXRvcnk0NzY3OTE3OQ==
+437,scriptcs,371,2420,C#,https://github.com/scriptcs/scriptcs,"Write C# apps with a text editor, nuget and the power of Roslyn!",MDEwOlJlcG9zaXRvcnk4NDczMjQw
+438,nodatime,316,2418,C#,https://github.com/nodatime/nodatime,A better date and time API for .NET,MDEwOlJlcG9zaXRvcnkzMjI1MjQ1NQ==
+439,GalaxyBudsClient,149,2416,C#,https://github.com/ThePBone/GalaxyBudsClient,Unofficial Galaxy Buds Manager for Windows and Linux,MDEwOlJlcG9zaXRvcnkyNzExMTYxMzI=
+440,AutoUpdater.NET,661,2413,C#,https://github.com/ravibpatel/AutoUpdater.NET,AutoUpdater.NET is a class library that allows .NET developers to easily add auto update functionality to their classic desktop application projects.,MDEwOlJlcG9zaXRvcnk4ODAyNDExMA==
+441,SignalR,457,2397,C#,https://github.com/aspnet/SignalR,[Archived] Incredibly simple real-time web for ASP.NET Core. Project moved to https://github.com/aspnet/AspNetCore,MDEwOlJlcG9zaXRvcnk3MTE1OTU4OQ==
+442,scriban,318,2381,C#,https://github.com/scriban/scriban,"A fast, powerful, safe and lightweight scripting language and engine for .NET",MDEwOlJlcG9zaXRvcnk1MDM1NTY2Ng==
+443,StyleCopAnalyzers,496,2362,C#,https://github.com/DotNetAnalyzers/StyleCopAnalyzers,An implementation of StyleCop rules using the .NET Compiler Platform,MDEwOlJlcG9zaXRvcnkyNjc2ODI3NQ==
+444,Facepunch.Steamworks,275,2359,C#,https://github.com/Facepunch/Facepunch.Steamworks,Another fucking c# Steamworks implementation,MDEwOlJlcG9zaXRvcnk2MjczNzE3Ng==
+445,sample-dotnet-core-cqrs-api,535,2346,C#,https://github.com/kgrzybek/sample-dotnet-core-cqrs-api,Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.,MDEwOlJlcG9zaXRvcnkxNjg5NTc2NDc=
+446,design-patterns-explained-with-food,166,2345,C#,https://github.com/wesdoyle/design-patterns-explained-with-food,"GoF Design Patterns with ""Real-World"" examples involving Food-Related Businesses and mock dependencies",MDEwOlJlcG9zaXRvcnkzMzA0NjcyODY=
+447,oneget,197,2339,C#,https://github.com/OneGet/oneget,PackageManagement (aka OneGet) is a package manager for Windows,MDEwOlJlcG9zaXRvcnkxODQxODAyNg==
+448,x360ce,475,2337,C#,https://github.com/x360ce/x360ce,"Primary repository for the x360ce library, front-end and tools.",MDEwOlJlcG9zaXRvcnkzNDIyNjM0NA==
+449,OneOf,122,2334,C#,https://github.com/mcintyre321/OneOf,Easy to use F#-like ~discriminated~ unions for C# with exhaustive compile time matching,MDEwOlJlcG9zaXRvcnk0OTUzMzIxMw==
+450,ZeroFormatter,247,2332,C#,https://github.com/neuecc/ZeroFormatter,"Infinitely Fast Deserializer for .NET, .NET Core and Unity.",MDEwOlJlcG9zaXRvcnk2NzkyODE5Mg==
+451,SteamDesktopAuthenticator,504,2329,C#,https://github.com/Jessecar96/SteamDesktopAuthenticator,Desktop implementation of Steam's mobile authenticator app,MDEwOlJlcG9zaXRvcnk0Njg4NDkyOQ==
+452,Orchard,1126,2327,C#,https://github.com/OrchardCMS/Orchard,"Orchard is a free, open source, community-focused Content Management System built on the ASP.NET MVC platform.",MDEwOlJlcG9zaXRvcnkzMzg4OTQ2NA==
+453,html-agility-pack,352,2325,C#,https://github.com/zzzprojects/html-agility-pack,"Html Agility Pack (HAP) is a free and open-source HTML parser written in C# to read/write DOM and supports plain XPATH or XSLT. It is a .NET code library that allows you to parse ""out of the web"" HTML files.",MDEwOlJlcG9zaXRvcnk4OTg0Njc0MQ==
+454,opentelemetry-dotnet,593,2323,C#,https://github.com/open-telemetry/opentelemetry-dotnet,The OpenTelemetry .NET Client,MDEwOlJlcG9zaXRvcnkxODU0NzgwNTk=
+455,TrueCraft,313,2321,C#,https://github.com/ddevault/TrueCraft,Minecraft for hipsters,MDEwOlJlcG9zaXRvcnkyODUyNDI0NA==
+456,YoutubeExplode,413,2318,C#,https://github.com/Tyrrrz/YoutubeExplode,Abstraction layer over YouTube's internal API,MDEwOlJlcG9zaXRvcnk2NTI4NDQyMg==
+457,Glimpse,430,2317,C#,https://github.com/Glimpse/Glimpse,The open source diagnostics platform for the web,MDEwOlJlcG9zaXRvcnkxMjk3OTU3
+458,Akavache,304,2317,C#,https://github.com/reactiveui/Akavache,"An asynchronous, persistent key-value store created for writing desktop and mobile applications, based on SQLite3. Akavache is great for both storing important data as well as cached local data that expires.",MDEwOlJlcG9zaXRvcnkyODk2NDYx
+459,ShaderForge,504,2317,C#,https://github.com/FreyaHolmer/ShaderForge,A Shader Editor for Unity,MDEwOlJlcG9zaXRvcnkxMzAwOTY2Ng==
+460,SharpSCADA,1237,2314,C#,https://github.com/GavinYellow/SharpSCADA,C# SCADA,MDEwOlJlcG9zaXRvcnkxMDU0Mjk1ODY=
+461,Serenity,750,2307,C#,https://github.com/serenity-is/Serenity,Business Apps Made Simple with Asp.Net Core MVC / TypeScript,MDEwOlJlcG9zaXRvcnkxNjQwNDIzNw==
+462,Windows-Hacks,152,2307,C#,https://github.com/LazoCoder/Windows-Hacks,Creative and unusual things that can be done with the Windows API.,MDEwOlJlcG9zaXRvcnk3MTk3NjYyMg==
+463,interactive,312,2305,C#,https://github.com/dotnet/interactive,".NET Interactive combines the power of .NET with many other languages to create notebooks, REPLs, and embedded coding experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before.",MDEwOlJlcG9zaXRvcnkyMzU0Njk4NzE=
+464,FairyGUI-unity,574,2305,C#,https://github.com/fairygui/FairyGUI-unity,A flexible UI framework for Unity,MDEwOlJlcG9zaXRvcnk0NTg5MjgyMg==
+465,radzen-blazor,496,2304,C#,https://github.com/radzenhq/radzen-blazor,"Radzen Blazor is a set of 70+ free native Blazor UI components packed with DataGrid, Scheduler, Charts and robust theming including Material design and FluentUI.",MDEwOlJlcG9zaXRvcnkxNjk1NTY0MDE=
+466,nunit,701,2298,C#,https://github.com/nunit/nunit,NUnit 3 Framework,MDEwOlJlcG9zaXRvcnkxMzY5MjE4Mw==
+467,BaGet,498,2296,C#,https://github.com/loic-sharma/BaGet,A lightweight NuGet and symbol server,MDEwOlJlcG9zaXRvcnkxMTIxMDMwMzI=
+468,Utf8Json,268,2291,C#,https://github.com/neuecc/Utf8Json,"Definitely Fastest and Zero Allocation JSON Serializer for C#(NET, .NET Core, Unity, Xamarin).",MDEwOlJlcG9zaXRvcnkxMDM4MTgwNzk=
+469,VisualStudio,1315,2289,C#,https://github.com/github/VisualStudio,GitHub Extension for Visual Studio,MDEwOlJlcG9zaXRvcnkzODMyNTE4Mg==
+470,ServiceStack.Redis,895,2286,C#,https://github.com/ServiceStack/ServiceStack.Redis,.NET's leading C# Redis Client,MDEwOlJlcG9zaXRvcnkxMzQwMjI2
+471,smtp4dev,266,2274,C#,https://github.com/rnwood/smtp4dev,smtp4dev - the fake smtp email server for development and testing,MDEwOlJlcG9zaXRvcnkzMTcxNTA4
+472,Exceptionless,515,2270,C#,https://github.com/exceptionless/Exceptionless,Exceptionless server and jobs,MDEwOlJlcG9zaXRvcnkxNjU5OTg0OQ==
+473,FOCA,485,2267,C#,https://github.com/ElevenPaths/FOCA,Tool to find metadata and hidden information in the documents.,MDEwOlJlcG9zaXRvcnkxMDU1NjExODg=
+474,dotnet-script,141,2263,C#,https://github.com/dotnet-script/dotnet-script,Run C# scripts from the .NET CLI.,MDEwOlJlcG9zaXRvcnk3MDA2MDIxNQ==
+475,t3,129,2263,C#,https://github.com/still-scene/t3,Tooll 3 is an open source software to create realtime motion graphics.,MDEwOlJlcG9zaXRvcnk5NDY1Mjc4MQ==
+476,GoogleTranslateIpCheck,249,2257,C#,https://github.com/Ponderfly/GoogleTranslateIpCheck,,R_kgDOIUGJog
+477,xamarin-macios,483,2237,C#,https://github.com/xamarin/xamarin-macios,"Bridges the worlds of .NET with the native APIs of macOS, iOS, tvOS, and watchOS.",MDEwOlJlcG9zaXRvcnk1NjcxMDUxMQ==
+478,React.NET,969,2235,C#,https://github.com/reactjs/React.NET,.NET library for JSX compilation and server-side rendering of React components,MDEwOlJlcG9zaXRvcnkxNzgxMTc3MQ==
+479,LOIC,598,2234,C#,https://github.com/NewEraCracker/LOIC,"Low Orbit Ion Cannon - An open source network stress tool, written in C#. Based on Praetox's LOIC project. USE ON YOUR OWN RISK. WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES.",MDEwOlJlcG9zaXRvcnk5NDk4Mjg=
+480,marten,365,2232,C#,https://github.com/JasperFx/marten,.NET Transactional Document DB and Event Store on PostgreSQL,MDEwOlJlcG9zaXRvcnk0NDEyNTI2OA==
+481,Steamworks.NET,307,2232,C#,https://github.com/rlabrecque/Steamworks.NET,Steamworks wrapper for Unity / C#,MDEwOlJlcG9zaXRvcnkxNDM3OTY4Ng==
+482,CacheManager,451,2226,C#,https://github.com/MichaCo/CacheManager,CacheManager is an open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features.,MDEwOlJlcG9zaXRvcnkzMjY3NjU1Mw==
+483,coolstore-microservices,535,2224,C#,https://github.com/vietnam-devs/coolstore-microservices,A full-stack .NET microservices build on Dapr and Tye,MDEwOlJlcG9zaXRvcnkxMzU3MjY2NTk=
+484,USBCopyer,435,2218,C#,https://github.com/kenvix/USBCopyer,😉 用于在插上U盘后自动按需复制该U盘的文件。”备份&偷U盘文件的神器”（写作USBCopyer，读作USBCopier）,MDEwOlJlcG9zaXRvcnk1OTMwNjY4MA==
+486,cairoshell,208,2213,C#,https://github.com/cairoshell/cairoshell,"Cairo is a customizable, intuitive desktop environment for Windows.",MDEwOlJlcG9zaXRvcnk0NjY3NzE=
+485,ZXing.Net,610,2213,C#,https://github.com/micjahn/ZXing.Net,.Net port of the original java-based barcode reader and generator library zxing,MDEwOlJlcG9zaXRvcnk3MjE0NDY0NA==
+487,FastReport,513,2210,C#,https://github.com/FastReports/FastReport,Free Open Source Reporting tool for .NET6/.NET Core/.NET Framework that helps your application generate document-like reports,MDEwOlJlcG9zaXRvcnkxNTQ2MzczMDQ=
+488,SteamKit,451,2207,C#,https://github.com/SteamRE/SteamKit,"SteamKit2 is a .NET library designed to interoperate with Valve's Steam network. It aims to provide a simple, yet extensible, interface to perform various actions on the network.",MDEwOlJlcG9zaXRvcnkxMDM3NjQyNQ==
+489,FFXIVQuickLauncher,286,2207,C#,https://github.com/goatcorp/FFXIVQuickLauncher,Custom launcher for FFXIV,MDEwOlJlcG9zaXRvcnk2ODUzNDc0NQ==
+490,SharpLab,170,2206,C#,https://github.com/ashmind/SharpLab,.NET language playground,MDEwOlJlcG9zaXRvcnkxODUxODgzNw==
+491,Prowlarr,117,2200,C#,https://github.com/Prowlarr/Prowlarr,,MDEwOlJlcG9zaXRvcnkzMDUwMjE1ODk=
+492,Impostor,332,2198,C#,https://github.com/Impostor/Impostor,Impostor - An open source reimplementation of the Among Us Server,MDEwOlJlcG9zaXRvcnkyOTcxNjM5OTc=
+493,sdk,928,2194,C#,https://github.com/dotnet/sdk,"Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI",MDEwOlJlcG9zaXRvcnk2Mzk4NDMwNw==
+494,monodroid-samples,4131,2190,C#,https://github.com/xamarin/monodroid-samples,A collection of Xamarin.Android sample projects.,MDEwOlJlcG9zaXRvcnk4NDE0MTI=
+495,dotnet-podcasts,599,2190,C#,https://github.com/microsoft/dotnet-podcasts,".NET reference application shown at .NET Conf featuring ASP.NET Core, Blazor, .NET MAUI, Microservices, Orleans, Playwright, and more!",R_kgDOGW7tmA
+496,nvidiaProfileInspector,205,2187,C#,https://github.com/Orbmu2k/nvidiaProfileInspector,,MDEwOlJlcG9zaXRvcnk1NDc5NDM1NQ==
+497,veldrid,241,2184,C#,https://github.com/mellinoe/veldrid,"A low-level, portable graphics library for .NET.",MDEwOlJlcG9zaXRvcnk1MjU2Mjk5Mg==
+498,Monitorian,128,2181,C#,https://github.com/emoacht/Monitorian,A Windows desktop tool to adjust the brightness of multiple monitors with ease,MDEwOlJlcG9zaXRvcnk3OTM4NjY2MA==
+499,EnergyStar,74,2173,C#,https://github.com/imbushuo/EnergyStar,A terrible application setting SV2 Efficiency Mode for inactive Windows apps and user background apps,R_kgDOHvFDmQ
+500,EventFlow,426,2161,C#,https://github.com/eventflow/EventFlow,Async/await first CQRS+ES and DDD framework for .NET,MDEwOlJlcG9zaXRvcnkzMjQxMTM2OA==
+501,Fluent.Ribbon,495,2160,C#,https://github.com/fluentribbon/Fluent.Ribbon,WPF Ribbon control like in Office,MDEwOlJlcG9zaXRvcnkyNjEzMDg2OA==
+502,TShock,366,2158,C#,https://github.com/Pryaxis/TShock,"☕️⚡️TShock provides Terraria servers with server-side characters, anti-cheat, and community management tools.",MDEwOlJlcG9zaXRvcnkxODQxMjg0
+503,BoatAttack,841,2158,C#,https://github.com/Unity-Technologies/BoatAttack,Demo Project using the Universal RP from Unity3D,MDEwOlJlcG9zaXRvcnkxMjEyODExODk=
+504,tilt-brush,508,2157,C#,https://github.com/googlevr/tilt-brush,,MDEwOlJlcG9zaXRvcnkyNTU0MTU4MjQ=
+505,NuGetPackageExplorer,427,2157,C#,https://github.com/NuGetPackageExplorer/NuGetPackageExplorer,"Create, update and deploy Nuget Packages with a GUI",MDEwOlJlcG9zaXRvcnk0MjI2Nzc3OA==
+506,peachpie,202,2150,C#,https://github.com/peachpiecompiler/peachpie,PeachPie - the PHP compiler and runtime for .NET and .NET Core,MDEwOlJlcG9zaXRvcnk1MTE1ODIwMQ==
+507,AppMetrics,282,2146,C#,https://github.com/AppMetrics/AppMetrics,App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application.,MDEwOlJlcG9zaXRvcnk3NDI1MzEzNw==
+508,RoundedTB,157,2146,C#,https://github.com/torchgm/RoundedTB,"Add margins, rounded corners and segments to your taskbars!",MDEwOlJlcG9zaXRvcnkzNzAxODgzNzY=
+509,Jil,252,2135,C#,https://github.com/kevin-montrose/Jil,"Fast .NET JSON (De)Serializer, Built On Sigil",MDEwOlJlcG9zaXRvcnkxMzAyNjY1Nw==
+510,SophiApp,100,2132,C#,https://github.com/Sophia-Community/SophiApp,:zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11,MDEwOlJlcG9zaXRvcnkzNTA0MjYxODg=
+511,xasset,489,2129,C#,https://github.com/xasset/xasset,让开发时间更高效,MDEwOlJlcG9zaXRvcnkxMTY1NTQ1OTM=
+512,ProceduralToolkit,192,2127,C#,https://github.com/Syomus/ProceduralToolkit,Procedural generation library for Unity,MDEwOlJlcG9zaXRvcnkyNTExMjU5NA==
+513,Sprache,211,2125,C#,https://github.com/sprache/Sprache,"A tiny, friendly, C# parser construction library",MDEwOlJlcG9zaXRvcnk1MDk3Mzg0
+514,SimpleDnsCrypt,230,2124,C#,https://github.com/bitbeans/SimpleDnsCrypt,A simple management tool for dnscrypt-proxy,MDEwOlJlcG9zaXRvcnk0MjcyMjgzMA==
+515,Costura,262,2116,C#,https://github.com/Fody/Costura,Embed references as resources,MDEwOlJlcG9zaXRvcnk4MDI1ODYw
+516,wincompose,68,2110,C#,https://github.com/samhocevar/wincompose,🔣 Compose Key for Windows,MDEwOlJlcG9zaXRvcnk5NDcyMzE2
+517,LittleBigMouse,138,2110,C#,https://github.com/mgth/LittleBigMouse,DPI Aware mouse move across screens,MDEwOlJlcG9zaXRvcnkzMDQ1NjU3NQ==
+518,FancyScrollView,283,2109,C#,https://github.com/setchi/FancyScrollView,[Unity] Scroll view component that can implement highly flexible animations.,MDEwOlJlcG9zaXRvcnk4MzE3ODM3NA==
+519,AV_Evasion_Tool,373,2108,C#,https://github.com/1y0n/AV_Evasion_Tool,掩日 - 免杀执行器生成工具,MDEwOlJlcG9zaXRvcnkyNTgzNzA3NDE=
+520,KinoGlitch,226,2104,C#,https://github.com/keijiro/KinoGlitch,Video glitch effects for Unity,MDEwOlJlcG9zaXRvcnkzODQ4NDg5OA==
+521,ComputeSharp,92,2103,C#,https://github.com/Sergio0694/ComputeSharp,"A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute and pixel shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀",MDEwOlJlcG9zaXRvcnkyMDE2MTU4NDA=
+522,ModAssistant,408,2103,C#,https://github.com/Assistant/ModAssistant,Simple Beat Saber Mod Installer,MDEwOlJlcG9zaXRvcnkxODI2Mzc2ODE=
+523,BDFramework.Core,415,2100,C#,https://github.com/yimengfan/BDFramework.Core,Simple and powerful Unity3d game workflow!  简单、高效、高度工业化的商业级unity3d 工作流。,MDEwOlJlcG9zaXRvcnk4NTkyODUzNw==
+524,GraphEngine,345,2098,C#,https://github.com/microsoft/GraphEngine,Microsoft Graph Engine,MDEwOlJlcG9zaXRvcnk4MTQxMTAxOA==
+525,ReportGenerator,265,2097,C#,https://github.com/danielpalme/ReportGenerator,"ReportGenerator converts coverage reports generated by coverlet, OpenCover, dotCover, Visual Studio, NCover, Cobertura, JaCoCo, Clover, gcov or lcov into human readable reports in various formats.",MDEwOlJlcG9zaXRvcnkzMDIzODIxOQ==
+526,RazorEngine,574,2090,C#,https://github.com/Antaris/RazorEngine,Open source templating engine based on Microsoft's Razor parsing engine,MDEwOlJlcG9zaXRvcnkxOTczODgw
+527,Fleck,587,2086,C#,https://github.com/statianzo/Fleck,C# Websocket Implementation,MDEwOlJlcG9zaXRvcnkxMDE0MDA2
+528,abot,540,2081,C#,https://github.com/sjdirect/abot,Cross Platform C# web crawler framework built for speed and flexibility. Please star this project! +1.,MDEwOlJlcG9zaXRvcnkxMTk2NDQxOQ==
+529,TailBlazer,247,2077,C#,https://github.com/RolandPheasant/TailBlazer,A modern file tail utility based on Rx.Net which show cases reactive programming and Dynamic Data (see https://github.com/RolandPheasant/DynamicData),MDEwOlJlcG9zaXRvcnk0NTc0MDQ0NA==
+530,YamlDotNet,403,2076,C#,https://github.com/aaubry/YamlDotNet,YamlDotNet is a .NET library for YAML,MDEwOlJlcG9zaXRvcnk2MTgxMjQ1
+531,FastNoiseLite,282,2073,C#,https://github.com/Auburn/FastNoiseLite,Fast Portable Noise Library - C# C++ C Java(Script) HLSL GLSL,MDEwOlJlcG9zaXRvcnk1NDg2MDAxMg==
+532,SpecFlow,751,2071,C#,https://github.com/SpecFlowOSS/SpecFlow,"#1 .NET BDD Framework. SpecFlow automates your testing & works with your existing code. Find Bugs before they happen. Behavior Driven Development helps developers, testers, and business representatives to get a better understanding of their collaboration",MDEwOlJlcG9zaXRvcnkzNDY1OTQ=
+534,DesignPatterns,538,2069,C#,https://github.com/abishekaditya/DesignPatterns,Project : Design Patterns Examples in C#,MDEwOlJlcG9zaXRvcnk4NTM0MzA0Mg==
+533,Inveigh,418,2069,C#,https://github.com/Kevin-Robertson/Inveigh,.NET IPv4/IPv6 machine-in-the-middle tool for penetration testers,MDEwOlJlcG9zaXRvcnkzMzMyMzkxMA==
+535,CommandLineUtils,247,2061,C#,https://github.com/natemcmaster/CommandLineUtils,Command line parsing and utilities for .NET,MDEwOlJlcG9zaXRvcnkxMDA0MDczMDQ=
+536,nhibernate-core,912,2058,C#,https://github.com/nhibernate/nhibernate-core,NHibernate Object Relational Mapper,MDEwOlJlcG9zaXRvcnkyMjA2MTk5
+537,Thrive,416,2052,C#,https://github.com/Revolutionary-Games/Thrive,The main repository for the development of the evolution game Thrive. ,MDEwOlJlcG9zaXRvcnk1NjE2ODc3
+538,maui-samples,829,2050,C#,https://github.com/dotnet/maui-samples,Samples for .NET Multi-Platform App UI (.NET MAUI),MDEwOlJlcG9zaXRvcnkyNTU5NTI0ODQ=
+539,Respawn,116,2047,C#,https://github.com/jbogard/Respawn,Intelligent database cleaner for integration tests,MDEwOlJlcG9zaXRvcnkzMTAxOTk2OA==
+540,graphy,169,2046,C#,https://github.com/Tayx94/graphy,"Graphy is the ultimate, easy to use, feature packed FPS counter, stats monitor and debugger for your Unity project.",MDEwOlJlcG9zaXRvcnkxNDA3MzU2NjE=
+541,taskbar-groups,167,2046,C#,https://github.com/tjackenpacken/taskbar-groups,Lightweight utility for organizing the taskbar through groups,MDEwOlJlcG9zaXRvcnkzMjIwMDMzNDQ=
+542,AspNet.Security.OAuth.Providers,494,2044,C#,https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers,OAuth 2.0 social authentication providers for ASP.NET Core,MDEwOlJlcG9zaXRvcnkzNDk1NTUxOA==
+543,EntityFramework-Plus,302,2041,C#,https://github.com/zzzprojects/EntityFramework-Plus,"Entity Framework Plus extends your DbContext with must-haves features: Include Filter, Auditing, Caching, Query Future, Batch Delete, Batch Update, and more",MDEwOlJlcG9zaXRvcnk0NzI4ODkyMQ==
+544,YiShaAdmin,760,2036,C#,https://github.com/liukuo362573/YiShaAdmin,基于 .NET Core MVC 的权限管理系统，代码易读易懂、界面简洁美观,MDEwOlJlcG9zaXRvcnkyMTAyODAzNzI=
+545,IdentityServer3,792,2035,C#,https://github.com/IdentityServer/IdentityServer3,OpenID Connect Provider and OAuth 2.0 Authorization Server Framework for ASP.NET 4.x/Katana,MDEwOlJlcG9zaXRvcnkxNTcxNDA2Mg==
+546,dotnetbook,210,2034,C#,https://github.com/sidristij/dotnetbook,".NET Platform Architecture book (English, Chinese, Russian)",MDEwOlJlcG9zaXRvcnkxMDkzNjI1MzU=
+547,SHFB,352,2023,C#,https://github.com/EWSoftware/SHFB,"Sandcastle Help File Builder (SHFB).  A standalone GUI, Visual Studio integration package, and MSBuild tasks providing full configuration and extensibility for building help files with the Sandcastle tools.",MDEwOlJlcG9zaXRvcnkyOTY0NTY0Mw==
+548,simulator,694,2020,C#,https://github.com/lgsvl/simulator,A ROS/ROS2 Multi-robot Simulator for Autonomous Vehicles,MDEwOlJlcG9zaXRvcnkxMzk0OTk3Njc=
+549,Graphics,682,2018,C#,https://github.com/Unity-Technologies/Graphics,Unity Graphics - Including Scriptable Render Pipeline,MDEwOlJlcG9zaXRvcnkyNTI4MjY0MTk=
+550,OnTopReplica,248,2013,C#,https://github.com/LorenzCK/OnTopReplica,A real-time always-on-top “replica” of a window of your choice (on Windows).,MDEwOlJlcG9zaXRvcnk2MDc2MTI0Ng==
+551,m-r,524,2011,C#,https://github.com/gregoryyoung/m-r,Simple CQRS example,MDEwOlJlcG9zaXRvcnk4NzMzMDk=
+552,Core,463,2010,C#,https://github.com/castleproject/Core,"Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter",MDEwOlJlcG9zaXRvcnkyNjI5NDI0
+553,SidebarDiagnostics,197,2001,C#,https://github.com/ArcadeRenegade/SidebarDiagnostics,A simple sidebar for Windows desktop that displays hardware diagnostic information.,MDEwOlJlcG9zaXRvcnk1MDAxMzQzMw==
+554,Primes,510,1995,C#,https://github.com/PlummersSoftwareLLC/Primes,Prime Number Projects in C#/C++/Python,MDEwOlJlcG9zaXRvcnkzNTA1NTczNDk=
+555,XamarinComponents,709,1992,C#,https://github.com/xamarin/XamarinComponents,Plugins for Xamarin,MDEwOlJlcG9zaXRvcnkyOTM1MjczMA==
+556,V2RayW,409,1989,C#,https://github.com/Cenmrev/V2RayW,GUI for v2ray-core on Windows,MDEwOlJlcG9zaXRvcnk3NzA2Mjc1MA==
+557,WinUI-Gallery,537,1985,C#,https://github.com/microsoft/WinUI-Gallery,This app demonstrates the controls available in WinUI and the Fluent Design System.,MDEwOlJlcG9zaXRvcnkxNTU3NTc4NzQ=
+558,dafny,214,1981,C#,https://github.com/dafny-lang/dafny,Dafny is a verification-aware programming language,MDEwOlJlcG9zaXRvcnk1NjQwMzI1Mw==
+559,wix3,635,1979,C#,https://github.com/wixtoolset/wix3,WiX Toolset v3.x,MDEwOlJlcG9zaXRvcnkxNzcyMzc4OQ==
+560,MicaForEveryone,80,1977,C#,https://github.com/MicaForEveryone/MicaForEveryone,Mica For Everyone is a tool to enable backdrop effects on the title bars of Win32 apps on Windows 11.,R_kgDOGhXLwg
+561,Nethereum,687,1976,C#,https://github.com/Nethereum/Nethereum,Ethereum .Net cross platform integration library ,MDEwOlJlcG9zaXRvcnk0Njc0NjE4Nw==
+562,cscore,453,1975,C#,https://github.com/filoe/cscore,"An advanced audio library, written in C#. Provides tons of features. From playing/recording audio to decoding/encoding audio streams/files to processing audio data in realtime (e.g. applying custom effects during playback, create visualizations,...). The possibilities are nearly unlimited. ",MDEwOlJlcG9zaXRvcnkzNjQ1Nzg1Nw==
+564,Snap.Genshin,176,1973,C#,https://github.com/DGP-Studio/Snap.Genshin,你想要的原神全家桶,MDEwOlJlcG9zaXRvcnkzMzExODcxODc=
+563,Rebus,348,1973,C#,https://github.com/rebus-org/Rebus,:bus: Simple and lean service bus implementation for .NET,MDEwOlJlcG9zaXRvcnkyNDI1MDk5
+565,tesseract,722,1972,C#,https://github.com/charlesw/tesseract,A .Net wrapper for tesseract-ocr,MDEwOlJlcG9zaXRvcnk3MDY3NDI0
+567,dotween,322,1964,C#,https://github.com/Demigiant/dotween,A Unity C# animation engine. HOTween v2,MDEwOlJlcG9zaXRvcnkzMjQ3NTE2Mg==
+566,Identity,891,1964,C#,https://github.com/aspnet/Identity,"[Archived] ASP.NET Core Identity is the membership system for building ASP.NET Core web applications, including membership, login, and user data. Project moved to https://github.com/aspnet/AspNetCore",MDEwOlJlcG9zaXRvcnkxNjQ5MTg4MA==
+568,mpv.net,138,1963,C#,https://github.com/mpvnet-player/mpv.net,🎞 mpv.net is a modern media player for Windows that works just like mpv.,MDEwOlJlcG9zaXRvcnkxMDE1MzcxNzI=
+569,jwt,440,1962,C#,https://github.com/jwt-dotnet/jwt,"Jwt.Net, a JWT (JSON Web Token) implementation for .NET",MDEwOlJlcG9zaXRvcnkxOTIxMTU0
+570,lucenenet,623,1962,C#,https://github.com/apache/lucenenet,Apache Lucene.NET,MDEwOlJlcG9zaXRvcnkxNjEwMDE=
+571,CommunityServer,535,1962,C#,https://github.com/ONLYOFFICE/CommunityServer,"Free open source office suite with business productivity tools: document and project management, CRM, mail aggregator.",MDEwOlJlcG9zaXRvcnkyMTUyNTE4Nw==
+572,gong-wpf-dragdrop,368,1961,C#,https://github.com/punker76/gong-wpf-dragdrop,The GongSolutions.WPF.DragDrop library is a drag'n'drop framework for WPF,MDEwOlJlcG9zaXRvcnk4MDU4NTY5
+573,PetaPoco,597,1961,C#,https://github.com/CollaboratingPlatypus/PetaPoco,"Official PetaPoco, A tiny ORM-ish thing for your POCO's",MDEwOlJlcG9zaXRvcnkxNDk0MTUw
+574,sharpcompress,463,1960,C#,https://github.com/adamhathcock/sharpcompress,SharpCompress is a fully managed C# library to deal with many compression types and formats.,MDEwOlJlcG9zaXRvcnk5Mjc0NTkx
+575,NuGetForUnity,231,1960,C#,https://github.com/GlitchEnzo/NuGetForUnity,A NuGet Package Manager for Unity,MDEwOlJlcG9zaXRvcnk0NTU4MTA2Mg==
+576,UIWidgets,254,1959,C#,https://github.com/UnityTech/UIWidgets,"UIWidget is a Unity Package which helps developers to create, debug and deploy efficient, cross-platform Apps.",MDEwOlJlcG9zaXRvcnkxNDQyMjkxNDg=
+577,LenovoLegionToolkit,122,1957,C#,https://github.com/BartoszCichecki/LenovoLegionToolkit,Lightweight replacement of Lenovo Vantage for Lenovo Legion laptops.,R_kgDOGPcX0Q
+578,NetWinformControl,579,1954,C#,https://github.com/kwwwvagaa/NetWinformControl,"HZHControls,c#winfrom custom control, has better operation support for touch screen, the project is based on framework4.0, completely native control development, do not use any third-party controls, you can use it safely in your project (winfromcontrol/winformcontrol/.net).There are more abundant industrial controls that continue to increase in the ~~~",MDEwOlJlcG9zaXRvcnkyMDM0Nzk0OTM=
+579,SharpDevelop,748,1953,C#,https://github.com/icsharpcode/SharpDevelop,#develop (short for SharpDevelop) is a free IDE for .NET programming languages.,MDEwOlJlcG9zaXRvcnk4NjgyODI=
+581,Dragablz,307,1951,C#,https://github.com/ButchersBoy/Dragablz,Dragable and tearable tab control for WPF,MDEwOlJlcG9zaXRvcnkyNjcxNDc1Nw==
+580,Aerial,187,1951,C#,https://github.com/cDima/Aerial,Aerial Apple TV screen saver for Windows,MDEwOlJlcG9zaXRvcnk0NTA2Nzk0NA==
+582,NServiceBus,636,1950,C#,https://github.com/Particular/NServiceBus,The most popular service bus for .NET,MDEwOlJlcG9zaXRvcnkxMDU2NzEz
+583,UniVRM,347,1947,C#,https://github.com/vrm-c/UniVRM,UniVRM is a gltf-based VRM format implementation for Unity. English is here https://vrm.dev/en/ . 日本語 はこちら https://vrm.dev/,MDEwOlJlcG9zaXRvcnkxMjk2ODM5ODU=
+584,dotnet,145,1946,C#,https://github.com/CommunityToolkit/dotnet,".NET Community Toolkit is a collection of helpers and APIs that work for all .NET developers and are agnostic of any specific UI platform. The toolkit is maintained and published by Microsoft, and part of the .NET Foundation.",R_kgDOGP_GGA
+585,SNETCracker,460,1944,C#,https://github.com/shack2/SNETCracker,超级弱口令检查工具是一款Windows平台的弱口令审计工具，支持批量多线程检查，可快速发现弱密码、弱口令账号，密码支持和用户名结合进行检查，大大提高成功率，支持自定义服务端口和字典。,MDEwOlJlcG9zaXRvcnkxNDg2MTUxMzY=
+586,Audit.NET,303,1933,C#,https://github.com/thepirat000/Audit.NET,An extensible framework to audit executing operations in .NET and .NET Core.,MDEwOlJlcG9zaXRvcnk2NTI2MzU4OQ==
+587,NetCoreServer,446,1928,C#,https://github.com/chronoxor/NetCoreServer,"Ultra fast and low latency asynchronous socket server & client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution",MDEwOlJlcG9zaXRvcnkxNjYxMjMxNjQ=
+588,NSubstitute,243,1921,C#,https://github.com/nsubstitute/NSubstitute,A friendly substitute for .NET mocking libraries.,MDEwOlJlcG9zaXRvcnkzNDY4OTM=
+589,LuaFramework_UGUI,541,1919,C#,https://github.com/jarjin/LuaFramework_UGUI,请移步新版地址https://github.com/jarjin/LuaFramework_UGUI_V2 支持安卓ARM64【已停止更新】,MDEwOlJlcG9zaXRvcnk0OTQyODMwOQ==
+590,UniversalAdbDriver,474,1916,C#,https://github.com/koush/UniversalAdbDriver,One size fits all Windows Drivers for Android Debug Bridge.,MDEwOlJlcG9zaXRvcnk5Mjg0MjQ4
+591,Docker.DotNet,350,1914,C#,https://github.com/dotnet/Docker.DotNet,:whale: .NET (C#) Client Library for Docker API,MDEwOlJlcG9zaXRvcnkyMzMzNzkwNQ==
+592,YarnSpinner,184,1910,C#,https://github.com/YarnSpinnerTool/YarnSpinner,Yarn Spinner is a tool for building interactive dialogue in games!,MDEwOlJlcG9zaXRvcnk0MzYxODM2NQ==
+593,Readarr,109,1909,C#,https://github.com/Readarr/Readarr,Book Manager and Automation (Sonarr for Ebooks),MDEwOlJlcG9zaXRvcnkyNDQwMzM3NjQ=
+594,pinvoke,208,1901,C#,https://github.com/dotnet/pinvoke,A library containing all P/Invoke code so you don't have to import it every time. Maintained and updated to support the latest Windows OS.,MDEwOlJlcG9zaXRvcnk0NDc1ODM2MA==
+595,SteamCleaner,98,1899,C#,https://github.com/Codeusa/SteamCleaner,":us: A PC utility for restoring disk space from various game clients like Origin, Steam, Uplay, Battle.net, GoG and Nexon :us:",MDEwOlJlcG9zaXRvcnk0OTE4MjM4Nw==
+596,luban,306,1898,C#,https://github.com/focus-creative-games/luban,"你的最佳游戏配置解决方案  {excel, csv, xls, xlsx, json, bson, xml, yaml, lua, unity scriptableobject} => {json, bson, xml, lua, yaml, protobuf(pb), msgpack, flatbuffers, erlang, custom template} data  +  {c++, java, c#, go(golang), lua, javascript(js), typescript(ts),  erlang, rust, gdscript, protobuf schema, flatbuffers schema, custom template} code。 ",MDEwOlJlcG9zaXRvcnkzMDYwMjEwNTE=
+597,Node_Editor_Framework,407,1898,C#,https://github.com/Seneral/Node_Editor_Framework,A flexible and modular Node Editor Framework for creating node based displays and editors in Unity,MDEwOlJlcG9zaXRvcnkzNzA3NjE4Nw==
+598,iot,531,1892,C#,https://github.com/dotnet/iot,"This repo includes .NET Core implementations for various IoT boards, chips, displays and PCBs.",MDEwOlJlcG9zaXRvcnkxNTE2MjM2MDc=
+599,AssetBundles-Browser,489,1890,C#,https://github.com/Unity-Technologies/AssetBundles-Browser,Editor tool for viewing and debugging asset bundle contents before and after builds,MDEwOlJlcG9zaXRvcnk3NDA2MTEzNw==
+600,Furion,342,1889,C#,https://github.com/MonkSoul/Furion,"Make .NET development simpler, more general and more popular.",MDEwOlJlcG9zaXRvcnkyNzQwNjkzMDc=
+601,spark,306,1888,C#,https://github.com/dotnet/spark,.NET for Apache® Spark™ makes Apache Spark™ easily accessible to .NET developers.,MDEwOlJlcG9zaXRvcnkxODI4NDkwNTE=
+602,qmk_toolbox,453,1887,C#,https://github.com/qmk/qmk_toolbox,A Toolbox companion for QMK Firmware,MDEwOlJlcG9zaXRvcnkxMDIwNzU4ODU=
+603,roslynpad,304,1887,C#,https://github.com/roslynpad/roslynpad,A cross-platform C# editor based on Roslyn and AvalonEdit,MDEwOlJlcG9zaXRvcnkzMzI2MjY5Mg==
+604,squidex,389,1885,C#,https://github.com/Squidex/squidex,Headless CMS and Content Managment Hub,MDEwOlJlcG9zaXRvcnk2NjgxNTM0OA==
+605,Cocona,50,1885,C#,https://github.com/mayuki/Cocona,Micro-framework for .NET console application. Cocona makes it easy and fast to build console applications on .NET.,MDEwOlJlcG9zaXRvcnkyMzMyMDU4Njk=
+606,csredis,402,1883,C#,https://github.com/2881099/csredis,.NET Core or .NET Framework 4.0+ client for Redis and Redis Sentinel (2.8) and Cluster. Includes both synchronous and asynchronous clients. ,MDEwOlJlcG9zaXRvcnk3ODE3NjI3Ng==
+607,Verify,106,1881,C#,https://github.com/VerifyTests/Verify,Verify is a snapshot tool that simplifies the assertion of complex data models and documents.,MDEwOlJlcG9zaXRvcnkyMjMyODQ4NzY=
+608,PnP,3359,1880,C#,https://github.com/pnp/PnP,SharePoint / Office 365 Developer Patterns and Practices - Archived older solutions. Please see https://aka.ms/m365pnp for updated guidance,MDEwOlJlcG9zaXRvcnkyMjMwMDkyNA==
+609,DbUp,515,1878,C#,https://github.com/DbUp/DbUp,"DbUp is a .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date.  ",MDEwOlJlcG9zaXRvcnk0OTk1MDE3
+610,Mathfs,139,1874,C#,https://github.com/FreyaHolmer/Mathfs,Expanded Math Functionality for Unity,MDEwOlJlcG9zaXRvcnkyNjI1ODUzOTU=
+611,EvilClippy,366,1862,C#,https://github.com/outflanknl/EvilClippy,"A cross-platform assistant for creating malicious MS Office documents. Can hide VBA macros, stomp VBA code (via P-Code) and confuse macro analysis tools. Runs on Linux, OSX and Windows.",MDEwOlJlcG9zaXRvcnkxNzc3ODE4Mzg=
+612,WebApiClient,430,1861,C#,https://github.com/dotnetcore/WebApiClient,An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.,MDEwOlJlcG9zaXRvcnk4NjQxODI3NQ==
+613,UnitsNet,326,1861,C#,https://github.com/angularsen/UnitsNet,Makes life working with units of measurement just a little bit better.,MDEwOlJlcG9zaXRvcnkxMTUyMTIxOA==
+614,OpenTabletDriver,241,1860,C#,https://github.com/OpenTabletDriver/OpenTabletDriver,"Open source, cross-platform, user-mode tablet driver",MDEwOlJlcG9zaXRvcnkyMTE3NjM3NTY=
+615,ATF,262,1854,C#,https://github.com/SonyWWS/ATF,"Authoring Tools Framework (ATF) is a set of C#/.NET components for making tools on Windows. ATF has been in continuous development in Sony Computer Entertainment's (SCE) Worldwide Studios central tools group since early 2005. ATF has been used by most SCE first party studios to make many custom tools such as Naughty Dog’s level editor and shader editor for The Last of Us, Guerrilla Games’ sequence editor for Killzone games (including the Killzone: Shadow Fall PS4 launch title), an animation blending tool at Santa Monica Studio, a level editor at Bend Studio, a visual state machine editor for Quantic Dream, sound editing tools, and many others.",MDEwOlJlcG9zaXRvcnkxNjg0NjU4MA==
+616,SoundSwitch,153,1850,C#,https://github.com/Belphemur/SoundSwitch,C# application to switch default playing device. Download: https://soundswitch.aaflalo.me/,MDEwOlJlcG9zaXRvcnk0MDYwNDU1OA==
+617,CSharpFunctionalExtensions,258,1850,C#,https://github.com/vkhorikov/CSharpFunctionalExtensions,Functional extensions for C#,MDEwOlJlcG9zaXRvcnk2MTQyNTIxMg==
+618,NPOI,415,1847,C#,https://github.com/dotnetcore/NPOI,A .NET library for reading and writing Microsoft Office binary and OOXML file formats.,MDEwOlJlcG9zaXRvcnk3NTM3MjE2NQ==
+619,Pixeval,174,1844,C#,https://github.com/Pixeval/Pixeval,Wow. Yet another Pixiv client!,MDEwOlJlcG9zaXRvcnkyMjUzNDk1MzU=
+620,git-tfs,692,1835,C#,https://github.com/git-tfs/git-tfs,"A Git/TFS bridge, similar to git-svn",MDEwOlJlcG9zaXRvcnkyNTI3NzQ=
+621,grandnode,764,1834,C#,https://github.com/grandnode/grandnode,"Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js. ",MDEwOlJlcG9zaXRvcnk0NzI2MTk2Ng==
+622,Microcharts,328,1832,C#,https://github.com/microcharts-dotnet/Microcharts,"Create cross-platform (Xamarin, Windows, ...) simple charts.",MDEwOlJlcG9zaXRvcnk5OTE1NjY3NA==
+623,nuke,289,1830,C#,https://github.com/nuke-build/nuke,🏗 The AKEless Build System for C#/.NET,MDEwOlJlcG9zaXRvcnk5MzgwNDY4MQ==
+624,com.unity.netcode.gameobjects,381,1829,C#,https://github.com/Unity-Technologies/com.unity.netcode.gameobjects,Netcode for GameObjects is a high-level netcode SDK that provides networking capabilities to GameObject/MonoBehaviour workflows within Unity and sits on top of underlying transport layer.,MDEwOlJlcG9zaXRvcnkxMTYzODUyMDM=
+626,usbipd-win,113,1827,C#,https://github.com/dorssel/usbipd-win,"Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.",MDEwOlJlcG9zaXRvcnkzMDUyMDIxODk=
+625,shouldly,371,1827,C#,https://github.com/shouldly/shouldly,Should testing for .NET—the way assertions should be!,MDEwOlJlcG9zaXRvcnk4NTYxMTI=
+627,rabbitmq-dotnet-client,543,1823,C#,https://github.com/rabbitmq/rabbitmq-dotnet-client,RabbitMQ .NET client for .NET Standard 2.0+ and .NET 4.6.1+,MDEwOlJlcG9zaXRvcnk5MjQ1NjI=
+628,run-aspnetcore-microservices,1022,1822,C#,https://github.com/aspnetrun/run-aspnetcore-microservices,"Microservices on .Net platforms which used Asp.Net Web API, Docker, RabbitMQ, MassTransit, Grpc, Ocelot API Gateway, MongoDB, Redis, PostgreSQL, SqlServer, Dapper, Entity Framework Core, CQRS and Clean Architecture implementation. Also includes Cross-Cutting concerns like Implementing Centralized Distributed Logging with Elasticsearch, Kibana and SeriLog, use the HealthChecks with Watchdog, Implement Retry and Circuit Breaker patterns with Polly and so on.. See Microservices Architecture and Step by Step Implementation on .NET Course w/ discount->",MDEwOlJlcG9zaXRvcnkxODEzNTYyNTg=
+629,snoopwpf,325,1822,C#,https://github.com/snoopwpf/snoopwpf,Snoop - The WPF Spy Utility,MDEwOlJlcG9zaXRvcnk0MTM3OTMx
+630,azure-functions-host,410,1816,C#,https://github.com/Azure/azure-functions-host,The host/runtime that powers Azure Functions,MDEwOlJlcG9zaXRvcnk0MjU0ODU1Mw==
+631,enode,572,1812,C#,https://github.com/tangxuehua/enode,"ENode is a framework aims to help us developing ddd, cqrs, eda, and event sourcing style applications.",MDEwOlJlcG9zaXRvcnkxMDY4MjAyMQ==
+632,Magicodes.IE,422,1812,C#,https://github.com/dotnetcore/Magicodes.IE,"Import and export general library, support Dto import and export, template export, fancy export and dynamic export, support Excel, Csv, Word, Pdf and Html.",MDEwOlJlcG9zaXRvcnkxMjg2NTAzMTE=
+633,p2p,223,1809,C#,https://github.com/miroslavpejic85/p2p,"🖥️ P2P Remote Desktop - Portable, No Configuration or Installation Needed.",R_kgDOGaZTOQ
+634,zerosharp,93,1800,C#,https://github.com/MichalStrehovsky/zerosharp,Demo of the potential of C# for systems programming with the .NET native ahead-of-time compilation technology.,MDEwOlJlcG9zaXRvcnkxNjg5NjY1Nzc=
+635,Spotify-Ad-Blocker,204,1791,C#,https://github.com/Xeroday/Spotify-Ad-Blocker,EZBlocker - A Spotify Ad Blocker for Windows,MDEwOlJlcG9zaXRvcnkxMTQzODY2MA==
+636,Massive,327,1789,C#,https://github.com/FransBouma/Massive,"A small, happy, dynamic MicroORM for .NET that will love you forever.",MDEwOlJlcG9zaXRvcnkxMzY4MTg5
+637,WalletWasabi,440,1787,C#,https://github.com/zkSNACKs/WalletWasabi,"Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.",MDEwOlJlcG9zaXRvcnk1NTM0MTQ2OQ==
+638,temporal,191,1786,C#,https://github.com/playdeadgames/temporal,Temporal Reprojection Anti-Aliasing for Unity 5.0+,MDEwOlJlcG9zaXRvcnk1MzQwODc2OA==
+639,ServiceBusExplorer,530,1785,C#,https://github.com/paolosalvatori/ServiceBusExplorer,"The Service Bus Explorer allows users to connect to a Service Bus namespace and administer messaging entities in an easy manner. The tool provides advanced features like import/export functionality or the ability to test topic, queues, subscriptions, relay services, notification hubs and events hubs.",MDEwOlJlcG9zaXRvcnkyMzkxODMzMw==
+640,Aurora,370,1785,C#,https://github.com/antonpup/Aurora,Unified lighting effects across multiple brands and various games.,MDEwOlJlcG9zaXRvcnk1NTM4NjgzNA==
+642,nodejstools,374,1784,C#,https://github.com/microsoft/nodejstools,Node.js Tools for Visual Studio,MDEwOlJlcG9zaXRvcnkzMzAxNzE0OQ==
+641,VolumetricLights,289,1784,C#,https://github.com/SlightlyMad/VolumetricLights,Volumetric Lights for Unity,MDEwOlJlcG9zaXRvcnk1NDg5MDYyOQ==
+643,dnlib,564,1781,C#,https://github.com/0xd4d/dnlib,Reads and writes .NET assemblies and modules,MDEwOlJlcG9zaXRvcnkxODc2ODg5MQ==
+644,spy-spotify,127,1777,C#,https://github.com/jwallet/spy-spotify,🎤 Records Spotify to mp3 without ads and adds media tags to the files 🎵,MDEwOlJlcG9zaXRvcnk3MzUxNTkwNg==
+645,titanium-web-proxy,522,1776,C#,https://github.com/justcoding121/titanium-web-proxy,A cross-platform asynchronous HTTP(S) proxy server in C#.,MDEwOlJlcG9zaXRvcnkyODgyMjExNA==
+646,sandbox-attacksurface-analysis-tools,410,1776,C#,https://github.com/googleprojectzero/sandbox-attacksurface-analysis-tools,Set of tools to analyze Windows sandboxes for exposed attack surface.,MDEwOlJlcG9zaXRvcnk0NDc4NzU2NA==
+647,AZ-204-DevelopingSolutionsforMicrosoftAzure,1438,1775,C#,https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure,AZ-204: Developing solutions for Microsoft Azure,MDEwOlJlcG9zaXRvcnkyMzQwNjgxOTc=
+648,xamarin-android,536,1775,C#,https://github.com/xamarin/xamarin-android,Xamarin.Android provides open-source bindings of the Android SDK for use with .NET managed languages such as C#,MDEwOlJlcG9zaXRvcnk1NTA3NTMwMg==
+649,NBTExplorer,247,1775,C#,https://github.com/jaquadro/NBTExplorer,A graphical NBT editor for all Minecraft NBT data sources,MDEwOlJlcG9zaXRvcnkyODk2NTcw
+650,UniversalRenderingExamples,408,1774,C#,https://github.com/Unity-Technologies/UniversalRenderingExamples,This project contains a collection of Custom Renderer examples. This will be updated as we refine the feature and add more options.,MDEwOlJlcG9zaXRvcnkxNjk3MzE4MDQ=
+651,FNA,194,1771,C#,https://github.com/FNA-XNA/FNA,FNA - Accuracy-focused XNA4 reimplementation for open platforms,MDEwOlJlcG9zaXRvcnk0ODM0NzcwMg==
+652,InjectFix,388,1771,C#,https://github.com/Tencent/InjectFix,InjectFix is a hot-fix solution library for Unity,MDEwOlJlcG9zaXRvcnkyMDY1MTYwOTM=
+653,codemaid,341,1765,C#,https://github.com/codecadwallader/codemaid,"CodeMaid is an open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding.",MDEwOlJlcG9zaXRvcnkyMjAwODQ0OQ==
+654,NBitcoin,831,1763,C#,https://github.com/MetacoSA/NBitcoin,Comprehensive Bitcoin library for the .NET framework.,MDEwOlJlcG9zaXRvcnkxODU5NjE2OA==
+655,DefenderCheck,312,1763,C#,https://github.com/matterpreter/DefenderCheck,Identifies the bytes that Microsoft Defender flags on.,MDEwOlJlcG9zaXRvcnkxODAzODAxNTY=
+656,Bonobo-Git-Server,594,1758,C#,https://github.com/jakubgarfield/Bonobo-Git-Server,Bonobo Git Server for Windows is a web application you can install on your IIS and easily manage and connect to your git repositories. Go to homepage for release and more info.,MDEwOlJlcG9zaXRvcnkxNDQ4MjE4
+657,superputty,321,1755,C#,https://github.com/jimradford/superputty,The SuperPuTTY Window Manager for putty sessions,MDEwOlJlcG9zaXRvcnkzNTI5MDc2Mg==
+658,piranha.core,509,1754,C#,https://github.com/PiranhaCMS/piranha.core,Piranha CMS is the friendly editor-focused CMS for .NET6 that can be used both as an integrated CMS or as a headless API.,MDEwOlJlcG9zaXRvcnk1NDM3NzUxOQ==
+659,TodoApi,276,1752,C#,https://github.com/davidfowl/TodoApi,"Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication ",MDEwOlJlcG9zaXRvcnkzNjQzMDQ3OTI=
+660,Rubberduck,286,1739,C#,https://github.com/rubberduck-vba/Rubberduck,Every programmer needs a rubberduck. COM add-in for the VBA & VB6 IDE (VBE).,MDEwOlJlcG9zaXRvcnkyNTgwMDEyOA==
+661,NLua,283,1737,C#,https://github.com/NLua/NLua,Bridge between Lua and the .NET.,MDEwOlJlcG9zaXRvcnk4NjA1MDU0
+662,cupscale,97,1730,C#,https://github.com/n00mkrad/cupscale,Image Upscaling GUI based on ESRGAN,MDEwOlJlcG9zaXRvcnkyOTI4NjQ3NTA=
+663,Coolapk-UWP,166,1730,C#,https://github.com/Coolapk-UWP/Coolapk-UWP,一个基于 UWP 平台的第三方酷安客户端,MDEwOlJlcG9zaXRvcnkyMTQ0MzI5MTQ=
+664,Steamless,140,1726,C#,https://github.com/atom0s/Steamless,Steamless is a DRM remover of the SteamStub variants.  The goal of Steamless is to make a single solution for unpacking all Steam DRM-packed files. Steamless aims to support as many games as possible. ,MDEwOlJlcG9zaXRvcnk3ODE5MjU5Ng==
+665,NodeGraphProcessor,291,1720,C#,https://github.com/alelievr/NodeGraphProcessor,Node graph editor framework focused on data processing using Unity UIElements and C# 4.6,MDEwOlJlcG9zaXRvcnkxMzIzODI5MDg=
+666,blazorboilerplate,354,1720,C#,https://github.com/enkodellc/blazorboilerplate,Blazor Boilerplate / Starter Template with MudBlazor ,MDEwOlJlcG9zaXRvcnkxODk2NzUyNzY=
+667,Blazor,126,1719,C#,https://github.com/SteveSanderson/Blazor,MOVED: Please see the new repo at https://github.com/aspnet/blazor,MDEwOlJlcG9zaXRvcnk5MjQ0OTQ1Nw==
+668,DotNetOpenAuth,745,1717,C#,https://github.com/DotNetOpenAuth/DotNetOpenAuth,"A C# implementation of the OpenID, OAuth protocols",MDEwOlJlcG9zaXRvcnk0Nzk4
+669,JSIL,245,1716,C#,https://github.com/sq/JSIL,CIL to Javascript Compiler,MDEwOlJlcG9zaXRvcnkxNTk0MjIw
+670,aspnetcore-realworld-example-app,508,1715,C#,https://github.com/gothinkster/aspnetcore-realworld-example-app,ASP.NET Core backend implementation for RealWorld,MDEwOlJlcG9zaXRvcnk5MTUwODkzOA==
+671,dotnetcore-microservices-poc,641,1713,C#,https://github.com/asc-lab/dotnetcore-microservices-poc,Very simplified insurance sales system made in a microservices architecture using .NET Core,MDEwOlJlcG9zaXRvcnkxNTAzODI4ODA=
+672,daggerfall-unity,273,1708,C#,https://github.com/Interkarma/daggerfall-unity,Open source recreation of Daggerfall in the Unity engine,MDEwOlJlcG9zaXRvcnkyODg4NDA1MA==
+673,DesignPatternsLibrary,165,1707,C#,https://github.com/nemanjarogic/DesignPatternsLibrary,"A comprehensive design patterns library implemented in C#, which covers various design patterns from the most commonly used ones to the lesser-known ones. Get familiar with and learn design patterns through moderately realistic examples.",MDEwOlJlcG9zaXRvcnkzMjU3ODc1Mjc=
+674,naps2,271,1701,C#,https://github.com/cyanfish/naps2,"Scan documents to PDF and more, as simply as possible.",MDEwOlJlcG9zaXRvcnkzOTM0ODYyMg==
+675,Dapper-Extensions,575,1699,C#,https://github.com/tmsmith/Dapper-Extensions,"Dapper Extensions is a small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs. For more advanced querying scenarios, Dapper Extensions provides a predicate system. The goal of this library is to keep your POCOs pure by not requiring any attributes or base class inheritance.",MDEwOlJlcG9zaXRvcnkyNjgyMTg5
+676,Carter,155,1699,C#,https://github.com/CarterCommunity/Carter,Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.,MDEwOlJlcG9zaXRvcnk4Nzg2NDAwMA==
+677,Text-Grab,119,1698,C#,https://github.com/TheJoeFin/Text-Grab,Use OCR in Windows quickly and easily with Text Grab. With optional background process and popups.,MDEwOlJlcG9zaXRvcnkzMTc1MzE1NjI=
+678,CKAN,342,1698,C#,https://github.com/KSP-CKAN/CKAN,The Comprehensive Kerbal Archive Network,MDEwOlJlcG9zaXRvcnkyMzA1MDU5NA==
+679,PropertyChanged,225,1698,C#,https://github.com/Fody/PropertyChanged,Injects INotifyPropertyChanged code into properties at compile time,MDEwOlJlcG9zaXRvcnk0OTMzNTcw
+680,AIShader,152,1698,C#,https://github.com/keijiro/AIShader,ChatGPT-powered shader generator for Unity,R_kgDOJFl-6g
+681,LightBulb,119,1696,C#,https://github.com/Tyrrrz/LightBulb,Reduces eye strain by adjusting gamma based on the current time,MDEwOlJlcG9zaXRvcnk3ODc3Mjk3NQ==
+682,SmartEnum,137,1693,C#,https://github.com/ardalis/SmartEnum,A base class for quickly and easily creating strongly typed enum replacements in C#.,MDEwOlJlcG9zaXRvcnkxMTI3NDc2NjE=
+683,format,146,1691,C#,https://github.com/dotnet/format,Home for the dotnet-format command,MDEwOlJlcG9zaXRvcnkxNzA5NDI5OTA=
+684,Klak,181,1690,C#,https://github.com/keijiro/Klak,Creative coding library for Unity,MDEwOlJlcG9zaXRvcnk0OTQxMDA0Mg==
+685,Miku-LuaProfiler,416,1688,C#,https://github.com/leinlin/Miku-LuaProfiler,,MDEwOlJlcG9zaXRvcnkxNTgxOTg2MDI=
+686,Foundatio,239,1687,C#,https://github.com/FoundatioFx/Foundatio,Pluggable foundation blocks for building distributed apps.,MDEwOlJlcG9zaXRvcnkzMDM2OTE4Nw==
+687,Tai,85,1683,C#,https://github.com/Planshit/Tai,👻 在Windows上统计软件使用时长和网站浏览时长,R_kgDOGZ7-cw
+688,DnsServer,242,1681,C#,https://github.com/TechnitiumSoftware/DnsServer,Technitium DNS Server,MDEwOlJlcG9zaXRvcnkxMDg3MjYzMjE=
+689,obfuscar,335,1679,C#,https://github.com/obfuscar/obfuscar,Open source obfuscation tool for .NET assemblies,MDEwOlJlcG9zaXRvcnkzMzM5ODIwNA==
+690,reko,215,1674,C#,https://github.com/uxmal/reko,Reko is a binary decompiler.,MDEwOlJlcG9zaXRvcnkzOTcxODMwOA==
+691,BizHawk,332,1674,C#,https://github.com/TASEmulators/BizHawk,"BizHawk is a multi-system emulator written in C#.  BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.  ",MDEwOlJlcG9zaXRvcnkzNzg2MDMxNw==
+692,LoopScrollRect,424,1673,C#,https://github.com/qiankanglai/LoopScrollRect,"These scripts will make your UGUI ScrollRect reusing cells, to improve performance, loading time and draw calls.",MDEwOlJlcG9zaXRvcnk0MDYxMDI3OA==
+693,awesome-dotnet-core,380,1673,C#,https://github.com/jasonhua95/awesome-dotnet-core,.NET Core库、工具、框架和软件的中文收录大全。 内容包括：库、工具、框架、模板引擎、身份认证、数据库、ORM框架、图片处理、文本处理、机器学习、日志、代码分析、教程等。,MDEwOlJlcG9zaXRvcnkyMjg1ODQ2NjU=
+694,CVE-2021-1675,583,1673,C#,https://github.com/cube0x0/CVE-2021-1675,C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527,MDEwOlJlcG9zaXRvcnkzODE0NDQ2NTY=
+695,CSharpRepl,67,1670,C#,https://github.com/waf/CSharpRepl,"A command line C# REPL with syntax highlighting – explore the language, libraries and nuget packages interactively.",MDEwOlJlcG9zaXRvcnkzNTQyOTEzNTI=
+696,Kino,138,1665,C#,https://github.com/keijiro/Kino,A collection of custom post processing effects for Unity,MDEwOlJlcG9zaXRvcnkxMjYxMzczOTY=
+697,cognitive-services-speech-sdk,1466,1662,C#,https://github.com/Azure-Samples/cognitive-services-speech-sdk,Sample code for the Microsoft Cognitive Services Speech SDK,MDEwOlJlcG9zaXRvcnkxMzExNDU2OTc=
+698,emgucv,525,1659,C#,https://github.com/emgucv/emgucv,Emgu CV is a cross platform .Net wrapper to the OpenCV image processing library.,MDEwOlJlcG9zaXRvcnk3ODA0NTc3NA==
+699,NatTypeTester,139,1648,C#,https://github.com/HMBSbige/NatTypeTester,测试当前网络的 NAT 类型（STUN）,MDEwOlJlcG9zaXRvcnkxMzM5NjM2MDQ=
+700,UnityStandaloneFileBrowser,266,1647,C#,https://github.com/gkngkc/UnityStandaloneFileBrowser,A native file browser for unity standalone platforms,MDEwOlJlcG9zaXRvcnk3ODM2ODU4MQ==
+701,MyTested.AspNetCore.Mvc,191,1646,C#,https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc,Fluent testing library for ASP.NET Core MVC.,MDEwOlJlcG9zaXRvcnk0NzI0MjQ5Mw==
+702,unity-movement-ai,236,1642,C#,https://github.com/sturdyspoon/unity-movement-ai,A Unity library for common movement AI,MDEwOlJlcG9zaXRvcnk0NDg2MDU3Mg==
+703,fluent-nhibernate,697,1640,C#,https://github.com/nhibernate/fluent-nhibernate,Fluent NHibernate!,MDEwOlJlcG9zaXRvcnkxMjY2NTI=
+704,pingcastle,232,1638,C#,https://github.com/vletoux/pingcastle,PingCastle - Get Active Directory Security at 80% in 20% of the time,MDEwOlJlcG9zaXRvcnkxNDY5MjQ0MTM=
+705,AsyncRAT-C-Sharp,644,1635,C#,https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp,Open-Source Remote Administration Tool For Windows C# (RAT),MDEwOlJlcG9zaXRvcnkxNjY1MDQyODE=
+706,PanuonUI.Silver,297,1620,C#,https://github.com/Mochengvia/PanuonUI.Silver,Panuon.UI optimized version. A beautiful wpf ui library using templates & attached properties.,MDEwOlJlcG9zaXRvcnkxODIyNTA4OTE=
+707,KSFramework,386,1617,C#,https://github.com/mr-kelly/KSFramework,"QQ Group：538722494，KSFramework = KEngine + SLua(or xLua) , Unity3D Framework/Toolsets focus on hot reload",MDEwOlJlcG9zaXRvcnk1OTM0OTkwOQ==
+708,wcf,551,1616,C#,https://github.com/dotnet/wcf,This repo contains the client-oriented WCF libraries that enable applications built on .NET Core to communicate with WCF services.,MDEwOlJlcG9zaXRvcnkzNTU2Mjk5Mw==
+709,MemoryPack,76,1611,C#,https://github.com/Cysharp/MemoryPack,Zero encoding extreme performance binary serializer for C# and Unity.,R_kgDOH7gqhA
+710,winauth,372,1609,C#,https://github.com/winauth/winauth,Authenticator on Windows for Battle.net / Steam / Guild Wars 2 / Glyph / Runescape / SWTOR / Bitcoin and digital currency exchanges,MDEwOlJlcG9zaXRvcnkzMjA5MzQ5MQ==
+711,X,503,1607,C#,https://github.com/NewLifeX/X,"Core basic components: log (file / network), configuration (XML / JSON / HTTP), cache (memory / redis), network (TCP / UDP / HTTP), RPC framework, serialization (binary / XML / JSON), APM performance tracking. 核心基础组件，日志（文件/网络）、配置（XML/Json/Http）、缓存（内存/Redis）、网络（Tcp/Udp/Http）、RPC框架、序列化（Binary/XML/Json）、APM性能追踪。",MDEwOlJlcG9zaXRvcnk2MTcyNTQ5Nw==
+712,Unity5Effects,231,1607,C#,https://github.com/i-saint/Unity5Effects,,MDEwOlJlcG9zaXRvcnkzNDM4MjIwNQ==
+713,PSScriptAnalyzer,346,1598,C#,https://github.com/PowerShell/PSScriptAnalyzer,Download ScriptAnalyzer from PowerShellGallery,MDEwOlJlcG9zaXRvcnkzMzE0OTE3Nw==
+714,MyUnityFrameWork,518,1595,C#,https://github.com/GaoKaiHaHa/MyUnityFrameWork,我的Unity框架，包含资源加载，配置加载，数据加载，UI管理，日志管理，动画系统，特效系统,MDEwOlJlcG9zaXRvcnk2MTQ0MjM1NA==
+715,Microsoft.IO.RecyclableMemoryStream,200,1590,C#,https://github.com/microsoft/Microsoft.IO.RecyclableMemoryStream,A library to provide pooling for .NET MemoryStream objects to improve application performance. ,MDEwOlJlcG9zaXRvcnkyOTgzOTcyMg==
+716,Ooui,159,1589,C#,https://github.com/praeclarum/Ooui,A small cross-platform UI library that brings the simplicity of native UI development to the web,MDEwOlJlcG9zaXRvcnk5NDI3MzkyMw==
+717,SharpDX,633,1588,C#,https://github.com/sharpdx/SharpDX,SharpDX GitHub Repository,MDEwOlJlcG9zaXRvcnk2NTk1ODQ0
+718,SanAndreasUnity,282,1587,C#,https://github.com/GTA-ASM/SanAndreasUnity,Open source reimplementation of GTA San Andreas game engine in Unity,MDEwOlJlcG9zaXRvcnkxMzM4NzIwNzc=
+719,MiniExcel,183,1587,C#,https://github.com/mini-software/MiniExcel,"Fast, Low-Memory, Easy Excel .NET helper to import/export/template spreadsheet",MDEwOlJlcG9zaXRvcnkzNDM1OTE4ODA=
+720,XamarinCommunityToolkit,491,1583,C#,https://github.com/xamarin/XamarinCommunityToolkit,"The Xamarin Community Toolkit is a collection of Animations, Behaviors, Converters, and Effects for mobile development with Xamarin.Forms. It simplifies and demonstrates common developer tasks building iOS, Android, and UWP apps with Xamarin.Forms.",MDEwOlJlcG9zaXRvcnk3NzE4MDc2MQ==
+721,UA-.NETStandard,827,1582,C#,https://github.com/OPCFoundation/UA-.NETStandard,OPC Unified Architecture .NET Standard,MDEwOlJlcG9zaXRvcnk1MTU5NTAyOA==
+722,dockpanelsuite,725,1578,C#,https://github.com/dockpanelsuite/dockpanelsuite,DockPanel Suite - The Visual Studio inspired docking library for .NET WinForms,MDEwOlJlcG9zaXRvcnk0MzExNjQ0
+723,EasyCaching,279,1577,C#,https://github.com/dotnetcore/EasyCaching,:boom: EasyCaching is an open source caching library that contains basic usages and some advanced usages of caching which can help us to handle caching more easier!,MDEwOlJlcG9zaXRvcnkxMTAzMzE1OTM=
+724,GARbro,191,1577,C#,https://github.com/morkt/GARbro,Visual Novels resource browser,MDEwOlJlcG9zaXRvcnkyMjA3Njc0OA==
+725,RetroBar,141,1576,C#,https://github.com/dremin/RetroBar,"Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows",MDEwOlJlcG9zaXRvcnkzMTU1MzcxNTI=
+726,AduSkin,320,1574,C#,https://github.com/aduskin/AduSkin,A Beautiful WPF Control UI,MDEwOlJlcG9zaXRvcnkyMjM3MjA1OTk=
+727,FlaUI,300,1574,C#,https://github.com/FlaUI/FlaUI,UI automation library for .Net,MDEwOlJlcG9zaXRvcnk1NjEyNjY3MQ==
+728,TouchScript,356,1573,C#,https://github.com/TouchScript/TouchScript,"Complete multi-touch solution for Unity: iOS, Android, Windows, TUIO.",MDEwOlJlcG9zaXRvcnk1NDQ0Mjg1
+729,ios-samples,1948,1573,C#,https://github.com/xamarin/ios-samples,Xamarin.iOS sample apps,MDEwOlJlcG9zaXRvcnkzNjgxOTI=
+730,Stl.Fusion,103,1572,C#,https://github.com/servicetitan/Stl.Fusion,"Build real-time apps (Blazor included) with less than 1% of extra code responsible for real-time updates. Host 10-1000x faster APIs relying on transparent and nearly 100% consistent caching. We call it DREAM, or Distributed REActive Memoization, and it's here to turn real-time on!",MDEwOlJlcG9zaXRvcnkxODcyNzM3MzI=
+731,DynamicExpresso,333,1572,C#,https://github.com/dynamicexpresso/DynamicExpresso,C# expressions interpreter,MDEwOlJlcG9zaXRvcnk3NzE3NTk2
+732,SharpSploit,288,1569,C#,https://github.com/cobbr/SharpSploit, SharpSploit is a .NET post-exploitation library written in C#,MDEwOlJlcG9zaXRvcnkxNDk2MjE0NTk=
+733,AvalonEdit,436,1569,C#,https://github.com/icsharpcode/AvalonEdit,The WPF-based text editor component used in SharpDevelop,MDEwOlJlcG9zaXRvcnkxODY1MDMwOQ==
+734,clashN,175,1563,C#,https://github.com/2dust/clashN,"A clash client for Windows, support clash core and Clash.Meta core",R_kgDOHGmtPw
+736,Statiq.Web,239,1559,C#,https://github.com/statiqdev/Statiq.Web,Statiq Web is a flexible static site generator written in .NET.,MDEwOlJlcG9zaXRvcnkyNDMzMDI5NQ==
+735,prometheus-net,263,1559,C#,https://github.com/prometheus-net/prometheus-net,.NET library to instrument your code with Prometheus metrics,MDEwOlJlcG9zaXRvcnkzMjg4MTExNA==
+737,MahApps.Metro.IconPacks,201,1557,C#,https://github.com/MahApps/MahApps.Metro.IconPacks,Awesome icon packs for WPF and UWP in one library,MDEwOlJlcG9zaXRvcnk2MzUwNzQxNw==
+738,NEventStore,330,1555,C#,https://github.com/NEventStore/NEventStore,A persistence agnostic Event Store for .NET,MDEwOlJlcG9zaXRvcnk3MzgzMzg=
+739,MimeKit,325,1555,C#,https://github.com/jstedfast/MimeKit,"A .NET MIME creation and parser library with support for S/MIME, PGP, DKIM, TNEF and Unix mbox spools.",MDEwOlJlcG9zaXRvcnk2NDMzODM4
+740,AspectCore-Framework,301,1554,C#,https://github.com/dotnetcore/AspectCore-Framework,AspectCore is an AOP-based cross platform framework for .NET Standard.,MDEwOlJlcG9zaXRvcnk2Mzg0NjMzNg==
+741,ServiceStack.OrmLite,659,1552,C#,https://github.com/ServiceStack/ServiceStack.OrmLite,"Fast, Simple, Typed ORM for .NET",MDEwOlJlcG9zaXRvcnkxMzQwMDg2
+742,DocX,459,1551,C#,https://github.com/xceedsoftware/DocX,Fast and easy to use .NET library that creates or modifies Microsoft Word files without installing Word.,MDEwOlJlcG9zaXRvcnk0NjY2MDMxNw==
+743,Krypton,607,1550,C#,https://github.com/ComponentFactory/Krypton,Krypton WinForms components for .NET,MDEwOlJlcG9zaXRvcnk0MzYzMDM3Ng==
+744,bepuphysics2,194,1550,C#,https://github.com/bepu/bepuphysics2,"Pure C# 3D real time physics simulation library, now with a higher version number.",MDEwOlJlcG9zaXRvcnkxMDc4MTA0MzQ=
+745,Domain-Driven-Design-Example,425,1550,C#,https://github.com/zkavtaskin/Domain-Driven-Design-Example,Blog series supplementary domain-driven design C# repository that (hopefully) actually makes sense. ,MDEwOlJlcG9zaXRvcnkxOTQwNTA1Nw==
+746,RepoDB,113,1548,C#,https://github.com/mikependon/RepoDB,A hybrid ORM library for .NET.,MDEwOlJlcG9zaXRvcnkxMjg5NTIzMTY=
+747,protoactor-dotnet,273,1537,C#,https://github.com/asynkron/protoactor-dotnet,"Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin",MDEwOlJlcG9zaXRvcnk3Nzc4NjEwNw==
+748,LazyCache,144,1537,C#,https://github.com/alastairtree/LazyCache,An easy to use thread safe in-memory caching service with a simple developer friendly API for c#,MDEwOlJlcG9zaXRvcnkxNzIxNDYwNg==
+749,Recognizers-Text,413,1536,C#,https://github.com/microsoft/Recognizers-Text,"Microsoft.Recognizers.Text provides recognition and resolution of numbers, units, date/time, etc. in multiple languages (ZH, EN, FR, ES, PT, DE, IT, TR, HI, NL. Partial support for JA, KO, AR, SV). Packages available at: https://www.nuget.org/profiles/Recognizers.Text, https://www.npmjs.com/~recognizers.text",MDEwOlJlcG9zaXRvcnk4ODU0NDQxNw==
+750,VolumetricLighting,247,1536,C#,https://github.com/Unity-Technologies/VolumetricLighting,"Lighting effects implemented for the Adam demo: volumetric fog, area lights and tube lights",MDEwOlJlcG9zaXRvcnk3MjUzMzAxOQ==
+751,JEngine,288,1532,C#,https://github.com/JasonXuDeveloper/JEngine,The solution that allows unity games to update in runtime. 使Unity开发的游戏支持热更新的解决方案。,MDEwOlJlcG9zaXRvcnkyNzk0NDczOTQ=
+752,Nez,317,1531,C#,https://github.com/prime31/Nez,Nez is a free 2D focused framework that works with MonoGame and FNA,MDEwOlJlcG9zaXRvcnk1MTMxNjEyOA==
+753,myrtille,372,1527,C#,https://github.com/cedrozor/myrtille,A native HTML4 / HTML5 Remote Desktop Protocol and SSH client,MDEwOlJlcG9zaXRvcnk1MzU3OTM0NQ==
+754,excel2json,450,1523,C#,https://github.com/neil3d/excel2json,把Excel表转换成json对象，并保存到一个文本文件中。,MDEwOlJlcG9zaXRvcnkyNTY3MTM2NQ==
+755,PowerUp,45,1523,C#,https://github.com/badamczewski/PowerUp,⚡ Decompilation Tools and High Productivity Utilities ⚡,MDEwOlJlcG9zaXRvcnkzMDcwNDkxMzY=
+756,stryker-net,153,1518,C#,https://github.com/stryker-mutator/stryker-net,Mutation testing for .NET core and .NET framework!,MDEwOlJlcG9zaXRvcnkxMzYyODIzMDE=
+757,SkyAPM-dotnet,313,1518,C#,https://github.com/SkyAPM/SkyAPM-dotnet,The .NET/.NET Core instrument agent for Apache SkyWalking,MDEwOlJlcG9zaXRvcnkxMjA0NjkyOTg=
+758,idle_master,559,1516,C#,https://github.com/jshackles/idle_master,Get your Steam Trading Cards the Easy Way,MDEwOlJlcG9zaXRvcnkyMjQ0OTgzOQ==
+759,Essentials,511,1516,C#,https://github.com/xamarin/Essentials,Essential cross platform APIs for your mobile apps.,MDEwOlJlcG9zaXRvcnkxMjIyMjkyNDc=
+760,azure-pipelines-agent,845,1515,C#,https://github.com/microsoft/azure-pipelines-agent,Azure Pipelines Agent 🚀,MDEwOlJlcG9zaXRvcnk1MzA1Mjc4OQ==
+761,ezy-slice,203,1512,C#,https://github.com/DavidArayan/ezy-slice,An open source mesh slicer framework for Unity3D Game Engine. Written in C#.,MDEwOlJlcG9zaXRvcnk0NjMzMzgxMg==
+762,Jvedio,195,1512,C#,https://github.com/hitchao/Jvedio,Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件,MDEwOlJlcG9zaXRvcnkyMzEwNTIzOTQ=
+763,JabbR,603,1509,C#,https://github.com/JabbR/JabbR,Collaborative chat done right,MDEwOlJlcG9zaXRvcnkyMjkyMjU2
+764,Comet,112,1509,C#,https://github.com/dotnet/Comet,Comet is an MVU UIToolkit written in C#,MDEwOlJlcG9zaXRvcnkxOTIxMjI4MTU=
+765,OutlookGoogleCalendarSync,211,1509,C#,https://github.com/phw198/OutlookGoogleCalendarSync,Sync your Outlook and Google calendars,MDEwOlJlcG9zaXRvcnk5MTE3MjE4Mw==
+766,LibgenDesktop,191,1506,C#,https://github.com/libgenapps/LibgenDesktop,,MDEwOlJlcG9zaXRvcnkxMDk5MzY3ODg=
+767,DynamicData,174,1504,C#,https://github.com/reactivemarbles/DynamicData,Reactive collections based on Rx.Net,MDEwOlJlcG9zaXRvcnkyNjk1MTUwOQ==
+769,EFCorePowerTools,231,1499,C#,https://github.com/ErikEJ/EFCorePowerTools,"Entity Framework Core Power Tools - reverse engineering, migrations and model visualization for EF Core",MDEwOlJlcG9zaXRvcnkxMzE0NzMzNzU=
+768,AutoLOD,195,1499,C#,https://github.com/Unity-Technologies/AutoLOD,Automatic LOD generation + scene optimization,MDEwOlJlcG9zaXRvcnkxMTY5OTE4NTY=
+770,Path-Creator,287,1497,C#,https://github.com/SebLague/Path-Creator,Path creation asset for Unity game development,MDEwOlJlcG9zaXRvcnkxNjc1NTkyOTE=
+771,Accelerider.Windows,378,1496,C#,https://github.com/Accelerider/Accelerider.Windows,A shell that runs Accelerider applications on the Windows platform.,MDEwOlJlcG9zaXRvcnk4MDkzOTA0MQ==
+772,PixelVision8,83,1494,C#,https://github.com/PixelVision8/PixelVision8,Pixel Vision 8's core philosophy is to teach retro game development with streamlined workflows. PV8 is also a platform that standardizes 8-bit fantasy console limitations built on top of the open-source C# game engine based on MonoGame.,MDEwOlJlcG9zaXRvcnk4NjkxMTc3MA==
+773,geometry3Sharp,349,1491,C#,https://github.com/gradientspace/geometry3Sharp,"C# library for 2D/3D geometric computation, mesh algorithms, and so on. Boost license.",MDEwOlJlcG9zaXRvcnk3MTY0Nzc0MA==
+774,omnisharp-roslyn,401,1489,C#,https://github.com/OmniSharp/omnisharp-roslyn,"OmniSharp server (HTTP, STDIO) based on Roslyn workspaces",MDEwOlJlcG9zaXRvcnkyNzkyNzk4NA==
+775,qqzeng-ip,556,1486,C#,https://github.com/zengzhan/qqzeng-ip,最新IP地址数据库-多语言解析以及导入数据库脚本,MDEwOlJlcG9zaXRvcnkyMDE3ODcxOA==
+776,infer,227,1484,C#,https://github.com/dotnet/infer,Infer.NET is a framework for running Bayesian inference in graphical models,MDEwOlJlcG9zaXRvcnkxNDg4NTI0MDA=
+777,paylink,424,1484,C#,https://github.com/essensoft/paylink,一套基于 .NET Core 开发的支付SDK集，它极大简化了API调用及通知的处理流程。,MDEwOlJlcG9zaXRvcnkxMTE5NDEwNzI=
+778,AdaptiveCards,501,1481,C#,https://github.com/microsoft/AdaptiveCards,A new way for developers to exchange card content in a common and consistent way.,MDEwOlJlcG9zaXRvcnk3NTk3ODczMQ==
+779,BiliBili-UWP,208,1481,C#,https://github.com/Richasy/BiliBili-UWP,BiliBili的UWP客户端，当然，是第三方的了,MDEwOlJlcG9zaXRvcnkyNTQzNTQzMDk=
+780,Voxelman,172,1478,C#,https://github.com/keijiro/Voxelman,Unity ECS + C# Job System example,MDEwOlJlcG9zaXRvcnkxMjQ1MjMzOTU=
+781,ForgeNetworkingRemastered,313,1477,C#,https://github.com/BeardedManStudios/ForgeNetworkingRemastered,"See various forks, also please join the Forge Community fork of Forge Alloy! -> https://github.com/ForgeAlloyCommunity/ForgeAlloy",MDEwOlJlcG9zaXRvcnk3ODU2MDAzNg==
+782,corefxlab,362,1473,C#,https://github.com/dotnet/corefxlab,This repo is for experimentation and exploring new ideas that may or may not make it into the main corefx repo.,MDEwOlJlcG9zaXRvcnkyOTUwNDE5Mg==
+783,AutumnBox,183,1472,C#,https://github.com/zsh2401/AutumnBox,图形化ADB工具箱,MDEwOlJlcG9zaXRvcnk5ODgyNDE4Ng==
+784,p0wnedShell,361,1471,C#,https://github.com/Cn33liz/p0wnedShell,PowerShell Runspace Post Exploitation Toolkit,MDEwOlJlcG9zaXRvcnk0ODU3ODcyOQ==
+785,PowerShdll,251,1471,C#,https://github.com/p3nt4/PowerShdll,Run PowerShell with rundll32. Bypass software restrictions.,MDEwOlJlcG9zaXRvcnk2MzM3ODAxNQ==
+786,Enums.NET,88,1470,C#,https://github.com/TylerBrinkley/Enums.NET,Enums.NET is a high-performance type-safe .NET enum utility library,MDEwOlJlcG9zaXRvcnk0MTU3Nzg1Ng==
+787,Unity-Robotics-Hub,343,1470,C#,https://github.com/Unity-Technologies/Unity-Robotics-Hub,"Central repository for tools, tutorials, resources, and documentation for robotics simulation in Unity.",MDEwOlJlcG9zaXRvcnkyOTgzNDczODA=
+788,AssetRipper,235,1468,C#,https://github.com/AssetRipper/AssetRipper,"GUI Application to work with engine assets, asset bundles, and serialized files",MDEwOlJlcG9zaXRvcnkzODUxMTgwNzM=
+789,MyBox,210,1466,C#,https://github.com/Deadcows/MyBox,"MyBox is a set of attributes, tools and extensions for Unity ",MDEwOlJlcG9zaXRvcnk3MjAwMjMzMQ==
+790,OneMore,138,1466,C#,https://github.com/stevencohn/OneMore,"A OneNote add-in with simple, yet powerful and useful features",MDEwOlJlcG9zaXRvcnkxMTc0MDEyNTI=
+791,VisualEffectGraph-Samples,326,1465,C#,https://github.com/Unity-Technologies/VisualEffectGraph-Samples,Visual Effect Graph - Samples Project,MDEwOlJlcG9zaXRvcnkxNTc4NDAxNTU=
+792,cito,47,1465,C#,https://github.com/pfusik/cito,"Ć programming language. Transpiling to C, C++, C#, D, Java, JavaScript, Python, Swift, TypeScript and OpenCL C.",MDEwOlJlcG9zaXRvcnkyMTY0MDUxNTg=
+793,Windsor,459,1464,C#,https://github.com/castleproject/Windsor,"Castle Windsor is a best of breed, mature Inversion of Control container available for .NET",MDEwOlJlcG9zaXRvcnkyNjI5NzE3
+794,microdot,217,1463,C#,https://github.com/gigya/microdot,Microdot: An open source .NET microservices framework,MDEwOlJlcG9zaXRvcnk4OTEyMzkyOQ==
+795,Practical.CleanArchitecture,373,1463,C#,https://github.com/phongnguyend/Practical.CleanArchitecture,"Full-stack .Net 7 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith), Blazor, Angular 15, React 18, Vue 3, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, Identity Server, Entity Framework Core, Selenium, SignalR, Hosted Services, Health Checks, Rate Limiting, Cloud (Azure, AWS) Services, ...",MDEwOlJlcG9zaXRvcnkxNjAxMjU0ODk=
+796,helix-toolkit,609,1461,C#,https://github.com/helix-toolkit/helix-toolkit,Helix Toolkit is a collection of 3D components for .NET.,MDEwOlJlcG9zaXRvcnkyMzM4MDg2Nw==
+797,Nitrox,942,1460,C#,https://github.com/SubnauticaNitrox/Nitrox,"An open-source, multiplayer modification for the game Subnautica.",MDEwOlJlcG9zaXRvcnk5NTM5MTY0NA==
+798,clojure-clr,153,1459,C#,https://github.com/clojure/clojure-clr,"A port of Clojure to the CLR, part of the Clojure project",MDEwOlJlcG9zaXRvcnkyODk5MDAx
+799,UnityExplorer,197,1458,C#,https://github.com/sinai-dev/UnityExplorer,"An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.",MDEwOlJlcG9zaXRvcnkyODU4MjE5NzQ=
+800,UnityIngameDebugConsole,166,1457,C#,https://github.com/yasirkula/UnityIngameDebugConsole,A uGUI based console to see debug messages and execute commands during gameplay in Unity,MDEwOlJlcG9zaXRvcnk2MTIzNTExNg==
+801,NanoFabric,508,1456,C#,https://github.com/geffzhang/NanoFabric,基于Consul + .NET Core + Polly + Ocelot + Exceptionless + IdentityServer等开源项目的微服务开发框架,MDEwOlJlcG9zaXRvcnk3OTk4NDczMA==
+802,MelonLoader,355,1455,C#,https://github.com/LavaGang/MelonLoader,The World's First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono,MDEwOlJlcG9zaXRvcnkyNTY2NTE4Nzg=
+803,mobile-samples,3055,1454,C#,https://github.com/xamarin/mobile-samples,,MDEwOlJlcG9zaXRvcnkyNzgxMTU0
+804,NuGetGallery,637,1449,C#,https://github.com/NuGet/NuGetGallery,NuGet Gallery is a package repository that powers https://www.nuget.org. Use this repo for reporting NuGet.org issues.,MDEwOlJlcG9zaXRvcnkyMTgwNzM2
+805,MarkdownMonster,228,1448,C#,https://github.com/RickStrahl/MarkdownMonster,"An extensible Markdown Editor, Viewer and Weblog Publisher for Windows",MDEwOlJlcG9zaXRvcnk1ODE2NDI3NA==
+806,PokemonUnity,427,1447,C#,https://github.com/PokemonUnity/PokemonUnity,A LEGACY Unity project to help build Pokémon-esque RPG games.,MDEwOlJlcG9zaXRvcnk3ODU3MDcyOA==
+807,dopamine-windows,227,1447,C#,https://github.com/digimezzo/dopamine-windows,Audio player which tries to make organizing and listening to music as simple and pretty as possible.,MDEwOlJlcG9zaXRvcnk2MzI4MTEzMQ==
+808,AvalonStudio,201,1443,C#,https://github.com/VitalElement/AvalonStudio,Cross platform IDE and Shell,MDEwOlJlcG9zaXRvcnk0MzExNjI1Nw==
+809,loxodon-framework,302,1440,C#,https://github.com/vovgou/loxodon-framework,An MVVM & Databinding framework that can use C# and Lua to develop games,MDEwOlJlcG9zaXRvcnk3NzgwODUxMw==
+810,CoreWCF,251,1438,C#,https://github.com/CoreWCF/CoreWCF,Main repository for the Core WCF project,MDEwOlJlcG9zaXRvcnkxODU4NDE2OTQ=
+811,UnityGLTF,429,1437,C#,https://github.com/KhronosGroup/UnityGLTF,Runtime GLTF Loader for Unity3D,MDEwOlJlcG9zaXRvcnk4NDM4OTcyMw==
+812,adonis-ui,132,1429,C#,https://github.com/benruehl/adonis-ui,Lightweight UI toolkit for WPF applications offering classic but enhanced windows visuals,MDEwOlJlcG9zaXRvcnkxMzEzNDI5NTU=
+814,SunnyUI,335,1428,C#,https://github.com/yhuse/SunnyUI,"SunnyUI.Net, 基于.Net 4.0+、.Net 6 框架的 C# WinForm 开源控件库、工具类库、扩展类库、多页面开发框架。",MDEwOlJlcG9zaXRvcnkyNjYxMjI1NTc=
+813,SoftMaskForUGUI,211,1428,C#,https://github.com/mob-sakai/SoftMaskForUGUI,UI Soft Mask is a smooth masking component for Unity UI (uGUI) elements.,MDEwOlJlcG9zaXRvcnkxNTgzMTEyNjY=
+815,CDM,459,1426,C#,https://github.com/microsoft/CDM,"The Common Data Model (CDM) is a standard and extensible collection of schemas (entities, attributes, relationships) that represents business concepts and activities with well-defined semantics, to facilitate data interoperability. Examples of entities include: Account, Contact, Lead, Opportunity, Product, etc.",MDEwOlJlcG9zaXRvcnkxMTgxOTg3MjA=
+816,Reflexil,255,1425,C#,https://github.com/sailro/Reflexil,The .NET Assembly Editor,MDEwOlJlcG9zaXRvcnkxMjAwMzgwOA==
+817,Pinta,240,1421,C#,https://github.com/PintaProject/Pinta,Simple GTK# Paint Program,MDEwOlJlcG9zaXRvcnkyMzU4NzEz
+818,jellyfin-plugin-metatube,153,1420,C#,https://github.com/metatube-community/jellyfin-plugin-metatube,Metadata Tube Plugin for Jellyfin/Emby.,R_kgDOHYJApw
+819,XboxDownload,107,1420,C#,https://github.com/skydevil88/XboxDownload,Xbox下载助手，支持Xbox、微软商店、PS、NS、EA Desktop & Origin、战网国际服、Epic下载加速，修复Steam商店社区访问。,MDEwOlJlcG9zaXRvcnkzNzY4ODE0MzY=
+820,Chloe,460,1418,C#,https://github.com/shuxinqin/Chloe,A lightweight and high-performance Object/Relational Mapping(ORM) library for .NET  --C#,MDEwOlJlcG9zaXRvcnk1NDA5NjMyMQ==
+821,TwitchDownloader,168,1416,C#,https://github.com/lay295/TwitchDownloader,Twitch VOD/Clip Downloader - Chat Download/Render/Replay,MDEwOlJlcG9zaXRvcnkyMDQzNjc4MzM=
+822,DMSkin,369,1415,C#,https://github.com/944095635/DMSkin,DMSkin WPF 样式 UI 框架 | WPF Borderless Window | Custom Controls & Styles | MVVM Support,MDEwOlJlcG9zaXRvcnkxMDEyNzkzMjE=
+823,templating,347,1413,C#,https://github.com/dotnet/templating,This repo contains the Template Engine which is used by dotnet new,MDEwOlJlcG9zaXRvcnk2MjE3MzY4OA==
+824,odin-serializer,165,1412,C#,https://github.com/TeamSirenix/odin-serializer,"Fast, robust, powerful and extendible .NET serializer built for Unity",MDEwOlJlcG9zaXRvcnkxMzI4ODg0NjM=
+825,ClearScript,136,1410,C#,https://github.com/microsoft/ClearScript,"A library for adding scripting to .NET applications. Supports V8 (Windows, Linux, macOS) and JScript/VBScript (Windows).",MDEwOlJlcG9zaXRvcnk5MDI1ODM2Nw==
+826,gInk,270,1407,C#,https://github.com/geovens/gInk,An easy to use on-screen annotation software inspired by Epic Pen.,MDEwOlJlcG9zaXRvcnk0OTYwNDU3Mg==
+827,openrpa,440,1406,C#,https://github.com/open-rpa/openrpa,Free Open Source Enterprise Grade RPA,MDEwOlJlcG9zaXRvcnkxODU4MDYxMzY=
+829,Scientist.net,103,1405,C#,https://github.com/scientistproject/Scientist.net,A .NET library for carefully refactoring critical paths. It's a port of GitHub's Ruby Scientist library,MDEwOlJlcG9zaXRvcnk1MTA2ODMxNA==
+828,Template10,406,1405,C#,https://github.com/Windows-XAML/Template10,Making Windows 10 apps great again,MDEwOlJlcG9zaXRvcnkzMzY3ODI5MA==
+830,ImGui.NET,256,1403,C#,https://github.com/mellinoe/ImGui.NET,An ImGui wrapper for .NET.,MDEwOlJlcG9zaXRvcnk0NTMyODMwNA==
+831,UniHacker,361,1402,C#,https://github.com/tylearymf/UniHacker,"Patch all versions of Unity3D and UnityHub for Windows, MacOS, Linux and Docker.",R_kgDOHNRpBA
+832,EPPlus,220,1400,C#,https://github.com/EPPlusSoftware/EPPlus,EPPlus-Excel spreadsheets for .NET,MDEwOlJlcG9zaXRvcnkxODkyMzQzNTQ=
+833,arcore-unity-sdk,433,1400,C#,https://github.com/google-ar/arcore-unity-sdk,ARCore SDK for Unity,MDEwOlJlcG9zaXRvcnkxMDA5Nzk1NjI=
+834,FFImageLoading,361,1397,C#,https://github.com/luberda-molinet/FFImageLoading,"Image loading, caching & transforming library for Xamarin and Windows",MDEwOlJlcG9zaXRvcnkyOTIzNDM1Mw==
+835,ZString,100,1397,C#,https://github.com/Cysharp/ZString,Zero Allocation StringBuilder for .NET Core and Unity.,MDEwOlJlcG9zaXRvcnkyMzc5Nzk3Njc=
+836,iotedge,453,1396,C#,https://github.com/Azure/iotedge,The IoT Edge OSS project,MDEwOlJlcG9zaXRvcnkxMzg2NDY3ODI=
+837,JTRP,357,1395,C#,https://github.com/JasonMa0012/JTRP,JTRP : Unity HDRP ToonShading Render Pipeline (Preview),MDEwOlJlcG9zaXRvcnkyNTEzNTI5ODA=
+838,Snap.Hutao,96,1393,C#,https://github.com/DGP-Studio/Snap.Hutao,唷，找本堂主有何贵干呀？,R_kgDOHMXyOQ
+839,FakeItEasy,178,1392,C#,https://github.com/FakeItEasy/FakeItEasy,The easy mocking library for .NET,MDEwOlJlcG9zaXRvcnkxOTIwMTMz
+840,BotSharp,319,1391,C#,https://github.com/SciSharp/BotSharp,The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm.,MDEwOlJlcG9zaXRvcnkxMTQ1NDAxMjY=
+841,ChocolateyGUI,241,1390,C#,https://github.com/chocolatey/ChocolateyGUI,A delicious GUI for Chocolatey,MDEwOlJlcG9zaXRvcnkyMzA2NzY5
+842,SuperSimple2DKit,517,1386,C#,https://github.com/atmosgames/SuperSimple2DKit,A simple kit meant to help jump start the creation of your 2D Unity game!,MDEwOlJlcG9zaXRvcnkyNzkzNjkyMDE=
+843,MissionPlanner,2133,1385,C#,https://github.com/ArduPilot/MissionPlanner,Mission Planner Ground Control Station for ArduPilot (c# .net),MDEwOlJlcG9zaXRvcnk4MDE4MTc5
+844,Maui,204,1385,C#,https://github.com/CommunityToolkit/Maui,"The .NET MAUI Community Toolkit is a community-created library that contains .NET MAUI Extensions, Advanced UI/UX Controls, and Behaviors to help make your life as a .NET MAUI developer easier",MDEwOlJlcG9zaXRvcnkzNzMyNzQ4OTE=
+845,AspNetCoreSpa,467,1384,C#,https://github.com/asadsahi/AspNetCoreSpa,Asp.Net 7.0 & Angular 15 SPA Fullstack application with plenty of examples. Live demo: ,MDEwOlJlcG9zaXRvcnk2MDM2NjkyMw==
+846,ambie,116,1382,C#,https://github.com/jenius-apps/ambie,"An app that uses white noise, nature sounds, and focus features to boost your productivity.",MDEwOlJlcG9zaXRvcnkzMDkxOTE0MTg=
+848,LINQKit,155,1380,C#,https://github.com/scottksmith95/LINQKit,LINQKit is a free set of extensions for LINQ to SQL and Entity Framework power users.,MDEwOlJlcG9zaXRvcnk4NDg0MjQ0
+847,GrasscutterCommandGenerator,167,1380,C#,https://github.com/jie65535/GrasscutterCommandGenerator,Command Generator and Gacha Banner Editor,R_kgDOHQ__Xg
+849,ef6,540,1379,C#,https://github.com/dotnet/ef6,This is the codebase for Entity Framework 6 (previously maintained at https://entityframework.codeplex.com). Entity Framework Core is maintained at https://github.com/dotnet/efcore.,MDEwOlJlcG9zaXRvcnkzOTk4NTM4MQ==
+850,cs-script,214,1378,C#,https://github.com/oleg-shilo/cs-script,C# scripting platform,MDEwOlJlcG9zaXRvcnk0OTc2MTIzMw==
+851,Watson,250,1378,C#,https://github.com/rasta-mouse/Watson,Enumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilities,MDEwOlJlcG9zaXRvcnkxNTIxMjU1Mjc=
+852,dotnet-maui-workshop,369,1375,C#,https://github.com/dotnet-presentations/dotnet-maui-workshop,"A full day workshop (.NET MAUI Workshop in a Box) on how to build apps with .NET MAUI for iOS, Android, macOS, and Windows",R_kgDOG7IPag
+853,Dynamo,575,1372,C#,https://github.com/DynamoDS/Dynamo,Open Source Graphical Programming for Design,MDEwOlJlcG9zaXRvcnkzMzk1MTc5
+854,quartzui,391,1371,C#,https://github.com/zhaopeiym/quartzui,基于Quartz.NET3.0的定时任务Web可视化管理。docker打包开箱即用、内置SQLite持久化、语言无关、业务代码零污染、支持 RESTful风格接口、傻瓜式配置,MDEwOlJlcG9zaXRvcnkxMzQxMjg1OTM=
+855,ReClass.NET,292,1370,C#,https://github.com/ReClassNET/ReClass.NET,More than a ReClass port to the .NET platform.,MDEwOlJlcG9zaXRvcnk3MDQ4NjI2MQ==
+856,openai,212,1370,C#,https://github.com/betalgo/openai,"OpenAI ChatGPT, Whisper, GPT-3 , GPT-4, Azure OpenAI and DALL-E dotnet SDK",R_kgDOGcryVw
+857,DownmarkerWPF,467,1369,C#,https://github.com/Code52/DownmarkerWPF,MarkPad - a visual Markdown editor (inspired by the Downmarker project),MDEwOlJlcG9zaXRvcnkzMDY4MzU4
+858,RazorLight,246,1367,C#,https://github.com/toddams/RazorLight,Template engine based on Microsoft's Razor parsing engine for .NET Core,MDEwOlJlcG9zaXRvcnk2Mzk1Njk2Mg==
+859,Vanara,167,1366,C#,https://github.com/dahall/Vanara,A set of .NET libraries for Windows implementing PInvoke calls to many native Windows APIs with supporting wrappers.,MDEwOlJlcG9zaXRvcnkxMTIyMjA3Mzg=
+860,aws-lambda-dotnet,446,1366,C#,https://github.com/aws/aws-lambda-dotnet,"Libraries, samples and tools to help .NET Core developers develop AWS Lambda functions.",MDEwOlJlcG9zaXRvcnk3MzUxMDExOQ==
+862,biliuwp-lite,144,1365,C#,https://github.com/xiaoyaocz/biliuwp-lite,哔哩哔哩UWP Lite,MDEwOlJlcG9zaXRvcnkyODQ0MTMwMDA=
+861,Unity-Programming-Patterns,207,1365,C#,https://github.com/Habrador/Unity-Programming-Patterns,A collection of open source programming patterns in Unity with examples when to use them,MDEwOlJlcG9zaXRvcnkyNzIyMDE5OTE=
+863,roslyn-analyzers,430,1363,C#,https://github.com/dotnet/roslyn-analyzers,,MDEwOlJlcG9zaXRvcnkzNjk0NjcwNA==
+864,AssetStudio,104,1356,C#,https://github.com/RaduMC/AssetStudio,"AssetStudio is an independent tool for exploring, extracting and exporting assets.",MDEwOlJlcG9zaXRvcnk0NTIyNTA5NA==
+865,2d-extras,324,1355,C#,https://github.com/Unity-Technologies/2d-extras,Fun 2D Stuff that we'd like to share!,MDEwOlJlcG9zaXRvcnk5NDUwMTcwOQ==
+866,SEGI,155,1353,C#,https://github.com/sonicether/SEGI,A fully-dynamic voxel-based global illumination system for Unity,MDEwOlJlcG9zaXRvcnkxMDM5OTY1NzY=
+867,Lasp,101,1349,C#,https://github.com/keijiro/Lasp,Low-latency Audio Signal Processing plugin for Unity,MDEwOlJlcG9zaXRvcnk5NzI5NTIwMg==
+868,UnityGameFramework,391,1349,C#,https://github.com/EllanJiang/UnityGameFramework,"This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the development speed and ensures the product quality.",MDEwOlJlcG9zaXRvcnk5NjE4MTk3NQ==
+869,EntityFramework.Extended,403,1343,C#,https://github.com/zzzprojects/EntityFramework.Extended,Add-on feature for Entity Framework,MDEwOlJlcG9zaXRvcnkyNzgwODQy
+870,certify,234,1342,C#,https://github.com/webprofusion/certify,"Professional TLS/SSL Certificate Manager UI for Windows, powered by Let's Encrypt and compatible with all ACME v2 CAs. Download from certifytheweb.com",MDEwOlJlcG9zaXRvcnk1NDgxNjg0NA==
+871,LettuceEncrypt,129,1342,C#,https://github.com/natemcmaster/LettuceEncrypt,"Free, automatic HTTPS certificate generation for ASP.NET Core web apps",MDEwOlJlcG9zaXRvcnkxMjg2MDc2MDA=
+872,Unity3d-Finite-State-Machine,218,1341,C#,https://github.com/thefuntastic/Unity3d-Finite-State-Machine,"An intuitive Unity3d finite state machine (FSM).  Designed with an emphasis on usability, without sacrificing utility.",MDEwOlJlcG9zaXRvcnkzOTA4MjIy
+873,duality,289,1339,C#,https://github.com/AdamsLair/duality,a 2D Game Development Framework,MDEwOlJlcG9zaXRvcnkxMTU2MTgzMw==
+874,embedio,162,1338,C#,https://github.com/unosquare/embedio,"A tiny, cross-platform, module based web server for .NET",MDEwOlJlcG9zaXRvcnkxNzgzNjQ2OQ==
+875,cqrs-journey,458,1338,C#,https://github.com/microsoftarchive/cqrs-journey,Microsoft patterns & pratices CQRS Journey sample application,MDEwOlJlcG9zaXRvcnkzNTc3MDQ1
+877,WGestures,245,1335,C#,https://github.com/yingDev/WGestures,Modern mouse gestures for Windows. (C#),MDEwOlJlcG9zaXRvcnkyNjMyNzMzNg==
+876,Simple.Data,311,1335,C#,https://github.com/markrendle/Simple.Data,"A light-weight, dynamic data access component for C# 4.0",MDEwOlJlcG9zaXRvcnk4MTg3Njg=
+878,ButtFish,33,1334,C#,https://github.com/RonSijm/ButtFish,Effortlessly transmitting Morse Code of chess moves to your butthole 💝,R_kgDOIEl_KQ
+879,eShopOnDapr,416,1331,C#,https://github.com/dotnet-architecture/eShopOnDapr,"A sample .NET Core distributed application based on eShopOnContainers, powered by Dapr.",MDEwOlJlcG9zaXRvcnkyOTAyMjY2NDc=
+880,Specification,196,1328,C#,https://github.com/ardalis/Specification,Base class with tests for adding specifications to a DDD model,MDEwOlJlcG9zaXRvcnkxMjE0MDc5Mjg=
+881,xwt,241,1328,C#,https://github.com/mono/xwt,A cross-platform UI toolkit for creating desktop applications with .NET and Mono,MDEwOlJlcG9zaXRvcnkyNjUwNjIx
+882,Animation-Instancing,269,1328,C#,https://github.com/Unity-Technologies/Animation-Instancing,This technique is designed to instance Characters(SkinnedMeshRender). ,MDEwOlJlcG9zaXRvcnkxMjQ5Nzc2NDY=
+883,coyote,71,1326,C#,https://github.com/microsoft/coyote,Coyote is a library and tool for testing concurrent C# code and deterministically reproducing bugs.,MDEwOlJlcG9zaXRvcnkyMDI0NDk3Nzk=
+884,Neutronium,122,1326,C#,https://github.com/NeutroniumCore/Neutronium,"🚀 Build .NET desktop applications using HTML, CSS and javascript.",MDEwOlJlcG9zaXRvcnkzODk3ODk0MQ==
+885,qmlnet,111,1324,C#,https://github.com/qmlnet/qmlnet,Qml.Net - Qt/QML integration/support for .NET,MDEwOlJlcG9zaXRvcnk5Mjk3NDM2NQ==
+886,CsWin32,67,1321,C#,https://github.com/microsoft/CsWin32,A source generator to add a user-defined set of Win32 P/Invoke methods and supporting types to a C# project.,MDEwOlJlcG9zaXRvcnkzMTc2MzkzODQ=
+890,AggressorScripts,299,1320,C#,https://github.com/harleyQu1nn/AggressorScripts,Collection of Aggressor scripts for Cobalt Strike 3.0+ pulled from multiple sources,MDEwOlJlcG9zaXRvcnk4ODk4MDM3NQ==
+892,NetModular,435,1320,C#,https://github.com/iamoldli/NetModular,NetModular 是基于.Net Core 和 Vue.js 的业务模块化以及前后端分离的快速开发框架,MDEwOlJlcG9zaXRvcnkxNzk0OTY5OTM=
+891,job-system-cookbook,158,1320,C#,https://github.com/stella3d/job-system-cookbook,Examples of using the C# Job System in Unity 2018,MDEwOlJlcG9zaXRvcnkxMTkzMDIxODM=
+893,Windows11Upgrade,118,1320,C#,https://github.com/coofcookie/Windows11Upgrade,Windows 11 Upgrade tool that bypasses Microsoft´s requirements,R_kgDOGLgvKQ
+889,UnityMeshSimplifier,214,1320,C#,https://github.com/Whinarn/UnityMeshSimplifier,Mesh simplification for Unity.,MDEwOlJlcG9zaXRvcnkxMTg3NzExOTI=
+887,Prism-Samples-Wpf,685,1320,C#,https://github.com/PrismLibrary/Prism-Samples-Wpf,Samples that demonstrate how to use various Prism features with WPF,MDEwOlJlcG9zaXRvcnk0MzAyMDA1MQ==
+888,HtmlSanitizer,185,1320,C#,https://github.com/mganss/HtmlSanitizer,Cleans HTML to avoid XSS attacks,MDEwOlJlcG9zaXRvcnkxMDk0MjExNg==
+894,Terraria-Map-Editor,337,1319,C#,https://github.com/TEdit/Terraria-Map-Editor,"TEdit - Terraria Map Editor - TEdit is a stand alone, open source map editor for Terraria. It lets you edit maps just like (almost) paint! It also lets you change world settings (time, bosses downed etc), edit chests and change sign, make epic dungeons, castles, cities, and add rewards for your adventurers!",MDEwOlJlcG9zaXRvcnkxNzkwOTEz
+895,DotNetCorePlugins,198,1318,C#,https://github.com/natemcmaster/DotNetCorePlugins,.NET Core library for dynamically loading code,MDEwOlJlcG9zaXRvcnkxMjY5MjA3MjQ=
+896,BootstrapBlazor,191,1318,C#,https://github.com/dotnetcore/BootstrapBlazor,A set of enterprise-class UI components based on Bootstrap and Blazor,MDEwOlJlcG9zaXRvcnkyNDg3Mjk4NTA=
+897,sharpshell,241,1314,C#,https://github.com/dwmkerr/sharpshell,SharpShell makes it easy to create Windows Shell Extensions using the .NET Framework.,MDEwOlJlcG9zaXRvcnkxMjgxMzgwMw==
+898,fungus,257,1314,C#,https://github.com/snozbot/fungus,An easy to use Unity 3D library for creating illustrated Interactive Fiction games and more.,MDEwOlJlcG9zaXRvcnkxNjg4MzMwNQ==
+900,FluentWPF,108,1313,C#,https://github.com/sourcechord/FluentWPF,Fluent Design System for WPF.,MDEwOlJlcG9zaXRvcnkxMTIyNTQyMTk=
+899,Scut,587,1313,C#,https://github.com/ScutGame/Scut,"Scut is a free, open source, stable game server framework, which support C#/Python/Lua script, and support Unity3d, Cocos2dx, FlashAir client access.",MDEwOlJlcG9zaXRvcnkxMjA1NDQ1NA==
+901,ColorHighlighter,134,1312,C#,https://github.com/Monnoroch/ColorHighlighter,"ColorHighlighter - is a plugin for the Sublime text 2 and 3, which underlays selected hexadecimal colorcodes (like ""#FFFFFF"", ""rgb(255,255,255)"", ""white"", etc.) with their real color. Also, plugin adds color picker to easily modify colors. Documentation: https://monnoroch.github.io/ColorHighlighter.",MDEwOlJlcG9zaXRvcnkzODQ2NDAy
+902,oqtane.framework,396,1309,C#,https://github.com/oqtane/oqtane.framework,Modular Application Framework for Blazor & .NET MAUI,MDEwOlJlcG9zaXRvcnkxODQ5NTU3NDI=
+903,mockhttp,76,1309,C#,https://github.com/richardszalay/mockhttp,Testing layer for Microsoft's HttpClient library. Create canned responses using a fluent API.,MDEwOlJlcG9zaXRvcnkyMTA4NDk3MA==
+904,osu-framework,362,1307,C#,https://github.com/ppy/osu-framework,A game framework written with osu! in mind.,MDEwOlJlcG9zaXRvcnk2NjYxNDUyNA==
+905,MyComputerManager,48,1305,C#,https://github.com/1357310795/MyComputerManager,管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式”,R_kgDOHnCdQA
+906,NRules,276,1302,C#,https://github.com/NRules/NRules,"Rules engine for .NET, based on the Rete matching algorithm, with internal DSL in C#. ",MDEwOlJlcG9zaXRvcnkyNTgzNzkzNw==
+907,InputSystem,282,1302,C#,https://github.com/Unity-Technologies/InputSystem,An efficient and versatile input system for Unity.,MDEwOlJlcG9zaXRvcnkxMDU2MTU0NTQ=
+908,shellprogressbar,126,1299,C#,https://github.com/Mpdreamz/shellprogressbar,ShellProgressBar - display progress in your console application,MDEwOlJlcG9zaXRvcnkxNDM5NDAxMg==
+909,JustDecompileEngine,277,1296,C#,https://github.com/telerik/JustDecompileEngine,The decompilation engine of JustDecompile,MDEwOlJlcG9zaXRvcnkzNDUwMTQ0Ng==
+910,TileIconifier,59,1294,C#,https://github.com/Jonno12345/TileIconifier,Creates tiles for most Windows 8.1 and 10 start menu icons,MDEwOlJlcG9zaXRvcnk1MDcxNjI2Mg==
+911,System.IO.Abstractions,257,1294,C#,https://github.com/TestableIO/System.IO.Abstractions,"Just like System.Web.Abstractions, but for System.IO. Yay for testable IO access!",MDEwOlJlcG9zaXRvcnkzOTI4Njk2
+912,Netling,210,1293,C#,https://github.com/hallatore/Netling,Netling is a load tester client for easy web testing.,MDEwOlJlcG9zaXRvcnkxMDUxMDM3NA==
+913,DSInternals,225,1293,C#,https://github.com/MichaelGrafnetter/DSInternals, Directory Services Internals (DSInternals) PowerShell Module and Framework,MDEwOlJlcG9zaXRvcnk0ODU4MTIwMw==
+914,DncZeus,401,1289,C#,https://github.com/lampo1024/DncZeus,DncZeus 是一个基于.NET 7 + Vue.js(iview-admin) 的前后端分离的通用后台权限(页面访问、操作按钮控制)管理系统框架。后端使用.NET 7 + EF Core构建，UI则是目前流行的基于Vue.js的iView(iview-admin)。项目实现了前后端的动态权限管理和控制以及基于JWT的用户令牌认证机制，让前后端的交互更流畅。码云镜像:https://gitee.com/rector/DncZeus 。演示地址(demo):,MDEwOlJlcG9zaXRvcnkxNjE5MDgxOTc=
+915,CliFx,56,1288,C#,https://github.com/Tyrrrz/CliFx,Class-first framework for building command-line interfaces,MDEwOlJlcG9zaXRvcnkxODk4NjM5ODU=
+916,GlazeWM,40,1288,C#,https://github.com/lars-berger/GlazeWM,A tiling window manager for Windows inspired by i3 and Polybar.,MDEwOlJlcG9zaXRvcnkyNzU1NjEwMTI=
+917,chinook-database,451,1284,C#,https://github.com/lerocha/chinook-database,"Sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2",MDEwOlJlcG9zaXRvcnkyNjA5ODA0NQ==
+918,PowerForensics,276,1282,C#,https://github.com/Invoke-IR/PowerForensics,PowerForensics provides an all in one platform for live disk forensic analysis,MDEwOlJlcG9zaXRvcnkzMTgyMDAxMQ==
+919,SpotifyAPI-NET,290,1278,C#,https://github.com/JohnnyCrazy/SpotifyAPI-NET,":sound: A Client for the Spotify Web API, written in C#/.NET",MDEwOlJlcG9zaXRvcnkxNjMyMzk5MQ==
+920,Snaffler,140,1275,C#,https://github.com/SnaffCon/Snaffler,"a tool for pentesters to help find delicious candy, by @l0ss and @Sh3r4 ( Twitter: @/mikeloss and @/sh3r4_hax )",MDEwOlJlcG9zaXRvcnkyNTEyMjcyMjE=
+921,Unity.Mathematics,150,1274,C#,https://github.com/Unity-Technologies/Unity.Mathematics,The C# math library used in Unity providing vector types and math functions with a shader like syntax,MDEwOlJlcG9zaXRvcnkxMDY2ODc4Mjg=
+922,YourAV,107,1272,C#,https://github.com/Tlaster/YourAV,宇宙级最轻量杀毒软件,MDEwOlJlcG9zaXRvcnk2OTcxMjY1MA==
+923,Minecraft-Console-Client,375,1269,C#,https://github.com/MCCTeam/Minecraft-Console-Client,Lightweight console for Minecraft chat and automated scripts,MDEwOlJlcG9zaXRvcnkxMTQ5NjY4Nw==
+924,Mediator,41,1268,C#,https://github.com/martinothamar/Mediator,A high performance implementation of Mediator pattern in .NET using source generators.,MDEwOlJlcG9zaXRvcnkzNTMzNDk0MDY=
+925,MSBuildStructuredLog,175,1265,C#,https://github.com/KirillOsenkov/MSBuildStructuredLog,"A logger for MSBuild that records a structured representation of executed targets, tasks, property and item values.",MDEwOlJlcG9zaXRvcnk1ODA3MjcwNQ==
+926,Depressurizer,67,1265,C#,https://github.com/Depressurizer/Depressurizer,A Steam library categorizing tool.,MDEwOlJlcG9zaXRvcnkxMTI4NDIyMDg=
+927,KrbRelayUp,169,1264,C#,https://github.com/Dec0ne/KrbRelayUp,KrbRelayUp - a universal no-fix local privilege escalation in windows domain environments where LDAP signing is not enforced (the default settings).,R_kgDOHOq6zw
+928,WebApiThrottle,275,1264,C#,https://github.com/stefanprodan/WebApiThrottle,ASP.NET Web API rate limiter for IIS and Owin hosting,MDEwOlJlcG9zaXRvcnkxNTAxMzc4Mg==
+929,itextsharp,447,1263,C#,https://github.com/itext/itextsharp,"[DEPRECATED] .NET port of the iText library, only security fixes will be added — please use iText 7 for .NET",MDEwOlJlcG9zaXRvcnkxNDg5MzczMw==
+930,ThreeDPoseUnityBarracuda,235,1261,C#,https://github.com/digital-standard/ThreeDPoseUnityBarracuda,Unity sample of 3D pose estimation using Barracuda,MDEwOlJlcG9zaXRvcnkyMzk5MjMzODY=
+931,Ultimate-2D-Controller,304,1261,C#,https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller,"A great starting point for your 2D controller. Making use of all the hidden tricks like coyote, buffered actions, speedy apex, anti grav apex, etc",R_kgDOGpT9oQ
+932,AtomOS,88,1260,C#,https://github.com/amaneureka/AtomOS,A multitasking monolithic Kernel based x86 targeting Operating System written in C# from scratch aiming for high-level implementation of drivers in managed environment.,MDEwOlJlcG9zaXRvcnk1NTk4NjU5MQ==
+933,LevelEditor,230,1260,C#,https://github.com/SonyWWS/LevelEditor,"The ATF LevelEditor is a powerful tool for constructing and assembling game levels. It provides a WYSIWYG interface and allows you to place objects, edit properties, edit terrain, and build game levels.",MDEwOlJlcG9zaXRvcnkyMTE3NzM1OA==
+934,durabletask,248,1260,C#,https://github.com/Azure/durabletask,Durable Task Framework allows users to write long running persistent workflows in C# using the async/await capabilities.,MDEwOlJlcG9zaXRvcnkyNDg5ODUzMw==
+935,LiveSplit,707,1259,C#,https://github.com/LiveSplit/LiveSplit,"A sleek, highly customizable timer for speedrunners.",MDEwOlJlcG9zaXRvcnkyNjU5OTkyMA==
+936,Security,620,1250,C#,https://github.com/aspnet/Security,[Archived] Middleware for security and authorization of web apps. Project moved to https://github.com/aspnet/AspNetCore,MDEwOlJlcG9zaXRvcnkxNzcyMzY5OQ==
+937,efcore.pg,186,1245,C#,https://github.com/npgsql/efcore.pg,Entity Framework Core provider for PostgreSQL,MDEwOlJlcG9zaXRvcnk1NTkwNjc2Mw==
+938,DepotDownloader,182,1245,C#,https://github.com/SteamRE/DepotDownloader,Steam depot downloader utilizing the SteamKit2 library.,MDEwOlJlcG9zaXRvcnkxMTg1MTk1Nw==
+939,Barotrauma,339,1244,C#,https://github.com/Regalis11/Barotrauma,A 2D online multiplayer game taking place in a submarine travelling through the icy depths of Jupiter's moon Europa.,MDEwOlJlcG9zaXRvcnk5MzMwMTA1NQ==
+940,SteamBot,933,1240,C#,https://github.com/Jessecar96/SteamBot,Automated bot software for interacting with Steam Trade,MDEwOlJlcG9zaXRvcnk0OTg2MTQ5
+941,AsyncAwaitBestPractices,130,1239,C#,https://github.com/brminnick/AsyncAwaitBestPractices,Extensions for System.Threading.Tasks.Task and System.Threading.Tasks.ValueTask,MDEwOlJlcG9zaXRvcnkxMTg2NDE2NTE=
+942,MySqlConnector,306,1236,C#,https://github.com/mysql-net/MySqlConnector,Async MySQL Connector for .NET,MDEwOlJlcG9zaXRvcnk1NTE4NTUzMA==
+943,SabreCSG,141,1235,C#,https://github.com/sabresaurus/SabreCSG,Level design tools for Unity,MDEwOlJlcG9zaXRvcnk3MDkyMDAwNw==
+944,stripe-dotnet,560,1234,C#,https://github.com/stripe/stripe-dotnet,"Stripe.net is a sync/async .NET 4.6.1+ client, and a portable class library for stripe.com.",MDEwOlJlcG9zaXRvcnkyNjUxNjM0
+945,bc-csharp,469,1234,C#,https://github.com/bcgit/bc-csharp,BouncyCastle.NET Cryptography Library (Mirror),MDEwOlJlcG9zaXRvcnkxMDkzNDYwOA==
+946,HttpReports,232,1234,C#,https://github.com/dotnetcore/HttpReports,HttpReports is an APM (application performance monitor) system for .Net Core. ,MDEwOlJlcG9zaXRvcnkyMjU3ODk2NjE=
+947,openbullet,683,1230,C#,https://github.com/openbullet/openbullet,The OpenBullet web testing application.,MDEwOlJlcG9zaXRvcnkxNzc3NTE3MTg=
+948,wumgr,144,1230,C#,https://github.com/DavidXanatos/wumgr,Windows update managemetn tool for windows 10,MDEwOlJlcG9zaXRvcnkxNDQ0NjA4NjA=
+949,codeformatter,258,1230,C#,https://github.com/dotnet/codeformatter,Tool that uses Roslyn to automatically rewrite the source to follow our coding styles,MDEwOlJlcG9zaXRvcnkyODg5NjQ4Nw==
+950,awesome-xamarin-forms,224,1229,C#,https://github.com/jsuarezruiz/awesome-xamarin-forms,A curated list of awesome Xamarin.Forms libraries and resources,MDEwOlJlcG9zaXRvcnk4MDM1Nzc0Mw==
+951,DOTS-training-samples,310,1229,C#,https://github.com/Unity-Technologies/DOTS-training-samples,Samples designed as exercises to be ported from Unity GameObjects/MonoBehaviours to Unity DOTS. ,MDEwOlJlcG9zaXRvcnkxODgzMDg0MDY=
+952,LockstepFramework,328,1226,C#,https://github.com/SnpM/LockstepFramework,"Framework for lockstep RTS, TD, and MOBA games.",MDEwOlJlcG9zaXRvcnkzOTEyMDg4MA==
+953,PDFsharp,585,1226,C#,https://github.com/empira/PDFsharp,A .NET library for processing PDF,MDEwOlJlcG9zaXRvcnk0ODA5ODExNA==
+954,fluentui-blazor,113,1223,C#,https://github.com/microsoft/fluentui-blazor,Microsoft Fluent UI Blazor component library. For use with .NET 6.0 or higher Blazor applications,MDEwOlJlcG9zaXRvcnkzNDgxMzIxMzM=
+956,UnityRuntimeInspector,108,1222,C#,https://github.com/yasirkula/UnityRuntimeInspector,Runtime Inspector and Hierarchy solution for Unity for debugging and runtime editing purposes,MDEwOlJlcG9zaXRvcnkxMDc3ODQ2NDk=
+955,ServiceStack.Text,643,1222,C#,https://github.com/ServiceStack/ServiceStack.Text,".NET's fastest JSON, JSV and CSV Text Serializers ",MDEwOlJlcG9zaXRvcnkxMzQwMDY1
+957,Internal-Monologue,239,1220,C#,https://github.com/eladshamir/Internal-Monologue,Internal Monologue Attack: Retrieving NTLM Hashes without Touching LSASS,MDEwOlJlcG9zaXRvcnkxMTM2NDYxODA=
+958,LightShafts,159,1218,C#,https://github.com/robcupisz/LightShafts,A light shafts (volumetric shadows) effect for Unity.,MDEwOlJlcG9zaXRvcnkxNTc2ODE5Mg==
+959,Seal-Report,431,1215,C#,https://github.com/ariacom/Seal-Report,Open Database Reporting Tool (.Net),MDEwOlJlcG9zaXRvcnk0MDU0OTM2OQ==
+960,Trill,133,1213,C#,https://github.com/microsoft/Trill,Trill is a single-node query processor for temporal or streaming data.,MDEwOlJlcG9zaXRvcnkxNTA0NzQzNzk=
+961,unity-voxel,131,1211,C#,https://github.com/mattatz/unity-voxel,Mesh voxelization for Unity.,MDEwOlJlcG9zaXRvcnk3MDIxMzI5NQ==
+962,LottieXamarin,254,1211,C#,https://github.com/Baseflow/LottieXamarin,"Render After Effects animations natively on Android, iOS, MacOS and TvOS for Xamarin",MDEwOlJlcG9zaXRvcnk4MDc0MDU0Mg==
+963,NetCoreBackend,191,1210,C#,https://github.com/engindemirog/NetCoreBackend,,MDEwOlJlcG9zaXRvcnkyNTY3ODk3MDI=
+964,cloudscribe,262,1209,C#,https://github.com/cloudscribe/cloudscribe,"ASP.NET Core multi-tenant web application foundation with management for sites, users, roles, claims and more ",MDEwOlJlcG9zaXRvcnkyNDIzMzkzNA==
+965,moonsharp,194,1208,C#,https://github.com/moonsharp-devs/moonsharp,"An interpreter for the Lua language, written entirely in C# for the .NET, Mono, Xamarin and Unity3D platforms, including handy remote debugger facilities.",MDEwOlJlcG9zaXRvcnkyMDEzOTA1NQ==
+966,voat,287,1203,C#,https://github.com/voat/voat,The code that powers Voat,MDEwOlJlcG9zaXRvcnkxODY0Mjk2OQ==
+967,Squalr,157,1202,C#,https://github.com/Squalr/Squalr,Squalr Memory Editor - Game Hacking Tool Written in C#,MDEwOlJlcG9zaXRvcnkzODUxNDg5Ng==
+969,SMAPI,231,1201,C#,https://github.com/Pathoschild/SMAPI,The modding API for Stardew Valley.,MDEwOlJlcG9zaXRvcnk1Mjk2NzgyMQ==
+970,Colorful.Console,116,1201,C#,https://github.com/tomakita/Colorful.Console,Style your .NET console output!,MDEwOlJlcG9zaXRvcnk0NjI0NzU0NQ==
+968,UnityNativeScripting,131,1201,C#,https://github.com/jacksondunstan/UnityNativeScripting,Unity Scripting in C++,MDEwOlJlcG9zaXRvcnk5OTQ1MDM5Mg==
+971,unitychan-crs,383,1199,C#,https://github.com/unity3d-jp/unitychan-crs,"Unity-Chan ""Candy Rock Star"" Live Demo",MDEwOlJlcG9zaXRvcnkyNTYxNzg0MQ==
+972,SweetPotato,184,1198,C#,https://github.com/CCob/SweetPotato,Local Service to SYSTEM privilege escalation from Windows 7 to Windows 10 / Server 2019,MDEwOlJlcG9zaXRvcnkyNTUxMzY3MDQ=
+973,mixbox,78,1198,C#,https://github.com/scrtwpns/mixbox,Mixbox is a library for natural color mixing based on real pigments.,MDEwOlJlcG9zaXRvcnk0MDQ4MDQzNzM=
+974,itext7-dotnet,266,1198,C#,https://github.com/itext/itext7-dotnet,"iText for .NET is the .NET version of the iText library, formerly known as iTextSharp, which it replaces. iText represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabilities and the ability to create, edit and enha",MDEwOlJlcG9zaXRvcnk2MTMwMTA4NQ==
+975,noPac,306,1196,C#,https://github.com/cube0x0/noPac,CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter.,R_kgDOGhG-sQ
+976,litjson,381,1196,C#,https://github.com/LitJSON/litjson,JSON library for the .Net framework,MDEwOlJlcG9zaXRvcnk5MjQ2MjA1
+977,ACMESharp,186,1195,C#,https://github.com/ebekker/ACMESharp,An ACME client library and PowerShell client for the .NET platform (Let's Encrypt),MDEwOlJlcG9zaXRvcnk0MDY1NDk2Nw==
+978,YaVipCore,276,1191,C#,https://github.com/AnyListen/YaVipCore,Net Core Music Interface,MDEwOlJlcG9zaXRvcnkxMjcyNzk5OTY=
+979,UnityAssetUsageDetector,100,1191,C#,https://github.com/yasirkula/UnityAssetUsageDetector,"Find usages of the selected asset(s) and/or Object(s) in your Unity project, i.e. list the objects that refer to them",MDEwOlJlcG9zaXRvcnk2MDEwMTA0NQ==
+980,Blog,263,1190,C#,https://github.com/Meowv/Blog,"🤣本项目有不同开发版本，最新版底层基于 abp vNext 搭建和免费开源跨平台框架 .NET5 进行开发，使用 MongoDB 存储数据，Redis 缓存数据。项目采用前后端分离的模式进行开发，API 遵循 RESTful 接口规范，页面使用 Blazor 进行开发，可作为 .NET Core 入门项目进行学习。If you liked `Blog` project or if it helped you, please give a star ⭐️ for this repository. 👍👍👍",MDEwOlJlcG9zaXRvcnk5NzY4MTMyMw==
+981,Colder.Admin.AntdVue,381,1190,C#,https://github.com/Coldairarrow/Colder.Admin.AntdVue,Admin Fx Based On .NET 5 + Ant Design Vue,MDEwOlJlcG9zaXRvcnkyMTg0ODQ3MDQ=
+982,TcNo-Acc-Switcher,105,1189,C#,https://github.com/TCNOco/TcNo-Acc-Switcher,"A Super-fast account switcher for Steam, Battle.net, Epic Games, Origin, Riot, Ubisoft and many others!",MDEwOlJlcG9zaXRvcnkyMTkxNzI5NTA=
+984,AuthenticatorPro,134,1188,C#,https://github.com/jamie-mh/AuthenticatorPro,📱 Two-Factor Authentication (2FA) client for Android + Wear OS,MDEwOlJlcG9zaXRvcnkxNDQ3NzE0ODk=
+985,Materialize,190,1188,C#,https://github.com/BoundingBoxSoftware/Materialize,Materialize is a program for converting images to materials for use in video games and whatnot,MDEwOlJlcG9zaXRvcnkxNTQ0MjY2MDc=
+983,RaceControl,92,1188,C#,https://github.com/robvdpol/RaceControl,"Race Control is a standalone, open source F1TV client for Windows, written in C# on the .NET platform.",MDEwOlJlcG9zaXRvcnkyODMxNjgzMDY=
+986,XMusicDownloader,195,1187,C#,https://github.com/jadepeng/XMusicDownloader,一款 支持从百度、网易、qq、酷狗、咪咕等音乐网站搜索并下载歌曲的程序，支持下载无损音乐,MDEwOlJlcG9zaXRvcnkxNjc1NjgzNzc=
+987,shiny,197,1186,C#,https://github.com/shinyorg/shiny,A Xamarin Framework for Backgrounding & Device Hardware Services,MDEwOlJlcG9zaXRvcnkxNzczNDY0Nzc=
+988,Slime-Simulation,200,1186,C#,https://github.com/SebLague/Slime-Simulation,,MDEwOlJlcG9zaXRvcnkzNTExMDk1MTg=
+989,AngularJSAuthentication,776,1184,C#,https://github.com/tjoudeh/AngularJSAuthentication,Tutorial shows Authentication in AngularJS with ASP.NET Web API 2 and Owin Middle-ware using access tokens and refresh tokens approach,MDEwOlJlcG9zaXRvcnkyMDMyODg0MA==
+990,com.unity.multiplayer.samples.coop,365,1183,C#,https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop,"A small-scale cooperative game sample built on the new, Unity networking framework to teach developers about creating a similar multiplayer game.",MDEwOlJlcG9zaXRvcnkzMDc4NDgxNDE=
+991,CleanArchitecture.WebApi,295,1181,C#,https://github.com/iammukeshm/CleanArchitecture.WebApi,An implementation of Clean Architecture for ASP.NET Core 3.1 WebAPI. Built with loosely coupled architecture and clean-code practices in mind.,MDEwOlJlcG9zaXRvcnkyNzQxNzUzMjQ=
+992,AspLabs,348,1181,C#,https://github.com/aspnet/AspLabs,Repo for ASP.NET experiments that are not ready for a production release,MDEwOlJlcG9zaXRvcnk3MDUyODUwOQ==
+993,repkg,169,1180,C#,https://github.com/notscuffed/repkg,Wallpaper engine PKG extractor/TEX to image converter,MDEwOlJlcG9zaXRvcnkxNzAwMzc4MzY=
+994,scallion,173,1179,C#,https://github.com/lachesis/scallion,GPU-based Onion Hash generator,MDEwOlJlcG9zaXRvcnk2MDcwNjcz
+995,1Remote,193,1178,C#,https://github.com/1Remote/1Remote,Web is still WIP,MDEwOlJlcG9zaXRvcnkyNDcxOTgxMzY=
+996,Wireboy.Socket.P2PSocket,382,1177,C#,https://github.com/hemaju/Wireboy.Socket.P2PSocket,P2P内网穿透，实现【公司】-【家】远程控制,MDEwOlJlcG9zaXRvcnkxNzEyMzM5NzE=
+997,google-api-dotnet-client,544,1177,C#,https://github.com/googleapis/google-api-dotnet-client,Google APIs Client Library for .NET,MDEwOlJlcG9zaXRvcnkzMzk0NzkwMA==
+998,FamiStudio,74,1176,C#,https://github.com/BleuBleu/FamiStudio,FamiStudio NES Music Editor,MDEwOlJlcG9zaXRvcnkxOTk3OTA3ODM=
+999,libvlcsharp,228,1175,C#,https://github.com/videolan/libvlcsharp,Cross-platform .NET/Mono bindings for LibVLC,MDEwOlJlcG9zaXRvcnkxMzYxNzU0NzQ=
+1000,NumSharp,177,1173,C#,https://github.com/SciSharp/NumSharp,"High Performance Computation for N-D Tensors in .NET, similar API to NumPy.",MDEwOlJlcG9zaXRvcnkxNTIzMzc4MDA=

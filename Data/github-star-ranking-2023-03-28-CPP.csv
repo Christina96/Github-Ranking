@@ -1,0 +1,1001 @@
+rank,repo_name,forks,stars,language,repo_url,description,id
+1,tensorflow,88007,172512,C++,https://github.com/tensorflow/tensorflow,An Open Source Machine Learning Framework for Everyone,MDEwOlJlcG9zaXRvcnk0NTcxNzI1MA==
+2,electron,14471,106511,C++,https://github.com/electron/electron,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",MDEwOlJlcG9zaXRvcnk5Mzg0MjY3
+3,terminal,7710,88152,C++,https://github.com/microsoft/terminal,"The new Windows Terminal and the original Windows console host, all in the same place!",MDEwOlJlcG9zaXRvcnkxMDAwNjA5MTI=
+4,bitcoin,33981,68795,C++,https://github.com/bitcoin/bitcoin,Bitcoin Core integration/staging tree,MDEwOlJlcG9zaXRvcnkxMTgxOTI3
+5,opencv,54615,67554,C++,https://github.com/opencv/opencv,Open Source Computer Vision Library,MDEwOlJlcG9zaXRvcnk1MTA4MDUx
+6,pytorch,17815,64462,C++,https://github.com/pytorch/pytorch,Tensors and Dynamic neural networks in Python with strong GPU acceleration,MDEwOlJlcG9zaXRvcnk2NTYwMDk3NQ==
+7,swift,10010,62151,C++,https://github.com/apple/swift,The Swift Programming Language,MDEwOlJlcG9zaXRvcnk0NDgzODk0OQ==
+8,godot,10327,59773,C++,https://github.com/godotengine/godot,Godot Engine – Multi-platform 2D and 3D game engine,MDEwOlJlcG9zaXRvcnkxNTYzNDk4MQ==
+9,protobuf,14883,58722,C++,https://github.com/protocolbuffers/protobuf,Protocol Buffers - Google's data interchange format,MDEwOlJlcG9zaXRvcnkyMzM1NzU4OA==
+10,tesseract,8447,49938,C++,https://github.com/tesseract-ocr/tesseract,Tesseract Open Source OCR Engine (main repository),MDEwOlJlcG9zaXRvcnkyMjg4NzA5NA==
+11,imgui,8203,46305,C++,https://github.com/ocornut/imgui,Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies,MDEwOlJlcG9zaXRvcnkyMjA2NzUyMQ==
+12,x64dbg,2088,40224,C++,https://github.com/x64dbg/x64dbg,An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.,MDEwOlJlcG9zaXRvcnkzMzc5MTc0Mw==
+13,grpc,9843,37425,C++,https://github.com/grpc/grpc,"The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",MDEwOlJlcG9zaXRvcnkyNzcyOTg4MA==
+14,json,5919,34253,C++,https://github.com/nlohmann/json,JSON for Modern C++,MDEwOlJlcG9zaXRvcnkxMTE3MTU0OA==
+15,Magisk,8969,33408,C++,https://github.com/topjohnwu/Magisk,The Magic Mask for Android,MDEwOlJlcG9zaXRvcnk2NzcwMjE4NA==
+16,caffe,18975,33202,C++,https://github.com/BVLC/caffe,Caffe: a fast open framework for deep learning.,MDEwOlJlcG9zaXRvcnkxMjc5MTY0Mg==
+17,leveldb,7203,32240,C++,https://github.com/google/leveldb,LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.,MDEwOlJlcG9zaXRvcnkyMzQwNTc1OA==
+18,carbon-lang,1318,30067,C++,https://github.com/carbon-language/carbon-lang,"Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)",MDEwOlJlcG9zaXRvcnkyNTk0NjM2ODU=
+19,aria2,3235,29769,C++,https://github.com/aria2/aria2,"aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",MDEwOlJlcG9zaXRvcnkxMTE2NTQy
+20,googletest,9194,29310,C++,https://github.com/google/googletest,GoogleTest - Google Testing and Mocking Framework,MDEwOlJlcG9zaXRvcnkzOTg0MDkzMg==
+21,phantomjs,5851,29210,C++,https://github.com/ariya/phantomjs,Scriptable Headless Browser,MDEwOlJlcG9zaXRvcnkxMjAwMDUw
+22,CPlusPlusThings,6978,28691,C++,https://github.com/Light-City/CPlusPlusThings,C++那些事,MDEwOlJlcG9zaXRvcnkxOTY4MTM3NTA=
+23,interview,7268,28232,C++,https://github.com/huihut/interview,"📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.",MDEwOlJlcG9zaXRvcnkxMjA4ODc4MzU=
+24,ClickHouse,5549,27750,C++,https://github.com/ClickHouse/ClickHouse,ClickHouse® is a free analytics DBMS for big data,MDEwOlJlcG9zaXRvcnk2MDI0NjM1OQ==
+25,calculator,4877,26877,C++,https://github.com/microsoft/calculator,Windows Calculator: A simple yet powerful calculator that ships with Windows,MDEwOlJlcG9zaXRvcnkxNjgwMDg3OTc=
+26,openpose,7523,26517,C++,https://github.com/CMU-Perceptual-Computing-Lab/openpose,"OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",MDEwOlJlcG9zaXRvcnk4OTI0NzgxMQ==
+27,ImHex,1187,26474,C++,https://github.com/WerWolv/ImHex,"🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",MDEwOlJlcG9zaXRvcnkzMTE2ODMzOTA=
+28,TrafficMonitor,2703,26280,C++,https://github.com/zhongyang219/TrafficMonitor,这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。,MDEwOlJlcG9zaXRvcnk5ODc3MTExMA==
+29,rethinkdb,1880,25990,C++,https://github.com/rethinkdb/rethinkdb,The open-source database for the realtime web.,MDEwOlJlcG9zaXRvcnk2NDUyNTI5
+30,folly,5083,24885,C++,https://github.com/facebook/folly,An open-source C++ library developed and used at Facebook.,MDEwOlJlcG9zaXRvcnk0NTI0MTgx
+31,rocksdb,5667,24834,C++,https://github.com/facebook/rocksdb,"A library that provides an embeddable, persistent key-value store for fast storage.",MDEwOlJlcG9zaXRvcnk2OTM0Mzk1
+32,cmder,2019,24609,C++,https://github.com/cmderdev/cmder,Lovely console emulator package for Windows,MDEwOlJlcG9zaXRvcnkxMTI3NjE0Nw==
+33,yuzu,2042,24443,C++,https://github.com/yuzu-emu/yuzu,Nintendo Switch Emulator,MDEwOlJlcG9zaXRvcnkxMTYxNjc3MzE=
+34,serenity,2612,24254,C++,https://github.com/SerenityOS/serenity,The Serenity Operating System 🐞,MDEwOlJlcG9zaXRvcnkxNjAwODM3OTU=
+35,xgboost,8558,23904,C++,https://github.com/dmlc/xgboost,"Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",MDEwOlJlcG9zaXRvcnkxNjU4NzI4Mw==
+36,C-Plus-Plus,6192,23738,C++,https://github.com/TheAlgorithms/C-Plus-Plus,"Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",MDEwOlJlcG9zaXRvcnk2MzQ3NzYxMg==
+37,mongo,5483,23447,C++,https://github.com/mongodb/mongo,The MongoDB Database,MDEwOlJlcG9zaXRvcnkxMDgxMTA=
+38,taichi,2172,22752,C++,https://github.com/taichi-dev/taichi,Productive & portable high-performance programming in Python.,MDEwOlJlcG9zaXRvcnk3NDY2MDY0Mg==
+39,apollo,9084,22485,C++,https://github.com/ApolloAuto/apollo,An open autonomous driving platform,MDEwOlJlcG9zaXRvcnk5NjI0NjE3MA==
+40,envoy,4188,21674,C++,https://github.com/envoyproxy/envoy,Cloud-native high-performance edge/middle/service proxy,MDEwOlJlcG9zaXRvcnk2NTIxNDE5MQ==
+41,RedisDesktopManager,3245,21668,C++,https://github.com/RedisInsight/RedisDesktopManager,:wrench: Cross-platform Developer GUI for Redis,MDEwOlJlcG9zaXRvcnkxMTg5Mjk0Ng==
+42,DeepSpeech,3683,21456,C++,https://github.com/mozilla/DeepSpeech,"DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.",MDEwOlJlcG9zaXRvcnk2MDI3MzcwNA==
+43,tdesktop,4425,21419,C++,https://github.com/telegramdesktop/tdesktop,Telegram Desktop messaging app,MDEwOlJlcG9zaXRvcnkxOTM3NDgxMg==
+44,fish-shell,1697,21232,C++,https://github.com/fish-shell/fish-shell,The user-friendly command line shell.,MDEwOlJlcG9zaXRvcnk0Mjc5Njgy
+45,srs,4909,21122,C++,https://github.com/ossrs/srs,"SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH and GB28181.",MDEwOlJlcG9zaXRvcnkzNDc3NzU2Mg==
+46,mediapipe,4412,21076,C++,https://github.com/google/mediapipe,"Cross-platform, customizable ML solutions for live and streaming media.",MDEwOlJlcG9zaXRvcnkxOTE4MjAxMDA=
+47,v8,3809,20963,C++,https://github.com/v8/v8,The official mirror of the V8 Git repository,MDEwOlJlcG9zaXRvcnkyNDQyMDUwNg==
+48,aseprite,1966,20807,C++,https://github.com/aseprite/aseprite,"Animated sprite editor & pixel art tool (Windows, macOS, Linux)",MDEwOlJlcG9zaXRvcnkyMzEyOTQ1OA==
+49,flameshot,1293,20529,C++,https://github.com/flameshot-org/flameshot,Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:,MDEwOlJlcG9zaXRvcnk5MDkwMjEzMg==
+50,modern-cpp-tutorial,2725,20372,C++,https://github.com/changkun/modern-cpp-tutorial,📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/,MDEwOlJlcG9zaXRvcnk2NjA4ODk3OQ==
+51,mxnet,6870,20338,C++,https://github.com/apache/mxnet,"Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more",MDEwOlJlcG9zaXRvcnkzNDg2NDQwMg==
+52,osquery,2404,20153,C++,https://github.com/osquery/osquery,"SQL powered operating system instrumentation, monitoring, and analytics.",MDEwOlJlcG9zaXRvcnkyMjM5NDM1Nw==
+53,flatbuffers,3042,20101,C++,https://github.com/google/flatbuffers,FlatBuffers: Memory Efficient Serialization Library,MDEwOlJlcG9zaXRvcnkxOTk1MzA0NA==
+54,faiss,2845,19964,C++,https://github.com/facebookresearch/faiss,A library for efficient similarity search and clustering of dense vectors.,MDEwOlJlcG9zaXRvcnk4MTIyNzAwNQ==
+55,Paddle,5063,19914,C++,https://github.com/PaddlePaddle/Paddle,PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）,MDEwOlJlcG9zaXRvcnk2NTcxMTUyMg==
+56,solidity,4975,19782,C++,https://github.com/ethereum/solidity,"Solidity, the Smart Contract Programming Language",MDEwOlJlcG9zaXRvcnk0MDg5MjgxNw==
+57,Proton,885,19760,C++,https://github.com/ValveSoftware/Proton,Compatibility tool for Steam Play based on Wine and additional components,MDEwOlJlcG9zaXRvcnkxMjUwOTg4ODA=
+58,winget-cli,1225,19741,C++,https://github.com/microsoft/winget-cli,Windows Package Manager CLI (aka winget),MDEwOlJlcG9zaXRvcnkxOTcyNzUxMzA=
+59,qBittorrent,3297,19616,C++,https://github.com/qbittorrent/qBittorrent,qBittorrent BitTorrent client,MDEwOlJlcG9zaXRvcnkzMzUxODcx
+60,notepad-plus-plus,4060,18921,C++,https://github.com/notepad-plus-plus/notepad-plus-plus,Notepad++ official repository,MDEwOlJlcG9zaXRvcnkzMzAxNDgxMQ==
+61,dragonfly,610,18142,C++,https://github.com/dragonflydb/dragonfly,A modern replacement for Redis and Memcached,R_kgDOGg_XLQ
+62,weex,2171,18080,C++,https://github.com/alibaba/weex,A framework for building Mobile cross-platform UI,MDEwOlJlcG9zaXRvcnk1MzY1ODgwMg==
+63,sqlitebrowser,1958,17862,C++,https://github.com/sqlitebrowser/sqlitebrowser,"Official home of the DB Browser for SQLite (DB4S) project. Previously known as ""SQLite Database Browser"" and ""Database Browser for SQLite"". Website at: ",MDEwOlJlcG9zaXRvcnkxOTQxNjU1MQ==
+64,swoole-src,3198,17772,C++,https://github.com/swoole/swoole-src,🚀 Coroutine-based concurrency library for PHP,MDEwOlJlcG9zaXRvcnk1MTMzOTQ5
+65,hhvm,3048,17613,C++,https://github.com/facebook/hhvm,A virtual machine for executing programs written in Hack.,MDEwOlJlcG9zaXRvcnk0NTU2MDA=
+66,trojan,2912,17420,C++,https://github.com/trojan-gfw/trojan,An unidentifiable mechanism that helps you bypass GFW.,MDEwOlJlcG9zaXRvcnkxMDc3OTQ3ODI=
+67,spdlog,3652,17369,C++,https://github.com/gabime/spdlog,Fast C++ logging library.,MDEwOlJlcG9zaXRvcnkyNjAzODY0OA==
+68,CNTK,4381,17337,C++,https://github.com/microsoft/CNTK,"Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit",MDEwOlJlcG9zaXRvcnk0NjkxODExNg==
+69,cocos2d-x,7068,16978,C++,https://github.com/cocos2d/cocos2d-x,"Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.",MDEwOlJlcG9zaXRvcnkxMDkzMjI4
+70,ncnn,3781,16750,C++,https://github.com/Tencent/ncnn,ncnn is a high-performance neural network inference framework optimized for the mobile platform,MDEwOlJlcG9zaXRvcnk5NTg3OTQyNg==
+71,leetcode,4828,16722,C++,https://github.com/haoel/leetcode,LeetCode Problems' Solutions ,MDEwOlJlcG9zaXRvcnkyNTQ0OTA2NA==
+72,simdjson,905,16720,C++,https://github.com/simdjson/simdjson,Parsing gigabytes of JSON per second ,MDEwOlJlcG9zaXRvcnkxMjY0MTIzNjM=
+73,mars,3554,16709,C++,https://github.com/Tencent/mars,Mars is a cross-platform network component  developed by WeChat.,MDEwOlJlcG9zaXRvcnk3NjIyMjQxOQ==
+74,CnC_Remastered_Collection,4324,16465,C++,https://github.com/electronicarts/CnC_Remastered_Collection,,MDEwOlJlcG9zaXRvcnkyNTEzODM1NTM=
+75,tinyrenderer,1624,16460,C++,https://github.com/ssloy/tinyrenderer,A brief computer graphics / rendering course,MDEwOlJlcG9zaXRvcnkyOTM5NzU5NA==
+76,fmt,1993,16433,C++,https://github.com/fmtlib/fmt,A modern formatting library,MDEwOlJlcG9zaXRvcnk3MDU2MjAy
+77,Catch2,2820,16407,C++,https://github.com/catchorg/Catch2,"A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",MDEwOlJlcG9zaXRvcnkxMDYyNTcy
+78,Karabiner-Elements,816,16195,C++,https://github.com/pqrs-org/Karabiner-Elements,Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.,MDEwOlJlcG9zaXRvcnk2MzAzNzgwNg==
+79,yoga,1369,16021,C++,https://github.com/facebook/yoga,Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.,MDEwOlJlcG9zaXRvcnkxODUwMzcyMQ==
+80,MMKV,1739,15634,C++,https://github.com/Tencent/MMKV,"An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.",MDEwOlJlcG9zaXRvcnkxNDkxMTE4MTM=
+81,xbmc,6119,15548,C++,https://github.com/xbmc/xbmc,"Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.",MDEwOlJlcG9zaXRvcnkxMjE3NjE0
+82,filament,1611,15486,C++,https://github.com/google/filament,"Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",MDEwOlJlcG9zaXRvcnkxNDM0NTUxMTY=
+83,keepassxc,1194,15331,C++,https://github.com/keepassxreboot/keepassxc,KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.,MDEwOlJlcG9zaXRvcnk1MjcyOTI0Mg==
+84,react-native-windows,1116,15303,C++,https://github.com/microsoft/react-native-windows,A framework for building native Windows apps with React.,MDEwOlJlcG9zaXRvcnk0ODAwOTIxNA==
+85,uWebSockets,1674,15267,C++,https://github.com/uNetworking/uWebSockets,"Simple, secure & standards compliant web server for the most demanding of applications",MDEwOlJlcG9zaXRvcnk1NDM2MDMwNw==
+86,Qv2ray,3134,15171,C++,https://github.com/Qv2ray/Qv2ray,:star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:,MDEwOlJlcG9zaXRvcnkxOTIwMjUwMDE=
+87,Arduino,13239,14863,C++,https://github.com/esp8266/Arduino,ESP8266 core for Arduino,MDEwOlJlcG9zaXRvcnkzMjk2OTIyMA==
+88,libphonenumber,1951,14822,C++,https://github.com/google/libphonenumber,"Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.",MDEwOlJlcG9zaXRvcnkyNzUwMDI0Mw==
+89,3d-game-shaders-for-beginners,1174,14802,C++,https://github.com/lettier/3d-game-shaders-for-beginners,"🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.",MDEwOlJlcG9zaXRvcnkxODYzMDkyOTY=
+90,LightGBM,3695,14785,C++,https://github.com/microsoft/LightGBM,"A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.",MDEwOlJlcG9zaXRvcnk2NDk5MTg4Nw==
+91,brpc,3654,14711,C++,https://github.com/apache/brpc,"brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. ""brpc"" means ""better RPC"".",MDEwOlJlcG9zaXRvcnkxMDIzNDM3OTQ=
+92,Marlin,18080,14627,C++,https://github.com/MarlinFirmware/Marlin,Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.,MDEwOlJlcG9zaXRvcnkyMjAwODU2
+93,dogecoin,2659,14243,C++,https://github.com/dogecoin/dogecoin,very currency,MDEwOlJlcG9zaXRvcnkxNDk4MTM3Ng==
+94,AirSim,4053,14119,C++,https://github.com/microsoft/AirSim,"Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research",MDEwOlJlcG9zaXRvcnk4MTg4Nzk5MQ==
+95,incubator-weex,1850,13861,C++,https://github.com/apache/incubator-weex,Apache Weex (Incubating),MDEwOlJlcG9zaXRvcnk3ODE4NjgxNA==
+96,FreeCAD,3152,13584,C++,https://github.com/FreeCAD/FreeCAD,"This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",MDEwOlJlcG9zaXRvcnk1NzM2MDgw
+97,USTC-Course,3453,13421,C++,https://github.com/USTC-Resource/USTC-Course,:heart:中国科学技术大学课程资源,MDEwOlJlcG9zaXRvcnkxNjQ3ODI4Mjg=
+98,Sourcetrail,1174,13343,C++,https://github.com/CoatiSoftware/Sourcetrail,Sourcetrail - free and open-source interactive source explorer,MDEwOlJlcG9zaXRvcnk0NzY5MDE0Mg==
+99,cosmos,3627,13314,C++,https://github.com/OpenGenus/cosmos,"World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project",MDEwOlJlcG9zaXRvcnkxMDM3NDkxODA=
+100,BackgroundMusic,618,13312,C++,https://github.com/kyleneideck/BackgroundMusic,"Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.",MDEwOlJlcG9zaXRvcnk1MjQyMjU4Mw==
+101,wkhtmltopdf,1683,13103,C++,https://github.com/wkhtmltopdf/wkhtmltopdf,Convert HTML to PDF using Webkit (QtWebKit),MDEwOlJlcG9zaXRvcnkyNzE3MTQ=
+102,arangodb,808,12872,C++,https://github.com/arangodb/arangodb,"🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.",MDEwOlJlcG9zaXRvcnkyNjQ5MjE0
+103,rapidjson,3360,12867,C++,https://github.com/Tencent/rapidjson,A fast JSON parser/generator for C++ with both SAX/DOM style API,MDEwOlJlcG9zaXRvcnkxNzM5MTk3Mw==
+104,muduo,4919,12822,C++,https://github.com/chenshuo/muduo,Event-driven network library for multi-threaded Linux server in C++11,MDEwOlJlcG9zaXRvcnk2NDgzNDM=
+105,bgfx,1785,12811,C++,https://github.com/bkaradzic/bgfx,"Cross-platform, graphics API agnostic, ""Bring Your Own Engine/Framework"" style rendering library.",MDEwOlJlcG9zaXRvcnkzOTI1MjQy
+106,cutter,1013,12809,C++,https://github.com/rizinorg/cutter,Free and Open Source Reverse Engineering Platform powered by rizin,MDEwOlJlcG9zaXRvcnkxMDQ3MzI0Mzg=
+107,guetzli,1020,12799,C++,https://github.com/google/guetzli,Perceptual JPEG encoder,MDEwOlJlcG9zaXRvcnk3MTU3NjQ1MA==
+108,typesense,376,12737,C++,https://github.com/typesense/typesense,"Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences",MDEwOlJlcG9zaXRvcnk3OTMxNzE5MQ==
+109,smartknob,753,12482,C++,https://github.com/scottbez1/smartknob,Haptic input knob with software-defined endstops and virtual detents,R_kgDOGRGMqQ
+110,pybind11,1796,12432,C++,https://github.com/pybind/pybind11,Seamless operability between C++11 and Python,MDEwOlJlcG9zaXRvcnkzODU4MTYyNg==
+111,rpcs3,1735,12401,C++,https://github.com/RPCS3/rpcs3,PS3 emulator/debugger,MDEwOlJlcG9zaXRvcnk2NTIwNzg0
+112,polybar,596,12293,C++,https://github.com/polybar/polybar,A fast and easy-to-use status bar,MDEwOlJlcG9zaXRvcnk1OTIxMjk1Mw==
+113,skyline,1563,12283,C++,https://github.com/skyline-emu/skyline,Run Nintendo Switch homebrew & games on your Android device!,MDEwOlJlcG9zaXRvcnkxOTQyNjkwNzA=
+114,foundationdb,1211,12154,C++,https://github.com/apple/foundationdb,"FoundationDB - the open source, distributed, transactional key-value store",MDEwOlJlcG9zaXRvcnkxMTQxODc5MDM=
+115,IoT-For-Beginners,1700,12108,C++,https://github.com/microsoft/IoT-For-Beginners,"12 Weeks, 24 Lessons, IoT for All!",MDEwOlJlcG9zaXRvcnkzNDQxOTIzMzg=
+116,dlib,3192,11837,C++,https://github.com/davisking/dlib,A toolkit for making real world machine learning and data analysis applications in C++,MDEwOlJlcG9zaXRvcnkxNjMzMTI5MQ==
+117,abseil-cpp,2236,11834,C++,https://github.com/abseil/abseil-cpp,Abseil Common Libraries (C++),MDEwOlJlcG9zaXRvcnkxMDQyMzE1NDE=
+118,ceph,5340,11662,C++,https://github.com/ceph/ceph,"Ceph is a distributed object, block, and file storage platform ",MDEwOlJlcG9zaXRvcnkyMzEwNDk1
+119,watchman,954,11603,C++,https://github.com/facebook/watchman,"Watches files and records, or triggers actions, when they change. ",MDEwOlJlcG9zaXRvcnk2OTMwNDg5
+120,OpenRCT2,1366,11580,C++,https://github.com/OpenRCT2/OpenRCT2,An open source re-implementation of RollerCoaster Tycoon 2 🎢,MDEwOlJlcG9zaXRvcnkxODM0ODY1MQ==
+121,mosh,711,11532,C++,https://github.com/mobile-shell/mosh,Mobile Shell,MDEwOlJlcG9zaXRvcnkxMjM0Nzgz
+122,libfacedetection,3002,11474,C++,https://github.com/ShiqiYu/libfacedetection,An open source library for face detection in images. The face detection speed can reach 1000FPS. ,MDEwOlJlcG9zaXRvcnkyOTUxODEyMQ==
+123,arrow,2807,11389,C++,https://github.com/apache/arrow,Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing,MDEwOlJlcG9zaXRvcnk1MTkwNTM1Mw==
+124,eos,3697,11344,C++,https://github.com/EOSIO/eos,An open source smart contract platform ,MDEwOlJlcG9zaXRvcnk4NzMzNTk4MA==
+125,WLED,2244,11251,C++,https://github.com/Aircoookie/WLED,Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!,MDEwOlJlcG9zaXRvcnk3Njk5MDIwOQ==
+126,TranslucentTB,961,11210,C++,https://github.com/TranslucentTB/TranslucentTB,A lightweight utility that makes the Windows taskbar translucent/transparent.,MDEwOlJlcG9zaXRvcnk3ODQ4MzQzMg==
+127,upx,1150,11167,C++,https://github.com/upx/upx,UPX - the Ultimate Packer for eXecutables,MDEwOlJlcG9zaXRvcnk2NzAzMTA0MA==
+128,Atmosphere,1025,11007,C++,https://github.com/Atmosphere-NX/Atmosphere,Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.,MDEwOlJlcG9zaXRvcnkxMTc5NDg5NTM=
+129,turicreate,1153,10964,C++,https://github.com/apple/turicreate,Turi Create simplifies the development of custom machine learning models.,MDEwOlJlcG9zaXRvcnkxMTI2NzY4MDM=
+130,annoy,1082,10956,C++,https://github.com/spotify/annoy,Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk,MDEwOlJlcG9zaXRvcnk5MTU1NDMx
+131,btop,356,10914,C++,https://github.com/aristocratos/btop,A monitor of resources,MDEwOlJlcG9zaXRvcnkzNjUwMDUzNzc=
+132,ZeroTierOne,1347,10706,C++,https://github.com/zerotier/ZeroTierOne,A Smart Ethernet Switch for Earth,MDEwOlJlcG9zaXRvcnk5NjQ3ODU2
+133,codon,364,10642,C++,https://github.com/exaloop/codon,"A high-performance, zero-overhead, extensible Python compiler using LLVM",R_kgDOGH8x1g
+134,openalpr,2471,10616,C++,https://github.com/openalpr/openalpr,Automatic License Plate Recognition library,MDEwOlJlcG9zaXRvcnkxNDI1OTM0Mw==
+135,mold,374,10533,C++,https://github.com/rui314/mold,Mold: A Modern Linker 🦠,MDEwOlJlcG9zaXRvcnkyOTk1MTA3ODM=
+136,bullet3,2685,10425,C++,https://github.com/bulletphysics/bullet3,"Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.",MDEwOlJlcG9zaXRvcnkxNjA1NTk4
+137,workflow,2018,10331,C++,https://github.com/sogou/workflow,C++ Parallel Computing and Asynchronous Networking Engine,MDEwOlJlcG9zaXRvcnkyODM0MTAxMDI=
+138,TinyWebServer,2820,10315,C++,https://github.com/qinguoyi/TinyWebServer,:fire: Linux下C++轻量级Web服务器学习,MDEwOlJlcG9zaXRvcnkxODkyMDU2NjM=
+139,zeal,750,10244,C++,https://github.com/zealdocs/zeal,Offline documentation browser inspired by Dash,MDEwOlJlcG9zaXRvcnk3NzExNDcy
+140,vnote,1063,10154,C++,https://github.com/vnotex/vnote,A pleasant note-taking platform.,MDEwOlJlcG9zaXRvcnk3MDAzODQzNw==
+141,chineseocr_lite,2068,10151,C++,https://github.com/DayBreak-u/chineseocr_lite,"超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M ",MDEwOlJlcG9zaXRvcnkyNDM0ODcyNTA=
+142,Gource,691,10033,C++,https://github.com/acaudwell/Gource,software version control visualization,MDEwOlJlcG9zaXRvcnkzMDM3NjI=
+143,DearPyGui,526,9908,C++,https://github.com/hoffstadt/DearPyGui,Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies,MDEwOlJlcG9zaXRvcnkyNjc2NDk5MTg=
+144,sonic-pi,890,9857,C++,https://github.com/sonic-pi-net/sonic-pi,Code. Music. Live.,MDEwOlJlcG9zaXRvcnk5NzQ2NDc3
+145,dxvk,650,9768,C++,https://github.com/doitsujin/dxvk,"Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine",MDEwOlJlcG9zaXRvcnkxMDY1NTg1Njg=
+146,capnproto,827,9749,C++,https://github.com/capnproto/capnproto,Cap'n Proto serialization/RPC system - core tools and C++ library,MDEwOlJlcG9zaXRvcnk5MDkwOTMz
+147,dolphin,2183,9718,C++,https://github.com/dolphin-emu/dolphin,"Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.",MDEwOlJlcG9zaXRvcnkxMTU3NzMwNA==
+148,thrift,3931,9614,C++,https://github.com/apache/thrift,Apache Thrift,MDEwOlJlcG9zaXRvcnkzMTA2MTE=
+149,Tars,2108,9601,C++,https://github.com/TarsCloud/Tars,"Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.",MDEwOlJlcG9zaXRvcnk3OTMxNjQ1MQ==
+150,scylladb,998,9592,C++,https://github.com/scylladb/scylladb,"NoSQL data store using the seastar framework, compatible with Apache Cassandra",MDEwOlJlcG9zaXRvcnkyODQ0OTQzMQ==
+151,transmission,1074,9575,C++,https://github.com/transmission/transmission,Official Transmission BitTorrent client repository,MDEwOlJlcG9zaXRvcnkzNTEyOTgwOQ==
+152,tiled,1646,9520,C++,https://github.com/mapeditor/tiled,Flexible level editor,MDEwOlJlcG9zaXRvcnkxNDE4MTUw
+153,Waifu2x-Extension-GUI,720,9412,C++,https://github.com/AaronFeng753/Waifu2x-Extension-GUI,"Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.",MDEwOlJlcG9zaXRvcnkyMzUwNzA0MTU=
+154,ndk-samples,4109,9362,C++,https://github.com/android/ndk-samples,Android NDK samples with Android Studio,MDEwOlJlcG9zaXRvcnkzNTcxODY5NQ==
+155,MuseScore,2160,9346,C++,https://github.com/musescore/MuseScore,"MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",MDEwOlJlcG9zaXRvcnk0NDU0Nzkz
+156,synergy-core,3257,9341,C++,https://github.com/symless/synergy-core,"Open source core of Synergy, the keyboard and mouse sharing tool",MDEwOlJlcG9zaXRvcnkyNTEzNTAzNw==
+157,openFrameworks,2555,9316,C++,https://github.com/openframeworks/openFrameworks,openFrameworks is a community-developed cross platform toolkit for creative coding in C++.,MDEwOlJlcG9zaXRvcnkzNDUzMzc=
+158,fprime,1190,9313,C++,https://github.com/nasa/fprime,F' - A flight software and embedded systems framework,MDEwOlJlcG9zaXRvcnk5NTExNDcyMw==
+159,hardseed,1893,9296,C++,https://github.com/yangyangwithgnu/hardseed,"SEX IS ZERO (0), so, who wanna be the ONE (1), aha?",MDEwOlJlcG9zaXRvcnkyMTkyOTAyOQ==
+160,duckdb,854,9281,C++,https://github.com/duckdb/duckdb,DuckDB is an in-process SQL OLAP Database Management System,MDEwOlJlcG9zaXRvcnkxMzg3NTQ3OTA=
+161,napajs,350,9244,C++,https://github.com/microsoft/napajs,Napa.js: a multi-threaded JavaScript runtime,MDEwOlJlcG9zaXRvcnk5NzY0NjM4NQ==
+162,Hazel,1335,9237,C++,https://github.com/TheCherno/Hazel,Hazel Engine,MDEwOlJlcG9zaXRvcnkxNTM4NjYyMzI=
+163,or-tools,1945,9215,C++,https://github.com/google/or-tools,Google's Operations Research tools:,MDEwOlJlcG9zaXRvcnkzMTEwMjA5Mg==
+164,cpp-httplib,1855,9173,C++,https://github.com/yhirose/cpp-httplib,A C++ header-only HTTP/HTTPS server and client library,MDEwOlJlcG9zaXRvcnk1OTA5NzA2
+165,ninja,1444,9173,C++,https://github.com/ninja-build/ninja,a small build system with a focus on speed,MDEwOlJlcG9zaXRvcnkxMzM1MTMy
+166,ZLMediaKit,2417,9130,C++,https://github.com/ZLMediaKit/ZLMediaKit,WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11,MDEwOlJlcG9zaXRvcnk4Njg5Nzk2Mw==
+167,robomongo,787,9126,C++,https://github.com/Studio3T/robomongo,Native cross-platform MongoDB management tool,MDEwOlJlcG9zaXRvcnk2NTgwMDAw
+168,iOSInterviewQuestions,2749,9086,C++,https://github.com/ChenYilong/iOSInterviewQuestions,iOS interview questions;iOS面试题集锦（附答案）--学习qq群或 Telegram 群交流 https://github.com/ChenYilong/iOSBlog/issues/21,MDEwOlJlcG9zaXRvcnk0MDAxMDYxMw==
+169,carla,2837,8995,C++,https://github.com/carla-simulator/carla,Open-source simulator for autonomous driving research.,MDEwOlJlcG9zaXRvcnkxMDgxMDI4MjY=
+170,CLRS,2741,8945,C++,https://github.com/gzc/CLRS,:notebook:Solutions to Introduction to Algorithms,MDEwOlJlcG9zaXRvcnkxNDg4NzE5NQ==
+171,drogon,876,8942,C++,https://github.com/drogonframework/drogon,Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows,MDEwOlJlcG9zaXRvcnkxMzEyMzY5Mzg=
+172,nebula,1038,8900,C++,https://github.com/vesoft-inc/nebula,"  A distributed, fast open-source graph database featuring horizontal scalability and high availability",MDEwOlJlcG9zaXRvcnkxNDY0NTk0NDM=
+173,mysql-server,3365,8876,C++,https://github.com/mysql/mysql-server,"MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.",MDEwOlJlcG9zaXRvcnkyNDQ5NDAzMg==
+174,assimp,2549,8821,C++,https://github.com/assimp/assimp,The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure. ,MDEwOlJlcG9zaXRvcnk2NDgzMzI=
+175,STL,1284,8695,C++,https://github.com/microsoft/STL,MSVC's implementation of the C++ Standard Library.,MDEwOlJlcG9zaXRvcnkyMDQ1OTM4MjU=
+176,onnxruntime,2021,8666,C++,https://github.com/microsoft/onnxruntime,"ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",MDEwOlJlcG9zaXRvcnkxNTY5Mzk2NzI=
+177,kakoune,685,8651,C++,https://github.com/mawww/kakoune,mawww's experiment for a better code editor,MDEwOlJlcG9zaXRvcnkyNzAxODg4
+178,LearnOpenGL,2477,8641,C++,https://github.com/JoeyDeVries/LearnOpenGL,Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com,MDEwOlJlcG9zaXRvcnkzMjczNjYzOQ==
+179,z3,1350,8585,C++,https://github.com/Z3Prover/z3,The Z3 Theorem Prover,MDEwOlJlcG9zaXRvcnkzMjk0NDI5OA==
+180,SFML,1551,8565,C++,https://github.com/SFML/SFML,Simple and Fast Multimedia Library,MDEwOlJlcG9zaXRvcnkxNTI0Njg0
+181,wslg,263,8549,C++,https://github.com/microsoft/wslg,Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios,MDEwOlJlcG9zaXRvcnkzNDY4NzE1Mzg=
+182,subconverter,1846,8523,C++,https://github.com/tindy2013/subconverter,Utility to convert between various subscription format,MDEwOlJlcG9zaXRvcnkyMTg2ODY3NjM=
+183,minetest,1748,8520,C++,https://github.com/minetest/minetest,Minetest is an open source voxel game engine with easy modding and game creation,MDEwOlJlcG9zaXRvcnkyMTY4Nzgw
+184,MyTinySTL,2784,8515,C++,https://github.com/Alinshans/MyTinySTL,Achieve a tiny STL in C++11,MDEwOlJlcG9zaXRvcnk2NDk4Nzc3OQ==
+185,ppsspp,1926,8495,C++,https://github.com/hrydgard/ppsspp,"A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums at forums.ppsspp.org.",MDEwOlJlcG9zaXRvcnk2NDg2ODI2
+186,devilution,936,8463,C++,https://github.com/diasurgical/devilution,Diablo devolved - magic behind the 1996 computer game,MDEwOlJlcG9zaXRvcnkxMjc2ODQ3NTk=
+187,libzmq,2229,8393,C++,https://github.com/zeromq/libzmq,"ZeroMQ core engine in C++, implements ZMTP/3.1",MDEwOlJlcG9zaXRvcnkyNjMzNzk=
+188,Cataclysm-DDA,3659,8391,C++,https://github.com/CleverRaven/Cataclysm-DDA,Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.,MDEwOlJlcG9zaXRvcnk1OTczODU1
+189,mactype,419,8388,C++,https://github.com/snowie2000/mactype,Better font rendering for Windows.,MDEwOlJlcG9zaXRvcnkzMzI5NDQ3Mw==
+190,nodegui,260,8358,C++,https://github.com/nodegui/nodegui,A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org,MDEwOlJlcG9zaXRvcnkxODY2NjIzNjM=
+191,Open3D,1917,8355,C++,https://github.com/isl-org/Open3D,Open3D: A Modern Library for 3D Data Processing,MDEwOlJlcG9zaXRvcnk3NTQxMzEzMA==
+192,node-sass,1346,8344,C++,https://github.com/sass/node-sass,:rainbow: Node.js bindings to libsass,MDEwOlJlcG9zaXRvcnk0MTI4MzUz
+193,Stacer,576,8313,C++,https://github.com/oguzhaninan/Stacer,Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web,MDEwOlJlcG9zaXRvcnk3Mjk3OTI4Nw==
+194,pcl,4420,8312,C++,https://github.com/PointCloudLibrary/pcl,Point Cloud Library (PCL),MDEwOlJlcG9zaXRvcnk4MTYyNjE1
+195,anbox,1131,8301,C++,https://github.com/anbox/anbox,Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system ,MDEwOlJlcG9zaXRvcnk4Mjc2NjgzMQ==
+196,citra,1571,8299,C++,https://github.com/citra-emu/citra,A Nintendo 3DS Emulator,MDEwOlJlcG9zaXRvcnkxOTg2NjczMA==
+197,xournalpp,684,8266,C++,https://github.com/xournalpp/xournalpp,"Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.",MDEwOlJlcG9zaXRvcnkxMTk4NjQ0Nw==
+198,pcsx2,1307,8212,C++,https://github.com/PCSX2/pcsx2,PCSX2 - The Playstation 2 Emulator,MDEwOlJlcG9zaXRvcnkxNTM3OTYyMA==
+199,ardupilot,14183,8210,C++,https://github.com/ArduPilot/ardupilot,"ArduPlane, ArduCopter, ArduRover, ArduSub source",MDEwOlJlcG9zaXRvcnk3NTEyNDg0
+200,Stockfish,1850,8175,C++,https://github.com/official-stockfish/Stockfish,UCI chess engine,MDEwOlJlcG9zaXRvcnkyMDk3NjEzOA==
+201,vowpal_wabbit,1868,8162,C++,https://github.com/VowpalWabbit/vowpal_wabbit,"Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.  ",MDEwOlJlcG9zaXRvcnkyNjU5OTU=
+202,opencv_contrib,5562,8126,C++,https://github.com/opencv/opencv_contrib,Repository for OpenCV's extra modules,MDEwOlJlcG9zaXRvcnkxMjc1Njk5Mg==
+203,TrinityCore,5661,8056,C++,https://github.com/TrinityCore/TrinityCore,"TrinityCore Open Source MMO Framework (master = 10.0.7.48749, 3.3.5 = 3.3.5a.12340)",MDEwOlJlcG9zaXRvcnkxMjA0NDEy
+204,ssdb,1419,8046,C++,https://github.com/ideawu/ssdb,"SSDB - A fast NoSQL database, an alternative to Redis",MDEwOlJlcG9zaXRvcnk3NTYxODYy
+205,ConEmu,549,8008,C++,https://github.com/Maximus5/ConEmu,"Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more",MDEwOlJlcG9zaXRvcnkyODU3Mzcz
+206,ORB_SLAM2,4481,7994,C++,https://github.com/raulmur/ORB_SLAM2,"Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities",MDEwOlJlcG9zaXRvcnk1MDI1NTI0NA==
+207,taskflow,950,7975,C++,https://github.com/taskflow/taskflow,A General-purpose Parallel and Heterogeneous Task Programming System,MDEwOlJlcG9zaXRvcnkxMzAwNjg5ODI=
+208,entt,750,7927,C++,https://github.com/skypjack/entt,Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more,MDEwOlJlcG9zaXRvcnk4NjMzNzM0Mw==
+209,shadowsocks-qt5,2351,7914,C++,https://github.com/shadowsocks/shadowsocks-qt5,A cross-platform shadowsocks GUI client,MDEwOlJlcG9zaXRvcnkxODQyNzE4Nw==
+210,nix,1089,7790,C++,https://github.com/NixOS/nix,"Nix, the purely functional package manager",MDEwOlJlcG9zaXRvcnkzMzg2MDg4
+211,hermes,506,7790,C++,https://github.com/facebook/hermes,A JavaScript engine optimized for running React Native.,MDEwOlJlcG9zaXRvcnkxNTQyMDEyNTk=
+212,proxygen,1489,7771,C++,https://github.com/facebook/proxygen,A collection of C++ HTTP libraries including an easy to use HTTP server.,MDEwOlJlcG9zaXRvcnkyNDc3NjcyOA==
+213,CppTemplateTutorial,1380,7741,C++,https://github.com/wuye9036/CppTemplateTutorial,中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中),MDEwOlJlcG9zaXRvcnk4NzMwNjI4
+214,rr,498,7736,C++,https://github.com/rr-debugger/rr,Record and Replay Framework,MDEwOlJlcG9zaXRvcnkyMjY5ODY4
+215,monero,3436,7726,C++,https://github.com/monero-project/monero,"Monero: the secure, private, untraceable cryptocurrency",MDEwOlJlcG9zaXRvcnkxOTMxNjYxOQ==
+216,re2,1094,7684,C++,https://github.com/google/re2,"RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",MDEwOlJlcG9zaXRvcnkyMzA4Njg5Mw==
+217,shotcut,880,7636,C++,https://github.com/mltframework/shotcut,"cross-platform (Qt), open-source (GPLv3) video editor",MDEwOlJlcG9zaXRvcnk0MTE4Nzc2
+218,concurrentqueue,1485,7629,C++,https://github.com/cameron314/concurrentqueue,"A fast multi-producer, multi-consumer lock-free concurrent queue for C++11",MDEwOlJlcG9zaXRvcnkyNjI1NTMzNw==
+219,waifu2x-caffe,854,7597,C++,https://github.com/lltcggie/waifu2x-caffe,waifu2xのCaffe版,MDEwOlJlcG9zaXRvcnkzNjQ1MTkyNQ==
+220,engine-sim,704,7591,C++,https://github.com/ange-yaghi/engine-sim,Combustion engine simulator that generates realistic audio.,R_kgDOGjIbvA
+221,libco,1988,7536,C++,https://github.com/Tencent/libco,libco is a coroutine library which is widely used in wechat  back-end service. It has been running on tens of thousands of machines since 2013.,MDEwOlJlcG9zaXRvcnk3MDY1NTIzMQ==
+222,Cpp-Primer,2988,7482,C++,https://github.com/Mooophy/Cpp-Primer,C++ Primer 5 answers,MDEwOlJlcG9zaXRvcnkxOTYxNDQwNQ==
+223,gperftools,1409,7465,C++,https://github.com/gperftools/gperftools,Main gperftools repository,MDEwOlJlcG9zaXRvcnkxNjMwOTY3MA==
+224,MNN,1504,7453,C++,https://github.com/alibaba/MNN,"MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba",MDEwOlJlcG9zaXRvcnkxODE0MzY3OTk=
+225,benchmark,1453,7369,C++,https://github.com/google/benchmark,A microbenchmark support library,MDEwOlJlcG9zaXRvcnkxNTEyMjgwNg==
+226,Hippy,873,7357,C++,https://github.com/Tencent/Hippy,Hippy is designed to easily build cross-platform dynamic apps. 👏,MDEwOlJlcG9zaXRvcnkyMjE4MjI1Nzc=
+227,skia,1308,7346,C++,https://github.com/google/skia,"Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.",MDEwOlJlcG9zaXRvcnkxNTc3MzIyOQ==
+228,cpprestsdk,1593,7292,C++,https://github.com/microsoft/cpprestsdk,The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.,MDEwOlJlcG9zaXRvcnkyMzIwMjc5OQ==
+229,seastar,1406,7251,C++,https://github.com/scylladb/seastar,High performance server-side application framework,MDEwOlJlcG9zaXRvcnkyMzA2MTc5OA==
+230,renderdoc,1130,7228,C++,https://github.com/baldurk/renderdoc,RenderDoc is a stand-alone graphics debugging tool.,MDEwOlJlcG9zaXRvcnkxNzI1MzEzMQ==
+231,git-crypt,425,7189,C++,https://github.com/AGWA/git-crypt,Transparent file encryption in git,MDEwOlJlcG9zaXRvcnk3MjMyODU2
+232,liteide,970,7173,C++,https://github.com/visualfc/liteide,"LiteIDE is a simple, open source, cross-platform Go IDE. ",MDEwOlJlcG9zaXRvcnk2NzUzNzI4
+233,KeyDB,424,7146,C++,https://github.com/Snapchat/KeyDB,A Multithreaded Fork of Redis,MDEwOlJlcG9zaXRvcnkxNjg3MTIzNTA=
+234,QGIS,2532,7119,C++,https://github.com/qgis/QGIS,"QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)",MDEwOlJlcG9zaXRvcnkxNjkwNDgw
+235,crow,892,7098,C++,https://github.com/ipkn/crow,Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask),MDEwOlJlcG9zaXRvcnkxODI1MDMzNA==
+236,flutter-desktop-embedding,607,7082,C++,https://github.com/google/flutter-desktop-embedding,Experimental plugins for Flutter for Desktop,MDEwOlJlcG9zaXRvcnkxMjE0NTQxOTM=
+237,OpenCC,913,7053,C++,https://github.com/BYVoid/OpenCC,Conversion between Traditional and Simplified Chinese,MDEwOlJlcG9zaXRvcnk3NzY2MjE=
+238,tenacity-legacy,285,7052,C++,https://github.com/tenacityteam/tenacity-legacy," THIS REPO IS NOT MAINTAINED ANYMORE. Please see https://codeberg.org/tenacityteam/tenacity for Tenacity, which is maintained.",MDEwOlJlcG9zaXRvcnkzODI4MDA5MzQ=
+239,jsoncpp,2500,7051,C++,https://github.com/open-source-parsers/jsoncpp,A C++ library for interacting with JSON.,MDEwOlJlcG9zaXRvcnkyMTUzMDg2MQ==
+240,EASTL,839,7041,C++,https://github.com/electronicarts/EASTL,EASTL stands for Electronic Arts Standard Template Library.  It is an extensive and robust implementation that has an emphasis on high performance.,MDEwOlJlcG9zaXRvcnk0ODA2ODkwMg==
+241,retdec,864,7033,C++,https://github.com/avast/retdec,RetDec is a retargetable machine-code decompiler based on LLVM.,MDEwOlJlcG9zaXRvcnkxMTM5Njc2NDY=
+242,s3fs-fuse,938,6999,C++,https://github.com/s3fs-fuse/s3fs-fuse,FUSE-based file system backed by Amazon S3,MDEwOlJlcG9zaXRvcnkxNDYyNzQ0NQ==
+243,Hyprland,245,6972,C++,https://github.com/hyprwm/Hyprland,Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.,R_kgDOHA7HmA
+244,MVision,2650,6941,C++,https://github.com/Ewenwan/MVision,机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv  PCL 机器学习 无人驾驶,MDEwOlJlcG9zaXRvcnkxMDQ2MjM2OTY=
+245,AndFix,1625,6938,C++,https://github.com/alibaba/AndFix,AndFix is a library that offer hot-fix for Android App.,MDEwOlJlcG9zaXRvcnk0MjQ4OTg4Mw==
+246,MaaAssistantArknights,873,6929,C++,https://github.com/MaaAssistantArknights/MaaAssistantArknights,"《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",MDEwOlJlcG9zaXRvcnkzODQ1MjA0MTg=
+247,sentencepiece,912,6912,C++,https://github.com/google/sentencepiece,Unsupervised text tokenizer for Neural Network-based text generation.,MDEwOlJlcG9zaXRvcnk4NDE4Mzg4Mg==
+248,Xposed,1459,6902,C++,https://github.com/rovo89/Xposed,The native part of the Xposed framework (mainly the modified app_process binary).,MDEwOlJlcG9zaXRvcnkzODI0NDQy
+249,olive,493,6868,C++,https://github.com/olive-editor/olive,Free open-source non-linear video editor,MDEwOlJlcG9zaXRvcnkxMTUzNDI2ODE=
+250,node.bcrypt.js,479,6825,C++,https://github.com/kelektiv/node.bcrypt.js,bcrypt for NodeJs,MDEwOlJlcG9zaXRvcnk2MTEzMzM=
+251,TensorRT,1693,6820,C++,https://github.com/NVIDIA/TensorRT,"NVIDIA® TensorRT™, an SDK for high-performance deep learning inference, includes a deep learning inference optimizer and runtime that delivers low latency and high throughput for inference applications.",MDEwOlJlcG9zaXRvcnkxODQ2NTczMjg=
+252,albert,292,6698,C++,https://github.com/albertlauncher/albert,A fast and flexible keyboard launcher,MDEwOlJlcG9zaXRvcnkyMjI1OTA0NA==
+253,Squirrel.Windows,1026,6689,C++,https://github.com/Squirrel/Squirrel.Windows,An installation and update framework for Windows desktop apps,MDEwOlJlcG9zaXRvcnkyMjMzODUxOA==
+254,GuiLite,733,6682,C++,https://github.com/idea4good/GuiLite,✔️The smallest header-only GUI library(4 KLOC) for all platforms,MDEwOlJlcG9zaXRvcnkxMDM2MTA2NDA=
+255,xenia,965,6677,C++,https://github.com/xenia-project/xenia,Xbox 360 Emulator Research Project,MDEwOlJlcG9zaXRvcnk3NTUwNjM3
+256,librealsense,4668,6665,C++,https://github.com/IntelRealSense/librealsense,Intel® RealSense™ SDK,MDEwOlJlcG9zaXRvcnk0NjM3NDE5OQ==
+257,AutoHotkey,793,6628,C++,https://github.com/AutoHotkey/AutoHotkey,AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.,MDEwOlJlcG9zaXRvcnkzODUwNjU=
+258,bpftrace,1030,6572,C++,https://github.com/iovisor/bpftrace,High-level tracing language for Linux eBPF,MDEwOlJlcG9zaXRvcnkxNDY4NDIxMDE=
+259,mame,1723,6570,C++,https://github.com/mamedev/mame,MAME,MDEwOlJlcG9zaXRvcnkxNDMwMzA0OA==
+260,lmms,915,6569,C++,https://github.com/LMMS/lmms,Cross-platform music production software,MDEwOlJlcG9zaXRvcnkxNTc3ODg5Ng==
+261,360Controller,512,6526,C++,https://github.com/360Controller/360Controller,TattieBogle Xbox 360 Driver (with improvements),MDEwOlJlcG9zaXRvcnkxMzE2MzQyMw==
+262,neutralinojs,309,6511,C++,https://github.com/neutralinojs/neutralinojs,Portable and lightweight cross-platform desktop application development framework,MDEwOlJlcG9zaXRvcnkxMzgzNjgyNTk=
+263,GameNetworkingSockets,497,6509,C++,https://github.com/ValveSoftware/GameNetworkingSockets,Reliable & unreliable messages over UDP.  Robust message fragmentation & reassembly.  P2P networking / NAT traversal.  Encryption.,MDEwOlJlcG9zaXRvcnkxMjYyMjUxNjA=
+264,engine,5073,6501,C++,https://github.com/flutter/engine,The Flutter engine,MDEwOlJlcG9zaXRvcnkzOTIxMTMzNw==
+265,Paddle-Lite,1571,6453,C++,https://github.com/PaddlePaddle/Paddle-Lite,PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎）,MDEwOlJlcG9zaXRvcnkxMDQyMDgxMjg=
+266,cartographer,2149,6413,C++,https://github.com/cartographer-project/cartographer,Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.,MDEwOlJlcG9zaXRvcnk2NDczMjM1OA==
+267,redpanda,428,6382,C++,https://github.com/redpanda-data/redpanda,Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!,MDEwOlJlcG9zaXRvcnkzMDk1MTI5ODI=
+268,box2d,1264,6354,C++,https://github.com/erincatto/box2d,Box2D is a 2D physics engine for games,MDEwOlJlcG9zaXRvcnkzMjIyMjA0NA==
+269,ThreadPool,1970,6309,C++,https://github.com/progschj/ThreadPool,A simple C++11 Thread Pool implementation,MDEwOlJlcG9zaXRvcnk2MDgzODQz
+270,devilutionX,671,6306,C++,https://github.com/diasurgical/devilutionX,Diablo build for modern operating systems,MDEwOlJlcG9zaXRvcnkxNDMzMjQ3Mzc=
+271,PX4-Autopilot,12380,6302,C++,https://github.com/PX4/PX4-Autopilot,PX4 Autopilot Software,MDEwOlJlcG9zaXRvcnk1Mjk4Nzkw
+272,AI4Animation,920,6282,C++,https://github.com/sebastianstarke/AI4Animation,Bringing Characters to Life with Computer Brains in Unity,MDEwOlJlcG9zaXRvcnk5ODQ3MDMzMg==
+273,CopyQ,363,6245,C++,https://github.com/hluk/CopyQ,Clipboard manager with advanced features,MDEwOlJlcG9zaXRvcnkzNDQ4MDk=
+274,jetson-inference,2751,6243,C++,https://github.com/dusty-nv/jetson-inference,Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.,MDEwOlJlcG9zaXRvcnk2NDU2MTc1Mw==
+275,oatpp,1159,6236,C++,https://github.com/oatpp/oatpp,🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.,MDEwOlJlcG9zaXRvcnkxMjQ5NzYzOTM=
+276,miniblink49,981,6233,C++,https://github.com/weolar/miniblink49,"a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef",MDEwOlJlcG9zaXRvcnk2OTMxNjUxMA==
+277,EasyPR,2511,6233,C++,https://github.com/liuruoze/EasyPR,"An easy, flexible, and accurate plate recognition project for Chinese licenses in unconstrained situations. ",MDEwOlJlcG9zaXRvcnkyNDIyNzg3NQ==
+278,design_patterns,1736,6230,C++,https://github.com/me115/design_patterns,图说设计模式,MDEwOlJlcG9zaXRvcnkyNDcxMzY1Mw==
+279,ModSecurity,1412,6201,C++,https://github.com/SpiderLabs/ModSecurity,"ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. With over 10,000 deployments world-wide, ModSecurity is the most widely deployed WAF in existence. ",MDEwOlJlcG9zaXRvcnkxMzIwNTk0
+280,wav2letter,1023,6198,C++,https://github.com/flashlight/wav2letter,Facebook AI Research's Automatic Speech Recognition Toolkit ,MDEwOlJlcG9zaXRvcnkxMTE0NDI3NDg=
+281,multipass,539,6133,C++,https://github.com/canonical/multipass,Multipass orchestrates virtual Ubuntu instances,MDEwOlJlcG9zaXRvcnkxMTQxMjgxOTk=
+282,ArduinoJson,1068,6084,C++,https://github.com/bblanchon/ArduinoJson,📟 JSON library for Arduino and embedded C++. Simple and efficient.,MDEwOlJlcG9zaXRvcnkxNTgwMjI2Mw==
+283,websocketpp,1828,6082,C++,https://github.com/zaphoyd/websocketpp,C++ websocket client/server library,MDEwOlJlcG9zaXRvcnkyMzQ1NjI5
+284,WebServer,1904,6079,C++,https://github.com/linyacool/WebServer,A C++ High Performance Web Server,MDEwOlJlcG9zaXRvcnkxMTk5NjE1OTE=
+285,conky,587,6073,C++,https://github.com/brndnmtthws/conky,"Light-weight system monitor for X, Wayland, and other things, too",MDEwOlJlcG9zaXRvcnk3MzMxMjI3
+286,o3de,1815,6038,C++,https://github.com/o3de/o3de,"Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.",MDEwOlJlcG9zaXRvcnkzNTQ3NDMzOTE=
+287,async-profiler,701,6030,C++,https://github.com/async-profiler/async-profiler,Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events,MDEwOlJlcG9zaXRvcnk1Njg5NDIxMg==
+288,Relativty,326,6028,C++,https://github.com/relativty/Relativty,An open source VR headset with SteamVR supports for $200,MDEwOlJlcG9zaXRvcnkxMTI5MjgxMjg=
+289,esphome,2197,6019,C++,https://github.com/esphome/esphome,ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.,MDEwOlJlcG9zaXRvcnkxMjg0Nzk2NDQ=
+290,slambook,3094,6014,C++,https://github.com/gaoxiang12/slambook,,MDEwOlJlcG9zaXRvcnk2MjAzMDI0Mg==
+291,glog,1937,6013,C++,https://github.com/google/glog,C++ implementation of the Google logging module,MDEwOlJlcG9zaXRvcnkzMTE5NzI1MA==
+292,triton,566,5997,C++,https://github.com/openai/triton,Development repository for the Triton language and compiler,MDEwOlJlcG9zaXRvcnkyMzQ5NjU0Mg==
+293,kbd-audio,464,5952,C++,https://github.com/ggerganov/kbd-audio,🎤⌨️ Acoustic keyboard eavesdropping,MDEwOlJlcG9zaXRvcnkxNDYzMzAxNDU=
+294,uWebSockets.js,484,5943,C++,https://github.com/uNetworking/uWebSockets.js,μWebSockets for Node.js back-ends :metal:,MDEwOlJlcG9zaXRvcnkxNDI2MzExOTE=
+295,PrusaSlicer,1569,5897,C++,https://github.com/prusa3d/PrusaSlicer,"G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",MDEwOlJlcG9zaXRvcnk1Mjg4MjcwMQ==
+296,udp2raw,1083,5888,C++,https://github.com/wangyu-/udp2raw,"A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)",MDEwOlJlcG9zaXRvcnk5OTMwMjIwNA==
+297,ethminer,2304,5865,C++,https://github.com/ethereum-mining/ethminer,"Ethereum miner with OpenCL, CUDA and stratum support",MDEwOlJlcG9zaXRvcnk4OTA2NzE0Ng==
+299,LAVFilters,747,5850,C++,https://github.com/Nevcairiel/LAVFilters,LAV Filters - Open-Source DirectShow Media Splitter and Decoders,MDEwOlJlcG9zaXRvcnkxMDI4OTc1OA==
+298,Cpp_Primer_Practice,1631,5850,C++,https://github.com/applenob/Cpp_Primer_Practice,搞定C++:punch:。C++ Primer 中文版第5版学习仓库，包括笔记和课后练习答案。,MDEwOlJlcG9zaXRvcnkxMDM2MjY5NjM=
+300,connectedhomeip,1388,5831,C++,https://github.com/project-chip/connectedhomeip,"Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",MDEwOlJlcG9zaXRvcnkyNDQ2OTQxNzQ=
+301,NotepadNext,356,5812,C++,https://github.com/dail8859/NotepadNext,"A cross-platform, reimplementation of Notepad++",MDEwOlJlcG9zaXRvcnkyMjQ0NjgyNjU=
+302,serving,2205,5806,C++,https://github.com/tensorflow/serving,"A flexible, high-performance serving system for machine learning models",MDEwOlJlcG9zaXRvcnk1MDQ2MTcwMQ==
+303,redex,665,5774,C++,https://github.com/facebook/redex,A bytecode optimizer for Android apps,MDEwOlJlcG9zaXRvcnk1NDY2NDc3MA==
+304,FastLED,1525,5753,C++,https://github.com/FastLED/FastLED,"The FastLED library for colored LED animation on Arduino.  Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r   We'd like to use github ""issues"" just for tracking library bugs / enhancements. ",MDEwOlJlcG9zaXRvcnkxNDI2ODgwOQ==
+305,falco,764,5734,C++,https://github.com/falcosecurity/falco,Cloud Native Runtime Security,MDEwOlJlcG9zaXRvcnk0OTk4NjA0Ng==
+306,WiFiManager,1772,5732,C++,https://github.com/tzapu/WiFiManager,ESP8266 WiFi Connection manager with web captive portal,MDEwOlJlcG9zaXRvcnkzNjgxMDEyMA==
+307,blackbird,1067,5695,C++,https://github.com/butor/blackbird,Blackbird Bitcoin Arbitrage: a long/short market-neutral strategy,MDEwOlJlcG9zaXRvcnkzMTg3MTQ2NA==
+308,NonEuclidean,563,5676,C++,https://github.com/HackerPoet/NonEuclidean,A Non-Euclidean Rendering Engine for 3D scenes.,MDEwOlJlcG9zaXRvcnkxNDQ2NjQ5NTA=
+309,WasmEdge,506,5662,C++,https://github.com/WasmEdge/WasmEdge,"WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.",MDEwOlJlcG9zaXRvcnkyMjQ5MDgyNDQ=
+310,tiny-dnn,1394,5660,C++,https://github.com/tiny-dnn/tiny-dnn,"header only, dependency-free deep learning framework in C++14",MDEwOlJlcG9zaXRvcnk3MjA1NzQw
+311,snappy,952,5576,C++,https://github.com/google/snappy,A fast compressor/decompressor,MDEwOlJlcG9zaXRvcnkxNzM4MTYwNQ==
+312,lnav,270,5561,C++,https://github.com/tstack/lnav,Log file navigator,MDEwOlJlcG9zaXRvcnkzMDYxNDc=
+313,openvr,1265,5544,C++,https://github.com/ValveSoftware/openvr,OpenVR SDK,MDEwOlJlcG9zaXRvcnkzNDI4OTI2NQ==
+314,draco,878,5543,C++,https://github.com/google/draco,Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.,MDEwOlJlcG9zaXRvcnk3NTY2MjM4Nw==
+315,td,1155,5487,C++,https://github.com/tdlib/td,Cross-platform library for building Telegram clients,MDEwOlJlcG9zaXRvcnkxMTU4ODM3NjE=
+316,openscad,1079,5451,C++,https://github.com/openscad/openscad,OpenSCAD - The Programmers Solid 3D CAD Modeller  ,MDEwOlJlcG9zaXRvcnkxMDQ5MDg4
+317,osrm-backend,2928,5440,C++,https://github.com/Project-OSRM/osrm-backend,Open Source Routing Machine - C++ backend,MDEwOlJlcG9zaXRvcnkyNDM2MjU1
+318,cudf,678,5423,C++,https://github.com/rapidsai/cudf,cuDF - GPU DataFrame Library ,MDEwOlJlcG9zaXRvcnk5MDUwNjkxOA==
+319,GSL,707,5422,C++,https://github.com/microsoft/GSL,Guidelines Support Library,MDEwOlJlcG9zaXRvcnk0MTAwNTc5NQ==
+320,recastnavigation,1415,5400,C++,https://github.com/recastnavigation/recastnavigation,Navigation-mesh Toolset for Games,MDEwOlJlcG9zaXRvcnkxMjg0OTk3Nw==
+321,oceanbase,1174,5380,C++,https://github.com/oceanbase/oceanbase,"OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.",MDEwOlJlcG9zaXRvcnkzNzI1MzY3NjA=
+322,interpret,659,5379,C++,https://github.com/interpretml/interpret,Fit interpretable models. Explain blackbox machine learning. ,MDEwOlJlcG9zaXRvcnkxODQ3MDQ5MDM=
+323,cpr,828,5356,C++,https://github.com/libcpr/cpr,"C++ Requests: Curl for People, a spiritual port of Python Requests.",MDEwOlJlcG9zaXRvcnkzMzE1NzE2OQ==
+324,Halide,1015,5342,C++,https://github.com/halide/Halide,"a language for fast, portable data-parallel computation",MDEwOlJlcG9zaXRvcnk1MjQxMzEy
+325,edge,660,5336,C++,https://github.com/tjanczuk/edge,"Run .NET and Node.js code in-process on Windows, MacOS, and Linux",MDEwOlJlcG9zaXRvcnk4MzE4NDAx
+326,perspective,619,5331,C++,https://github.com/finos/perspective,"A data visualization and analytics component, especially well-suited for large and/or streaming datasets.",MDEwOlJlcG9zaXRvcnkxMDkyOTEwMDc=
+327,mumble,1015,5319,C++,https://github.com/mumble-voip/mumble,"Mumble is an open-source, low-latency, high quality voice chat software.",MDEwOlJlcG9zaXRvcnkxNDEzMzE5
+328,proxysql,884,5317,C++,https://github.com/sysown/proxysql,High-performance MySQL proxy with a GPL license.,MDEwOlJlcG9zaXRvcnkyNzM1ODA4NA==
+329,tracy,380,5308,C++,https://github.com/wolfpld/tracy,Frame profiler,MDEwOlJlcG9zaXRvcnkyNDgwNTg4MTg=
+330,wabt,582,5275,C++,https://github.com/WebAssembly/wabt,The WebAssembly Binary Toolkit,MDEwOlJlcG9zaXRvcnk0MjQ2NzgzMA==
+331,algorithms_and_data_structures,1269,5270,C++,https://github.com/mandliya/algorithms_and_data_structures,180+ Algorithm & Data Structure Problems using C++,MDEwOlJlcG9zaXRvcnkyMjY4NzAzNg==
+332,tensorrtx,1502,5257,C++,https://github.com/wang-xinyu/tensorrtx,Implementation of popular deep learning networks with TensorRT network definition API,MDEwOlJlcG9zaXRvcnkyMjM5MDQ3MjY=
+333,duilib,1901,5231,C++,https://github.com/duilib/duilib,,MDEwOlJlcG9zaXRvcnkxNTQ2Mzk1Mw==
+334,mediasoup,984,5163,C++,https://github.com/versatica/mediasoup,Cutting Edge WebRTC Video Conferencing,MDEwOlJlcG9zaXRvcnkyNzkxODY5Nw==
+335,WeChatRobot,2032,5158,C++,https://github.com/TonyChen56/WeChatRobot,PC版微信机器人 微信Api、WeChatApis.dll、微信聊天机器人 python微信api 微信接口 微信数据库解密,MDEwOlJlcG9zaXRvcnkxOTgwMTg5ODU=
+336,clip,397,5134,C++,https://github.com/asmuth/clip,Create charts from the command line,MDEwOlJlcG9zaXRvcnkyNDAwOTM4
+337,leela-zero,1006,5104,C++,https://github.com/leela-zero/leela-zero,"Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.",MDEwOlJlcG9zaXRvcnkxMDgxNjYyODE=
+338,zeek,1130,5095,C++,https://github.com/zeek/zeek,Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.,MDEwOlJlcG9zaXRvcnk0OTMwNzE2
+339,DirectX-Graphics-Samples,1896,5071,C++,https://github.com/microsoft/DirectX-Graphics-Samples,This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows.,MDEwOlJlcG9zaXRvcnkzNjgzMTg3NA==
+340,Cinder,934,5038,C++,https://github.com/cinder/Cinder,"Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.",MDEwOlJlcG9zaXRvcnk2MjIxMjc=
+341,mesos,1697,5033,C++,https://github.com/apache/mesos,Apache Mesos,MDEwOlJlcG9zaXRvcnkxMTQ2OTQzOQ==
+342,moonlight-qt,367,5026,C++,https://github.com/moonlight-stream/moonlight-qt,"GameStream client for PCs (Windows, Mac, Linux, and Steam Link)",MDEwOlJlcG9zaXRvcnkxMzE0NDkyMjI=
+343,Sigil,549,5020,C++,https://github.com/Sigil-Ebook/Sigil,Sigil is a multi-platform EPUB ebook editor,MDEwOlJlcG9zaXRvcnkxMjg0NzgxOA==
+344,snapcast,416,5012,C++,https://github.com/badaix/snapcast,Synchronous multiroom audio player,MDEwOlJlcG9zaXRvcnkyODcwNjcwNg==
+346,colmap,1205,5010,C++,https://github.com/colmap/colmap,COLMAP - Structure-from-Motion and Multi-View Stereo,MDEwOlJlcG9zaXRvcnkyMzAwNzQxNw==
+345,lepton,368,5010,C++,https://github.com/dropbox/lepton,Lepton is a tool and file format for losslessly compressing JPEGs by an average of 22%.,MDEwOlJlcG9zaXRvcnk2MzI2MjE3OA==
+347,CodingInterviewChinese2,2145,5006,C++,https://github.com/zhedahht/CodingInterviewChinese2,《剑指Offer：名企面试官精讲典型编程面试题》第二版源代码,MDEwOlJlcG9zaXRvcnk3NDMyNzgzOA==
+348,pika,1017,4997,C++,https://github.com/OpenAtomFoundation/pika,"Pika is a nosql compatible with redis, it is developed by Qihoo's DBA and infrastructure team",MDEwOlJlcG9zaXRvcnkyNjEyNzk2OA==
+349,HyperLPR,1904,4984,C++,https://github.com/szad670401/HyperLPR,基于深度学习高性能中文车牌识别 High Performance Chinese License Plate Recognition Framework.,MDEwOlJlcG9zaXRvcnkxMDQ2MjE4ODE=
+350,swig,1149,4980,C++,https://github.com/swig/swig,SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.,MDEwOlJlcG9zaXRvcnk3MzcyNTI4
+351,goldendict,711,4974,C++,https://github.com/goldendict/goldendict,"A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, illustrations and other content retained, and allowing you to type in words without any accents or correct case.",MDEwOlJlcG9zaXRvcnkxODY0MDQ5
+352,JUCE,1413,4959,C++,https://github.com/juce-framework/JUCE,"JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.",MDEwOlJlcG9zaXRvcnkzODg0OTgx
+353,wxWidgets,1568,4956,C++,https://github.com/wxWidgets/wxWidgets,Cross-Platform C++ GUI Library,MDEwOlJlcG9zaXRvcnkxNzY0NjQ2
+354,openh264,1712,4924,C++,https://github.com/cisco/openh264,Open Source H.264 Codec ,MDEwOlJlcG9zaXRvcnkxMzkwOTU3Mw==
+355,passenger,548,4920,C++,https://github.com/phusion/passenger,"A fast and robust web server and application server for Ruby, Python and Node.js",MDEwOlJlcG9zaXRvcnk1NjI1
+356,organicmaps,485,4856,C++,https://github.com/organicmaps/organicmaps,"🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founders and our community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!",MDEwOlJlcG9zaXRvcnkzMjQ4MjkzNzk=
+357,algorithms,1495,4792,C++,https://github.com/xtaci/algorithms,Algorithms & Data structures in C++.,MDEwOlJlcG9zaXRvcnk5MzIyODY2
+358,openMVG,1554,4770,C++,https://github.com/openMVG/openMVG,open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.,MDEwOlJlcG9zaXRvcnk4MDk2MzI2
+359,doctest,576,4763,C++,https://github.com/doctest/doctest,The fastest feature-rich C++11/14/17/20/23 single-header testing framework,MDEwOlJlcG9zaXRvcnkyMjY2MDUxNQ==
+360,mace,816,4752,C++,https://github.com/XiaoMi/mace,MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.,MDEwOlJlcG9zaXRvcnkxMzg4MjY5Njg=
+362,flashlight,460,4751,C++,https://github.com/flashlight/flashlight,A C++ standalone library for machine learning,MDEwOlJlcG9zaXRvcnkxNjEzNzY2MDA=
+361,safetynet-fix,231,4751,C++,https://github.com/kdrag0n/safetynet-fix,Google SafetyNet attestation workarounds for Magisk,MDEwOlJlcG9zaXRvcnkzMjkyNjUyMzE=
+363,server,1505,4744,C++,https://github.com/MariaDB/server,"MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.",MDEwOlJlcG9zaXRvcnkxOTgxNjA3MA==
+364,OpenArk,600,4735,C++,https://github.com/BlackINT3/OpenArk,OpenArk is an open source anti-rookit(ARK) tool for Windows. ,MDEwOlJlcG9zaXRvcnkxODM1NjQ5ODE=
+365,opencv4nodejs,787,4727,C++,https://github.com/justadudewhohacks/opencv4nodejs,Nodejs bindings to OpenCV 3 and OpenCV 4,MDEwOlJlcG9zaXRvcnkxMDA4NzAyMDg=
+366,zcash,2008,4727,C++,https://github.com/zcash/zcash,Zcash - Internet Money,MDEwOlJlcG9zaXRvcnkyNjk4NzA0OQ==
+367,OpenTTD,662,4712,C++,https://github.com/OpenTTD/OpenTTD,OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe,MDEwOlJlcG9zaXRvcnkxMjg0MzA2MjE=
+368,oneflow,547,4706,C++,https://github.com/Oneflow-Inc/oneflow,"OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.",MDEwOlJlcG9zaXRvcnk4MTYzNDY4Mw==
+369,krita,431,4697,C++,https://github.com/KDE/krita,Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.,MDEwOlJlcG9zaXRvcnk0Mzk3NTY3Mw==
+370,cppcheck,1317,4696,C++,https://github.com/danmar/cppcheck,static analysis of C/C++ code,MDEwOlJlcG9zaXRvcnkxNDMxMzE=
+371,Z0FCourse_ReverseEngineering,452,4689,C++,https://github.com/0xZ0F/Z0FCourse_ReverseEngineering,Reverse engineering focusing on x64 Windows.,MDEwOlJlcG9zaXRvcnkxOTAwMDA2MjU=
+372,IncludeOS,352,4686,C++,https://github.com/includeos/IncludeOS,"A minimal, resource efficient unikernel for cloud services",MDEwOlJlcG9zaXRvcnkyMTU2MjU2Nw==
+373,duckstation,473,4686,C++,https://github.com/stenzek/duckstation,Fast PlayStation 1 emulator for x86-64/AArch32/AArch64,MDEwOlJlcG9zaXRvcnkyMDcyNDUwOTI=
+374,supercollider,691,4677,C++,https://github.com/supercollider/supercollider,"An audio server, programming language, and IDE for sound synthesis and algorithmic composition.",MDEwOlJlcG9zaXRvcnk0MjI4MzE0
+375,naiveproxy,659,4677,C++,https://github.com/klzgrad/naiveproxy,Make a fortune quietly,MDEwOlJlcG9zaXRvcnkxMTkxNzg4OTM=
+376,doxygen,1164,4670,C++,https://github.com/doxygen/doxygen,Official doxygen git repository,MDEwOlJlcG9zaXRvcnkxMDE2MDE0MQ==
+377,stellarium,652,4656,C++,https://github.com/Stellarium/stellarium,"Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.",MDEwOlJlcG9zaXRvcnkxODcxOTg1Ng==
+378,AliSQL,859,4646,C++,https://github.com/alibaba/AliSQL,AliSQL is a MySQL branch originated from Alibaba Group. Fetch document from Release Notes at bottom.,MDEwOlJlcG9zaXRvcnk2NDI4OTU0NQ==
+379,ORB_SLAM3,1974,4642,C++,https://github.com/UZ-SLAMLab/ORB_SLAM3,"ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM",MDEwOlJlcG9zaXRvcnkyODA2MDg3Mjk=
+380,CodingInterviews,1124,4623,C++,https://github.com/gatieme/CodingInterviews,剑指Offer——名企面试官精讲典型编程题,MDEwOlJlcG9zaXRvcnk1NTc2MzgzMQ==
+381,a32nx,920,4608,C++,https://github.com/flybywiresim/a32nx,The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible.,MDEwOlJlcG9zaXRvcnkyODQ4NzE3NTM=
+382,easyeffects,228,4598,C++,https://github.com/wwmm/easyeffects,"Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications",MDEwOlJlcG9zaXRvcnk4NTU5MTA2Nw==
+383,openmw,890,4598,C++,https://github.com/OpenMW/openmw,OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/,MDEwOlJlcG9zaXRvcnkyODU3MjI=
+384,al-khaser,1065,4584,C++,https://github.com/LordNoteworthy/al-khaser,"Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection. ",MDEwOlJlcG9zaXRvcnk0NjA3MjY1NQ==
+385,LeetCode,1073,4547,C++,https://github.com/wisdompeak/LeetCode,This repository contains the solutions and explanations to the algorithm problems on LeetCode. Only medium or above are included. All are written in C++/Python and implemented by myself. The problems attempted multiple times are labelled with hyperlinks.,MDEwOlJlcG9zaXRvcnk4MzU0MjU4NQ==
+386,BlackDex,1021,4546,C++,https://github.com/CodingGay/BlackDex,"BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds.",MDEwOlJlcG9zaXRvcnkzNjk0MDgyMzQ=
+387,Cplusplus-Concurrency-In-Practice,1418,4541,C++,https://github.com/forhappy/Cplusplus-Concurrency-In-Practice,A Detailed Cplusplus Concurrency Tutorial 《C++ 并发编程指南》,MDEwOlJlcG9zaXRvcnkxMjUwMjY2NA==
+388,cuberite,621,4535,C++,https://github.com/cuberite/cuberite,"A lightweight, fast and extensible game server for Minecraft",MDEwOlJlcG9zaXRvcnkxMTY5MzcwOQ==
+389,ledger,470,4530,C++,https://github.com/ledger/ledger,Double-entry accounting system with a command-line reporting interface,MDEwOlJlcG9zaXRvcnkxNjMwOQ==
+390,workerd,150,4518,C++,https://github.com/cloudflare/workerd,The JavaScript / Wasm runtime that powers Cloudflare Workers,R_kgDOIANE6Q
+392,SeetaFaceEngine,1795,4517,C++,https://github.com/seetaface/SeetaFaceEngine,,MDEwOlJlcG9zaXRvcnk2ODEzMjkzMw==
+391,pbrt-v3,1145,4517,C++,https://github.com/mmp/pbrt-v3,"Source code for pbrt, the renderer described in the third edition of ""Physically Based Rendering: From Theory To Implementation"", by Matt Pharr, Wenzel Jakob, and Greg Humphreys.",MDEwOlJlcG9zaXRvcnkzNzQ4MjQxOQ==
+393,fswatch,307,4512,C++,https://github.com/emcrisostomo/fswatch,"A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based backend.",MDEwOlJlcG9zaXRvcnkyMzY1Mzc=
+394,react-native-linear-gradient,598,4509,C++,https://github.com/react-native-linear-gradient/react-native-linear-gradient,A <LinearGradient /> component for react-native,MDEwOlJlcG9zaXRvcnkzMzIwMDM0MA==
+395,plaidml,411,4494,C++,https://github.com/plaidml/plaidml,PlaidML is a framework for making deep learning work everywhere.,MDEwOlJlcG9zaXRvcnkxMDAzMjYxMjY=
+396,tinyraytracer,293,4490,C++,https://github.com/ssloy/tinyraytracer,A brief computer graphics / rendering course,MDEwOlJlcG9zaXRvcnkxNjY2NTIyNzU=
+397,omim,1156,4481,C++,https://github.com/mapsme/omim,🗺️ MAPS.ME — Offline OpenStreetMap maps for iOS and Android,MDEwOlJlcG9zaXRvcnk0Mjc5ODAzMw==
+398,liquidfun,630,4480,C++,https://github.com/google/liquidfun,2D physics engine for games,MDEwOlJlcG9zaXRvcnkxNDcyNTIzMA==
+399,keepassx,635,4480,C++,https://github.com/keepassx/keepassx,KeePassX is a cross platform port of the windows application “Keepass Password Safe”.,MDEwOlJlcG9zaXRvcnk4ODE2NTc1
+400,MegEngine,507,4478,C++,https://github.com/MegEngine/MegEngine,MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架,MDEwOlJlcG9zaXRvcnkyNDgxNzUxMTg=
+401,Cemu,265,4476,C++,https://github.com/cemu-project/Cemu,Cemu - Wii U emulator,R_kgDOH3RdSQ
+402,qTox,1006,4466,C++,https://github.com/qTox/qTox,"qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.",MDEwOlJlcG9zaXRvcnkyMTE3OTE2NA==
+403,NanaZip,130,4462,C++,https://github.com/M2Team/NanaZip,The 7-Zip derivative intended for the modern Windows experience,MDEwOlJlcG9zaXRvcnk0MDE1MDg0OTY=
+404,thrust,733,4444,C++,https://github.com/NVIDIA/thrust,The C++ parallel algorithms library.,MDEwOlJlcG9zaXRvcnkzNjMzMjEz
+405,pixie,332,4440,C++,https://github.com/pixie-io/pixie,Instant Kubernetes-Native Application Observability,MDEwOlJlcG9zaXRvcnkyNDMzOTQ1NzY=
+406,libtorrent,919,4438,C++,https://github.com/arvidn/libtorrent,an efficient feature complete C++ bittorrent implementation,MDEwOlJlcG9zaXRvcnkzNjc4MTc2OQ==
+407,amazon-dsstne,759,4430,C++,https://github.com/amazon-archives/amazon-dsstne,Deep Scalable Sparse Tensor Network Engine (DSSTNE) is an Amazon developed library for building Deep Learning (DL) machine learning (ML) models ,MDEwOlJlcG9zaXRvcnk1NDYyMTM3Mg==
+408,cvxpy,972,4415,C++,https://github.com/cvxpy/cvxpy,A Python-embedded modeling language for convex optimization problems.,MDEwOlJlcG9zaXRvcnkxMTExMDM4NQ==
+409,tinyxml2,1732,4405,C++,https://github.com/leethomason/tinyxml2,"TinyXML2 is a simple, small, efficient, C++ XML parser that can be easily integrated into other programs.",MDEwOlJlcG9zaXRvcnkzNTQyNjA3
+410,cp-algorithms,1042,4393,C++,https://github.com/cp-algorithms/cp-algorithms,Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru),MDEwOlJlcG9zaXRvcnkyMjE5NzM4OQ==
+411,mamba,257,4391,C++,https://github.com/mamba-org/mamba,The Fast Cross-Platform Package Manager,MDEwOlJlcG9zaXRvcnkxNzM5NDc5Mzk=
+412,incubator-pagespeed-ngx,370,4385,C++,https://github.com/apache/incubator-pagespeed-ngx,Automatic PageSpeed optimization module for Nginx,MDEwOlJlcG9zaXRvcnk0NzY2NjM4
+413,SPTAG,553,4380,C++,https://github.com/microsoft/SPTAG,"A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.",MDEwOlJlcG9zaXRvcnkxNDg0NjQ0OTk=
+414,Piccolo,1467,4380,C++,https://github.com/BoomingTech/Piccolo,Piccolo (formerly Pilot) – mini game engine for games104,R_kgDOHCGLEg
+415,oneTBB,860,4375,C++,https://github.com/oneapi-src/oneTBB,oneAPI Threading Building Blocks (oneTBB),MDEwOlJlcG9zaXRvcnk2NzY0MTk5Ng==
+416,DOOM-3-BFG,1255,4361,C++,https://github.com/id-Software/DOOM-3-BFG,Doom 3 BFG Edition,MDEwOlJlcG9zaXRvcnk2ODY5MzMz
+417,magnum,423,4358,C++,https://github.com/mosra/magnum,Lightweight and modular C++11 graphics middleware for games and data visualization,MDEwOlJlcG9zaXRvcnkxMTgyNzU2
+418,Riru,488,4352,C++,https://github.com/RikkaApps/Riru,Inject into zygote process,MDEwOlJlcG9zaXRvcnkxNDU0MDY5Mjg=
+419,wesnoth,845,4339,C++,https://github.com/wesnoth/wesnoth,"An open source, turn-based strategy game with a high fantasy theme.",MDEwOlJlcG9zaXRvcnk5NDMyMjIw
+420,cpp-cheat-sheet,1384,4338,C++,https://github.com/gibsjose/cpp-cheat-sheet,"C++ Syntax, Data Structures, and Algorithms Cheat Sheet",MDEwOlJlcG9zaXRvcnk1MTE4MTIxMQ==
+421,mlpack,1492,4332,C++,https://github.com/mlpack/mlpack,"mlpack: a fast, header-only C++ machine learning library",MDEwOlJlcG9zaXRvcnkyODE0OTQwOQ==
+422,doom3.gpl,1615,4327,C++,https://github.com/TTimo/doom3.gpl,Doom 3 GPL source release,MDEwOlJlcG9zaXRvcnkyODMxMDk2
+423,FTXUI,287,4313,C++,https://github.com/ArthurSonzogni/FTXUI,:computer: C++ Functional Terminal User Interface. :heart:,MDEwOlJlcG9zaXRvcnkxNjc4MjgxNjU=
+424,libsass,474,4308,C++,https://github.com/sass/libsass,A C/C++ implementation of a Sass compiler,MDEwOlJlcG9zaXRvcnkzMzE5NzY5
+425,1earn,1007,4308,C++,https://github.com/ffffffff0x/1earn,"暂停维护 | ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup",MDEwOlJlcG9zaXRvcnkxNzg1NDU2MzA=
+426,urho3d,986,4303,C++,https://github.com/urho3d/urho3d,Game engine,MDEwOlJlcG9zaXRvcnkxMzI2NjYwMQ==
+427,SimpleNES,1051,4301,C++,https://github.com/amhndu/SimpleNES,An NES emulator in C++,MDEwOlJlcG9zaXRvcnk2MDE0Mzk1NA==
+428,DALI,561,4298,C++,https://github.com/NVIDIA/DALI,A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.,MDEwOlJlcG9zaXRvcnkxMzU3NjgwMzc=
+429,node-opencv,865,4292,C++,https://github.com/peterbraden/node-opencv,OpenCV Bindings for node.js,MDEwOlJlcG9zaXRvcnkzMTgwODg0
+430,Tengine,1016,4289,C++,https://github.com/OAID/Tengine,"Tengine is a lite, high performance, modular inference engine for embedded device ",MDEwOlJlcG9zaXRvcnkxMTU3NjU1OTA=
+431,anyRTC-RTMP-OpenSource,1550,4286,C++,https://github.com/anyrtcIO-Community/anyRTC-RTMP-OpenSource,"RTMP 推流器，RTMP(HLS)秒开播放器，直播点播，跨平台（Win,IOS,Android）开源代码",MDEwOlJlcG9zaXRvcnk2NjYyMzAwMQ==
+432,rippled,1430,4283,C++,https://github.com/XRPLF/rippled,Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++,MDEwOlJlcG9zaXRvcnkyNzI0MTY3
+433,FileCentipede,309,4271,C++,https://github.com/filecxx/FileCentipede,"Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.",R_kgDOG9hDvw
+434,pywin32,748,4268,C++,https://github.com/mhammond/pywin32,Python for Windows (pywin32) Extensions,MDEwOlJlcG9zaXRvcnkxMDgxODcxMzA=
+435,mapbox-gl-native,1351,4260,C++,https://github.com/mapbox/mapbox-gl-native,"Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL",MDEwOlJlcG9zaXRvcnkxNjI4NjEzMQ==
+436,UDPspeeder,800,4253,C++,https://github.com/wangyu-/UDPspeeder,"A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction, possible for All Traffics(TCP/UDP/ICMP)",MDEwOlJlcG9zaXRvcnk5OTY3MjI4MQ==
+437,nanogui,587,4246,C++,https://github.com/wjakob/nanogui,Minimalistic GUI library for OpenGL,MDEwOlJlcG9zaXRvcnkzMDEzNDc2NQ==
+439,handy,1318,4236,C++,https://github.com/yedf2/handy,🔥简洁易用的C++11网络库 / 支持单机千万并发连接 / a simple C++11 network server framework,MDEwOlJlcG9zaXRvcnkyMjUzNjAyMg==
+438,instant-meshes,522,4236,C++,https://github.com/wjakob/instant-meshes,Interactive field-aligned mesh generator,MDEwOlJlcG9zaXRvcnk0MjQ0MjA5OQ==
+440,nghttp2,844,4232,C++,https://github.com/nghttp2/nghttp2,nghttp2 - HTTP/2 C Library and tools,MDEwOlJlcG9zaXRvcnkxMTQ1MjY3Ng==
+441,gnuradio,1768,4210,C++,https://github.com/gnuradio/gnuradio,GNU Radio – the Free and Open Software Radio Ecosystem,MDEwOlJlcG9zaXRvcnkzMDMwMDY1
+442,USD,972,4205,C++,https://github.com/PixarAnimationStudios/USD,Universal Scene Description,MDEwOlJlcG9zaXRvcnk1ODE2ODE0Mw==
+443,hyperscan,640,4149,C++,https://github.com/intel/hyperscan,High-performance regular expression matching library,MDEwOlJlcG9zaXRvcnk0Mjg5NTkyOQ==
+444,openvino,1639,4146,C++,https://github.com/openvinotoolkit/openvino,OpenVINO™ Toolkit repository,MDEwOlJlcG9zaXRvcnkxNTMwOTc2NDM=
+445,QWidgetDemo,1311,4118,C++,https://github.com/feiyangqingyun/QWidgetDemo,Qt编写的一些开源的demo，预计会有100多个，一直持续更新完善，代码简洁易懂注释详细，每个都是独立项目，非常适合初学者，代码随意传播使用，拒绝打赏和捐赠，欢迎留言评论！,MDEwOlJlcG9zaXRvcnkyMTI3OTA3NDU=
+446,bloaty,298,4088,C++,https://github.com/google/bloaty,Bloaty McBloatface: a size profiler for binaries,MDEwOlJlcG9zaXRvcnk3MzEwMTU1OA==
+447,pedalboard,176,4084,C++,https://github.com/spotify/pedalboard,🎛 🔊 A Python library for working with audio.,MDEwOlJlcG9zaXRvcnkzODM0NzExOTM=
+448,arrayfire,521,4084,C++,https://github.com/arrayfire/arrayfire,ArrayFire: a general purpose GPU library.,MDEwOlJlcG9zaXRvcnkyNTg4OTgwMg==
+449,VINS-Mono,1944,4083,C++,https://github.com/HKUST-Aerial-Robotics/VINS-Mono,A Robust and Versatile Monocular Visual-Inertial State Estimator,MDEwOlJlcG9zaXRvcnk5MTg3NTMyNQ==
+450,Detours,866,4059,C++,https://github.com/microsoft/Detours,Detours is a software package for monitoring and instrumenting API calls on Windows.  It is distributed in source code form.,MDEwOlJlcG9zaXRvcnk3MTQwMjg0Mg==
+451,meshoptimizer,354,4054,C++,https://github.com/zeux/meshoptimizer,Mesh optimization library that makes meshes smaller and faster to render,MDEwOlJlcG9zaXRvcnk2Nzc2ODMyNQ==
+452,winmerge,596,4044,C++,https://github.com/WinMerge/winmerge,"WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.",MDEwOlJlcG9zaXRvcnkyNjQ5NDAxOA==
+453,xmr-stak,1889,4031,C++,https://github.com/fireice-uk/xmr-stak,Free Monero RandomX Miner and unified CryptoNight miner,MDEwOlJlcG9zaXRvcnkxMDU2OTcxNTI=
+454,gameplay,1261,4022,C++,https://github.com/gameplay3d/gameplay,"Open-source, cross-platform, C++ game engine for creating 2D/3D games.",MDEwOlJlcG9zaXRvcnkyNTY3NDc1
+455,Sunshine,204,4003,C++,https://github.com/LizardByte/Sunshine,Self-hosted game stream host for Moonlight.,R_kgDOGiedsg
+456,yaml-cpp,1502,4000,C++,https://github.com/jbeder/yaml-cpp,A YAML parser and emitter in C++,MDEwOlJlcG9zaXRvcnkzMzEwMDA2NA==
+457,SuperWeChatPC,1021,3965,C++,https://github.com/anhkgg/SuperWeChatPC,超级微信电脑客户端，支持多开、防消息撤销、语音消息备份...开放WeChatSDK,MDEwOlJlcG9zaXRvcnk5MTIyODc1Nw==
+458,LeetCode-Solutions,1391,3963,C++,https://github.com/kamyu104/LeetCode-Solutions,🏋️ Python / Modern C++ Solutions of All 2603 LeetCode Problems (Weekly Update),MDEwOlJlcG9zaXRvcnkxNTI2MzExODI=
+459,Blackbone,1241,3958,C++,https://github.com/DarthTon/Blackbone,Windows memory hacking library,MDEwOlJlcG9zaXRvcnkxNTQzODI1NQ==
+460,asio,1068,3950,C++,https://github.com/chriskohlhoff/asio,Asio C++ Library,MDEwOlJlcG9zaXRvcnkxMzY4MTk1
+461,aleth,2280,3948,C++,https://github.com/ethereum/aleth,"Aleth – Ethereum C++ client, tools and libraries",MDEwOlJlcG9zaXRvcnkxNTQ2MDY2Ng==
+462,glslViewer,323,3941,C++,https://github.com/patriciogonzalezvivo/glslViewer,Console-based GLSL Sandbox for 2D/3D shaders,MDEwOlJlcG9zaXRvcnkyNzEzNTUzNQ==
+463,scribe,804,3939,C++,https://github.com/facebookarchive/scribe,Scribe is a server for aggregating log data streamed in real time from a large number of servers.,MDEwOlJlcG9zaXRvcnkxNjU4ODY=
+464,stk-code,1011,3938,C++,https://github.com/supertuxkart/stk-code,The code base of supertuxkart,MDEwOlJlcG9zaXRvcnkxNTkyMDI3Mw==
+465,better-sqlite3,354,3933,C++,https://github.com/WiseLibs/better-sqlite3,The fastest and simplest library for SQLite3 in Node.js.,MDEwOlJlcG9zaXRvcnk2NzYyNjEwOA==
+466,tigervnc,821,3912,C++,https://github.com/TigerVNC/tigervnc,"High performance, multi-platform VNC client and server",MDEwOlJlcG9zaXRvcnkyMTIwMjkwMg==
+467,ghostwriter,285,3902,C++,https://github.com/KDE/ghostwriter,Text editor for Markdown,MDEwOlJlcG9zaXRvcnk0MTE5OTc5Ng==
+468,Arduino-IRremote,1703,3899,C++,https://github.com/Arduino-IRremote/Arduino-IRremote,Infrared remote library for Arduino: send and receive infrared signals with multiple protocols,MDEwOlJlcG9zaXRvcnk0ODQ3ODg=
+469,endless-sky,861,3896,C++,https://github.com/endless-sky/endless-sky,"Space exploration, trading, and combat game.",MDEwOlJlcG9zaXRvcnkzMjIzMTIwNw==
+470,TNN,710,3891,C++,https://github.com/Tencent/TNN,"TNN: developed by Tencent Youtu Lab and Guangying Lab, a uniform deep learning inference framework for mobile、desktop and server. TNN is distinguished by several outstanding features, including its cross-platform capability, high performance, model compression and code pruning. Based on ncnn and Rapidnet, TNN further strengthens the support and performance optimization for mobile devices, and also draws on the advantages of good extensibility and high performance from existed open source efforts. TNN has been deployed in multiple Apps from Tencent, such as Mobile QQ, Weishi, Pitu, etc. Contributions are welcome to work in collaborative with us and make TNN a better framework. ",MDEwOlJlcG9zaXRvcnkyNjc3OTI2MjE=
+471,BetterNCM,253,3884,C++,https://github.com/MicroCBer/BetterNCM,NCM 软件插件管理器,R_kgDOHHSong
+472,slambook2,1655,3883,C++,https://github.com/gaoxiang12/slambook2,edition 2 of the slambook,MDEwOlJlcG9zaXRvcnkxNDUyNzU1NTU=
+473,libigl,1052,3870,C++,https://github.com/libigl/libigl,Simple C++ geometry processing library.,MDEwOlJlcG9zaXRvcnkxNzA1NTI2NA==
+474,cryptopp,1133,3869,C++,https://github.com/weidai11/cryptopp,free C++ class library of cryptographic schemes,MDEwOlJlcG9zaXRvcnkzNjgzMjczNg==
+475,Launcher,767,3853,C++,https://github.com/MultiMC/Launcher,A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once,MDEwOlJlcG9zaXRvcnkxMjY4MjIxMg==
+476,FlaxEngine,381,3853,C++,https://github.com/FlaxEngine/FlaxEngine,Flax Engine – multi-platform 3D game engine,MDEwOlJlcG9zaXRvcnkzMTk5OTE0NDE=
+477,lux,93,3851,C++,https://github.com/LUX-Core/lux,LUX - Hybrid PoW/PoS & Unique PHI2 Algorithm | Masternode | Parallel masternode | Segwit | Smartcontract | Luxgate | Proof of file storage (Decentralised distributed file storage),MDEwOlJlcG9zaXRvcnkxNDI1MjY2NTc=
+478,StarSpace,542,3843,C++,https://github.com/facebookresearch/StarSpace,"Learning embeddings for classification, retrieval and ranking.",MDEwOlJlcG9zaXRvcnk5NTY5NjI4OA==
+479,SHADERed,232,3835,C++,https://github.com/dfranx/SHADERed,"Lightweight, cross-platform & full-featured shader IDE",MDEwOlJlcG9zaXRvcnkxNDk5MzA3MjE=
+480,Karabiner,324,3832,C++,https://github.com/tekezo/Karabiner,Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization.,MDEwOlJlcG9zaXRvcnkxNjI1NDkx
+481,cgal,1204,3786,C++,https://github.com/CGAL/cgal,"The public CGAL repository, see the README below",MDEwOlJlcG9zaXRvcnkyNDY3NzM5Mg==
+482,rtorrent,416,3782,C++,https://github.com/rakshasa/rtorrent,rTorrent BitTorrent client,MDEwOlJlcG9zaXRvcnkyNTAyNjM4
+483,panda3d,758,3772,C++,https://github.com/panda3d/panda3d,"Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU",MDEwOlJlcG9zaXRvcnkxMzIxMjE2NQ==
+484,QuantLib,1478,3771,C++,https://github.com/lballabio/QuantLib,The QuantLib C++ library,MDEwOlJlcG9zaXRvcnk0ODE4NTU4Nw==
+485,Notepad3,276,3767,C++,https://github.com/rizonesoft/Notepad3,Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:,MDEwOlJlcG9zaXRvcnk0NjEwMjU4OQ==
+486,Rack,417,3766,C++,https://github.com/VCVRack/Rack,The virtual Eurorack studio,MDEwOlJlcG9zaXRvcnk3Mzc1NjUzOQ==
+487,LANDrop,321,3755,C++,https://github.com/LANDrop/LANDrop,Drop any files to any devices on your LAN.,MDEwOlJlcG9zaXRvcnkzMjg4OTMzNzM=
+488,opentoonz,486,3732,C++,https://github.com/opentoonz/opentoonz,OpenToonz - An open-source full-featured 2D animation creation software,MDEwOlJlcG9zaXRvcnk1NDIyMTIzMg==
+489,The-Powder-Toy,713,3730,C++,https://github.com/The-Powder-Toy/The-Powder-Toy,"Written in C++ and using SDL, The Powder Toy is a desktop version of the classic 'falling sand' physics sandbox, it simulates air pressure and velocity as well as heat.",MDEwOlJlcG9zaXRvcnk3OTY1MzI=
+490,beast,614,3725,C++,https://github.com/boostorg/beast,HTTP and WebSocket built on Boost.Asio in C++11,MDEwOlJlcG9zaXRvcnkxMDcyNjUxMA==
+491,FLIF,233,3710,C++,https://github.com/FLIF-hub/FLIF,Free Lossless Image Format,MDEwOlJlcG9zaXRvcnk0MjA1MDc1Mg==
+492,LxRunOffline,230,3708,C++,https://github.com/DDoSolitary/LxRunOffline,A full-featured utility for managing Windows Subsystem for Linux (WSL),MDEwOlJlcG9zaXRvcnk3ODMyMjYxNg==
+493,gdal,2048,3693,C++,https://github.com/OSGeo/gdal,GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats.,MDEwOlJlcG9zaXRvcnk2MTQ4MzE3
+494,AppImageLauncher,196,3689,C++,https://github.com/TheAssassin/AppImageLauncher,"Helper application for Linux distributions serving as a kind of ""entry point"" for running and integrating AppImages",MDEwOlJlcG9zaXRvcnkxMjU3MjI5NDU=
+495,range-v3,414,3687,C++,https://github.com/ericniebler/range-v3,"Range library for C++14/17/20, basis for C++20's std::ranges",MDEwOlJlcG9zaXRvcnkxNDMwNTcyNw==
+496,matplotlib-cpp,1002,3680,C++,https://github.com/lava/matplotlib-cpp,Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib,MDEwOlJlcG9zaXRvcnkyNDkzNjM2NQ==
+497,NoahGameFrame,1037,3674,C++,https://github.com/ketoo/NoahGameFrame,"A fast, scalable, distributed game server engine/framework for C++, include the actor library, network library, can be used as a  real time multiplayer game engine ( MMO RPG/MOBA ), which support C#/Lua script/ Unity3d, Cocos2dx and plan to support Unreal.",MDEwOlJlcG9zaXRvcnkxOTg0MzgwOQ==
+498,puerts,526,3674,C++,https://github.com/Tencent/puerts,普洱TS！Write your game with TypeScript in UE or Unity. PuerTS can be pronounced as pu-erh TS,MDEwOlJlcG9zaXRvcnkyODc3MDY4OTY=
+499,cocos-engine,1353,3660,C++,https://github.com/cocos/cocos-engine,"Cocos Engine is an open-source framework for building 2D & 3D real-time rendering and interactive contents, especially video games, which can be deployed to mobile, desktop and web. It is inherited from the legacy Cocos2d-x with a redesigned modern architecture. To run this engine, please download Cocos Creator.",MDEwOlJlcG9zaXRvcnk0NzQ0MDUzNg==
+500,cppfront,155,3657,C++,https://github.com/hsutter/cppfront,A personal experimental C++ Syntax 2 -> Syntax 1 compiler,MDEwOlJlcG9zaXRvcnk0MDY5MjM3MzE=
+501,Natron,272,3653,C++,https://github.com/NatronGitHub/Natron,Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.,MDEwOlJlcG9zaXRvcnkxMTY5NDExNTA=
+502,ricochet,412,3651,C++,https://github.com/ricochet-im/ricochet,Anonymous peer-to-peer instant messaging,MDEwOlJlcG9zaXRvcnk3NjI4Mzc=
+503,oclint,472,3639,C++,https://github.com/oclint/oclint,"A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C",MDEwOlJlcG9zaXRvcnk3MTU5NjQw
+504,meshlab,728,3615,C++,https://github.com/cnr-isti-vclab/meshlab,The open source mesh processing system,MDEwOlJlcG9zaXRvcnk3MzAyNzMwNA==
+505,blynk-library,1328,3602,C++,https://github.com/blynkkk/blynk-library,"Blynk library for embedded hardware. Works with Arduino, ESP8266, Raspberry Pi, Intel Edison/Galileo, LinkIt ONE, Particle Core/Photon, Energia, ARM mbed, etc.",MDEwOlJlcG9zaXRvcnkzMjc5MTgyMQ==
+506,LIEF,534,3600,C++,https://github.com/lief-project/LIEF,LIEF - Library to Instrument Executable Formats,MDEwOlJlcG9zaXRvcnk4NTIwNTg1MQ==
+507,open_spiel,801,3598,C++,https://github.com/deepmind/open_spiel,OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.,MDEwOlJlcG9zaXRvcnkxOTgyMzI2ODU=
+508,i2cdevlib,7509,3596,C++,https://github.com/jrowberg/i2cdevlib,I2C device library collection for AVR/Arduino or other C++-based MCUs,MDEwOlJlcG9zaXRvcnkyMTA1MTQz
+509,lyra,321,3573,C++,https://github.com/google/lyra,A Very Low-Bitrate Codec for Speech Compression,MDEwOlJlcG9zaXRvcnkzNDk1MjIzNDA=
+510,ProcMon-for-Linux,218,3566,C++,https://github.com/Sysinternals/ProcMon-for-Linux,Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.,MDEwOlJlcG9zaXRvcnkyNzg3NDg3MDA=
+511,ammo.js,501,3555,C++,https://github.com/kripken/ammo.js,Direct port of the Bullet physics engine to JavaScript using Emscripten,MDEwOlJlcG9zaXRvcnkxODE1ODA3
+512,node-fibers,229,3554,C++,https://github.com/laverdet/node-fibers,Fiber/coroutine support for v8 and node.,MDEwOlJlcG9zaXRvcnkxMjgxMDgw
+513,pubsubclient,1411,3551,C++,https://github.com/knolleary/pubsubclient,A client library for the Arduino Ethernet Shield that provides support for MQTT.,MDEwOlJlcG9zaXRvcnkxMTk3ODk=
+514,magic_enum,341,3539,C++,https://github.com/Neargye/magic_enum,"Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code",MDEwOlJlcG9zaXRvcnkxNzg2MTMwNDA=
+515,The-Forge,386,3524,C++,https://github.com/ConfettiFX/The-Forge,"The Forge Cross-Platform Rendering Framework PC Windows, Linux, Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2",MDEwOlJlcG9zaXRvcnkxMDU2MDA5OTE=
+516,musikcube,258,3489,C++,https://github.com/clangen/musikcube,"a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++",MDEwOlJlcG9zaXRvcnkzMjQ4MzE2NA==
+517,flutter-webrtc,936,3484,C++,https://github.com/flutter-webrtc/flutter-webrtc,WebRTC plugin for Flutter Mobile/Desktop/Web,MDEwOlJlcG9zaXRvcnkxMjQxNjY4MDQ=
+518,cereal,670,3474,C++,https://github.com/USCiLab/cereal,A C++11 library for serialization,MDEwOlJlcG9zaXRvcnkxMDk1Mjk5Nw==
+519,cxxopts,524,3472,C++,https://github.com/jarro2783/cxxopts,Lightweight C++ command line option parser,MDEwOlJlcG9zaXRvcnkyNDc0NzcyMw==
+520,braft,797,3471,C++,https://github.com/baidu/braft,"An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.",MDEwOlJlcG9zaXRvcnkxMjA2MDYyNzk=
+521,olcPixelGameEngine,898,3462,C++,https://github.com/OneLoneCoder/olcPixelGameEngine,"The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects",MDEwOlJlcG9zaXRvcnkxNDcxMDYyODg=
+522,nano-node,797,3455,C++,https://github.com/nanocurrency/nano-node,Nano is digital money,MDEwOlJlcG9zaXRvcnkxOTM0NzM0MA==
+523,appjs,367,3445,C++,https://github.com/appjs/appjs,(Deprecated!) SDK on top of nodejs to build desktop apps using HTML5/CSS/JS,MDEwOlJlcG9zaXRvcnkzODUzNzUx
+524,verona,161,3443,C++,https://github.com/microsoft/verona,Research programming language for concurrent ownership,MDEwOlJlcG9zaXRvcnkyMDgzNjY0ODM=
+525,QtAV,1408,3437,C++,https://github.com/wang-bin/QtAV,A cross-platform multimedia framework based on Qt and FFmpeg. 基于Qt和FFmpeg的跨平台高性能音视频播放框架. Recommand to use new sdk https://github.com/wang-bin/mdk-sdk,MDEwOlJlcG9zaXRvcnk2NDM1MDQy
+526,BespokeSynth,192,3435,C++,https://github.com/BespokeSynth/BespokeSynth,Software modular synth,MDEwOlJlcG9zaXRvcnk2NTY3MDYzMQ==
+527,design-patterns-cpp,857,3435,C++,https://github.com/JakubVojvoda/design-patterns-cpp,C++ Design Patterns,MDEwOlJlcG9zaXRvcnk2NzM2ODYwNg==
+528,Revive,335,3422,C++,https://github.com/LibreVR/Revive,"Play Oculus-exclusive games on the HTC Vive or Valve Index, scroll down for downloads and installation instructions.",MDEwOlJlcG9zaXRvcnk1NTk3MzU3Nw==
+529,nerd,127,3417,C++,https://github.com/NerdLang/nerd,🔱 Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries.,MDEwOlJlcG9zaXRvcnk3ODk0NTQxMg==
+530,OpenMower,133,3417,C++,https://github.com/ClemensElflein/OpenMower,"Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!",R_kgDOGvX51Q
+531,lac,563,3412,C++,https://github.com/baidu/lac,百度NLP：分词，词性标注，命名实体识别，词重要性,MDEwOlJlcG9zaXRvcnkxMzkzODU4MDA=
+532,Clementine,662,3410,C++,https://github.com/clementine-player/Clementine,:tangerine: Clementine Music Player,MDEwOlJlcG9zaXRvcnkxNDk3OTMxMg==
+533,mindspore,626,3409,C++,https://github.com/mindspore-ai/mindspore,"MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.",MDEwOlJlcG9zaXRvcnkyMzk3MTQ4MzU=
+534,AI-on-the-edge-device,453,3397,C++,https://github.com/jomjol/AI-on-the-edge-device,"Easy to use device for connecting ""old"" measuring units (water, power, gas, ...) to the digital world",MDEwOlJlcG9zaXRvcnkyODMyODAxNTQ=
+535,Bear,265,3389,C++,https://github.com/rizsotto/Bear,Bear is a tool that generates a compilation database for clang tooling.,MDEwOlJlcG9zaXRvcnk2NDU4NTU3
+536,LeetCode,992,3388,C++,https://github.com/pezy/LeetCode,:pencil2: LeetCode solutions in C++ 11 and Python3,MDEwOlJlcG9zaXRvcnkyNTIzMzAzNQ==
+537,minigo,562,3382,C++,https://github.com/tensorflow/minigo,An open-source implementation of the AlphaGoZero algorithm,MDEwOlJlcG9zaXRvcnkxMTk0NTUzMzI=
+538,sol2,386,3377,C++,https://github.com/ThePhD/sol2,"Sol3 (sol2 v3.0) - a C++ <-> Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:",MDEwOlJlcG9zaXRvcnk0OTE3NzU0Nw==
+539,lmctfy,247,3374,C++,https://github.com/google/lmctfy,"lmctfy is the open source version of Google’s container stack, which provides Linux application containers.",MDEwOlJlcG9zaXRvcnkxMjg3MjI5OQ==
+540,asmjit,461,3371,C++,https://github.com/asmjit/asmjit,Low-latency machine code generation,MDEwOlJlcG9zaXRvcnkxNjMyNzA5OQ==
+541,easyloggingpp,885,3370,C++,https://github.com/amrayn/easyloggingpp,"Single header C++ logging library. It is extremely powerful, extendable, light-weight, fast performing, thread and type safe and consists of many built-in features. It provides ability to write logs in your own customized format. It also provide support for logging your classes, third-party libraries, STL and third-party containers etc.",MDEwOlJlcG9zaXRvcnk1OTE5MTg4
+542,Waybar,459,3369,C++,https://github.com/Alexays/Waybar,Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:,MDEwOlJlcG9zaXRvcnkxNDQwNzE0MjU=
+543,ccls,236,3355,C++,https://github.com/MaskRay/ccls,"C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting",MDEwOlJlcG9zaXRvcnkxMjc1MDY4MjQ=
+544,pugixml,665,3353,C++,https://github.com/zeux/pugixml,"Light-weight, simple and fast XML parser for C++ with XPath support",MDEwOlJlcG9zaXRvcnk0OTIzMzAx
+545,dynet,711,3353,C++,https://github.com/clab/dynet,DyNet: The Dynamic Neural Network Toolkit,MDEwOlJlcG9zaXRvcnkzMDUwOTQ4Mw==
+546,source-sdk-2013,1876,3352,C++,https://github.com/ValveSoftware/source-sdk-2013,The 2013 edition of the Source SDK,MDEwOlJlcG9zaXRvcnkxMDk4MDcyOQ==
+547,LibreCAD,878,3349,C++,https://github.com/LibreCAD/LibreCAD,"LibreCAD is a cross-platform 2D CAD program written in C++11 using the Qt framework. It can read DXF and DWG files and can write DXF, PDF and SVG files. The user interface is highly customizable, and has dozens of translations.",MDEwOlJlcG9zaXRvcnkxNTk2NTgw
+548,PlotJuggler,475,3348,C++,https://github.com/facontidavide/PlotJuggler,The Time Series Visualization Tool that you deserve.,MDEwOlJlcG9zaXRvcnk1MjkwOTk3NQ==
+549,mapnik,805,3344,C++,https://github.com/mapnik/mapnik,Mapnik is an open source toolkit for developing mapping applications,MDEwOlJlcG9zaXRvcnkyNTU2MzI3
+550,audio-router,422,3343,C++,https://github.com/audiorouterdev/audio-router,Routes audio from programs to different audio devices.,MDEwOlJlcG9zaXRvcnk2MDA0NTg5OA==
+551,AmnesiaTheDarkDescent,351,3341,C++,https://github.com/FrictionalGames/AmnesiaTheDarkDescent,,MDEwOlJlcG9zaXRvcnkyOTU3NTAwNTk=
+552,fritzing-app,716,3331,C++,https://github.com/fritzing/fritzing-app,Fritzing desktop application,MDEwOlJlcG9zaXRvcnkyMzMyMjY2Mw==
+553,tcmalloc,374,3331,C++,https://github.com/google/tcmalloc,,MDEwOlJlcG9zaXRvcnkyMDQwMDk5ODg=
+554,Torque3D,1228,3327,C++,https://github.com/GarageGames/Torque3D,MIT Licensed Open Source version of Torque 3D from GarageGames,MDEwOlJlcG9zaXRvcnk1ODYyNjQ0
+555,oboe,518,3324,C++,https://github.com/google/oboe,Oboe is a C++ library that makes it easy to build high-performance audio apps on Android.,MDEwOlJlcG9zaXRvcnkxMDU1NjYzMzM=
+556,obs-websocket,653,3315,C++,https://github.com/obsproject/obs-websocket,Remote-control of OBS Studio through WebSocket,MDEwOlJlcG9zaXRvcnk3MDQzNDM2NQ==
+557,stairspeedtest-reborn,639,3307,C++,https://github.com/tindy2013/stairspeedtest-reborn,Proxy performance batch tester based on Shadowsocks(R) and V2Ray,MDEwOlJlcG9zaXRvcnkxOTk5NzE1OTk=
+558,ELF,578,3302,C++,https://github.com/pytorch/ELF,ELF: a platform for game research with AlphaGoZero/AlphaZero reimplementation,MDEwOlJlcG9zaXRvcnkxMzEyMTMwNTE=
+559,obs-StreamFX,342,3300,C++,https://github.com/Xaymar/obs-StreamFX,"StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.",MDEwOlJlcG9zaXRvcnk5NTcxMjYxNA==
+560,react-native-mmkv,160,3299,C++,https://github.com/mrousavy/react-native-mmkv,⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!,MDEwOlJlcG9zaXRvcnkzNDE4MTY3NTg=
+561,mixxx,1111,3295,C++,https://github.com/mixxxdj/mixxx,Mixxx is Free DJ software that gives you everything you need to perform live mixes.,MDEwOlJlcG9zaXRvcnkxMDEyNjAzMQ==
+562,include-what-you-use,349,3282,C++,https://github.com/include-what-you-use/include-what-you-use,A tool for use with clang to analyze #includes in C and C++ source files,MDEwOlJlcG9zaXRvcnkzNzQ0MDMzOA==
+563,CSPostgraduate-408,590,3281,C++,https://github.com/CodePanda66/CSPostgraduate-408,💯  CSPostgraduate 计算机考研 408 专业课资料及真题资源,MDEwOlJlcG9zaXRvcnkyODM4MDEwNTM=
+564,kalibr,1225,3273,C++,https://github.com/ethz-asl/kalibr,The Kalibr visual-inertial calibration toolbox,MDEwOlJlcG9zaXRvcnkyMDI5MzA3Nw==
+565,robotstxt,218,3272,C++,https://github.com/google/robotstxt,The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11).,MDEwOlJlcG9zaXRvcnkxOTE0MTkwNzA=
+566,ALVR,319,3269,C++,https://github.com/alvr-org/ALVR,Stream VR games from your PC to your headset via Wi-Fi,MDEwOlJlcG9zaXRvcnkxOTcyMTE4ODE=
+567,WindowsAppSDK,249,3257,C++,https://github.com/microsoft/WindowsAppSDK,"The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.",MDEwOlJlcG9zaXRvcnkyNTYwNDkyMzM=
+568,noMeiryoUI,123,3256,C++,https://github.com/Tatsu-syo/noMeiryoUI,No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11.,MDEwOlJlcG9zaXRvcnk3NzMxNjc4OA==
+569,coost,491,3254,C++,https://github.com/idealvin/coost,A tiny boost library in C++11.,MDEwOlJlcG9zaXRvcnkyMjA4MTA5MTg=
+570,halley,155,3253,C++,https://github.com/amzeratul/halley,A lightweight game engine written in modern C++,MDEwOlJlcG9zaXRvcnk0MzI5NTMyOA==
+571,domoticz,1127,3245,C++,https://github.com/domoticz/domoticz,Open source Home Automation System,MDEwOlJlcG9zaXRvcnk0MDc1OTIyNw==
+572,Dobby,665,3241,C++,https://github.com/jmpews/Dobby,"a lightweight, multi-platform, multi-architecture hook framework.",MDEwOlJlcG9zaXRvcnk5OTI2MDM2Mw==
+573,cplusplus-_Implementation_Of_Introduction_to_Algorithms,978,3237,C++,https://github.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms,《算法导论》第三版中算法的C++实现,MDEwOlJlcG9zaXRvcnk1NDc3OTUyMw==
+574,msdfgen,315,3236,C++,https://github.com/Chlumsky/msdfgen,Multi-channel signed distance field generator,MDEwOlJlcG9zaXRvcnk1Njk3MTgxOQ==
+575,flamingo,1343,3233,C++,https://github.com/balloonwj/flamingo,flamingo 一款高性能轻量级开源即时通讯软件,MDEwOlJlcG9zaXRvcnk5MjM4NzAyMA==
+576,evpp,916,3224,C++,https://github.com/Qihoo360/evpp,A modern C++ network library for developing high performance network services in TCP/UDP/HTTP protocols.,MDEwOlJlcG9zaXRvcnk4Mzc5Mjc5MA==
+577,cuml,451,3220,C++,https://github.com/rapidsai/cuml,cuML - RAPIDS Machine Learning Library,MDEwOlJlcG9zaXRvcnkxNTI2MTY4MDI=
+578,pushpin,140,3216,C++,https://github.com/fanout/pushpin,Proxy server for adding push to your API,MDEwOlJlcG9zaXRvcnk1NTk1OTUw
+580,LibreSprite,193,3215,C++,https://github.com/LibreSprite/LibreSprite,Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite,MDEwOlJlcG9zaXRvcnk2NzA1ODczNQ==
+579,win-capture-audio,182,3215,C++,https://github.com/bozbez/win-capture-audio,"An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS's game capture and Discord's application streaming.",MDEwOlJlcG9zaXRvcnkzOTUzNDg2Mjk=
+581,phxpaxos,880,3209,C++,https://github.com/Tencent/phxpaxos,The Paxos library implemented in C++ that has been used in the WeChat production environment.,MDEwOlJlcG9zaXRvcnk1ODcyNzgwMA==
+582,zopfli,326,3209,C++,https://github.com/google/zopfli,"Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression.",MDEwOlJlcG9zaXRvcnkzMTg5MjI1MQ==
+583,ogre,867,3209,C++,https://github.com/OGRECave/ogre,"scene-oriented, flexible 3D engine (C++, Python, C#, Java)",MDEwOlJlcG9zaXRvcnk0NzA2OTgxOQ==
+584,matplotplusplus,245,3184,C++,https://github.com/alandefreitas/matplotplusplus,Matplot++: A C++ Graphics Library for Data Visualization 📊🗾,MDEwOlJlcG9zaXRvcnkyOTExNzM1NDA=
+585,fully-homomorphic-encryption,225,3184,C++,https://github.com/google/fully-homomorphic-encryption,An FHE compiler for C++,MDEwOlJlcG9zaXRvcnkzNjQ3MDUzNDA=
+586,cubefs,420,3170,C++,https://github.com/cubefs/cubefs,CubeFS is a cloud native file storage,MDEwOlJlcG9zaXRvcnkxNzEzOTY3NDg=
+587,AppleALC,923,3164,C++,https://github.com/acidanthera/AppleALC,Native macOS HD audio for not officially supported codecs,MDEwOlJlcG9zaXRvcnk1MzM1Nzc4Mg==
+588,Serial-Studio,457,3163,C++,https://github.com/Serial-Studio/Serial-Studio,Multi-purpose serial data visualization & processing program,MDEwOlJlcG9zaXRvcnkzMDUwODk2Mjg=
+589,PrismLauncher,250,3161,C++,https://github.com/PrismLauncher/PrismLauncher,A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC),R_kgDOIPgvGA
+590,reshade,478,3155,C++,https://github.com/crosire/reshade,A generic post-processing injector for games and video software.,MDEwOlJlcG9zaXRvcnk2MTI0NjU5Ng==
+591,beringei,313,3155,C++,https://github.com/facebookarchive/beringei,"Beringei is a high performance, in-memory storage engine for time series data.",MDEwOlJlcG9zaXRvcnk3MDU0MTA5Mw==
+592,nan,510,3154,C++,https://github.com/nodejs/nan,Native Abstractions for Node.js,MDEwOlJlcG9zaXRvcnkxMTU0NTkyOA==
+593,taskwarrior,226,3148,C++,https://github.com/GothenburgBitFactory/taskwarrior,Taskwarrior - Command line Task Management,MDEwOlJlcG9zaXRvcnkxMjAwODAzNzc=
+594,hotspot,213,3146,C++,https://github.com/KDAB/hotspot,The Linux perf GUI for performance analysis.,MDEwOlJlcG9zaXRvcnk3Njk3ODI1NA==
+595,hybridclr,421,3135,C++,https://github.com/focus-creative-games/hybridclr,"HybridCLR是一个特性完整、零成本、高性能、低内存的Unity全平台原生c#热更方案。 HybridCLR is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotupdate.",R_kgDOHmrFAQ
+596,openthread,1005,3126,C++,https://github.com/openthread/openthread,OpenThread released by Google is an open-source implementation of the Thread networking protocol,MDEwOlJlcG9zaXRvcnk1NTgwODc4Nw==
+597,fastnetmon,562,3124,C++,https://github.com/pavel-odintsov/fastnetmon,FastNetMon - very fast DDoS sensor with sFlow/Netflow/IPFIX/SPAN support,MDEwOlJlcG9zaXRvcnkxMzY3NDk3Mg==
+598,mcrouter,528,3122,C++,https://github.com/facebook/mcrouter,Mcrouter is a memcached protocol router for scaling memcached deployments.,MDEwOlJlcG9zaXRvcnkxNjIxMTgxOA==
+599,love,277,3111,C++,https://github.com/love2d/love,LÖVE is an awesome 2D game framework for Lua.,MDEwOlJlcG9zaXRvcnkxODg2MDEyMjk=
+600,PacVim,195,3103,C++,https://github.com/jmoon018/PacVim,,MDEwOlJlcG9zaXRvcnkyNjk5MjgzMQ==
+601,oneDNN,869,3101,C++,https://github.com/oneapi-src/oneDNN,oneAPI Deep Neural Network Library (oneDNN),MDEwOlJlcG9zaXRvcnk1ODQxNDU4OQ==
+602,nlp_paper_study,588,3101,C++,https://github.com/km1994/nlp_paper_study,该仓库主要记录 NLP 算法工程师相关的顶会论文研读笔记,MDEwOlJlcG9zaXRvcnkxODczMjg2MzI=
+603,Bilibili-plus,901,3096,C++,https://github.com/ZachL1/Bilibili-plus,课程视频、PPT和源代码：侯捷C++系列；台大郭彦甫MATLAB,MDEwOlJlcG9zaXRvcnkzMzk2NzQyMzM=
+604,fr_public,331,3091,C++,https://github.com/farbrausch/fr_public,Farbrausch demo tools 2001-2011,MDEwOlJlcG9zaXRvcnkzOTkwNDU5
+605,CppPrimer,1464,3088,C++,https://github.com/pezy/CppPrimer,:books: Solutions for C++ Primer 5th exercises.,MDEwOlJlcG9zaXRvcnkyMTQxMzM0OA==
+606,orbit,316,3085,C++,https://github.com/google/orbit,C/C++ Performance Profiler,MDEwOlJlcG9zaXRvcnkxMDQzNTg1ODc=
+607,btfs,131,3084,C++,https://github.com/johang/btfs,A bittorrent filesystem based on FUSE.,MDEwOlJlcG9zaXRvcnkzOTcxODc2Nw==
+608,vcmi,355,3083,C++,https://github.com/vcmi/vcmi,Open-source engine for Heroes of Might and Magic III,MDEwOlJlcG9zaXRvcnkxODQ5MDQyMQ==
+609,touchegg,157,3063,C++,https://github.com/JoseExposito/touchegg,Linux multi-touch gesture recognizer,MDEwOlJlcG9zaXRvcnkzMjMzNzAwMg==
+611,ceres-solver,933,3059,C++,https://github.com/ceres-solver/ceres-solver,A large scale non-linear optimization library,MDEwOlJlcG9zaXRvcnkxNTY2NzI1MA==
+610,implot,333,3059,C++,https://github.com/epezent/implot,Immediate Mode Plotting,MDEwOlJlcG9zaXRvcnkyNTc1OTY0NDk=
+612,mergerfs,146,3056,C++,https://github.com/trapexit/mergerfs,a featureful union filesystem,MDEwOlJlcG9zaXRvcnkxODA2NzgyOQ==
+613,spring,814,3056,C++,https://github.com/spring/spring,A powerful free cross-platform RTS game engine. - Report issues at https://springrts.com/mantis/,MDEwOlJlcG9zaXRvcnk5NTQ1Ng==
+614,Slic3r,1284,3050,C++,https://github.com/slic3r/Slic3r,Open Source toolpath generator for 3D printers,MDEwOlJlcG9zaXRvcnkyMzA5Njk2
+615,rpi-rgb-led-matrix,1016,3047,C++,https://github.com/hzeller/rpi-rgb-led-matrix,"Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi GPIO",MDEwOlJlcG9zaXRvcnk4MjQzMDc0
+616,Clipboard,78,3045,C++,https://github.com/Slackadays/Clipboard,"😎 Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! :rocket:",R_kgDOId8Xmg
+617,node-packer,210,3041,C++,https://github.com/pmq20/node-packer,Packing your Node.js application into a single executable.,MDEwOlJlcG9zaXRvcnk3MDQ4NDIxNw==
+618,xlearn,538,3041,C++,https://github.com/aksnzhy/xlearn,"High performance, easy-to-use, and scalable machine learning (ML) package, including linear model (LR), factorization machines (FM), and field-aware factorization machines (FFM) for Python and CLI interface.",MDEwOlJlcG9zaXRvcnk5MzkyNTI0Mg==
+619,manticoresearch,176,3039,C++,https://github.com/manticoresoftware/manticoresearch,Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon,MDEwOlJlcG9zaXRvcnk5NTYxNDkzMQ==
+620,WechatExporter,334,3033,C++,https://github.com/BlueMatthew/WechatExporter,Wechat Chat History Exporter 微信聊天记录导出备份程序,MDEwOlJlcG9zaXRvcnkzMDU1Mzk0MzE=
+621,GW-BASIC,460,3029,C++,https://github.com/microsoft/GW-BASIC,The original source code of Microsoft GW-BASIC from 1983,MDEwOlJlcG9zaXRvcnkyMzkwNDMxOTU=
+622,Vulkan-Samples,440,3027,C++,https://github.com/KhronosGroup/Vulkan-Samples,One stop solution for all Vulkan samples,MDEwOlJlcG9zaXRvcnkyMTgzMjk0Nzg=
+623,PAT,824,3024,C++,https://github.com/liuchuo/PAT,🍭 浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～,MDEwOlJlcG9zaXRvcnk0OTExMzcyMQ==
+624,pdns,830,3018,C++,https://github.com/PowerDNS/pdns,"PowerDNS Authoritative, PowerDNS Recursor, dnsdist",MDEwOlJlcG9zaXRvcnk5NjkzNTM0
+625,kurento-media-server,699,3011,C++,https://github.com/Kurento/kurento-media-server,"Media Server responsible for media transmission, processing, loading and recording",MDEwOlJlcG9zaXRvcnkxMjYyMzA2MA==
+626,Krypto-trading-bot,802,3005,C++,https://github.com/ctubio/Krypto-trading-bot,Self-hosted crypto trading bot (automated high frequency market making) written in C++,MDEwOlJlcG9zaXRvcnk5NDI1Mzc2NQ==
+627,QOwnNotes,327,3003,C++,https://github.com/pbek/QOwnNotes,QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.,MDEwOlJlcG9zaXRvcnkyNzQzNjQ5MQ==
+628,WhateverGreen,581,3003,C++,https://github.com/acidanthera/WhateverGreen,Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs,MDEwOlJlcG9zaXRvcnk5ODQ3MTM2Nw==
+629,DynamicAPK,875,2991,C++,https://github.com/CtripMobile/DynamicAPK,Solution to implement multi apk dynamic loading and hot fixing for Android App. (实现Android App多apk插件化和动态加载，支持资源分包和热修复),MDEwOlJlcG9zaXRvcnk0NDUxMzEyOQ==
+630,LumixEngine,373,2990,C++,https://github.com/nem0/LumixEngine,3D C++ Game Engine - yet another open source game engine,MDEwOlJlcG9zaXRvcnkxNDU5MDEyNQ==
+631,nmslib,414,2985,C++,https://github.com/nmslib/nmslib,Non-Metric Space Library (NMSLIB): An efficient similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces.,MDEwOlJlcG9zaXRvcnkxMTMwOTc5NQ==
+632,srsRAN_4G,999,2982,C++,https://github.com/srsran/srsRAN_4G,Open source SDR 4G software suite from Software Radio Systems (SRS),MDEwOlJlcG9zaXRvcnkxNDk4MzkyMQ==
+633,clang,1694,2980,C++,https://github.com/llvm-mirror/clang,Mirror kept for legacy. Moved to https://github.com/llvm/llvm-project,MDEwOlJlcG9zaXRvcnkzMjg3MzUz
+634,licode,1016,2973,C++,https://github.com/lynckia/licode,Open Source Communication Provider based on WebRTC and Cloud technologies,MDEwOlJlcG9zaXRvcnk2OTAyNjA1
+635,conceal,447,2972,C++,https://github.com/facebookarchive/conceal,Conceal provides easy Android APIs for performing fast encryption and authentication of data.,MDEwOlJlcG9zaXRvcnkxNjIyNjA2Mw==
+636,fibjs,311,2971,C++,https://github.com/fibjs/fibjs,JavaScript on Fiber (built on Chrome's V8 JavaScript engine),MDEwOlJlcG9zaXRvcnkxOTU0MDcwNg==
+637,backward-cpp,406,2970,C++,https://github.com/bombela/backward-cpp,A beautiful stack trace pretty printer for C++,MDEwOlJlcG9zaXRvcnk4MjQ3Nzg0
+638,SEAL,609,2966,C++,https://github.com/microsoft/SEAL,Microsoft SEAL is an easy-to-use and powerful homomorphic encryption library.,MDEwOlJlcG9zaXRvcnkxNTY3ODczNTc=
+639,pyflame,239,2965,C++,https://github.com/uber-archive/pyflame,🔥 Pyflame: A Ptracing Profiler For Python. This project is deprecated and not maintained.,MDEwOlJlcG9zaXRvcnk2NTMxOTEwMQ==
+640,webscalesql-5.6,373,2963,C++,https://github.com/facebookarchive/webscalesql-5.6,"WebScaleSQL, Version 5.6, based upon the MySQL-5.6 community releases.",MDEwOlJlcG9zaXRvcnkxMzg4NzM4Mw==
+641,luau,273,2963,C++,https://github.com/Roblox/luau,"A fast, small, safe, gradually typed embeddable scripting language derived from Lua",MDEwOlJlcG9zaXRvcnkxNDg4MjEyNTY=
+642,OpenMQTTGateway,659,2959,C++,https://github.com/1technophile/OpenMQTTGateway,"MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluetooth, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale, TPMS, BBQ thermometer compatibility, SMS & LORA.",MDEwOlJlcG9zaXRvcnk2ODQ2MDMyNg==
+645,service-fabric,397,2958,C++,https://github.com/microsoft/service-fabric,"Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.",MDEwOlJlcG9zaXRvcnkxMjQzMTI5NTY=
+643,wangle,537,2958,C++,https://github.com/facebook/wangle,"Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.",MDEwOlJlcG9zaXRvcnkyNzg4OTY5NA==
+644,HElib,736,2958,C++,https://github.com/homenc/HElib,"HElib is an open-source software library that implements homomorphic encryption. It supports the BGV scheme with bootstrapping and the Approximate Number CKKS scheme. HElib also includes optimizations for efficient homomorphic evaluation, focusing on effective use of ciphertext packing techniques and on the Gentry-Halevi-Smart optimizations.",MDEwOlJlcG9zaXRvcnk5MjQyMjkz
+646,readerwriterqueue,584,2957,C++,https://github.com/cameron314/readerwriterqueue,"A fast single-producer, single-consumer lock-free queue for C++",MDEwOlJlcG9zaXRvcnk4MDY3NTI0
+647,ardour,589,2956,C++,https://github.com/Ardour/ardour,Mirror of Ardour Source Code,MDEwOlJlcG9zaXRvcnk4NzU3NTUy
+648,HIP,474,2946,C++,https://github.com/ROCm-Developer-Tools/HIP,HIP: C++ Heterogeneous-Compute Interface for Portability,MDEwOlJlcG9zaXRvcnk0OTIyMDE1Nw==
+649,shogun,1049,2938,C++,https://github.com/shogun-toolbox/shogun,Shōgun,MDEwOlJlcG9zaXRvcnkxNTU1MDk0
+650,glow,669,2936,C++,https://github.com/pytorch/glow,Compiler for Neural Network hardware accelerators,MDEwOlJlcG9zaXRvcnkxMDUyODE1MzE=
+651,harfbuzz,542,2933,C++,https://github.com/harfbuzz/harfbuzz,HarfBuzz text shaping engine,MDEwOlJlcG9zaXRvcnk1MDUwNTI1
+652,Algojammer,107,2924,C++,https://github.com/ChrisKnott/Algojammer,An experimental code editor for writing algorithms,MDEwOlJlcG9zaXRvcnkxNTA5ODYwMjg=
+653,EAST,1055,2923,C++,https://github.com/argman/EAST,A tensorflow implementation of EAST text detector,MDEwOlJlcG9zaXRvcnk5ODg3OTE5Ng==
+654,actor-framework,517,2919,C++,https://github.com/actor-framework/actor-framework,An Open Source Implementation of the Actor Model in C++,MDEwOlJlcG9zaXRvcnkxNDM5NzM4
+655,azerothcore-wotlk,1610,2918,C++,https://github.com/azerothcore/azerothcore-wotlk,Complete Open Source and Modular solution for MMO,MDEwOlJlcG9zaXRvcnk2MTk4MDY1OA==
+656,wenet,830,2916,C++,https://github.com/wenet-e2e/wenet,Production First and Production Ready End-to-End Speech Recognition Toolkit,MDEwOlJlcG9zaXRvcnkzMTM1MDE2Njg=
+657,cpp_new_features,660,2904,C++,https://github.com/0voice/cpp_new_features,2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等,MDEwOlJlcG9zaXRvcnkzODQzMDYxNDU=
+658,xtensor,364,2898,C++,https://github.com/xtensor-stack/xtensor,C++ tensors with broadcasting and lazy computing,MDEwOlJlcG9zaXRvcnk3MjM0MzIyMA==
+659,ESPEasy,2083,2896,C++,https://github.com/letscontrolit/ESPEasy,Easy MultiSensor device based on ESP8266,MDEwOlJlcG9zaXRvcnk0MjExOTg0Ng==
+660,AtomicGameEngine,511,2887,C++,https://github.com/AtomicGameEngine/AtomicGameEngine,"The Atomic Game Engine is a multi-platform 2D and 3D engine with a consistent API in C++, C#, JavaScript, and TypeScript",MDEwOlJlcG9zaXRvcnkyOTc5MDcwNw==
+661,tomahawk,376,2883,C++,https://github.com/tomahawk-player/tomahawk,"Tomahawk, the multi-source music player",MDEwOlJlcG9zaXRvcnk5OTAwMzU=
+662,auto-unlocker,414,2880,C++,https://github.com/paolo-projects/auto-unlocker,Unlocker for VMWare macOS,MDEwOlJlcG9zaXRvcnkyMTUzNzQ2OTI=
+663,ckb-next,250,2875,C++,https://github.com/ckb-next/ckb-next,RGB Driver for Linux,MDEwOlJlcG9zaXRvcnkxMTgyMjYxNTI=
+664,espurna,639,2873,C++,https://github.com/xoseperez/espurna,Home automation firmware for ESP8266-based devices,MDEwOlJlcG9zaXRvcnkxMTg3Njg4NzU=
+665,Serious-Engine,372,2863,C++,https://github.com/Croteam-official/Serious-Engine,An open source version of a game engine developed by Croteam for the classic Serious Sam games.,MDEwOlJlcG9zaXRvcnk1MzY2ODg3OA==
+666,libgo,732,2860,C++,https://github.com/yyzybb537/libgo,Go-style concurrency in C++11,MDEwOlJlcG9zaXRvcnk0ODUyMjY3OQ==
+667,notes,269,2856,C++,https://github.com/nuttyartist/notes,Fast and beautiful note-taking app written in C++. Write down your thoughts.,MDEwOlJlcG9zaXRvcnk0ODU5MzU1OQ==
+668,djinni,498,2854,C++,https://github.com/dropbox/djinni,A tool for generating cross-language type declarations and interface bindings.,MDEwOlJlcG9zaXRvcnkyMzgwNjMyNg==
+669,cefpython,466,2852,C++,https://github.com/cztomczak/cefpython,Python bindings for the Chromium Embedded Framework (CEF),MDEwOlJlcG9zaXRvcnk0MTU0MjUyMg==
+670,yue,136,2850,C++,https://github.com/yue/yue,A library for creating native cross-platform GUI apps,MDEwOlJlcG9zaXRvcnk2NTEyMjIyNw==
+671,pistache,661,2848,C++,https://github.com/pistacheio/pistache,A high-performance REST toolkit written in C++,MDEwOlJlcG9zaXRvcnk0MDYyMDc1OA==
+672,JoltPhysics,185,2846,C++,https://github.com/jrouwe/JoltPhysics,"A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications.",MDEwOlJlcG9zaXRvcnkzOTUzNDEzODM=
+673,NumCpp,461,2843,C++,https://github.com/dpilger26/NumCpp,C++ implementation of the Python Numpy library,MDEwOlJlcG9zaXRvcnkxMjA1NzE3MDA=
+676,euler,559,2834,C++,https://github.com/alibaba/euler,A distributed graph deep learning framework.,MDEwOlJlcG9zaXRvcnkxNjUwMDQxNTc=
+674,MITIE,536,2834,C++,https://github.com/mit-nlp/MITIE,MITIE: library and tools for information extraction,MDEwOlJlcG9zaXRvcnkxODM0NzY2OA==
+675,alien,76,2834,C++,https://github.com/chrxh/alien,ALIEN is a CUDA-powered artificial life simulation program.,MDEwOlJlcG9zaXRvcnkzMDU0MzgyMzU=
+677,EpicSurvivalGame,1135,2831,C++,https://github.com/tomlooman/EpicSurvivalGame,Third-person Survival Game for Unreal Engine 4 (Sample Project),MDEwOlJlcG9zaXRvcnkzMjU5MTEwMg==
+678,bfs,568,2831,C++,https://github.com/baidu/bfs,The Baidu File System.,MDEwOlJlcG9zaXRvcnkyNjU2MjE3Mg==
+679,tinyobjloader,558,2829,C++,https://github.com/tinyobjloader/tinyobjloader,Tiny but powerful single file wavefront obj loader,MDEwOlJlcG9zaXRvcnk1NDIxMjk2
+680,cling,236,2829,C++,https://github.com/root-project/cling,The cling C++ interpreter,MDEwOlJlcG9zaXRvcnk0OTIxMDIwMw==
+681,dumpDex,601,2823,C++,https://github.com/WrBug/dumpDex,"💯一款Android脱壳工具，需要xposed支持, 易开发已集成该项目。",MDEwOlJlcG9zaXRvcnkxMjU5OTI5NzQ=
+682,Cpp-0-1-Resource,1152,2820,C++,https://github.com/AnkerLeng/Cpp-0-1-Resource,C++ 匠心之作 从0到1入门资料,MDEwOlJlcG9zaXRvcnkyMTA1NDk2NjA=
+683,ESPAsyncWebServer,921,2816,C++,https://github.com/me-no-dev/ESPAsyncWebServer,Async Web Server for ESP8266 and ESP32,MDEwOlJlcG9zaXRvcnk0ODI4OTkyNA==
+684,botnets,704,2813,C++,https://github.com/maestron/botnets,"This is a collection of #botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY",MDEwOlJlcG9zaXRvcnkxNDcwNDEwMjE=
+685,angle,535,2813,C++,https://github.com/google/angle,"A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android.",MDEwOlJlcG9zaXRvcnkyMzM1NTY4MQ==
+686,onnx-simplifier,309,2811,C++,https://github.com/daquexian/onnx-simplifier,Simplify your onnx model,MDEwOlJlcG9zaXRvcnkxNzg4Mzc1MDU=
+687,ServerStatus,810,2811,C++,https://github.com/cppla/ServerStatus,云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/,MDEwOlJlcG9zaXRvcnkxMzg2Nzk2MDk=
+688,fivem,1692,2810,C++,https://github.com/citizenfx/fivem,"The source code for the Cfx.re modification frameworks, such as FiveM, RedM and LibertyM, as well as FXServer.",MDEwOlJlcG9zaXRvcnk3OTE2MDM1Nw==
+691,date,620,2809,C++,https://github.com/HowardHinnant/date,A date and time library based on the C++11/14/17 <chrono> header,MDEwOlJlcG9zaXRvcnkzOTI4MzgzNw==
+689,kungfu,993,2809,C++,https://github.com/kungfu-origin/kungfu,Kungfu Trader,MDEwOlJlcG9zaXRvcnkxMTA3OTU3MjE=
+690,PhoenixGo,573,2809,C++,https://github.com/Tencent/PhoenixGo,Go AI program which implements the AlphaGo Zero paper,MDEwOlJlcG9zaXRvcnkxMzI3MjMwMjI=
+692,PhysX,757,2808,C++,https://github.com/NVIDIAGameWorks/PhysX,NVIDIA PhysX SDK,MDEwOlJlcG9zaXRvcnkxNjA1MzA3MDk=
+693,singa,926,2808,C++,https://github.com/apache/singa,a distributed deep learning platform,MDEwOlJlcG9zaXRvcnkzMzI5NDMxNw==
+694,ydb,205,2803,C++,https://github.com/ydb-platform/ydb,YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions,R_kgDOGzZjoA
+695,Trojan-Qt5,819,2797,C++,https://github.com/Trojan-Qt5/Trojan-Qt5,Removed due to regulation,MDEwOlJlcG9zaXRvcnkyMzc3MjgwMTI=
+696,openbr,768,2786,C++,https://github.com/biometrics/openbr,"Open Source Biometrics, Face Recognition",MDEwOlJlcG9zaXRvcnk3MjUxMTk1
+697,RxCpp,373,2782,C++,https://github.com/ReactiveX/RxCpp,Reactive Extensions for C++,MDEwOlJlcG9zaXRvcnkxMjU4NDA2Mg==
+698,MusicPlayer2,288,2782,C++,https://github.com/zhongyang219/MusicPlayer2,这是一款可以播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 播放内核为BASS音频库(V2.4)。,MDEwOlJlcG9zaXRvcnk5OTc5OTMxNA==
+699,termite,245,2780,C++,https://github.com/thestinger/termite,"Termite is obsoleted by Alacritty. Termite was a keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.",MDEwOlJlcG9zaXRvcnk0NDAyMjc5
+700,KOOM,370,2780,C++,https://github.com/KwaiAppTeam/KOOM,KOOM is an OOM killer on mobile platform by Kwai.,MDEwOlJlcG9zaXRvcnkyODU1MTc2MzQ=
+701,thrust,131,2779,C++,https://github.com/breach/thrust,Chromium-based cross-platform / cross-language application framework,MDEwOlJlcG9zaXRvcnkxMTYxNzIzMQ==
+702,snowboy,942,2778,C++,https://github.com/Kitt-AI/snowboy,Future versions with model training module will be maintained through a forked version here: https://github.com/seasalt-ai/snowboy,MDEwOlJlcG9zaXRvcnk1ODQxODMwNg==
+703,heavydb,433,2778,C++,https://github.com/heavyai/heavydb,HeavyDB (formerly OmniSciDB),MDEwOlJlcG9zaXRvcnk5MDU0MTE0OQ==
+704,cherrytree,422,2774,C++,https://github.com/giuspen/cherrytree,cherrytree,MDEwOlJlcG9zaXRvcnkzMjY5ODQ2OQ==
+705,visualboyadvance-m,277,2766,C++,https://github.com/visualboyadvance-m/visualboyadvance-m,The continuing development of the legendary VBA gameboy advance emulator.,MDEwOlJlcG9zaXRvcnkzNzIyODU2Mw==
+706,wdt,397,2765,C++,https://github.com/facebook/wdt,Warp speed Data Transfer (WDT)  is an embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths.,MDEwOlJlcG9zaXRvcnkyMjIzMTg3OA==
+707,ggpo,324,2762,C++,https://github.com/pond3r/ggpo,"Good Game, Peace Out Rollback Network SDK",MDEwOlJlcG9zaXRvcnkyMTI2MTk4Nzk=
+708,differential-privacy,343,2759,C++,https://github.com/google/differential-privacy,Google's differential privacy libraries.,MDEwOlJlcG9zaXRvcnkyMDYzMjA5Mzg=
+709,Adafruit_NeoPixel,1191,2758,C++,https://github.com/adafruit/Adafruit_NeoPixel,"Arduino library for controlling single-wire LED pixels (NeoPixel, WS2812, etc.)",MDEwOlJlcG9zaXRvcnk3MTM2MTQ5
+710,ScyllaHide,352,2751,C++,https://github.com/x64dbg/ScyllaHide,Advanced usermode anti-anti-debugger. Forked from https://bitbucket.org/NtQuery/scyllahide,MDEwOlJlcG9zaXRvcnk1MDQ4Mzg1NA==
+711,30dayMakeCppServer,395,2740,C++,https://github.com/yuesong-feng/30dayMakeCppServer,30天自制C++服务器，包含教程和源代码,R_kgDOGdOv2g
+712,Triton,496,2738,C++,https://github.com/JonathanSalwan/Triton,"Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.",MDEwOlJlcG9zaXRvcnkyOTgxMTE2Ng==
+713,Osiris,951,2733,C++,https://github.com/danielkrupinski/Osiris,"Free open-source game cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by Dear ImGui.",MDEwOlJlcG9zaXRvcnkxNTA3NzQyODc=
+714,HoRNDIS,315,2728,C++,https://github.com/jwise/HoRNDIS,Android USB tethering driver for Mac OS X,MDEwOlJlcG9zaXRvcnk2NjUxMjQ3
+715,compile-time-regular-expressions,157,2724,C++,https://github.com/hanickadot/compile-time-regular-expressions,Compile Time Regular Expression in C++,MDEwOlJlcG9zaXRvcnk2MTk2NTM2Mg==
+716,cdc-file-transfer,74,2722,C++,https://github.com/google/cdc-file-transfer,Tools for synching and streaming files from Windows to Linux,R_kgDOIXPXVA
+717,OpenSceneGraph,1321,2722,C++,https://github.com/openscenegraph/OpenSceneGraph,OpenSceneGraph git repository,MDEwOlJlcG9zaXRvcnk1NDExMDk=
+718,cppcoro,392,2718,C++,https://github.com/lewissbaker/cppcoro,A library of C++ coroutine abstractions for the coroutines TS,MDEwOlJlcG9zaXRvcnk4NTU2NTY1OA==
+719,halflife,568,2714,C++,https://github.com/ValveSoftware/halflife,Half-Life 1 engine based games,MDEwOlJlcG9zaXRvcnk4MjA3MTU5
+720,ChaiScript,336,2713,C++,https://github.com/ChaiScript/ChaiScript,Embedded Scripting Language Designed for C++,MDEwOlJlcG9zaXRvcnkxMjI2ODIz
+721,OpenSubdiv,532,2710,C++,https://github.com/PixarAnimationStudios/OpenSubdiv,An Open-Source subdivision surface library.,MDEwOlJlcG9zaXRvcnk0MTE5NDU4
+722,Vita3K,300,2703,C++,https://github.com/Vita3K/Vita3K,Experimental PlayStation Vita emulator,MDEwOlJlcG9zaXRvcnkxMTkxMTEzNjQ=
+723,asm-dom,97,2699,C++,https://github.com/mbasso/asm-dom,A minimal WebAssembly virtual DOM to build C++ SPA (Single page applications),MDEwOlJlcG9zaXRvcnk4MzE1NDg4Ng==
+724,GildedRose-Refactoring-Kata,4028,2693,C++,https://github.com/emilybache/GildedRose-Refactoring-Kata,Starting code for the GildedRose Refactoring Kata in many programming languages.,MDEwOlJlcG9zaXRvcnkxMDU5OTk1MQ==
+725,weasel,412,2685,C++,https://github.com/rime/weasel,【小狼毫】Rime for Windows,MDEwOlJlcG9zaXRvcnkzNzc3MjM3
+726,PJON,243,2684,C++,https://github.com/gioblu/PJON,"PJON (Padded Jittering Operative Network) is an experimental, arduino-compatible, multi-master, multi-media network protocol.",MDEwOlJlcG9zaXRvcnkyNzM1OTI1Mw==
+727,ProcDump-for-Linux,296,2667,C++,https://github.com/Sysinternals/ProcDump-for-Linux,A Linux version of the ProcDump Sysinternals tool,MDEwOlJlcG9zaXRvcnkxMTAyOTcxMzM=
+728,uncrustify,553,2666,C++,https://github.com/uncrustify/uncrustify,Code beautifier,MDEwOlJlcG9zaXRvcnkzNDA2Mzc=
+729,UABE,369,2664,C++,https://github.com/SeriousCache/UABE,Asset Bundle Extractor,MDEwOlJlcG9zaXRvcnk0MjAwOTE3Mg==
+730,code,1639,2657,C++,https://github.com/MasteringOpenCV/code,"Code for the book ""Mastering OpenCV with Practical Computer Vision Projects"" by Packt Publishing 2012.",MDEwOlJlcG9zaXRvcnk3MDc0ODI0
+731,lbrycrd,175,2653,C++,https://github.com/lbryio/lbrycrd,The blockchain that provides the digital content namespace for the LBRY protocol,MDEwOlJlcG9zaXRvcnk0MTEwNTA2OA==
+732,VINS-Fusion,1159,2650,C++,https://github.com/HKUST-Aerial-Robotics/VINS-Fusion,An optimization-based multi-sensor state estimator,MDEwOlJlcG9zaXRvcnkxNjUwOTEwNzg=
+733,pgmodeler,371,2644,C++,https://github.com/pgmodeler/pgmodeler,Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!,MDEwOlJlcG9zaXRvcnk1NTMzOTM2
+734,helio-workstation,109,2642,C++,https://github.com/helio-fm/helio-workstation,"One music sequencer for all major platforms, desktop and mobile",MDEwOlJlcG9zaXRvcnk4ODg0NTMzNg==
+735,dust3d,196,2639,C++,https://github.com/huxingyi/dust3d,"Dust3D is a cross-platform 3D modeling software that makes it easy to create low poly 3D models for video games, 3D printing, and more.",MDEwOlJlcG9zaXRvcnk3NjU2NTgzOQ==
+736,lightseq,299,2637,C++,https://github.com/bytedance/lightseq,LightSeq: A High Performance Library for Sequence Processing and Generation,MDEwOlJlcG9zaXRvcnkyMjYyODA3NjQ=
+737,CloudCompare,910,2634,C++,https://github.com/CloudCompare/CloudCompare,CloudCompare main repository,MDEwOlJlcG9zaXRvcnk2NTY4Njk3
+738,rttr,373,2618,C++,https://github.com/rttrorg/rttr,C++ Reflection Library,MDEwOlJlcG9zaXRvcnk0ODA2MjUzMw==
+739,lite.ai.toolkit,559,2610,C++,https://github.com/DefTruth/lite.ai.toolkit,"🛠 A lite C++ toolkit of awesome AI models with ONNXRuntime, NCNN, MNN and TNN. YOLOv5, YOLOX, YOLOP, YOLOv6, YOLOR, MODNet, YOLOX, YOLOv7, YOLOv8.  MNN, NCNN, TNN, ONNXRuntime.",MDEwOlJlcG9zaXRvcnkzNTAzNzUwODk=
+740,hardware-effects,141,2608,C++,https://github.com/Kobzol/hardware-effects,Demonstration of various hardware effects.,MDEwOlJlcG9zaXRvcnkxNTcwMjYzMTA=
+741,sylar,765,2605,C++,https://github.com/sylar-yin/sylar,"C++高性能分布式服务器框架,webserver,websocket server,自定义tcp_server（包含日志模块，配置模块，线程模块，协程模块，协程调度模块，io协程调度模块，hook模块，socket模块，bytearray序列化，http模块，TcpServer模块，Websocket模块，Https模块等, Smtp邮件模块, MySQL, SQLite3, ORM,Redis,Zookeeper)",MDEwOlJlcG9zaXRvcnkxODczOTM1MDE=
+742,warzone2100,472,2604,C++,https://github.com/Warzone2100/warzone2100,"Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, Linux, BSD+",MDEwOlJlcG9zaXRvcnkxMDg0MTgx
+743,imgui-node-editor,398,2604,C++,https://github.com/thedmd/imgui-node-editor,Node Editor built using Dear ImGui,MDEwOlJlcG9zaXRvcnkxMTM3NTYzODM=
+744,fuzzing,375,2603,C++,https://github.com/google/fuzzing,"Tutorials, examples, discussions, research proposals, and other resources related to fuzzing",MDEwOlJlcG9zaXRvcnkxODE3NjMxMjQ=
+745,opentrack,373,2602,C++,https://github.com/opentrack/opentrack,"Head tracking software for MS Windows, Linux, and Apple OSX",MDEwOlJlcG9zaXRvcnk5NzUzMjgz
+746,Familia,607,2599,C++,https://github.com/baidu/Familia,A Toolkit for Industrial Topic Modeling,MDEwOlJlcG9zaXRvcnk5NDI5OTAxMA==
+747,nethogs,266,2599,C++,https://github.com/raboof/nethogs,Linux 'net top' tool,MDEwOlJlcG9zaXRvcnkxMzg5ODQ3Nw==
+748,EPIJudge,1731,2597,C++,https://github.com/adnanaziz/EPIJudge,EPI Judge - Preview Release,MDEwOlJlcG9zaXRvcnkxMTQ5Njk4MjQ=
+749,apkstudio,500,2596,C++,https://github.com/vaibhavpandeyvpz/apkstudio,"Open-source, cross platform Qt based IDE for reverse-engineering Android application packages.",MDEwOlJlcG9zaXRvcnkyMzgxNzc4NA==
+750,solvespace,416,2593,C++,https://github.com/solvespace/solvespace,Parametric 2d/3d CAD,MDEwOlJlcG9zaXRvcnkzMjkwNTkxMA==
+751,cutlass,503,2590,C++,https://github.com/NVIDIA/cutlass,CUDA Templates for Linear Algebra Subroutines,MDEwOlJlcG9zaXRvcnkxMTI1NDI1MTU=
+752,projectm,325,2589,C++,https://github.com/projectM-visualizer/projectm,projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.,MDEwOlJlcG9zaXRvcnkxMjA0NjYwNA==
+753,earthenterprise,887,2582,C++,https://github.com/google/earthenterprise,Google Earth Enterprise - Open Source,MDEwOlJlcG9zaXRvcnk4NTYzMDEzNA==
+754,splitflap,211,2580,C++,https://github.com/scottbez1/splitflap,DIY split-flap display,MDEwOlJlcG9zaXRvcnk0MzY1MzE1MA==
+755,yosys,763,2579,C++,https://github.com/YosysHQ/yosys,Yosys Open SYnthesis Suite,MDEwOlJlcG9zaXRvcnk3NDU0MTk3
+756,CLI11,300,2578,C++,https://github.com/CLIUtils/CLI11,CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.,MDEwOlJlcG9zaXRvcnk4MDA2NDI1Mg==
+757,EternalTerminal,155,2573,C++,https://github.com/MisterTea/EternalTerminal,Re-Connectable secure remote shell,MDEwOlJlcG9zaXRvcnk3NDIyMzE2Mg==
+758,libpag,287,2570,C++,https://github.com/Tencent/libpag,The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.,MDEwOlJlcG9zaXRvcnkyOTc1MzU2Nzc=
+759,librime,474,2569,C++,https://github.com/rime/librime,"Rime Input Method Engine, the core library",MDEwOlJlcG9zaXRvcnkzNzc2ODc4
+760,xeus-cling,267,2567,C++,https://github.com/jupyter-xeus/xeus-cling,Jupyter kernel for the C++ programming language,MDEwOlJlcG9zaXRvcnk4ODg4MjI2MQ==
+761,gflags,819,2565,C++,https://github.com/gflags/gflags,The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at:,MDEwOlJlcG9zaXRvcnk5NTcxNDcz
+762,drake,1121,2565,C++,https://github.com/RobotLocomotion/drake,Model-based design and verification for robotics.,MDEwOlJlcG9zaXRvcnkxNjI1NjE0NA==
+763,yocto-gl,189,2562,C++,https://github.com/xelatihy/yocto-gl,Yocto/GL: Tiny C++ Libraries for Data-Driven Physically-based Graphics,MDEwOlJlcG9zaXRvcnk1NjIxODk4Mw==
+764,g2o,1044,2557,C++,https://github.com/RainerKuemmerle/g2o,g2o: A General Framework for Graph Optimization,MDEwOlJlcG9zaXRvcnkzMTYxMzM2
+765,elements,199,2557,C++,https://github.com/cycfi/elements,Elements C++ GUI library,MDEwOlJlcG9zaXRvcnk1NDgyNTY3OA==
+766,miles-deep,293,2549,C++,https://github.com/ryanjay0/miles-deep,Deep Learning Porn Video Classifier/Editor with Caffe,MDEwOlJlcG9zaXRvcnk3MzU5ODE2Mg==
+767,GASDocumentation,546,2548,C++,https://github.com/tranek/GASDocumentation,My understanding of Unreal Engine 5's GameplayAbilitySystem plugin with a simple multiplayer sample project.,MDEwOlJlcG9zaXRvcnkyMDE2OTI0NjU=
+768,FasterTransformer,440,2544,C++,https://github.com/NVIDIA/FasterTransformer,"Transformer related optimization, including BERT, GPT",MDEwOlJlcG9zaXRvcnkzNTQxMzg3OTM=
+769,OTTO,147,2543,C++,https://github.com/bitfieldaudio/OTTO,"Sampler, Sequencer, Multi-engine synth and effects - in a box! [WIP]",MDEwOlJlcG9zaXRvcnk4MjY5NDQ1NQ==
+770,Tendis,298,2542,C++,https://github.com/Tencent/Tendis,Tendis is a high-performance distributed storage system fully compatible with the Redis protocol. ,MDEwOlJlcG9zaXRvcnkzMjE4NTM5ODY=
+771,terra,192,2542,C++,https://github.com/terralang/terra,Terra is a low-level system programming language that is embedded in and meta-programmed by the Lua programming language.,MDEwOlJlcG9zaXRvcnk1OTM5MDA1
+772,Vulkan-Hpp,279,2539,C++,https://github.com/KhronosGroup/Vulkan-Hpp,Open-Source Vulkan C++ API,MDEwOlJlcG9zaXRvcnk2MTI5MjY4Mg==
+773,node-webrtc,436,2529,C++,https://github.com/node-webrtc/node-webrtc,node-webrtc is a Node.js Native Addon that provides bindings to WebRTC M87,MDEwOlJlcG9zaXRvcnkxMTEzMTc1Mw==
+774,srt,752,2528,C++,https://github.com/Haivision/srt,"Secure, Reliable, Transport",MDEwOlJlcG9zaXRvcnk4NzQ0MzM5Ng==
+775,aoapc-bac2nd,1025,2525,C++,https://github.com/aoapc-book/aoapc-bac2nd,Source codes for book <<<BeginningAlgorithmContests>> Second edition,MDEwOlJlcG9zaXRvcnkyMDM4MTQ5MQ==
+776,Play-Leetcode,681,2525,C++,https://github.com/liuyubobobo/Play-Leetcode,"My Solutions to Leetcode problems. All solutions support C++ language, some support Java and Python. Multiple solutions will be given by most problems. Enjoy:) 我的Leetcode解答。所有的问题都支持C++语言，一部分问题支持Java语言。近乎所有问题都会提供多个算法解决。大家加油！：）",MDEwOlJlcG9zaXRvcnk3NTMxNDQyNg==
+777,DirectXShaderCompiler,584,2520,C++,https://github.com/microsoft/DirectXShaderCompiler,This repo hosts the source for the DirectX Shader Compiler which is based on LLVM/Clang.,MDEwOlJlcG9zaXRvcnk3NTc4Nzk2Ng==
+778,VulkanTutorial,447,2514,C++,https://github.com/Overv/VulkanTutorial,Tutorial for the Vulkan graphics and compute API,MDEwOlJlcG9zaXRvcnkzMTYxMjE3NQ==
+779,bond,335,2507,C++,https://github.com/microsoft/bond,Bond is a cross-platform framework for working with schematized data. It supports cross-language de/serialization and powerful generic mechanisms for efficiently manipulating data. Bond is broadly used at Microsoft in high scale services. ,MDEwOlJlcG9zaXRvcnkyODAxNDUyNQ==
+780,jakt,241,2502,C++,https://github.com/SerenityOS/jakt,The Jakt Programming Language,R_kgDOHSOipQ
+781,MineCraft-One-Week-Challenge,385,2501,C++,https://github.com/Hopson97/MineCraft-One-Week-Challenge,"I challenged myself to see if I could create a voxel game (Minecraft-like) in just one week using C++ and OpenGL, and here is the result",MDEwOlJlcG9zaXRvcnk5ODU2MTg5Ng==
+782,go-sciter,267,2499,C++,https://github.com/sciter-sdk/go-sciter,Golang bindings of Sciter: the Embeddable HTML/CSS/script engine for modern UI development,MDEwOlJlcG9zaXRvcnk0NDMxNjUxOA==
+783,youtube,509,2498,C++,https://github.com/Errichto/youtube,codes for my streams and YT videos,MDEwOlJlcG9zaXRvcnkxNjg5NDc5Mjg=
+784,defold,189,2491,C++,https://github.com/defold/defold,"Defold is a completely free to use game engine for development of desktop, mobile and web games.",MDEwOlJlcG9zaXRvcnk0MzE1NTM4
+785,openMVS,797,2489,C++,https://github.com/cdcseacave/openMVS,open Multi-View Stereo reconstruction library,MDEwOlJlcG9zaXRvcnkzNTgyNTU5Mw==
+786,DataStructures-Algorithms,982,2489,C++,https://github.com/rachitiitr/DataStructures-Algorithms,The best library for implementation of all Data Structures and Algorithms - Trees + Graph Algorithms too!,MDEwOlJlcG9zaXRvcnkxMDU0MjUyMTA=
+787,SpaceCadetPinball,167,2489,C++,https://github.com/k4zmu2a/SpaceCadetPinball,Decompilation of 3D Pinball for Windows – Space Cadet,MDEwOlJlcG9zaXRvcnkzMzQxNjU2NTA=
+788,mailcore2,604,2486,C++,https://github.com/MailCore/mailcore2,"MailCore 2 provide a simple and asynchronous API to work with e-mail protocols IMAP, POP and SMTP. The API has been redesigned from ground up.",MDEwOlJlcG9zaXRvcnk3NTI3NTUy
+789,webots,1365,2482,C++,https://github.com/cyberbotics/webots,Webots Robot Simulator,MDEwOlJlcG9zaXRvcnkxNTYyMjgwMTg=
+790,FreeReflection,481,2480,C++,https://github.com/tiann/FreeReflection,A library that lets you use reflection without any restriction above Android P,MDEwOlJlcG9zaXRvcnkxMzY0NjA2MjQ=
+791,cpp-cheatsheet,639,2480,C++,https://github.com/mortennobel/cpp-cheatsheet,Modern C++ Cheatsheet,MDEwOlJlcG9zaXRvcnk2NjAzMzAwNQ==
+792,TWiLightMenu,170,2478,C++,https://github.com/DS-Homebrew/TWiLightMenu,DSi Menu replacement for DS/DSi/3DS/2DS,MDEwOlJlcG9zaXRvcnk5MDQzOTY2MQ==
+793,self-driving-car,1349,2478,C++,https://github.com/ndrplz/self-driving-car,Udacity Self-Driving Car Engineer Nanodegree projects.,MDEwOlJlcG9zaXRvcnk3NzMzNzQwMw==
+794,rfid,1355,2476,C++,https://github.com/miguelbalboa/rfid,Arduino RFID Library for MFRC522,MDEwOlJlcG9zaXRvcnk1NzQxMTMx
+795,AnyQ,658,2473,C++,https://github.com/baidu/AnyQ,FAQ-based Question Answering System,MDEwOlJlcG9zaXRvcnkxMzkzODU3NzU=
+796,ogl,909,2470,C++,https://github.com/opengl-tutorials/ogl,,MDEwOlJlcG9zaXRvcnkzNjU4MTQzNA==
+797,Data-Structres,467,2467,C++,https://github.com/callmePicacho/Data-Structres,浙江大学《数据结构》上课笔记 + 数据结构实现 + 课后题题解,MDEwOlJlcG9zaXRvcnkxODU1OTU5NTY=
+798,mcsema,342,2466,C++,https://github.com/lifting-bits/mcsema,"Framework for lifting x86, amd64, aarch64, sparc32, and sparc64 program binaries to LLVM bitcode",MDEwOlJlcG9zaXRvcnkyMjM5OTgyNg==
+799,phxsql,584,2463,C++,https://github.com/Tencent/phxsql,A high availability MySQL cluster that guarantees data consistency between a master and slaves.,MDEwOlJlcG9zaXRvcnk2Njg0ODgzMA==
+800,node-memwatch,307,2460,C++,https://github.com/lloyd/node-memwatch,"A NodeJS library to keep an eye on your memory usage, and discover and isolate leaks.",MDEwOlJlcG9zaXRvcnkzMzc5NDg5
+801,TypeRunner,33,2456,C++,https://github.com/marcj/TypeRunner,High-performance TypeScript compiler,R_kgDOHwQbXg
+802,hnswlib,441,2450,C++,https://github.com/nmslib/hnswlib,Header-only C++/python library for fast approximate nearest neighbors,MDEwOlJlcG9zaXRvcnk5NjQzMTM4Ng==
+803,AliceVision,735,2450,C++,https://github.com/alicevision/AliceVision,Photogrammetric Computer Vision Framework,MDEwOlJlcG9zaXRvcnkyODYzNTg5NA==
+804,phpdesktop,541,2449,C++,https://github.com/cztomczak/phpdesktop,"Develop desktop GUI applications using PHP, HTML5, JavaScript and SQLite",MDEwOlJlcG9zaXRvcnk0MTU0Mjg2Mw==
+805,deepdetect,557,2448,C++,https://github.com/jolibrain/deepdetect,"Deep Learning API and Server in C++14 support for Caffe, PyTorch,TensorRT, Dlib, NCNN, Tensorflow, XGBoost and TSNE",MDEwOlJlcG9zaXRvcnkzNjA3NzQwNA==
+806,glslang,722,2441,C++,https://github.com/KhronosGroup/glslang,"Khronos-reference front end for GLSL/ESSL, partial front end for HLSL, and a SPIR-V generator.",MDEwOlJlcG9zaXRvcnkzODA2NDkzMg==
+807,B23Downloader,325,2440,C++,https://github.com/vooidzero/B23Downloader,（已长久停更）,R_kgDOGGKEGg
+808,SDRPlusPlus,347,2437,C++,https://github.com/AlexandreRouma/SDRPlusPlus,Cross-Platform SDR Software,MDEwOlJlcG9zaXRvcnkyNzExNTQ1ODY=
+809,openrasp,582,2432,C++,https://github.com/baidu/openrasp,🔥Open source RASP solution,MDEwOlJlcG9zaXRvcnk5OTkxNDQ1MA==
+810,fbthrift,602,2431,C++,https://github.com/facebook/fbthrift,"Facebook's branch of Apache Thrift, including a new C++ server.",MDEwOlJlcG9zaXRvcnkxMTEzMTYzMQ==
+811,biosim4,360,2430,C++,https://github.com/davidrmiller/biosim4,Biological evolution simulator,MDEwOlJlcG9zaXRvcnk0MDc4MTQyNTk=
+813,qgroundcontrol,2928,2429,C++,https://github.com/mavlink/qgroundcontrol,"Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)",MDEwOlJlcG9zaXRvcnkyNTY3ODQ0
+814,valhalla,504,2429,C++,https://github.com/valhalla/valhalla,Open Source Routing Engine for OpenStreetMap,MDEwOlJlcG9zaXRvcnk0OTk3ODE5Mw==
+812,SimpleKernel,352,2429,C++,https://github.com/Simple-XX/SimpleKernel,Simple kernel for learning operating systems. 用于学习操作系统的简单内核,MDEwOlJlcG9zaXRvcnkxMjQxNzQzMTE=
+815,UnrealEnginePython,691,2427,C++,https://github.com/20tab/UnrealEnginePython,Embed Python in Unreal Engine 4,MDEwOlJlcG9zaXRvcnk2NTExNjUzNw==
+816,gqrx,482,2425,C++,https://github.com/gqrx-sdr/gqrx,Software defined radio receiver powered by GNU Radio and Qt.,MDEwOlJlcG9zaXRvcnkxMDMzMjcx
+817,json11,619,2425,C++,https://github.com/dropbox/json11,A tiny JSON library for C++11.,MDEwOlJlcG9zaXRvcnkxMjY1NTY1Mg==
+818,lsd_slam,1229,2411,C++,https://github.com/tum-vision/lsd_slam,LSD-SLAM,MDEwOlJlcG9zaXRvcnkyMzk5NTk4Mg==
+819,MarbleMarcher,161,2411,C++,https://github.com/HackerPoet/MarbleMarcher,A Fractal Physics Game,MDEwOlJlcG9zaXRvcnkxNjM1Nzc1MzM=
+820,bustub,1303,2410,C++,https://github.com/cmu-db/bustub,The BusTub Relational Database Management System (Educational),MDEwOlJlcG9zaXRvcnkyMDc2NjMyMzU=
+821,ComputeLibrary,733,2410,C++,https://github.com/ARM-software/ComputeLibrary,The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.,MDEwOlJlcG9zaXRvcnk4NDU3MDIxNA==
+822,logiops,227,2408,C++,https://github.com/PixlOne/logiops,An unofficial userspace driver for HID++ Logitech devices,MDEwOlJlcG9zaXRvcnkxOTYwNTc4MDI=
+823,ImGuizmo,634,2408,C++,https://github.com/CedricGuillemet/ImGuizmo,Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui,MDEwOlJlcG9zaXRvcnk2NTgwNjI5Mw==
+824,pe-sieve,375,2403,C++,https://github.com/hasherezade/pe-sieve,"Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches).",MDEwOlJlcG9zaXRvcnkxMDEwMDc2MzY=
+825,dexed,211,2403,C++,https://github.com/asb2m10/dexed,DX7 FM multi plaform/multi format plugin,MDEwOlJlcG9zaXRvcnkxNDk3Mzc4Mw==
+826,indicators,192,2394,C++,https://github.com/p-ranav/indicators,Activity Indicators for Modern C++,MDEwOlJlcG9zaXRvcnkyMjU2NTAxNDA=
+827,course,354,2392,C++,https://github.com/parallel101/course,高性能并行编程与优化 - 课件,R_kgDOGgy0Gg
+828,subsurface,477,2392,C++,https://github.com/subsurface/subsurface,This is the official upstream of the Subsurface divelog program,MDEwOlJlcG9zaXRvcnkyMzE5NDk4
+829,stan,363,2392,C++,https://github.com/stan-dev/stan,Stan development repository. The master branch contains the current release. The develop branch contains the latest stable development.  See the Developer Process Wiki for details.  ,MDEwOlJlcG9zaXRvcnk4MDQzNzU2
+831,IRremoteESP8266,743,2387,C++,https://github.com/crankyoldgit/IRremoteESP8266,Infrared remote library for ESP8266/ESP32: send and receive infrared signals with multiple protocols. Based on: https://github.com/shirriff/Arduino-IRremote/,MDEwOlJlcG9zaXRvcnkzNzAyMjY1OQ==
+830,newsboat,191,2387,C++,https://github.com/newsboat/newsboat,An RSS/Atom feed reader for text terminals,MDEwOlJlcG9zaXRvcnkxMDM4NTAyMzU=
+832,notepad--,90,2386,C++,https://github.com/cxasm/notepad--,一个支持windows/linux/mac的文本编辑器，目标是要替换notepad++，来自中国。,R_kgDOHgQ21A
+833,Cpp_Primer_Answers,787,2386,C++,https://github.com/huangmingchuan/Cpp_Primer_Answers,《C++ Primer》第五版中文版习题答案,MDEwOlJlcG9zaXRvcnk0NzE3MDI2MQ==
+834,desktop,683,2384,C++,https://github.com/nextcloud/desktop,💻 Desktop sync client for Nextcloud,MDEwOlJlcG9zaXRvcnkxMDUwMTA2OTE=
+835,Simple-Web-Server,734,2380,C++,https://github.com/eidheim/Simple-Web-Server,"A very simple, fast, multithreaded, platform independent HTTP and HTTPS server and client library implemented using C++11 and Boost.Asio. Created to be an easy way to make REST resources available from C++ applications.",MDEwOlJlcG9zaXRvcnkyMTUxNzE4NA==
+836,WAVM,215,2379,C++,https://github.com/WAVM/WAVM,WebAssembly Virtual Machine,MDEwOlJlcG9zaXRvcnk0MTE1MTkyMQ==
+837,i2pd,380,2372,C++,https://github.com/PurpleI2P/i2pd, 🛡 I2P: End-to-End encrypted and anonymous Internet,MDEwOlJlcG9zaXRvcnkxMjUyMjIzOQ==
+838,apitrace,459,2369,C++,https://github.com/apitrace/apitrace,"Tools for tracing OpenGL, Direct3D, and other graphics APIs",MDEwOlJlcG9zaXRvcnkxNjExNTMw
+839,ActionRoguelike,482,2367,C++,https://github.com/tomlooman/ActionRoguelike,Third-person Action Roguelike made in Unreal Engine C++. Project for Unreal Engine Pro C++ Course & Stanford University (CS193U),MDEwOlJlcG9zaXRvcnkyOTM1ODM1NTY=
+840,Polycode,349,2367,C++,https://github.com/ivansafrin/Polycode,Polycode is a cross-platform framework for creative code.,MDEwOlJlcG9zaXRvcnkxMTQ4OTQ1
+841,heaptrack,155,2365,C++,https://github.com/KDE/heaptrack,A heap memory profiler for Linux,MDEwOlJlcG9zaXRvcnk0MjcyODIxNw==
+842,qpdf,215,2364,C++,https://github.com/qpdf/qpdf,Primary QPDF source code and documentation,MDEwOlJlcG9zaXRvcnk0NTM5MTY3
+843,osxcross,274,2360,C++,https://github.com/tpoechtrager/osxcross,"Mac OS X cross toolchain for Linux, FreeBSD, OpenBSD and Android (Termux)",MDEwOlJlcG9zaXRvcnkxNDI3NzE3Mg==
+844,smhasher,442,2359,C++,https://github.com/aappleby/smhasher,Automatically exported from code.google.com/p/smhasher,MDEwOlJlcG9zaXRvcnkzMjM0NzEwNA==
+846,OCAuxiliaryTools,243,2355,C++,https://github.com/ic005k/OCAuxiliaryTools,Cross-platform GUI management tools for OpenCore（OCAT）,MDEwOlJlcG9zaXRvcnkyODQ4ODc5MjE=
+845,picotorrent,171,2355,C++,https://github.com/picotorrent/picotorrent,"A tiny, hackable BitTorrent client.",MDEwOlJlcG9zaXRvcnkzODQ1NzU0OQ==
+847,bolt,164,2352,C++,https://github.com/dblalock/bolt,10x faster matrix and vector operations,MDEwOlJlcG9zaXRvcnk4MDY3NDE3OQ==
+848,basis_universal,232,2340,C++,https://github.com/BinomialLLC/basis_universal,Basis Universal GPU Texture Codec,MDEwOlJlcG9zaXRvcnkxODQxNjYzNDA=
+849,cquery,169,2339,C++,https://github.com/jacobdufault/cquery,"C/C++ language server supporting multi-million line code base, powered by libclang. Emacs, Vim, VSCode, and others with language server protocol support. Cross references, completion, diagnostics, semantic highlighting and more",MDEwOlJlcG9zaXRvcnk4ODU4MDc2Ng==
+850,NDK_OpenGLES_3_0,672,2338,C++,https://github.com/githubhaohao/NDK_OpenGLES_3_0,Android OpenGL ES 3.0 从入门到精通系统性学习教程,MDEwOlJlcG9zaXRvcnkxOTY5NDE4Njc=
+851,dbg-macro,205,2337,C++,https://github.com/sharkdp/dbg-macro,A dbg(…) macro for C++,MDEwOlJlcG9zaXRvcnkxOTI3ODc3NzQ=
+852,open-nsynth-super,267,2334,C++,https://github.com/googlecreativelab/open-nsynth-super,Open NSynth Super is an experimental physical interface for the NSynth algorithm,MDEwOlJlcG9zaXRvcnkxMTc4MjgzNTg=
+853,highway,165,2331,C++,https://github.com/google/highway,"Performance-portable, length-agnostic SIMD with runtime dispatch",MDEwOlJlcG9zaXRvcnkyMDY3OTEzMjg=
+854,rathena,2005,2330,C++,https://github.com/rathena/rathena,rAthena is an open-source cross-platform MMORPG server.,MDEwOlJlcG9zaXRvcnkxMTQ4OTAzNw==
+855,onnx-tensorrt,508,2328,C++,https://github.com/onnx/onnx-tensorrt,ONNX-TensorRT: TensorRT backend for ONNX,MDEwOlJlcG9zaXRvcnkxMzE2MzAyOTk=
+856,xray-16,418,2324,C++,https://github.com/OpenXRay/xray-16,"Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World. Join OpenXRay! ;)",MDEwOlJlcG9zaXRvcnkyMzY5MDIyNg==
+857,0ad,485,2320,C++,https://github.com/0ad/0ad,Git mirror of the 0 A.D. source code (http://trac.wildfiregames.com/browser),MDEwOlJlcG9zaXRvcnkxMDE2OTA0
+858,mysql-5.6,719,2319,C++,https://github.com/facebook/mysql-5.6,Facebook's branch of the Oracle MySQL v5.6 database. This includes MyRocks.,MDEwOlJlcG9zaXRvcnk5NDU0Njc1
+859,KataGo,448,2318,C++,https://github.com/lightvector/KataGo,GTP engine and self-play learning in Go,MDEwOlJlcG9zaXRvcnkxNzI2NDA3MTE=
+860,Aegisub,353,2312,C++,https://github.com/Aegisub/Aegisub,Cross-platform advanced subtitle editor,MDEwOlJlcG9zaXRvcnk1MzYwNzU4
+861,crosswalk,663,2307,C++,https://github.com/crosswalk-project/crosswalk,A web runtime built on Chrome. This project is currently unmaintained. ,MDEwOlJlcG9zaXRvcnk5MjA3Mjgw
+862,hyperion.ng,355,2306,C++,https://github.com/hyperion-project/hyperion.ng,The successor to Hyperion aka Hyperion Next Generation,MDEwOlJlcG9zaXRvcnk2MTIwMjY2NA==
+863,protobuf-c,672,2302,C++,https://github.com/protobuf-c/protobuf-c,Protocol Buffers implementation in C,MDEwOlJlcG9zaXRvcnkxNDQ0MDIxMQ==
+864,tippecanoe,391,2301,C++,https://github.com/mapbox/tippecanoe,Build vector tilesets from large collections of GeoJSON features.,MDEwOlJlcG9zaXRvcnkyNDUxNzA4Nw==
+865,PhysX-3.4,268,2298,C++,https://github.com/NVIDIAGameWorks/PhysX-3.4,NVIDIA PhysX SDK 3.4,MDEwOlJlcG9zaXRvcnk3MDcxOTYwNg==
+866,firesheep,639,2297,C++,https://github.com/codebutler/firesheep,A Firefox extension that demonstrates HTTP session hijacking attacks.,MDEwOlJlcG9zaXRvcnk5NzY5OTA=
+867,LIO-SAM,956,2294,C++,https://github.com/TixiaoShan/LIO-SAM,LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping,MDEwOlJlcG9zaXRvcnkyNzYyNjk4NjY=
+868,edb-debugger,304,2290,C++,https://github.com/eteran/edb-debugger,edb is a cross-platform AArch32/x86/x86-64 debugger.,MDEwOlJlcG9zaXRvcnkzMzA1NTkyOQ==
+869,cppjieba,650,2286,C++,https://github.com/yanyiwu/cppjieba,"""结巴""中文分词的C++版本",MDEwOlJlcG9zaXRvcnkxMDg4NTQ2OQ==
+870,nodeeditor,659,2275,C++,https://github.com/paceholder/nodeeditor,Qt Node Editor. Dataflow programming framework,MDEwOlJlcG9zaXRvcnk1NTgzNTg0Ng==
+871,node-webworker-threads,152,2275,C++,https://github.com/audreyt/node-webworker-threads,Lightweight Web Worker API implementation with native threads,MDEwOlJlcG9zaXRvcnk2NTExNTQ0
+872,dex-ui,112,2272,C++,https://github.com/seenaburns/dex-ui,A science fiction desktop running on Linux. Awesome.,MDEwOlJlcG9zaXRvcnkyOTU0ODA3MQ==
+873,libcds,338,2272,C++,https://github.com/khizmax/libcds,A C++ library of Concurrent Data Structures,MDEwOlJlcG9zaXRvcnkyNDE4MjI2MQ==
+874,nsjail,271,2269,C++,https://github.com/google/nsjail,"A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language)",MDEwOlJlcG9zaXRvcnkzNTYzODUwNQ==
+875,Checkpoint,145,2268,C++,https://github.com/BernardoGiordano/Checkpoint,Fast and simple homebrew save manager for 3DS and Switch.,MDEwOlJlcG9zaXRvcnkxMDI2Mzc0MDA=
+877,sqlcheck,115,2261,C++,https://github.com/jarulraj/sqlcheck,Automatically identify anti-patterns in SQL queries,MDEwOlJlcG9zaXRvcnk4NzAwNjc5Mg==
+876,NymphCast,77,2261,C++,https://github.com/MayaPosch/NymphCast,Audio and video casting system with support for custom applications.,MDEwOlJlcG9zaXRvcnkxNjk2MDQ2MDY=
+878,breakpad,668,2254,C++,https://github.com/google/breakpad,Mirror of Google Breakpad project,MDEwOlJlcG9zaXRvcnk1MjgwNDc1MA==
+879,tiny-cuda-nn,270,2253,C++,https://github.com/NVlabs/tiny-cuda-nn,Lightning fast C++/CUDA neural network framework,MDEwOlJlcG9zaXRvcnkzNTg2Nzg5Nzc=
+880,cppinsights,123,2252,C++,https://github.com/andreasfertig/cppinsights,C++ Insights - See your source code with the eyes of a compiler,MDEwOlJlcG9zaXRvcnkxMzE1MTAwMTU=
+881,imtui,81,2252,C++,https://github.com/ggerganov/imtui,ImTui: Immediate Mode Text-based User Interface C++ Library,MDEwOlJlcG9zaXRvcnkyMjY3MTU1MTY=
+882,DirectXTK,493,2252,C++,https://github.com/microsoft/DirectXTK,The DirectX Tool Kit (aka DirectXTK) is a collection of helper classes for writing DirectX 11.x code in C++,MDEwOlJlcG9zaXRvcnkzMzY4ODcwNA==
+883,SmartDeblur,362,2247,C++,https://github.com/Y-Vladimir/SmartDeblur,Restoration of defocused and blurred photos/images,MDEwOlJlcG9zaXRvcnk0Nzk5Mzkx
+884,ODrive,1306,2246,C++,https://github.com/odriverobotics/ODrive,High performance motor control,MDEwOlJlcG9zaXRvcnk1NzA2MTYxOQ==
+885,velox,548,2231,C++,https://github.com/facebookincubator/velox,A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.,MDEwOlJlcG9zaXRvcnkzODg5NDY0OTA=
+886,tinykaboom,99,2228,C++,https://github.com/ssloy/tinykaboom,A brief computer graphics / rendering course,MDEwOlJlcG9zaXRvcnkxNjc4MDk1MTQ=
+887,ssr,272,2227,C++,https://github.com/MaartenBaert/ssr,"SimpleScreenRecorder, a screen recorder for Linux",MDEwOlJlcG9zaXRvcnk3MjI4ODYx
+888,node-addon-examples,575,2226,C++,https://github.com/nodejs/node-addon-examples,Node.js C++ addon examples from http://nodejs.org/docs/latest/api/addons.html,MDEwOlJlcG9zaXRvcnk3NzY4MDkz
+889,overgrowth,230,2215,C++,https://github.com/WolfireGames/overgrowth,Open Source codebase of the game Overgrowth by Wolfire Games LLC,R_kgDOG9yyrA
+890,CppCon2014,395,2214,C++,https://github.com/CppCon/CppCon2014,Speaker materials from CppCon 2014,MDEwOlJlcG9zaXRvcnkyMzkzMDMzNQ==
+891,immer,157,2214,C++,https://github.com/arximboldi/immer,Postmodern immutable and persistent data structures for C++ — value semantics at scale,MDEwOlJlcG9zaXRvcnk2NTk4MzY5OQ==
+892,PKUCourse,517,2210,C++,https://github.com/tongtzeho/PKUCourse,北大计算机课程大作业,MDEwOlJlcG9zaXRvcnk3Nzc2NDMwNw==
+893,eurorack,627,2209,C++,https://github.com/pichenettes/eurorack,Eurorack modules,MDEwOlJlcG9zaXRvcnkxMjM4MzIyMA==
+894,ELL,299,2205,C++,https://github.com/microsoft/ELL,Embedded Learning Library,MDEwOlJlcG9zaXRvcnk2OTM4OTk2MQ==
+895,LeetCode,513,2203,C++,https://github.com/Jack-Cherish/LeetCode,:monkey:LeetCode、剑指Offer刷题笔记（C/C++、Python3实现）,MDEwOlJlcG9zaXRvcnk4NjE0MTMxNQ==
+896,MTuner,142,2203,C++,https://github.com/milostosic/MTuner,"MTuner is a C/C++ memory profiler and memory leak finder for Windows, PlayStation 4 and 3, Android and other platforms",MDEwOlJlcG9zaXRvcnkxMDEyNDM4NTY=
+897,klee,612,2198,C++,https://github.com/klee/klee,KLEE Symbolic Execution Engine,MDEwOlJlcG9zaXRvcnkxMTU2ODQxNw==
+898,ispc,286,2197,C++,https://github.com/ispc/ispc,Intel® Implicit SPMD Program Compiler,MDEwOlJlcG9zaXRvcnkxOTMxMzU2
+899,PcapPlusPlus,560,2194,C++,https://github.com/seladb/PcapPlusPlus,"PcapPlusPlus is a multiplatform C++ library for capturing, parsing and crafting of network packets. It is designed to be efficient, powerful and easy to use. It provides C++ wrappers for the most popular packet processing engines such as libpcap, Npcap, WinPcap, DPDK and PF_RING.",MDEwOlJlcG9zaXRvcnkyNDkxMTUxOQ==
+900,TengineKit,314,2193,C++,https://github.com/OAID/TengineKit,"TengineKit - Free, Fast, Easy, Real-Time Face Detection & Face Landmarks & Face Attributes & Hand Detection & Hand Landmarks & Body Detection & Body Landmarks &  Iris Landmarks & Yolov5 SDK On Mobile.",MDEwOlJlcG9zaXRvcnkyNzU3NjE2ODc=
+901,IntelBluetoothFirmware,217,2191,C++,https://github.com/OpenIntelWireless/IntelBluetoothFirmware,Intel Bluetooth Kernel Extensions for macOS,MDEwOlJlcG9zaXRvcnkyMjIxOTIzNjY=
+902,cef,360,2190,C++,https://github.com/chromiumembedded/cef,Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications.,MDEwOlJlcG9zaXRvcnk4NzAwNjA3Nw==
+903,wil,197,2190,C++,https://github.com/microsoft/wil,Windows Implementation Library,MDEwOlJlcG9zaXRvcnkxNTY2MTQ0MDk=
+904,cpu_features,247,2189,C++,https://github.com/google/cpu_features,A cross platform C99 library to get cpu features at runtime.,MDEwOlJlcG9zaXRvcnkxMTk2OTI2MzM=
+905,Beef,119,2189,C++,https://github.com/beefytech/Beef,Beef Programming Language,MDEwOlJlcG9zaXRvcnkyMDM0MDY0MjU=
+906,taichi_mpm,316,2186,C++,https://github.com/yuanming-hu/taichi_mpm,"High-performance moving least squares material point method (MLS-MPM) solver. (ACM Transactions on Graphics, SIGGRAPH 2018)",MDEwOlJlcG9zaXRvcnkxNDQzNTg2MDI=
+907,libcudacxx,185,2183,C++,https://github.com/NVIDIA/libcudacxx,The C++ Standard Library for your entire system.,MDEwOlJlcG9zaXRvcnkyOTY0MTU2NzQ=
+908,cmake-cookbook,583,2182,C++,https://github.com/dev-cafe/cmake-cookbook,CMake Cookbook recipes.,MDEwOlJlcG9zaXRvcnkxMDAxOTc2MzY=
+909,Kyty,128,2181,C++,https://github.com/InoriRus/Kyty,PS4 & PS5 emulator,R_kgDOGXgtPw
+910,huatuo,370,2178,C++,https://github.com/tuyoogame/huatuo,"huatuo是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。 Huatuo is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotfix",R_kgDOGp-h0w
+911,helm,196,2177,C++,https://github.com/mtytel/helm,Helm - a free polyphonic synth with lots of modulation,MDEwOlJlcG9zaXRvcnkyODk1NDIzNA==
+912,wallet-core,1330,2176,C++,https://github.com/trustwallet/wallet-core,"Cross-platform, cross-blockchain wallet library.",MDEwOlJlcG9zaXRvcnkxNzA3MzgzMTA=
+913,learning-v8,203,2173,C++,https://github.com/danbev/learning-v8,Project for learning V8 internals,MDEwOlJlcG9zaXRvcnk1NzQzMDUxMg==
+914,sqlpp11,315,2173,C++,https://github.com/rbock/sqlpp11,A type safe SQL template library for C++,MDEwOlJlcG9zaXRvcnkxMjA5MTExMg==
+915,tinytetris,435,2172,C++,https://github.com/taylorconor/tinytetris,80x23 terminal tetris!,MDEwOlJlcG9zaXRvcnkxNzg2MTkxMTE=
+916,Learning-OpenCV-3_examples,880,2159,C++,https://github.com/oreillymedia/Learning-OpenCV-3_examples,,MDEwOlJlcG9zaXRvcnk3NTczNzA2Ng==
+917,treesheets,172,2157,C++,https://github.com/aardappel/treesheets,TreeSheets : Free Form Data Organizer (see strlen.com/treesheets),MDEwOlJlcG9zaXRvcnkxMDY3MTYyMw==
+918,Algo_Ds_Notes,2073,2154,C++,https://github.com/jainaman224/Algo_Ds_Notes,It is a repository that is a collection of algorithms and data structures with implementation in various languages.,MDEwOlJlcG9zaXRvcnk2MTQyNjg1NQ==
+919,omaha,743,2151,C++,https://github.com/google/omaha,Google Update for Windows,MDEwOlJlcG9zaXRvcnkzODI3OTIyNw==
+920,GacUI,289,2145,C++,https://github.com/vczh-libraries/GacUI,"GPU Accelerated C++ User Interface, with WYSIWYG developing tools, XML supports, built-in data binding and MVVM features.",MDEwOlJlcG9zaXRvcnkzMzI3MzgzNw==
+921,openauto,390,2145,C++,https://github.com/f1xpl/openauto,AndroidAuto headunit emulator,MDEwOlJlcG9zaXRvcnkxMjExNTk5MDA=
+922,Heimdall,557,2144,C++,https://github.com/Benjamin-Dobell/Heimdall,Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices.,MDEwOlJlcG9zaXRvcnkxMTM0MjUz
+924,Surround360,595,2142,C++,https://github.com/facebookarchive/Surround360,"Surround360 is Facebook's open source hardware and software for capturing stereoscopic 3D 360 video for VR. The repo contains hardware designs, as well as software for camera control and rendering.",MDEwOlJlcG9zaXRvcnk2MTU4MTM5Ng==
+923,iverilog,452,2142,C++,https://github.com/steveicarus/iverilog,Icarus Verilog,MDEwOlJlcG9zaXRvcnkxNjI2Nw==
+925,maplab,666,2140,C++,https://github.com/ethz-asl/maplab,A Modular and Multi-Modal Mapping Framework,MDEwOlJlcG9zaXRvcnkxMTIyNTM0MDM=
+926,webrtc-streamer,506,2139,C++,https://github.com/mpromonet/webrtc-streamer,"WebRTC streamer for V4L2 capture devices, RTSP sources and Screen Capture",MDEwOlJlcG9zaXRvcnkyNzU2NTc1NA==
+927,kys-cpp,323,2131,C++,https://github.com/scarsty/kys-cpp,《金庸群侠传》c++复刻版，已完工,MDEwOlJlcG9zaXRvcnk2MzAzNzI0OA==
+928,freeablo,188,2129,C++,https://github.com/wheybags/freeablo,Modern reimplementation of the Diablo 1 game engine,MDEwOlJlcG9zaXRvcnkxMTI2MTcyMQ==
+929,hpx,375,2124,C++,https://github.com/STEllAR-GROUP/hpx,The C++ Standard Library for Parallelism and Concurrency,MDEwOlJlcG9zaXRvcnk0NDU1NjI4
+930,code-library,610,2124,C++,https://github.com/ShahjalalShohag/code-library,"Templates, algorithms and data structures implemented and collected for programming contests.",MDEwOlJlcG9zaXRvcnkxNTgwNjUxOTM=
+931,blinker-library,211,2122,C++,https://github.com/blinker-iot/blinker-library,"An IoT Solution,Blinker library for embedded hardware. Works with Arduino, ESP8266, ESP32.",MDEwOlJlcG9zaXRvcnkxMjYzMDg2MTE=
+932,cpp-learning,368,2119,C++,https://github.com/chengxumiaodaren/cpp-learning,,MDEwOlJlcG9zaXRvcnkzNTQwMTg0OTE=
+933,texstudio,312,2119,C++,https://github.com/texstudio-org/texstudio,TeXstudio is a fully featured LaTeX editor. Our goal is to make writing LaTeX documents as easy and comfortable as possible.,MDEwOlJlcG9zaXRvcnkxMTIzNzA3NjU=
+934,jfx,370,2118,C++,https://github.com/openjdk/jfx,JavaFX mainline development,MDEwOlJlcG9zaXRvcnkxODUxOTkyMDI=
+935,leocad,190,2116,C++,https://github.com/leozide/leocad,A CAD application for creating virtual LEGO models,MDEwOlJlcG9zaXRvcnk2ODIzMjQ0NA==
+936,RawTherapee,275,2115,C++,https://github.com/Beep6581/RawTherapee,A powerful cross-platform raw photo processing program,MDEwOlJlcG9zaXRvcnk0MDUzOTAwNQ==
+937,CS_Offer,621,2113,C++,https://github.com/selfboot/CS_Offer,计算机学科基础知识和主流编程语言相关内容的总结,MDEwOlJlcG9zaXRvcnk1NDY5ODQzNg==
+938,NanoLog,271,2111,C++,https://github.com/PlatformLab/NanoLog,Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API.,MDEwOlJlcG9zaXRvcnk2NjA4MDMyNw==
+939,faust,275,2110,C++,https://github.com/grame-cncm/faust,Functional programming language for signal processing and sound synthesis,MDEwOlJlcG9zaXRvcnk3MjkyNjgzOQ==
+940,kenlm,465,2109,C++,https://github.com/kpu/kenlm,KenLM: Faster and Smaller Language Model Queries,MDEwOlJlcG9zaXRvcnkyNzgxNzU0
+941,sdsl-lite,336,2107,C++,https://github.com/simongog/sdsl-lite,Succinct Data Structure Library 2.0,MDEwOlJlcG9zaXRvcnk4NDg5NjMy
+942,rehex,111,2103,C++,https://github.com/solemnwarning/rehex,Reverse Engineers' Hex Editor,MDEwOlJlcG9zaXRvcnkxMTUwMzU2Mzk=
+943,lean,220,2102,C++,https://github.com/leanprover/lean,Lean Theorem Prover,MDEwOlJlcG9zaXRvcnkxMTQ2MzY3MA==
+944,corona,237,2100,C++,https://github.com/coronalabs/corona,Solar2D Game Engine main repository (ex Corona SDK),MDEwOlJlcG9zaXRvcnkxNjM1MjczNTg=
+945,nana,318,2096,C++,https://github.com/cnjinhao/nana,a modern C++ GUI library,MDEwOlJlcG9zaXRvcnkyOTMwODgx
+946,teeworlds,590,2094,C++,https://github.com/teeworlds/teeworlds,A retro multiplayer shooter,MDEwOlJlcG9zaXRvcnk2OTkwNzI=
+947,WebServer,529,2093,C++,https://github.com/markparticle/WebServer,C++  Linux WebServer服务器,MDEwOlJlcG9zaXRvcnkyNzI0Njc5NDI=
+948,llvm-tutor,264,2089,C++,https://github.com/banach-space/llvm-tutor,A collection of out-of-tree LLVM passes for teaching and learning,MDEwOlJlcG9zaXRvcnkxNzc2NjE1NzQ=
+949,VTK,1074,2089,C++,https://github.com/Kitware/VTK,Mirror of Visualization Toolkit repository,MDEwOlJlcG9zaXRvcnk2MzE2MTU=
+950,sofa-pbrpc,666,2089,C++,https://github.com/baidu/sofa-pbrpc,A light-weight RPC implement of google protobuf RPC framework.,MDEwOlJlcG9zaXRvcnkxODEyOTg5NQ==
+951,botan,505,2088,C++,https://github.com/randombit/botan,Cryptography Toolkit,MDEwOlJlcG9zaXRvcnk4NjA4MjU0
+952,kcws,673,2087,C++,https://github.com/koth/kcws,Deep Learning Chinese Word Segment ,MDEwOlJlcG9zaXRvcnk3NDcxMjcxOQ==
+953,ELF,298,2086,C++,https://github.com/facebookresearch/ELF,"An End-To-End, Lightweight and Flexible Platform for Game Research",MDEwOlJlcG9zaXRvcnk5MzQ1Nzg3NQ==
+954,unetbootin,299,2085,C++,https://github.com/unetbootin/unetbootin,UNetbootin installs Linux/BSD distributions to a partition or USB drive,MDEwOlJlcG9zaXRvcnkyMzkwOTM=
+955,qt-material-widgets,525,2083,C++,https://github.com/laserpants/qt-material-widgets,:art: Qt widgets-based implementation of the Material Design specification.,MDEwOlJlcG9zaXRvcnk1NDE4NzgzNA==
+956,Hardcoder,201,2081,C++,https://github.com/Tencent/Hardcoder,"Hardcoder is a solution which allows Android APP and Android System to communicate with each other directly, solving the problem that Android APP could only use system standard API rather than the hardware resource of system.",MDEwOlJlcG9zaXRvcnkyMTEwMjU3Mjg=
+957,nccl,569,2078,C++,https://github.com/NVIDIA/nccl,Optimized primitives for collective multi-GPU communication,MDEwOlJlcG9zaXRvcnk0NjE1Mzg5Mg==
+958,root,1123,2073,C++,https://github.com/root-project/root,"The official repository for ROOT: analyzing, storing and visualizing big data, scientifically",MDEwOlJlcG9zaXRvcnkxMDk5NDM0NQ==
+959,qmc-decoder,389,2065,C++,https://github.com/Presburger/qmc-decoder,Fastest & best convert qmc 2 mp3 | flac tools,MDEwOlJlcG9zaXRvcnkxODAyODI5NDY=
+960,LiveVideoCoreSDK,620,2062,C++,https://github.com/runner365/LiveVideoCoreSDK,,MDEwOlJlcG9zaXRvcnk1MzAzNzk4Mw==
+961,tinyfecVPN,442,2058,C++,https://github.com/wangyu-/tinyfecVPN,"A VPN Designed for Lossy Links, with Build-in Forward Error Correction(FEC) Support. Improves your Network Quality on a High-latency Lossy Link.",MDEwOlJlcG9zaXRvcnkxMDg2MjM2MjQ=
+962,2048.cpp,306,2058,C++,https://github.com/plibither8/2048.cpp,"🎮 Fully featured terminal version of the game ""2048"" written in C++",MDEwOlJlcG9zaXRvcnkxMjc3MTkzMzE=
+963,lc0,444,2058,C++,https://github.com/LeelaChessZero/lc0,"The rewritten engine, originally for tensorflow. Now all other backends have been ported here.",MDEwOlJlcG9zaXRvcnkxMzU0ODk2OTI=
+964,telegram-bot-api,396,2056,C++,https://github.com/tdlib/telegram-bot-api,Telegram Bot API server ,MDEwOlJlcG9zaXRvcnkzMTAwMTk5MTc=
+965,kactl,556,2054,C++,https://github.com/kth-competitive-programming/kactl,KTH Algorithm Competition Template Library (... eller KTHs AC-tillverkande lapp),MDEwOlJlcG9zaXRvcnk5MjY4Nzg3MA==
+966,ViGEmBus,212,2052,C++,https://github.com/ViGEm/ViGEmBus,Windows kernel-mode driver emulating well-known USB game controllers.,MDEwOlJlcG9zaXRvcnkxMTkyNjQxODU=
+967,snes9x,417,2050,C++,https://github.com/snes9xgit/snes9x,Snes9x - Portable Super Nintendo Entertainment System (TM) emulator,MDEwOlJlcG9zaXRvcnk5Mzg5MDg=
+968,entityx,287,2049,C++,https://github.com/alecthomas/entityx,"EntityX - A fast, type-safe C++ Entity-Component system",MDEwOlJlcG9zaXRvcnk2Mzc3NTY0
+969,pdqsort,96,2048,C++,https://github.com/orlp/pdqsort,Pattern-defeating quicksort.,MDEwOlJlcG9zaXRvcnkzMTE4MDMyMQ==
+970,socket.io-client-cpp,698,2046,C++,https://github.com/socketio/socket.io-client-cpp,C++11 implementation of Socket.IO client,MDEwOlJlcG9zaXRvcnkzMzA4NjAzOQ==
+971,pcm,391,2045,C++,https://github.com/intel/pcm,Intel® Performance Counter Monitor (Intel® PCM),MDEwOlJlcG9zaXRvcnk3MjQyNTg3NQ==
+972,cmake-examples-Chinese,320,2045,C++,https://github.com/SFUMECJF/cmake-examples-Chinese,"快速入门CMake,通过例程学习语法。在线阅读地址：https://sfumecjf.github.io/cmake-examples-Chinese/",MDEwOlJlcG9zaXRvcnkzMDE3MDcyNDk=
+973,AntSimulator,262,2044,C++,https://github.com/johnBuffer/AntSimulator,Simple Ants simulator,MDEwOlJlcG9zaXRvcnkyNTk3NjY5MTk=
+974,rtabmap,708,2042,C++,https://github.com/introlab/rtabmap,RTAB-Map library and standalone application,MDEwOlJlcG9zaXRvcnkyMjg1MDExMA==
+975,obs-multi-rtmp,356,2041,C++,https://github.com/sorayuki/obs-multi-rtmp,OBS ≧ 26.1用複数サイト同時配信プラグイン,MDEwOlJlcG9zaXRvcnkyNTAyMDc4MTA=
+976,tair,621,2038,C++,https://github.com/alibaba/tair,A distributed key-value storage system developed by Alibaba Group,MDEwOlJlcG9zaXRvcnk1OTkxNDM4
+977,sciter-sdk,221,2033,C++,https://github.com/c-smile/sciter-sdk,Sciter is an embeddable HTML/CSS/scripting engine,MDEwOlJlcG9zaXRvcnk0NjM4MTA4Nw==
+978,HexRaysCodeXplorer,365,2031,C++,https://github.com/REhints/HexRaysCodeXplorer,Hex-Rays Decompiler plugin for better code navigation,MDEwOlJlcG9zaXRvcnkxMDQ1ODc1Nw==
+979,bgslibrary,732,2029,C++,https://github.com/andrewssobral/bgslibrary,"A C++ Background Subtraction Library with wrappers for Python, MATLAB, Java and GUI on QT",MDEwOlJlcG9zaXRvcnkxNjg5NDczMw==
+980,griddb,4688,2028,C++,https://github.com/griddb/griddb,"GridDB is a next-generation open source database that makes time series IoT and big data fast,and easy.",MDEwOlJlcG9zaXRvcnk1MjQyMDAwNQ==
+981,nekoray,183,2027,C++,https://github.com/MatsuriDayo/nekoray,Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box),R_kgDOHRj9cw
+982,dso,867,2027,C++,https://github.com/JakobEngel/dso,Direct Sparse Odometry,MDEwOlJlcG9zaXRvcnk3MzI1NjQyMQ==
+983,snap,796,2025,C++,https://github.com/snap-stanford/snap,Stanford Network Analysis Platform (SNAP) is a general purpose network analysis and graph mining library.,MDEwOlJlcG9zaXRvcnk0Mjg4MzU3
+984,googerteller,103,2025,C++,https://github.com/berthubert/googerteller,audible feedback on just how much your browsing feeds into google,R_kgDOH24abQ
+985,openvdb,536,2025,C++,https://github.com/AcademySoftwareFoundation/openvdb,OpenVDB - Sparse volume data structure and tools,MDEwOlJlcG9zaXRvcnk5NDAxMTYx
+986,simbody,463,2022,C++,https://github.com/simbody/simbody,"High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.",MDEwOlJlcG9zaXRvcnkxMjE0Njk2OQ==
+987,grid_map,720,2018,C++,https://github.com/ANYbotics/grid_map,Universal grid map library for mobile robotic mapping,MDEwOlJlcG9zaXRvcnkyMzkyNzk5NA==
+988,SeetaFace2,604,2016,C++,https://github.com/seetafaceengine/SeetaFace2,"SeetaFace 2: open source, full stack face recognization toolkit.",MDEwOlJlcG9zaXRvcnkyMDI4MzA2MTU=
+989,antimony,154,2014,C++,https://github.com/mkeeter/antimony,CAD from a parallel universe,MDEwOlJlcG9zaXRvcnkxNTQ1ODI3OQ==
+990,fheroes2,269,2011,C++,https://github.com/ihhub/fheroes2,fheroes2 is a recreation of Heroes of Might and Magic II game engine.,MDEwOlJlcG9zaXRvcnkyMDU0MDQ5Mzg=
+991,RF24,990,2011,C++,https://github.com/nRF24/RF24,OSI Layer 2 driver for nRF24L01 on Arduino & Raspberry Pi/Linux Devices,MDEwOlJlcG9zaXRvcnkxNzg1NjUwNQ==
+992,appleseed,318,2008,C++,https://github.com/appleseedhq/appleseed,A modern open source rendering engine for animation and visual effects,MDEwOlJlcG9zaXRvcnk3NTM3ODQ=
+993,StreetMap,419,2003,C++,https://github.com/ue4plugins/StreetMap,Import OpenStreetMap data into Unreal Engine 4,MDEwOlJlcG9zaXRvcnk3Nzc2NTA0Mg==
+994,xcbuild,196,2000,C++,https://github.com/facebookarchive/xcbuild,Xcode-compatible build tool.,MDEwOlJlcG9zaXRvcnk0MzAxOTAzMA==
+995,incubator-kvrocks,276,1999,C++,https://github.com/apache/incubator-kvrocks,Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.,MDEwOlJlcG9zaXRvcnkyMDI0ODMzNDg=
+996,QtExamples,537,1996,C++,https://github.com/XMuli/QtExamples,Qt 之 GUI 控件使用 / 网络 / 架构原理 / 运行机制理解；DTK 重绘控件方式的框架解析；IDE 技巧之 Visual Studio / Qt Creator；此为系列文章教程,MDEwOlJlcG9zaXRvcnkyMDI3NTU3OTM=
+997,project64,413,1996,C++,https://github.com/project64/project64,N64 Emulator,MDEwOlJlcG9zaXRvcnkyNjk0MTA4OA==
+998,qt-creator,724,1995,C++,https://github.com/qt-creator/qt-creator,A cross-platform Qt IDE,MDEwOlJlcG9zaXRvcnk5ODgxNjcx
+999,DeepMimic,442,1995,C++,https://github.com/xbpeng/DeepMimic,Motion imitation with deep reinforcement learning.,MDEwOlJlcG9zaXRvcnkxNTMwMjQzNDI=
+1000,SGI-STL,706,1994,C++,https://github.com/steveLauwh/SGI-STL,剖析 STL 是一种享受的过程！,MDEwOlJlcG9zaXRvcnk5NzY5ODU3OA==
